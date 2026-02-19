@@ -309,6 +309,31 @@
         .page { display: none; }
         .page.active { display: block; }
 
+        /* Form Feedback */
+        .form-status {
+            display: none;
+            padding: 18px 24px;
+            border-radius: 10px;
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 24px;
+            font-weight: 500;
+        }
+        .form-status.success {
+            display: block;
+            background: #e8f5e9;
+            border: 2px solid #4caf50;
+            color: #2e7d32;
+        }
+        .form-status.error {
+            display: block;
+            background: #fdecea;
+            border: 2px solid #e53935;
+            color: #c62828;
+        }
+        .submit-button:disabled { opacity: 0.65; cursor: not-allowed; }
+        .hp-field { display: none !important; }
+
         /* Legal Pages */
         .legal-section {
             max-width: 800px;
@@ -567,6 +592,14 @@
             <p>Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
 
             <form id="contactForm">
+                <!-- Status-Meldung -->
+                <div id="formStatus" class="form-status"></div>
+
+                <!-- Honeypot (Bot-Schutz, für Menschen unsichtbar) -->
+                <div class="hp-field">
+                    <input type="text" name="website" tabindex="-1" autocomplete="off">
+                </div>
+
                 <div class="form-group">
                     <label for="name">Name</label>
                     <input type="text" id="name" name="name" required>
@@ -717,10 +750,41 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
+        document.getElementById('contactForm').addEventListener('submit', async function(e) {
             e.preventDefault();
-            alert('Vielen Dank für Ihre Nachricht! Ich melde mich so bald wie möglich bei Ihnen.\n\n(Hinweis: Dies ist eine Demo. In der Live-Version würde die Nachricht tatsächlich versendet.)');
-            this.reset();
+
+            const btn    = this.querySelector('button[type="submit"]');
+            const status = document.getElementById('formStatus');
+
+            // Lade-Zustand
+            btn.disabled    = true;
+            btn.textContent = 'Wird gesendet …';
+            status.className = 'form-status';
+            status.textContent = '';
+
+            try {
+                const res  = await fetch('contact.php', {
+                    method: 'POST',
+                    body:   new FormData(this)
+                });
+                const data = await res.json();
+
+                if (data.success) {
+                    status.className   = 'form-status success';
+                    status.textContent = data.message;
+                    this.reset();
+                } else {
+                    status.className   = 'form-status error';
+                    status.textContent = data.message;
+                }
+            } catch (err) {
+                status.className   = 'form-status error';
+                status.textContent = 'Verbindungsfehler. Bitte prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.';
+            } finally {
+                btn.disabled    = false;
+                btn.textContent = 'Nachricht senden';
+                status.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
         });
 
         // Cookie Banner
