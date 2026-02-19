@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professioneller Kommunikations-Leitfaden für Eltern in Hochkonfliktsituationen nach Trennung. Praktische Strategien, psychologisches Hintergrundwissen.">
+    <title>Hochkonflikt Eltern - Kommunikationsleitfaden für getrennte Eltern</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f3ed 0%, #ebe8df 100%);
+            color: #6b6456;
+            line-height: 1.6;
+        }
+        
+        /* Navigation */
+        nav {
+            background: #ffffff;
+            box-shadow: 0 2px 10px rgba(107, 100, 86, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #6b6456;
+            text-decoration: none;
+        }
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            list-style: none;
+        }
+        .nav-links a {
+            color: #6b6456;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        .nav-links a:hover {
+            color: #c4bcad;
+        }
+        
+        /* Hero Section */
+        .hero {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 80px 40px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 48px;
+            color: #6b6456;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        .hero .subtitle {
+            font-size: 24px;
+            color: #8a8275;
+            margin-bottom: 40px;
+            font-weight: 300;
+        }
+        .hero p {
+            font-size: 18px;
+            color: #8a8275;
+            max-width: 700px;
+            margin: 0 auto 40px;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #d4cec0;
+            color: #ffffff;
+            padding: 18px 40px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(196, 188, 173, 0.3);
+        }
+        .cta-button:hover {
+            background: #c4bcad;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(196, 188, 173, 0.4);
+        }
+        
+        /* Features Section */
+        .features {
+            max-width: 1200px;
+            margin: 80px auto;
+            padding: 0 40px;
+        }
+        .features h2 {
+            text-align: center;
+            font-size: 36px;
+            color: #6b6456;
+            margin-bottom: 60px;
+        }
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        .feature-card {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(107, 100, 86, 0.08);
+            transition: transform 0.3s;
+        }
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+        .feature-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        .feature-card h3 {
+            font-size: 22px;
+            color: #6b6456;
+            margin-bottom: 15px;
+        }
+        .feature-card p {
+            color: #8a8275;
+            line-height: 1.8;
+        }
+        
+        /* About Section */
+        .about-section {
+            max-width: 800px;
+            margin: 80px auto;
+            padding: 60px 40px;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(107, 100, 86, 0.08);
+        }
+        .about-section h2 {
+            font-size: 36px;
+            color: #6b6456;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .about-section p {
+            font-size: 18px;
+            color: #6b6456;
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+        .about-section .highlight {
+            background: #faf9f6;
+            border-left: 4px solid #c4bcad;
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 8px;
+        }
+        
+        /* Contact Form */
+        .contact-section {
+            max-width: 600px;
+            margin: 80px auto;
+            padding: 60px 40px;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(107, 100, 86, 0.08);
+        }
+        .contact-section h2 {
+            font-size: 36px;
+            color: #6b6456;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 25px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #6b6456;
+            font-weight: 500;
+        }
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e8e4dc;
+            border-radius: 8px;
+            font-size: 16px;
+            font-family: inherit;
+            transition: border-color 0.3s;
+        }
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #c4bcad;
+        }
+        .form-group textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+        .submit-button {
+            width: 100%;
+            background: #d4cec0;
+            color: #ffffff;
+            padding: 18px;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .submit-button:hover {
+            background: #c4bcad;
+            transform: translateY(-2px);
+        }
+        .privacy-note {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #8a8275;
+            text-align: center;
+        }
+        
+        /* Footer */
+        footer {
+            background: #6b6456;
+            color: #ffffff;
+            padding: 40px;
+            text-align: center;
+            margin-top: 100px;
+        }
+        footer a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Page Container */
+        .page {
+            display: none;
+        }
+        .page.active {
+            display: block;
+        }
+        
+        /* Mobile */
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 32px; }
+            .hero .subtitle { font-size: 18px; }
+            .nav-container { flex-direction: column; gap: 20px; }
+            .nav-links { flex-direction: column; gap: 15px; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="#" class="logo" onclick="showPage('home')">Hochkonflikt Eltern</a>
+            <ul class="nav-links">
+                <li><a href="#" onclick="showPage('home')">Start</a></li>
+                <li><a href="#" onclick="showPage('guide')">Leitfaden</a></li>
+                <li><a href="#" onclick="showPage('about')">Über mich</a></li>
+                <li><a href="#" onclick="showPage('contact')">Kontakt</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- HOME PAGE -->
+    <div id="home" class="page active">
+        <section class="hero">
+            <h1>Kommunikation in Hochkonfliktsituationen</h1>
+            <p class="subtitle">Der professionelle Leitfaden für getrennte Eltern</p>
+            <p>Praktische Strategien, psychologisches Hintergrundwissen und konkrete Handlungsempfehlungen für friedlichere Kommunikation – auch wenn der andere Elternteil nicht kooperiert.</p>
+            <a href="#" class="cta-button" onclick="showPage('guide')">Zum kostenlosen Leitfaden →</a>
+        </section>
+
+        <section class="features">
+            <h2>Was Sie erwartet</h2>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🧠</div>
+                    <h3>Psychologisches Wissen</h3>
+                    <p>Verstehen Sie die Mechanismen hinter Hochkonflikten: Projektion, DARVO, Gaslighting und wie Sie sich davor schützen.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🗺️</div>
+                    <h3>Interaktiver Entscheidungsbaum</h3>
+                    <p>Für jede Situation die richtige Reaktion finden – mit konkreten Formulierungsvorschlägen und Templates.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📈</div>
+                    <h3>Langfristige Strategie</h3>
+                    <p>Denken Sie in Jahren, nicht in einzelnen Konflikten. Lernen Sie nachhaltige Ansätze für dauerhaften Frieden.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🛡️</div>
+                    <h3>Selbstschutz</h3>
+                    <p>Schützen Sie Ihre emotionale Gesundheit und Energie – mit praktischen Techniken für den Alltag.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3>Forschungsbasiert</h3>
+                    <p>Alle Strategien basieren auf aktueller Familienpsychologie und Konfliktforschung.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">✅</div>
+                    <h3>Praxiserprobt</h3>
+                    <p>Entwickelt aus 9 Jahren realer Erfahrung in einer Hochkonfliktsituation.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="hero" style="margin-top: 60px;">
+            <h2 style="font-size: 32px; margin-bottom: 30px;">Für wen ist dieser Leitfaden?</h2>
+            <div style="text-align: left; max-width: 700px; margin: 0 auto;">
+                <p style="margin-bottom: 15px;">✓ Sie stecken in wiederkehrenden Konflikten mit dem anderen Elternteil</p>
+                <p style="margin-bottom: 15px;">✓ "Normale" Kommunikation funktioniert nicht mehr</p>
+                <p style="margin-bottom: 15px;">✓ Sie fühlen sich manipuliert oder emotional erschöpft</p>
+                <p style="margin-bottom: 15px;">✓ Sie suchen konkrete, umsetzbare Strategien</p>
+                <p style="margin-bottom: 15px;">✓ Sie wollen Ihre Kinder schützen ohne den Konflikt zu verschärfen</p>
+            </div>
+            <a href="#" class="cta-button" onclick="showPage('guide')" style="margin-top: 40px;">Jetzt Leitfaden öffnen</a>
+        </section>
+    </div>
+
+    <!-- GUIDE PAGE -->
+    <div id="guide" class="page">
+        <div style="max-width: 1200px; margin: 40px auto; padding: 40px;">
+            <h1 style="text-align: center; color: #6b6456; margin-bottom: 20px;">Der vollständige Leitfaden</h1>
+            <p style="text-align: center; color: #8a8275; margin-bottom: 40px; font-size: 18px;">Öffnen Sie den Leitfaden direkt im Browser oder laden Sie ihn herunter.</p>
+            
+            <div style="text-align: center; margin-bottom: 40px;">
+                <a href="Kommunikationsleitfaden_Ultimate.html" class="cta-button" style="margin: 10px;">Leitfaden im Browser öffnen</a>
+                <a href="Kommunikationsleitfaden_Ultimate.html" download class="cta-button" style="background: #c4bcad; margin: 10px;">Als HTML herunterladen</a>
+            </div>
+            
+            <div class="about-section" style="margin-top: 60px;">
+                <h2>Was erwartet Sie im Leitfaden?</h2>
+                <div class="highlight">
+                    <h3 style="margin-bottom: 15px;">📚 Umfassendes Hintergrundwissen</h3>
+                    <p>Verstehen Sie die psychologischen Mechanismen von Hochkonflikten und warum "normale" Kommunikation nicht funktioniert.</p>
+                </div>
+                <div class="highlight">
+                    <h3 style="margin-bottom: 15px;">🗺️ Interaktiver Entscheidungsbaum</h3>
+                    <p>Für jede konkrete Situation – von Angriffen über Umgangsverstöße bis Notfälle – die passende Reaktion mit Formulierungsvorschlägen.</p>
+                </div>
+                <div class="highlight">
+                    <h3 style="margin-bottom: 15px;">🔄 Muster erkennen</h3>
+                    <p>Lernen Sie die typischen Hochkonflikt-Muster zu identifizieren und richtig darauf zu reagieren.</p>
+                </div>
+                <div class="highlight">
+                    <h3 style="margin-bottom: 15px;">📈 Langfristige Strategie</h3>
+                    <p>Von Akut-Konflikt bis zu erwachsenen Kindern – was in jeder Phase wichtig ist.</p>
+                </div>
+                <div class="highlight">
+                    <h3 style="margin-bottom: 15px;">🛡️ Selbstschutz</h3>
+                    <p>Praktische Techniken um Ihre emotionale Gesundheit zu schützen und Burnout zu vermeiden.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ABOUT PAGE -->
+    <div id="about" class="page">
+        <div class="about-section">
+            <h2>Über diesen Leitfaden</h2>
+            
+            <p>Dieser Leitfaden entstand aus neun Jahren persönlicher Erfahrung in einer Hochkonfliktsituation. Nicht aus Theorie, sondern aus hunderten realen Situationen, Fehlern, Lernprozessen und schließlich Strategien die funktionieren.</p>
+            
+            <div class="highlight">
+                <h3 style="margin-bottom: 15px; color: #6b6456;">Warum dieser Leitfaden anders ist</h3>
+                <p>Die meisten Ratgeber setzen voraus dass beide Seiten an Deeskalation interessiert sind. In Hochkonfliktsituationen trifft das oft nicht zu. Dieser Leitfaden zeigt <strong>einseitige Deeskalation</strong> – wie Sie den Konflikt reduzieren können, auch wenn der andere Elternteil nicht mitarbeitet.</p>
+            </div>
+            
+            <p>Über die Jahre habe ich gelernt:</p>
+            <ul style="margin-left: 20px; margin-bottom: 20px;">
+                <li>Welche Kommunikationsstrategien in Hochkonflikten wirklich funktionieren</li>
+                <li>Wie man sich gegen Manipulationen und Gaslighting schützt</li>
+                <li>Dass Dokumentation wichtiger ist als Überzeugung</li>
+                <li>Dass langfristige Konstanz wichtiger ist als kurzfristige "Siege"</li>
+                <li>Wie man die eigene emotionale Gesundheit schützt</li>
+            </ul>
+            
+            <div class="highlight">
+                <h3 style="margin-bottom: 15px; color: #6b6456;">Die Entstehung</h3>
+                <p>Dieser Leitfaden wurde 2026 zusammen mit Claude (Anthropic) entwickelt – durch intensive Analyse von realen Kommunikationsmustern, psychologischer Forschung zu Hochkonflikten und praxiserprobten Strategien.</p>
+                <p style="margin-top: 15px;">Das Ergebnis ist ein umfassendes, wissenschaftlich fundiertes Tool das anderen Eltern in ähnlichen Situationen helfen soll.</p>
+            </div>
+            
+            <p><strong>Wichtig:</strong> Dieser Leitfaden ersetzt keine professionelle Beratung oder Therapie. Er ist eine Ergänzung – ein praktisches Werkzeug für den Alltag.</p>
+            
+            <div style="text-align: center; margin-top: 40px;">
+                <a href="#" class="cta-button" onclick="showPage('contact')">Kontakt aufnehmen</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- CONTACT PAGE -->
+    <div id="contact" class="page">
+        <div class="contact-section">
+            <h2>Kontakt</h2>
+            <p style="text-align: center; color: #8a8275; margin-bottom: 30px;">Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
+            
+            <form id="contactForm">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">E-Mail-Adresse</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="subject">Betreff</label>
+                    <input type="text" id="subject" name="subject" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="message">Nachricht</label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
+                
+                <button type="submit" class="submit-button">Nachricht senden</button>
+                
+                <p class="privacy-note">
+                    Ihre Daten werden vertraulich behandelt und nicht an Dritte weitergegeben. 
+                    Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten zum Zweck der Kontaktaufnahme zu.
+                </p>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Hochkonflikt-Eltern.de - Alle Rechte vorbehalten</p>
+        <p style="margin-top: 10px;">
+            <a href="#" onclick="showPage('about')">Über</a> | 
+            <a href="#" onclick="showPage('contact')">Kontakt</a> | 
+            <a href="#">Impressum</a> | 
+            <a href="#">Datenschutz</a>
+        </p>
+    </footer>
+
+    <script>
+        function showPage(pageId) {
+            // Hide all pages
+            document.querySelectorAll('.page').forEach(page => {
+                page.classList.remove('active');
+            });
+            
+            // Show selected page
+            document.getElementById(pageId).classList.add('active');
+            
+            // Scroll to top
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        }
+        
+        // Contact form handling
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form data
+            const formData = {
+                name: document.getElementById('name').value,
+                email: document.getElementById('email').value,
+                subject: document.getElementById('subject').value,
+                message: document.getElementById('message').value
+            };
+            
+            // Here you would normally send to a backend
+            // For now, just show success message
+            alert('Vielen Dank für Ihre Nachricht! Ich melde mich so bald wie möglich bei Ihnen.\n\n(Hinweis: Dies ist eine Demo. In der Live-Version würde die Nachricht tatsächlich versendet.)');
+            
+            // Reset form
+            this.reset();
+        });
+    </script>
+</body>
+</html>
