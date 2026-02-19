@@ -6,14 +6,25 @@
     <meta name="description" content="Professioneller Kommunikations-Leitfaden für Eltern in Hochkonfliktsituationen nach Trennung. Praktische Strategien, psychologisches Hintergrundwissen.">
     <title>Hochkonflikt Eltern - Kommunikationsleitfaden für getrennte Eltern</title>
     <style>
+        :root {
+            --color-primary: #6b6456;
+            --color-secondary: #8a8275;
+            --color-accent: #c4bcad;
+            --color-btn: #d4cec0;
+            --color-border: #e8e4dc;
+            --color-bg-light: #faf9f6;
+            --shadow-card: 0 4px 15px rgba(107, 100, 86, 0.08);
+            --shadow-section: 0 10px 40px rgba(107, 100, 86, 0.08);
+        }
+
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
             background: linear-gradient(135deg, #f5f3ed 0%, #ebe8df 100%);
-            color: #6b6456;
+            color: var(--color-primary);
             line-height: 1.6;
         }
-        
+
         /* Navigation */
         nav {
             background: #ffffff;
@@ -33,7 +44,7 @@
         .logo {
             font-size: 24px;
             font-weight: bold;
-            color: #6b6456;
+            color: var(--color-primary);
             text-decoration: none;
         }
         .nav-links {
@@ -42,15 +53,13 @@
             list-style: none;
         }
         .nav-links a {
-            color: #6b6456;
+            color: var(--color-primary);
             text-decoration: none;
             font-weight: 500;
             transition: color 0.3s;
         }
-        .nav-links a:hover {
-            color: #c4bcad;
-        }
-        
+        .nav-links a:hover { color: var(--color-accent); }
+
         /* Hero Section */
         .hero {
             max-width: 1200px;
@@ -60,25 +69,38 @@
         }
         .hero h1 {
             font-size: 48px;
-            color: #6b6456;
+            color: var(--color-primary);
             margin-bottom: 20px;
             line-height: 1.2;
         }
         .hero .subtitle {
             font-size: 24px;
-            color: #8a8275;
+            color: var(--color-secondary);
             margin-bottom: 40px;
             font-weight: 300;
         }
         .hero p {
             font-size: 18px;
-            color: #8a8275;
+            color: var(--color-secondary);
             max-width: 700px;
             margin: 0 auto 40px;
         }
+        .hero--secondary { margin-top: 60px; }
+        .hero--secondary h2 {
+            font-size: 32px;
+            margin-bottom: 30px;
+        }
+        .checklist {
+            text-align: left;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        .checklist p {
+            margin-bottom: 15px;
+        }
         .cta-button {
             display: inline-block;
-            background: #d4cec0;
+            background: var(--color-btn);
             color: #ffffff;
             padding: 18px 40px;
             border-radius: 10px;
@@ -89,11 +111,14 @@
             box-shadow: 0 4px 15px rgba(196, 188, 173, 0.3);
         }
         .cta-button:hover {
-            background: #c4bcad;
+            background: var(--color-accent);
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(196, 188, 173, 0.4);
         }
-        
+        .cta-button--secondary { background: var(--color-accent); }
+        .cta-mt { margin-top: 40px; }
+        .cta-mx { margin: 10px; }
+
         /* Features Section */
         .features {
             max-width: 1200px;
@@ -103,7 +128,7 @@
         .features h2 {
             text-align: center;
             font-size: 36px;
-            color: #6b6456;
+            color: var(--color-primary);
             margin-bottom: 60px;
         }
         .feature-grid {
@@ -115,26 +140,24 @@
             background: #ffffff;
             padding: 40px;
             border-radius: 15px;
-            box-shadow: 0 4px 15px rgba(107, 100, 86, 0.08);
+            box-shadow: var(--shadow-card);
             transition: transform 0.3s;
         }
-        .feature-card:hover {
-            transform: translateY(-5px);
-        }
+        .feature-card:hover { transform: translateY(-5px); }
         .feature-icon {
             font-size: 48px;
             margin-bottom: 20px;
         }
         .feature-card h3 {
             font-size: 22px;
-            color: #6b6456;
+            color: var(--color-primary);
             margin-bottom: 15px;
         }
         .feature-card p {
-            color: #8a8275;
+            color: var(--color-secondary);
             line-height: 1.8;
         }
-        
+
         /* About Section */
         .about-section {
             max-width: 800px;
@@ -142,28 +165,61 @@
             padding: 60px 40px;
             background: #ffffff;
             border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(107, 100, 86, 0.08);
+            box-shadow: var(--shadow-section);
         }
         .about-section h2 {
             font-size: 36px;
-            color: #6b6456;
+            color: var(--color-primary);
             margin-bottom: 30px;
             text-align: center;
         }
         .about-section p {
             font-size: 18px;
-            color: #6b6456;
+            color: var(--color-primary);
             line-height: 1.8;
             margin-bottom: 20px;
         }
         .about-section .highlight {
-            background: #faf9f6;
-            border-left: 4px solid #c4bcad;
+            background: var(--color-bg-light);
+            border-left: 4px solid var(--color-accent);
             padding: 20px;
             margin: 30px 0;
             border-radius: 8px;
         }
-        
+        .about-section .highlight h3 {
+            margin-bottom: 15px;
+            color: var(--color-primary);
+        }
+        .about-section ul {
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        .text-center { text-align: center; }
+        .mt-40 { margin-top: 40px; }
+
+        /* Guide Page */
+        .guide-wrapper {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 40px;
+        }
+        .guide-wrapper h1 {
+            text-align: center;
+            color: var(--color-primary);
+            margin-bottom: 20px;
+        }
+        .guide-wrapper > p {
+            text-align: center;
+            color: var(--color-secondary);
+            margin-bottom: 40px;
+            font-size: 18px;
+        }
+        .guide-downloads {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .guide-section { margin-top: 60px; }
+
         /* Contact Form */
         .contact-section {
             max-width: 600px;
@@ -171,28 +227,31 @@
             padding: 60px 40px;
             background: #ffffff;
             border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(107, 100, 86, 0.08);
+            box-shadow: var(--shadow-section);
         }
         .contact-section h2 {
             font-size: 36px;
-            color: #6b6456;
+            color: var(--color-primary);
             margin-bottom: 30px;
             text-align: center;
         }
-        .form-group {
-            margin-bottom: 25px;
+        .contact-section > p {
+            text-align: center;
+            color: var(--color-secondary);
+            margin-bottom: 30px;
         }
+        .form-group { margin-bottom: 25px; }
         .form-group label {
             display: block;
             margin-bottom: 8px;
-            color: #6b6456;
+            color: var(--color-primary);
             font-weight: 500;
         }
         .form-group input,
         .form-group textarea {
             width: 100%;
             padding: 15px;
-            border: 2px solid #e8e4dc;
+            border: 2px solid var(--color-border);
             border-radius: 8px;
             font-size: 16px;
             font-family: inherit;
@@ -201,7 +260,7 @@
         .form-group input:focus,
         .form-group textarea:focus {
             outline: none;
-            border-color: #c4bcad;
+            border-color: var(--color-accent);
         }
         .form-group textarea {
             min-height: 150px;
@@ -209,7 +268,7 @@
         }
         .submit-button {
             width: 100%;
-            background: #d4cec0;
+            background: var(--color-btn);
             color: #ffffff;
             padding: 18px;
             border: none;
@@ -220,19 +279,19 @@
             transition: all 0.3s;
         }
         .submit-button:hover {
-            background: #c4bcad;
+            background: var(--color-accent);
             transform: translateY(-2px);
         }
         .privacy-note {
             margin-top: 20px;
             font-size: 14px;
-            color: #8a8275;
+            color: var(--color-secondary);
             text-align: center;
         }
-        
+
         /* Footer */
         footer {
-            background: #6b6456;
+            background: var(--color-primary);
             color: #ffffff;
             padding: 40px;
             text-align: center;
@@ -243,24 +302,117 @@
             text-decoration: none;
             margin: 0 15px;
         }
-        footer a:hover {
-            text-decoration: underline;
-        }
-        
+        footer a:hover { text-decoration: underline; }
+        .footer-links { margin-top: 10px; }
+
         /* Page Container */
-        .page {
-            display: none;
+        .page { display: none; }
+        .page.active { display: block; }
+
+        /* Legal Pages */
+        .legal-section {
+            max-width: 800px;
+            margin: 80px auto;
+            padding: 60px 40px;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: var(--shadow-section);
         }
-        .page.active {
-            display: block;
+        .legal-section h2 {
+            font-size: 36px;
+            color: var(--color-primary);
+            margin-bottom: 30px;
+            text-align: center;
         }
-        
+        .legal-section h3 {
+            font-size: 20px;
+            color: var(--color-primary);
+            margin: 30px 0 10px;
+        }
+        .legal-section p,
+        .legal-section li {
+            font-size: 16px;
+            color: var(--color-primary);
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+        .legal-section ul {
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        .legal-placeholder {
+            background: var(--color-bg-light);
+            border: 2px dashed var(--color-accent);
+            padding: 10px 16px;
+            border-radius: 6px;
+            display: inline-block;
+            color: var(--color-secondary);
+            font-style: italic;
+        }
+
+        /* Cookie Banner */
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #ffffff;
+            border-top: 3px solid var(--color-accent);
+            box-shadow: 0 -4px 20px rgba(107, 100, 86, 0.12);
+            padding: 20px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            z-index: 1000;
+        }
+        .cookie-banner.hidden { display: none; }
+        .cookie-banner p {
+            color: var(--color-primary);
+            font-size: 15px;
+            line-height: 1.6;
+            margin: 0;
+            flex: 1;
+        }
+        .cookie-banner a {
+            color: var(--color-primary);
+            font-weight: 600;
+        }
+        .cookie-actions {
+            display: flex;
+            gap: 12px;
+            flex-shrink: 0;
+        }
+        .cookie-btn {
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: all 0.3s;
+        }
+        .cookie-btn--accept {
+            background: var(--color-btn);
+            color: #ffffff;
+        }
+        .cookie-btn--accept:hover { background: var(--color-accent); }
+        .cookie-btn--decline {
+            background: transparent;
+            color: var(--color-primary);
+            border-color: var(--color-border);
+        }
+        .cookie-btn--decline:hover { border-color: var(--color-accent); }
+
         /* Mobile */
         @media (max-width: 768px) {
             .hero h1 { font-size: 32px; }
             .hero .subtitle { font-size: 18px; }
             .nav-container { flex-direction: column; gap: 20px; }
             .nav-links { flex-direction: column; gap: 15px; text-align: center; }
+            .cookie-banner { flex-direction: column; padding: 20px; }
+            .cookie-actions { width: 100%; }
+            .cookie-btn { flex: 1; text-align: center; }
         }
     </style>
 </head>
@@ -295,31 +447,26 @@
                     <h3>Psychologisches Wissen</h3>
                     <p>Verstehen Sie die Mechanismen hinter Hochkonflikten: Projektion, DARVO, Gaslighting und wie Sie sich davor schützen.</p>
                 </div>
-                
                 <div class="feature-card">
                     <div class="feature-icon">🗺️</div>
                     <h3>Interaktiver Entscheidungsbaum</h3>
                     <p>Für jede Situation die richtige Reaktion finden – mit konkreten Formulierungsvorschlägen und Templates.</p>
                 </div>
-                
                 <div class="feature-card">
                     <div class="feature-icon">📈</div>
                     <h3>Langfristige Strategie</h3>
                     <p>Denken Sie in Jahren, nicht in einzelnen Konflikten. Lernen Sie nachhaltige Ansätze für dauerhaften Frieden.</p>
                 </div>
-                
                 <div class="feature-card">
                     <div class="feature-icon">🛡️</div>
                     <h3>Selbstschutz</h3>
                     <p>Schützen Sie Ihre emotionale Gesundheit und Energie – mit praktischen Techniken für den Alltag.</p>
                 </div>
-                
                 <div class="feature-card">
                     <div class="feature-icon">📚</div>
                     <h3>Forschungsbasiert</h3>
                     <p>Alle Strategien basieren auf aktueller Familienpsychologie und Konfliktforschung.</p>
                 </div>
-                
                 <div class="feature-card">
                     <div class="feature-icon">✅</div>
                     <h3>Praxiserprobt</h3>
@@ -328,50 +475,50 @@
             </div>
         </section>
 
-        <section class="hero" style="margin-top: 60px;">
-            <h2 style="font-size: 32px; margin-bottom: 30px;">Für wen ist dieser Leitfaden?</h2>
-            <div style="text-align: left; max-width: 700px; margin: 0 auto;">
-                <p style="margin-bottom: 15px;">✓ Sie stecken in wiederkehrenden Konflikten mit dem anderen Elternteil</p>
-                <p style="margin-bottom: 15px;">✓ "Normale" Kommunikation funktioniert nicht mehr</p>
-                <p style="margin-bottom: 15px;">✓ Sie fühlen sich manipuliert oder emotional erschöpft</p>
-                <p style="margin-bottom: 15px;">✓ Sie suchen konkrete, umsetzbare Strategien</p>
-                <p style="margin-bottom: 15px;">✓ Sie wollen Ihre Kinder schützen ohne den Konflikt zu verschärfen</p>
+        <section class="hero hero--secondary">
+            <h2>Für wen ist dieser Leitfaden?</h2>
+            <div class="checklist">
+                <p>✓ Sie stecken in wiederkehrenden Konflikten mit dem anderen Elternteil</p>
+                <p>✓ "Normale" Kommunikation funktioniert nicht mehr</p>
+                <p>✓ Sie fühlen sich manipuliert oder emotional erschöpft</p>
+                <p>✓ Sie suchen konkrete, umsetzbare Strategien</p>
+                <p>✓ Sie wollen Ihre Kinder schützen ohne den Konflikt zu verschärfen</p>
             </div>
-            <a href="#" class="cta-button" onclick="showPage('guide')" style="margin-top: 40px;">Jetzt Leitfaden öffnen</a>
+            <a href="#" class="cta-button cta-mt" onclick="showPage('guide')">Jetzt Leitfaden öffnen</a>
         </section>
     </div>
 
     <!-- GUIDE PAGE -->
     <div id="guide" class="page">
-        <div style="max-width: 1200px; margin: 40px auto; padding: 40px;">
-            <h1 style="text-align: center; color: #6b6456; margin-bottom: 20px;">Der vollständige Leitfaden</h1>
-            <p style="text-align: center; color: #8a8275; margin-bottom: 40px; font-size: 18px;">Öffnen Sie den Leitfaden direkt im Browser oder laden Sie ihn herunter.</p>
-            
-            <div style="text-align: center; margin-bottom: 40px;">
-                <a href="Kommunikationsleitfaden_Ultimate.html" class="cta-button" style="margin: 10px;">Leitfaden im Browser öffnen</a>
-                <a href="Kommunikationsleitfaden_Ultimate.html" download class="cta-button" style="background: #c4bcad; margin: 10px;">Als HTML herunterladen</a>
+        <div class="guide-wrapper">
+            <h1>Der vollständige Leitfaden</h1>
+            <p>Öffnen Sie den Leitfaden direkt im Browser oder laden Sie ihn herunter.</p>
+
+            <div class="guide-downloads">
+                <a href="Kommunikationsleitfaden_Ultimate.html" class="cta-button cta-mx">Leitfaden im Browser öffnen</a>
+                <a href="Kommunikationsleitfaden_Ultimate.html" download class="cta-button cta-button--secondary cta-mx">Als HTML herunterladen</a>
             </div>
-            
-            <div class="about-section" style="margin-top: 60px;">
+
+            <div class="about-section guide-section">
                 <h2>Was erwartet Sie im Leitfaden?</h2>
                 <div class="highlight">
-                    <h3 style="margin-bottom: 15px;">📚 Umfassendes Hintergrundwissen</h3>
+                    <h3>📚 Umfassendes Hintergrundwissen</h3>
                     <p>Verstehen Sie die psychologischen Mechanismen von Hochkonflikten und warum "normale" Kommunikation nicht funktioniert.</p>
                 </div>
                 <div class="highlight">
-                    <h3 style="margin-bottom: 15px;">🗺️ Interaktiver Entscheidungsbaum</h3>
+                    <h3>🗺️ Interaktiver Entscheidungsbaum</h3>
                     <p>Für jede konkrete Situation – von Angriffen über Umgangsverstöße bis Notfälle – die passende Reaktion mit Formulierungsvorschlägen.</p>
                 </div>
                 <div class="highlight">
-                    <h3 style="margin-bottom: 15px;">🔄 Muster erkennen</h3>
+                    <h3>🔄 Muster erkennen</h3>
                     <p>Lernen Sie die typischen Hochkonflikt-Muster zu identifizieren und richtig darauf zu reagieren.</p>
                 </div>
                 <div class="highlight">
-                    <h3 style="margin-bottom: 15px;">📈 Langfristige Strategie</h3>
+                    <h3>📈 Langfristige Strategie</h3>
                     <p>Von Akut-Konflikt bis zu erwachsenen Kindern – was in jeder Phase wichtig ist.</p>
                 </div>
                 <div class="highlight">
-                    <h3 style="margin-bottom: 15px;">🛡️ Selbstschutz</h3>
+                    <h3>🛡️ Selbstschutz</h3>
                     <p>Praktische Techniken um Ihre emotionale Gesundheit zu schützen und Burnout zu vermeiden.</p>
                 </div>
             </div>
@@ -382,32 +529,32 @@
     <div id="about" class="page">
         <div class="about-section">
             <h2>Über diesen Leitfaden</h2>
-            
+
             <p>Dieser Leitfaden entstand aus neun Jahren persönlicher Erfahrung in einer Hochkonfliktsituation. Nicht aus Theorie, sondern aus hunderten realen Situationen, Fehlern, Lernprozessen und schließlich Strategien die funktionieren.</p>
-            
+
             <div class="highlight">
-                <h3 style="margin-bottom: 15px; color: #6b6456;">Warum dieser Leitfaden anders ist</h3>
+                <h3>Warum dieser Leitfaden anders ist</h3>
                 <p>Die meisten Ratgeber setzen voraus dass beide Seiten an Deeskalation interessiert sind. In Hochkonfliktsituationen trifft das oft nicht zu. Dieser Leitfaden zeigt <strong>einseitige Deeskalation</strong> – wie Sie den Konflikt reduzieren können, auch wenn der andere Elternteil nicht mitarbeitet.</p>
             </div>
-            
+
             <p>Über die Jahre habe ich gelernt:</p>
-            <ul style="margin-left: 20px; margin-bottom: 20px;">
+            <ul>
                 <li>Welche Kommunikationsstrategien in Hochkonflikten wirklich funktionieren</li>
                 <li>Wie man sich gegen Manipulationen und Gaslighting schützt</li>
                 <li>Dass Dokumentation wichtiger ist als Überzeugung</li>
                 <li>Dass langfristige Konstanz wichtiger ist als kurzfristige "Siege"</li>
                 <li>Wie man die eigene emotionale Gesundheit schützt</li>
             </ul>
-            
+
             <div class="highlight">
-                <h3 style="margin-bottom: 15px; color: #6b6456;">Die Entstehung</h3>
+                <h3>Die Entstehung</h3>
                 <p>Dieser Leitfaden wurde 2026 zusammen mit Claude (Anthropic) entwickelt – durch intensive Analyse von realen Kommunikationsmustern, psychologischer Forschung zu Hochkonflikten und praxiserprobten Strategien.</p>
                 <p style="margin-top: 15px;">Das Ergebnis ist ein umfassendes, wissenschaftlich fundiertes Tool das anderen Eltern in ähnlichen Situationen helfen soll.</p>
             </div>
-            
+
             <p><strong>Wichtig:</strong> Dieser Leitfaden ersetzt keine professionelle Beratung oder Therapie. Er ist eine Ergänzung – ein praktisches Werkzeug für den Alltag.</p>
-            
-            <div style="text-align: center; margin-top: 40px;">
+
+            <div class="text-center mt-40">
                 <a href="#" class="cta-button" onclick="showPage('contact')">Kontakt aufnehmen</a>
             </div>
         </div>
@@ -417,83 +564,176 @@
     <div id="contact" class="page">
         <div class="contact-section">
             <h2>Kontakt</h2>
-            <p style="text-align: center; color: #8a8275; margin-bottom: 30px;">Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
-            
+            <p>Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
+
             <form id="contactForm">
                 <div class="form-group">
                     <label for="name">Name</label>
                     <input type="text" id="name" name="name" required>
                 </div>
-                
                 <div class="form-group">
                     <label for="email">E-Mail-Adresse</label>
                     <input type="email" id="email" name="email" required>
                 </div>
-                
                 <div class="form-group">
                     <label for="subject">Betreff</label>
                     <input type="text" id="subject" name="subject" required>
                 </div>
-                
                 <div class="form-group">
                     <label for="message">Nachricht</label>
                     <textarea id="message" name="message" required></textarea>
                 </div>
-                
                 <button type="submit" class="submit-button">Nachricht senden</button>
-                
                 <p class="privacy-note">
-                    Ihre Daten werden vertraulich behandelt und nicht an Dritte weitergegeben. 
+                    Ihre Daten werden vertraulich behandelt und nicht an Dritte weitergegeben.
                     Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten zum Zweck der Kontaktaufnahme zu.
                 </p>
             </form>
         </div>
     </div>
 
+    <!-- IMPRESSUM PAGE -->
+    <div id="impressum" class="page">
+        <div class="legal-section">
+            <h2>Impressum</h2>
+
+            <h3>Angaben gemäß § 5 TMG</h3>
+            <p>
+                <span class="legal-placeholder">[Vor- und Nachname]</span><br>
+                <span class="legal-placeholder">[Straße und Hausnummer]</span><br>
+                <span class="legal-placeholder">[PLZ Ort]</span>
+            </p>
+
+            <h3>Kontakt</h3>
+            <p>
+                E-Mail: <span class="legal-placeholder">[ihre@email.de]</span>
+            </p>
+
+            <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
+            <p>
+                <span class="legal-placeholder">[Vor- und Nachname]</span><br>
+                <span class="legal-placeholder">[Adresse wie oben]</span>
+            </p>
+
+            <h3>Haftungsausschluss</h3>
+            <p>Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Dieser Leitfaden ersetzt keine professionelle rechtliche oder therapeutische Beratung.</p>
+
+            <h3>Urheberrecht</h3>
+            <p>Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+
+            <div class="text-center mt-40">
+                <a href="#" class="cta-button" onclick="showPage('home')">Zurück zur Startseite</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- DATENSCHUTZ PAGE -->
+    <div id="datenschutz" class="page">
+        <div class="legal-section">
+            <h2>Datenschutzerklärung</h2>
+
+            <h3>1. Verantwortlicher</h3>
+            <p>
+                <span class="legal-placeholder">[Vor- und Nachname]</span><br>
+                <span class="legal-placeholder">[Straße und Hausnummer]</span><br>
+                <span class="legal-placeholder">[PLZ Ort]</span><br>
+                E-Mail: <span class="legal-placeholder">[ihre@email.de]</span>
+            </p>
+
+            <h3>2. Welche Daten werden erhoben?</h3>
+            <p>Diese Website erhebt und verarbeitet folgende personenbezogene Daten:</p>
+            <ul>
+                <li><strong>Kontaktformular:</strong> Name, E-Mail-Adresse, Betreff und Nachrichteninhalt – nur wenn Sie das Formular freiwillig ausfüllen und absenden.</li>
+                <li><strong>Cookies:</strong> Ein technisches Cookie speichert Ihre Cookie-Einwilligung lokal in Ihrem Browser (localStorage). Es werden keine Tracking- oder Werbe-Cookies gesetzt.</li>
+                <li><strong>Server-Logfiles:</strong> Beim Besuch dieser Website können technische Daten (IP-Adresse, Browsertyp, Betriebssystem, Datum und Uhrzeit des Zugriffs) im Server-Protokoll gespeichert werden.</li>
+            </ul>
+
+            <h3>3. Zweck und Rechtsgrundlage der Verarbeitung</h3>
+            <ul>
+                <li>Kontaktformular: Bearbeitung Ihrer Anfrage (Art. 6 Abs. 1 lit. b DSGVO)</li>
+                <li>Cookie-Einwilligung: Speicherung Ihrer Präferenz (Art. 6 Abs. 1 lit. c DSGVO)</li>
+                <li>Server-Logfiles: Berechtigtes Interesse an der Sicherheit und dem Betrieb der Website (Art. 6 Abs. 1 lit. f DSGVO)</li>
+            </ul>
+
+            <h3>4. Cookies</h3>
+            <p>Diese Website verwendet ausschließlich ein technisch notwendiges Cookie (localStorage-Eintrag), um Ihre Cookie-Einwilligung zu speichern. Es werden keine Cookies von Dritten, keine Tracking-Cookies und keine Werbe-Cookies eingesetzt.</p>
+            <p>Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie den Browserspeicher (localStorage) löschen oder in den Browsereinstellungen alle Cookies entfernen.</p>
+
+            <h3>5. Weitergabe von Daten</h3>
+            <p>Ihre Daten werden nicht an Dritte weitergegeben. Eine Übermittlung in Drittländer außerhalb der EU findet nicht statt.</p>
+
+            <h3>6. Speicherdauer</h3>
+            <p>Daten aus dem Kontaktformular werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht. Server-Logfiles werden nach spätestens 7 Tagen automatisch gelöscht.</p>
+
+            <h3>7. Ihre Rechte</h3>
+            <p>Sie haben jederzeit das Recht auf:</p>
+            <ul>
+                <li>Auskunft über Ihre gespeicherten Daten (Art. 15 DSGVO)</li>
+                <li>Berichtigung unrichtiger Daten (Art. 16 DSGVO)</li>
+                <li>Löschung Ihrer Daten (Art. 17 DSGVO)</li>
+                <li>Einschränkung der Verarbeitung (Art. 18 DSGVO)</li>
+                <li>Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)</li>
+                <li>Datenübertragbarkeit (Art. 20 DSGVO)</li>
+            </ul>
+            <p>Zur Ausübung Ihrer Rechte wenden Sie sich an: <span class="legal-placeholder">[ihre@email.de]</span></p>
+            <p>Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde zu beschweren.</p>
+
+            <h3>8. Aktualität dieser Datenschutzerklärung</h3>
+            <p>Stand: Februar 2026. Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen.</p>
+
+            <div class="text-center mt-40">
+                <a href="#" class="cta-button" onclick="showPage('home')">Zurück zur Startseite</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cookie Banner -->
+    <div id="cookieBanner" class="cookie-banner hidden">
+        <p>
+            Diese Website verwendet ein technisches Cookie, um Ihre Datenschutz-Einstellung zu speichern. Es werden keine Tracking- oder Werbe-Cookies eingesetzt.
+            <a href="#" onclick="showPage('datenschutz'); return false;">Mehr erfahren</a>
+        </p>
+        <div class="cookie-actions">
+            <button class="cookie-btn cookie-btn--decline" onclick="setCookieConsent(false)">Nur notwendige</button>
+            <button class="cookie-btn cookie-btn--accept" onclick="setCookieConsent(true)">Akzeptieren</button>
+        </div>
+    </div>
+
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Hochkonflikt-Eltern.de - Alle Rechte vorbehalten</p>
-        <p style="margin-top: 10px;">
-            <a href="#" onclick="showPage('about')">Über</a> | 
-            <a href="#" onclick="showPage('contact')">Kontakt</a> | 
-            <a href="#">Impressum</a> | 
-            <a href="#">Datenschutz</a>
+        <p>&copy; 2026 hochkonflikteltern.de - Alle Rechte vorbehalten</p>
+        <p class="footer-links">
+            <a href="#" onclick="showPage('about')">Über</a> |
+            <a href="#" onclick="showPage('contact')">Kontakt</a> |
+            <a href="#" onclick="showPage('impressum')">Impressum</a> |
+            <a href="#" onclick="showPage('datenschutz')">Datenschutz</a>
         </p>
     </footer>
 
     <script>
         function showPage(pageId) {
-            // Hide all pages
-            document.querySelectorAll('.page').forEach(page => {
-                page.classList.remove('active');
-            });
-            
-            // Show selected page
+            document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
             document.getElementById(pageId).classList.add('active');
-            
-            // Scroll to top
-            window.scrollTo({top: 0, behavior: 'smooth'});
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
-        
-        // Contact form handling
+
         document.getElementById('contactForm').addEventListener('submit', function(e) {
             e.preventDefault();
-            
-            // Get form data
-            const formData = {
-                name: document.getElementById('name').value,
-                email: document.getElementById('email').value,
-                subject: document.getElementById('subject').value,
-                message: document.getElementById('message').value
-            };
-            
-            // Here you would normally send to a backend
-            // For now, just show success message
             alert('Vielen Dank für Ihre Nachricht! Ich melde mich so bald wie möglich bei Ihnen.\n\n(Hinweis: Dies ist eine Demo. In der Live-Version würde die Nachricht tatsächlich versendet.)');
-            
-            // Reset form
             this.reset();
         });
+
+        // Cookie Banner
+        function setCookieConsent(accepted) {
+            localStorage.setItem('cookieConsent', accepted ? 'accepted' : 'declined');
+            document.getElementById('cookieBanner').classList.add('hidden');
+        }
+
+        (function initCookieBanner() {
+            if (!localStorage.getItem('cookieConsent')) {
+                document.getElementById('cookieBanner').classList.remove('hidden');
+            }
+        })();
     </script>
 </body>
 </html>
