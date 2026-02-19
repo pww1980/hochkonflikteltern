@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hochkonflikt-Elternschaft: Der vollständige Leitfaden</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f3ed 0%, #ebe8df 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(107, 100, 86, 0.08);
+        }
+        h1 { color: #6b6456; margin-bottom: 10px; font-size: 32px; }
+        h2 { color: #6b6456; margin: 30px 0 15px 0; font-size: 24px; border-bottom: 2px solid #e8e4dc; padding-bottom: 10px; }
+        h3 { color: #6b6456; margin: 20px 0 10px 0; font-size: 20px; }
+        h4 { color: #8a8275; font-size: 18px; margin: 15px 0 10px 0; }
+        p { color: #6b6456; line-height: 1.8; margin-bottom: 15px; }
+        ul { margin: 15px 0 15px 20px; color: #6b6456; line-height: 1.8; }
+        .subtitle { color: #8a8275; margin-bottom: 30px; font-style: italic; line-height: 1.6; }
+        .intro-box { background: #faf9f6; border-left: 4px solid #c4bcad; padding: 20px; margin-bottom: 30px; border-radius: 8px; color: #6b6456; line-height: 1.8; }
+        .nav-buttons { display: flex; gap: 15px; flex-wrap: wrap; margin: 30px 0; }
+        .nav-button { background: #d4cec0; color: #ffffff; padding: 15px 25px; border: none; border-radius: 10px; cursor: pointer; font-size: 16px; font-weight: 500; transition: all 0.3s ease; flex: 1; min-width: 200px; }
+        .nav-button:hover { background: #c4bcad; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(196, 188, 173, 0.3); }
+        .decision-node { background: #fdfcfa; border-left: 5px solid #d4cec0; padding: 25px; margin: 20px 0; border-radius: 10px; box-shadow: 0 2px 8px rgba(107, 100, 86, 0.05); }
+        .question { font-size: 20px; font-weight: bold; color: #6b6456; margin-bottom: 20px; }
+        .options { display: flex; flex-direction: column; gap: 12px; }
+        .option { background: #ffffff; padding: 18px 24px; border-radius: 8px; cursor: pointer; transition: all 0.3s ease; border: 2px solid #e8e4dc; font-size: 16px; display: flex; align-items: center; color: #6b6456; }
+        .option:hover { border-color: #c4bcad; transform: translateX(5px); box-shadow: 0 3px 10px rgba(196, 188, 173, 0.15); background: #faf9f6; }
+        .option::before { content: '→'; margin-right: 15px; font-weight: bold; color: #c4bcad; font-size: 20px; }
+        .result { background: linear-gradient(135deg, #d4cec0 0%, #c4bcad 100%); color: #ffffff; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 6px 20px rgba(196, 188, 173, 0.2); }
+        .result h3 { font-size: 24px; margin-bottom: 15px; display: flex; align-items: center; }
+        .result h3::before { content: '✓'; margin-right: 12px; background: #ffffff; color: #c4bcad; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+        .result-content { background: rgba(255, 255, 255, 0.15); padding: 20px; border-radius: 10px; margin-top: 15px; line-height: 1.8; }
+        .example { background: rgba(255, 255, 255, 0.25); padding: 15px; border-radius: 8px; margin-top: 15px; font-style: italic; border-left: 3px solid #ffffff; }
+        .warning { background: #fef9f3; border-left: 5px solid #e6d5c3; padding: 20px; border-radius: 8px; margin: 20px 0; color: #6b6456; }
+        .success { background: #f7f9f4; border-left: 5px solid #c4d4b8; padding: 20px; border-radius: 8px; margin: 20px 0; color: #6b6456; }
+        .info { background: #f9f8f5; border-left: 5px solid #d4cec0; padding: 20px; border-radius: 8px; margin: 20px 0; color: #6b6456; }
+        .back-button { background: #c4bcad; color: #ffffff; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; margin-top: 20px; transition: all 0.3s ease; }
+        .back-button:hover { background: #b5ad9e; transform: translateY(-2px); }
+        .hidden { display: none; }
+        .principle-box { background: #faf9f6; border-left: 4px solid #c4bcad; padding: 15px; margin: 15px 0; border-radius: 8px; }
+        .principle-box strong { color: #6b6456; }
+        .context-note { background: #fdfcfa; border: 2px dashed #e8e4dc; padding: 15px; margin: 20px 0; border-radius: 8px; font-size: 14px; color: #8a8275; }
+        .background-section { background: #fdfcfa; padding: 30px; border-radius: 12px; margin: 30px 0; border: 1px solid #e8e4dc; }
+        .mechanism-box { background: #ffffff; border: 2px solid #e8e4dc; border-radius: 10px; padding: 20px; margin: 15px 0; }
+        .research-box { background: #f7f9f4; border-left: 4px solid #c4d4b8; padding: 20px; margin: 20px 0; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📋 Hochkonflikt-Elternschaft: Der vollständige Leitfaden</h1>
+        <p class="subtitle">Psychologisches Hintergrundwissen, praktische Strategien und vollständiger Entscheidungsbaum</p>
+        
+        <div class="intro-box">
+            <strong>Dieser umfassende Leitfaden bietet:</strong><br>
+            • Tiefes Verständnis psychologischer Mechanismen<br>
+            • Vollständigen, interaktiven Entscheidungsbaum für alle Situationen<br>
+            • Langfristige Strategien und Selbstschutz<br>
+            • Wissenschaftlich fundierte Ansätze<br>
+            • Konkrete Templates für jede Kommunikationssituation
+        </div>
+
+        <div id="main-nav">
+            <h2>Navigation</h2>
+            <div class="nav-buttons">
+                <button class="nav-button" onclick="showSection('background')">📚 Hintergrundwissen</button>
+                <button class="nav-button" onclick="showSection('psychology')">🧠 Psychologie</button>
+                <button class="nav-button" onclick="showSection('patterns')">🔄 Muster erkennen</button>
+                <button class="nav-button" onclick="showSection('decision-tree')">🗺️ Entscheidungsbaum (Vollständig)</button>
+                <button class="nav-button" onclick="showSection('long-term')">📈 Langfriststrategie</button>
+                <button class="nav-button" onclick="showSection('self-care')">🛡️ Selbstschutz</button>
+            </div>
+        </div>
+
+        <!-- BACKGROUND SECTION (keeping previous content) -->
+        <div id="background" class="hidden">
+            <h2>📚 Hintergrundwissen</h2>
+            <div class="background-section">
+                <h3>Was ist Hochkonflikt-Elternschaft?</h3>
+                <p>Hochkonflikt-Elternschaft bezeichnet anhaltende, intensive Konflikte zwischen getrennt lebenden Eltern, die trotz Regelungen fortbestehen und alle Beteiligten belasten.</p>
+                <div class="mechanism-box">
+                    <h4>Merkmale:</h4>
+                    <ul>
+                        <li>Andauernde Streitigkeiten trotz Vereinbarungen</li>
+                        <li>Häufige Gerichtsverfahren</li>
+                        <li>Schwierige Alltagsabsprachen</li>
+                        <li>Kinder werden einbezogen</li>
+                        <li>Vergangenes wird wiederholt aufgewärmt</li>
+                    </ul>
+                </div>
+            </div>
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
+        </div>
+
+        <!-- PSYCHOLOGY SECTION -->
+        <div id="psychology" class="hidden">
+            <h2>🧠 Psychologische Mechanismen</h2>
+            <div class="mechanism-box">
+                <h4>1. Projektion</h4>
+                <p>Eigene inakzeptable Verhaltensweisen werden dem anderen zugeschrieben.</p>
+                <p><strong>Beispiel:</strong> Wer selbst Termine nicht einhält, wirft Ihnen Unzuverlässigkeit vor.</p>
+            </div>
+            <div class="mechanism-box">
+                <h4>2. DARVO</h4>
+                <p>Deny (Leugnen) → Attack (Angreifen) → Reverse (Täter-Opfer-Umkehr)</p>
+            </div>
+            <div class="mechanism-box">
+                <h4>3. Gaslighting</h4>
+                <p>Systematisches Anzweifeln Ihrer Wahrnehmung und Ihres Gedächtnisses.</p>
+            </div>
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
+        </div>
+
+        <!-- PATTERNS SECTION -->
+        <div id="patterns" class="hidden">
+            <h2>🔄 Typische Muster erkennen</h2>
+            <div class="mechanism-box">
+                <h4>Themen-Eskalation</h4>
+                <p>Einfache Fragen werden zu großen Konflikten.</p>
+            </div>
+            <div class="mechanism-box">
+                <h4>Verantwortungsverschiebung</h4>
+                <p>Probleme sind immer Schuld des anderen.</p>
+            </div>
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
+        </div>
+
+        <!-- COMPLETE DECISION TREE -->
+        <div id="decision-tree" class="hidden">
+            <h2>🗺️ Vollständiger Entscheidungsbaum</h2>
+            
+            <div id="dt-start" class="decision-node">
+                <div class="question">Was ist Ihre aktuelle Situation?</div>
+                <div class="options">
+                    <div class="option" onclick="showNode('dt-received')">Ich habe eine Nachricht erhalten</div>
+                    <div class="option" onclick="showNode('dt-send')">Ich muss etwas mitteilen</div>
+                    <div class="option" onclick="showNode('dt-violation')">Verstoß gegen Vereinbarungen</div>
+                    <div class="option" onclick="showNode('dt-emergency')">Notfall / Dringend</div>
+                </div>
+            </div>
+
+            <!-- PATH 1: Received Message -->
+            <div id="dt-received" class="decision-node hidden">
+                <div class="question">Welche Art von Nachricht haben Sie erhalten?</div>
+                <div class="options">
+                    <div class="option" onclick="showNode('dt-attack')">Angriff / Vorwurf / Schuldzuweisung</div>
+                    <div class="option" onclick="showNode('dt-info')">Sachliche Information</div>
+                    <div class="option" onclick="showNode('dt-question')">Frage oder Diskussion</div>
+                    <div class="option" onclick="showNode('dt-change')">Änderungsanfrage</div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+            </div>
+
+            <div id="dt-attack" class="result hidden">
+                <h3>EMPFEHLUNG: In 90% der Fälle nicht antworten</h3>
+                <div class="result-content">
+                    <p><strong>Grundregel:</strong> Vorwürfe und Angriffe benötigen keine Antwort.</p>
+                    <div class="principle-box">
+                        <strong>Warum nicht?</strong><br>
+                        • Jede Verteidigung verstärkt den Konflikt<br>
+                        • Sie geraten in reaktive Position<br>
+                        • Emotionale Trigger werden aktiviert<br>
+                        • Schweigen signalisiert Souveränität
+                    </div>
+                    <p><strong>Nur antworten wenn:</strong> Ein faktisch falscher Sachverhalt dokumentarisch korrigiert werden muss.</p>
+                    <div class="example">
+                        "Zur Klarstellung: [Ein Fakt in einem Satz].<br><br>Mit freundlichen Grüßen"
+                    </div>
+                    <div class="warning">
+                        <strong>⚠️ NIEMALS:</strong><br>
+                        • Rechtfertigungen<br>
+                        • Emotionale Aussagen<br>
+                        • Gegenvorwürfe<br>
+                        • Lange Erklärungen
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+            </div>
+
+            <div id="dt-info" class="result hidden">
+                <h3>EMPFEHLUNG: Kurze Bestätigung</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Vielen Dank für die Information.<br>
+                        [Optional: Gute Besserung / Zur Kenntnis]<br><br>
+                        Mit freundlichen Grüßen"
+                    </div>
+                    <div class="principle-box">
+                        <strong>Drei-Satz-Maximum</strong><br>
+                        Keine Ratschläge. Keine Nachfragen. Keine Kritik.
+                    </div>
+                    <div class="info">
+                        <strong>Timing:</strong> 24-48h Antwortzeit zeigt Verlässlichkeit ohne Dringlichkeit.
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+            </div>
+
+            <div id="dt-question" class="result hidden">
+                <h3>ENTSCHEIDUNG: Sachfrage oder Diskussionsköder?</h3>
+                <div class="result-content">
+                    <p><strong>Echte Sachfrage:</strong> Konkrete Details, Termine, Informationen</p>
+                    <div class="success">→ Kurz beantworten (max. 3 Sätze)</div>
+                    
+                    <p style="margin-top: 20px;"><strong>Diskussionsversuch:</strong> "Warum...", "Findest Du nicht..."</p>
+                    <div class="warning">→ NICHT beantworten. Das ist ein Köder.</div>
+                    
+                    <div class="example" style="background: rgba(255,255,255,0.3);">
+                        <strong>Sachfrage:</strong> "Wann bringst Du [Kind] zurück?"<br>
+                        <strong>Antwort:</strong> "Um 17 Uhr laut Vereinbarung. MfG"<br><br>
+                        <strong>Köder:</strong> "Warum bestehst Du auf diesen Zeiten?"<br>
+                        <strong>Antwort:</strong> Keine.
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+            </div>
+
+            <div id="dt-change" class="result hidden">
+                <h3>EMPFEHLUNG: Verweis auf offizielle Stellen</h3>
+                <div class="result-content">
+                    <div class="principle-box">
+                        <strong>Keine Verhandlungen per Nachricht.</strong><br>
+                        Alle Änderungen über Erziehungsberatung oder Gericht.
+                    </div>
+                    <div class="example">
+                        "Änderungen der Vereinbarung besprechen wir bei [Beratungsstelle / Termin].<br><br>MfG"
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Bei einmaligen Ausnahmen:</strong></p>
+                    <div class="example">
+                        "Für diese Ausnahme: [Ja/Nein mit kurzem Grund].<br>
+                        Für strukturelle Änderungen: Termin bei [Stelle].<br><br>MfG"
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+            </div>
+
+            <!-- PATH 2: Need to Send -->
+            <div id="dt-send" class="decision-node hidden">
+                <div class="question">Was müssen Sie mitteilen?</div>
+                <div class="options">
+                    <div class="option" onclick="showNode('dt-appointment')">Termin / Organisatorisches</div>
+                    <div class="option" onclick="showNode('dt-request-info')">Ich benötige Information</div>
+                    <div class="option" onclick="showNode('dt-request-docs')">Ich benötige Dokumente</div>
+                    <div class="option" onclick="showNode('dt-clarify')">Sachverhalt klarstellen</div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+            </div>
+
+            <div id="dt-appointment" class="result hidden">
+                <h3>TEMPLATE: Sachliche Mitteilung</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Am [Datum] um [Uhrzeit] findet [Termin] statt.<br><br>Mit freundlichen Grüßen"
+                    </div>
+                    <div class="principle-box">
+                        <strong>Keine Fragen einbauen:</strong><br>
+                        ❌ "Passt Dir das?"<br>
+                        ❌ "Könntest Du...?"<br>
+                        ✓ Einfach mitteilen. Punkt.
+                    </div>
+                    <div class="info">
+                        <strong>Vorlaufzeit:</strong><br>
+                        • Routine: 7 Tage<br>
+                        • Arzt: 2-3 Tage<br>
+                        • Notfall: Sofort
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+            </div>
+
+            <div id="dt-request-info" class="result hidden">
+                <h3>TEMPLATE: Information anfordern</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Ich benötige [konkrete Information] für [Zweck].<br>
+                        Laut [Sorgerecht/Vereinbarung] habe ich Anspruch darauf.<br><br>
+                        Bitte bis [Datum].<br><br>
+                        Mit freundlichen Grüßen"
+                    </div>
+                    <div class="principle-box">
+                        <strong>Drei Elemente:</strong><br>
+                        1. Was Sie benötigen<br>
+                        2. Rechtliche Grundlage<br>
+                        3. Klare Frist
+                    </div>
+                    <div class="warning">
+                        <strong>Falls keine Antwort:</strong><br>
+                        Keine Erinnerung. Keine zweite Anfrage.<br>
+                        → Direkt zur Quelle (Schule, Arzt, Jugendamt)
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+            </div>
+
+            <div id="dt-request-docs" class="result hidden">
+                <h3>TEMPLATE: Dokumente anfordern</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Laut [Vereinbarung] sind [Dokumente] bei Umgangsterminen mitzugeben.<br><br>
+                        Bitte stellen Sie sicher dass diese beim nächsten Termin dabei sind.<br><br>
+                        MfG"
+                    </div>
+                    <div class="info">
+                        <strong>Bei wiederholtem Fehlen:</strong><br>
+                        Nach 2-3 Wochen → Dokumente selbst beschaffen
+                    </div>
+                    <div class="success">
+                        Kosten dokumentieren und ggf. beim Jugendamt/Gericht vorlegen
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+            </div>
+
+            <div id="dt-clarify" class="result hidden">
+                <h3>TEMPLATE: Sachliche Richtigstellung</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Zur Klarstellung: [Ein Fakt in einem Satz].<br><br>Mit freundlichen Grüßen"
+                    </div>
+                    <div class="principle-box">
+                        <strong>Ein Fakt. Ein Satz. Fertig.</strong><br>
+                        Keine Begründungen, keine Emotionen.
+                    </div>
+                    <div class="warning">
+                        Nur klarstellen wenn dokumentarisch relevant für Jugendamt/Gericht.
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+            </div>
+
+            <!-- PATH 3: Violations -->
+            <div id="dt-violation" class="decision-node hidden">
+                <div class="question">Welche Art von Verstoß?</div>
+                <div class="options">
+                    <div class="option" onclick="showNode('dt-viol-access')">Umgangsverweigerung</div>
+                    <div class="option" onclick="showNode('dt-viol-docs')">Dokumente nicht mitgegeben</div>
+                    <div class="option" onclick="showNode('dt-viol-info')">Information verweigert</div>
+                    <div class="option" onclick="showNode('dt-viol-decision')">Entscheidung ohne Absprache</div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+            </div>
+
+            <div id="dt-viol-access" class="result hidden">
+                <h3>VORGEHEN: Dokumentieren & Eskalieren</h3>
+                <div class="result-content">
+                    <p><strong>Schritt 1: An den anderen Elternteil (einmalig):</strong></p>
+                    <div class="example">
+                        "Am [Datum] war laut [Vereinbarung] meine Umgangszeit. Der Umgang hat nicht stattgefunden.<br><br>
+                        Bitte halten Sie sich an die Vereinbarung.<br><br>MfG"
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Schritt 2: An Jugendamt:</strong></p>
+                    <div class="example">
+                        "Sehr geehrte Damen und Herren,<br><br>
+                        ich dokumentiere: Am [Datum] war laut Punkt [X] meine Umgangszeit. [Kurze Sachdarstellung].<br><br>
+                        Bitte um Dokumentation.<br><br>MfG"
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Schritt 3: Bei Wiederholung:</strong></p>
+                    <div class="warning">
+                        → Ordnungsmittelantrag beim Familiengericht (§89 FamFG)<br>
+                        → Rechtsberatung einholen
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+            </div>
+
+            <div id="dt-viol-docs" class="result hidden">
+                <h3>VORGEHEN: Auffordern, warten, selbst handeln</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Laut [Vereinbarung] sind [Dokumente] mitzugeben. Bitte beim nächsten Termin dabei haben. MfG"
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Nach 2 Wochen ohne Besserung:</strong></p>
+                    <div class="success">
+                        1. Dokumente selbst beschaffen<br>
+                        2. Kurze Info: "Dokumente waren erneut nicht dabei. Ich habe Ersatz beantragt."<br>
+                        3. Kosten und Zeitaufwand dokumentieren
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+            </div>
+
+            <div id="dt-viol-info" class="result hidden">
+                <h3>VORGEHEN: Direkt zur Quelle</h3>
+                <div class="result-content">
+                    <div class="example">
+                        "Ich benötige [Information]. Als Sorgeberechtigter habe ich Anspruch darauf. Bitte bis [Datum]. MfG"
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Falls keine Antwort:</strong></p>
+                    <div class="success">
+                        Keine zweite Anfrage.<br>
+                        → Direkt zur Quelle: Schule, Arzt, Klinik<br>
+                        → Jugendamt informieren
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+            </div>
+
+            <div id="dt-viol-decision" class="result hidden">
+                <h3>VORGEHEN: Nach Gewicht unterscheiden</h3>
+                <div class="result-content">
+                    <p><strong>Wichtige Entscheidungen (Gesundheit, Schule, Wohnort):</strong></p>
+                    <div class="warning">
+                        → Schriftlicher Widerspruch<br>
+                        → Dokumentation Jugendamt<br>
+                        → Bei Blockade: §1628 BGB Antrag
+                    </div>
+                    <p style="margin-top: 20px;"><strong>Alltägliche Entscheidungen (Kleidung, Hobbys):</strong></p>
+                    <div class="success">
+                        → Nicht eingreifen<br>
+                        → Fokus auf wichtige Themen
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+            </div>
+
+            <!-- PATH 4: Emergency -->
+            <div id="dt-emergency" class="result hidden">
+                <h3>NOTFALL-KOMMUNIKATION</h3>
+                <div class="result-content">
+                    <div class="warning">
+                        <strong>Sofort und direkt informieren:</strong><br><br>
+                        "[Kind] [Situation]. Ich bin/war [Ort]. [Status]. Weitere Info folgt."
+                    </div>
+                    <div class="principle-box">
+                        <strong>Reihenfolge:</strong><br>
+                        1. Handeln (Notruf, Krankenhaus)<br>
+                        2. Informieren (Fakten)<br>
+                        3. Dokumentieren (später)<br>
+                        4. Diskussion (viel später oder nie)
+                    </div>
+                </div>
+                <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+            </div>
+
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück zur Hauptnavigation</button>
+        </div>
+
+        <!-- LONG-TERM SECTION -->
+        <div id="long-term" class="hidden">
+            <h2>📈 Langfristige Strategie</h2>
+            <div class="mechanism-box">
+                <h4>Phase 1: Akut-Konflikt (0-12 Monate)</h4>
+                <p>Hohe Emotionalität, instabile Regelungen.</p>
+                <p><strong>Fokus:</strong> Selbstschutz, klare Regelungen, Dokumentation beginnen.</p>
+            </div>
+            <div class="mechanism-box">
+                <h4>Phase 2: Chronifizierung (1-3 Jahre)</h4>
+                <p>Muster stabilisieren sich.</p>
+                <p><strong>Fokus:</strong> Konsistente Strategie, Kinder stärken, eigene Lebensqualität.</p>
+            </div>
+            <div class="research-box">
+                <strong>5-Jahres-Perspektive:</strong> Fragen Sie sich: "Wird das in 5 Jahren wichtig sein?"
+            </div>
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
+        </div>
+
+        <!-- SELF-CARE SECTION -->
+        <div id="self-care" class="hidden">
+            <h2>🛡️ Selbstschutz</h2>
+            <div class="mechanism-box">
+                <h4>1. Emotionale Grenzen setzen</h4>
+                <ul>
+                    <li>Feste Zeiten für Kommunikation</li>
+                    <li>48h-Regel für Antworten</li>
+                    <li>Gedankenstopp-Technik</li>
+                </ul>
+            </div>
+            <div class="mechanism-box">
+                <h4>2. Unterstützungssystem nutzen</h4>
+                <ul>
+                    <li>Eigene Therapie</li>
+                    <li>Hochkonflikt-geschulte Berater</li>
+                    <li>Selbsthilfegruppen</li>
+                </ul>
+            </div>
+            <div class="warning">
+                <strong>⚠️ Warnsignale:</strong> Schlafstörungen, sozialer Rückzug, Erschöpfung → Professionelle Hilfe holen!
+            </div>
+            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
+        </div>
+
+    </div>
+
+    <script>
+        function showSection(sectionId) {
+            ['main-nav', 'background', 'psychology', 'patterns', 'decision-tree', 'long-term', 'self-care'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.classList.add('hidden');
+            });
+            const target = document.getElementById(sectionId);
+            if (target) {
+                target.classList.remove('hidden');
+                window.scrollTo({top: 0, behavior: 'smooth'});
+            }
+        }
+
+        function showNode(nodeId) {
+            document.querySelectorAll('#decision-tree .decision-node, #decision-tree .result').forEach(n => {
+                n.classList.add('hidden');
+            });
+            const target = document.getElementById(nodeId);
+            if (target) {
+                target.classList.remove('hidden');
+                window.scrollTo({top: 0, behavior: 'smooth'});
+            }
+        }
+
+        window.onload = () => showSection('main-nav');
+    </script>
+</body>
+</html>
