@@ -310,6 +310,295 @@
         .page { display: none; }
         .page.active { display: block; }
 
+        /* Meetings Page */
+        .meetings-wrapper {
+            max-width: 860px;
+            margin: 80px auto;
+            padding: 0 30px 80px;
+        }
+        .meetings-wrapper > h1 {
+            font-size: 36px;
+            color: var(--color-primary);
+            text-align: center;
+            margin-bottom: 12px;
+        }
+        .meetings-intro {
+            text-align: center;
+            color: var(--color-secondary);
+            font-size: 17px;
+            line-height: 1.7;
+            max-width: 680px;
+            margin: 0 auto 50px;
+        }
+        .meetings-section {
+            margin-bottom: 52px;
+        }
+        .meetings-section-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--color-primary);
+            padding: 10px 0 10px 16px;
+            border-left: 4px solid var(--color-accent);
+            margin-bottom: 24px;
+        }
+        .inst-tabs {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 24px;
+        }
+        .inst-tab {
+            padding: 10px 22px;
+            border-radius: 30px;
+            border: 2px solid #ddd;
+            background: #fff;
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--color-secondary);
+            cursor: pointer;
+            transition: all .2s;
+        }
+        .inst-tab.active, .inst-tab:hover {
+            border-color: var(--color-accent);
+            background: var(--color-accent);
+            color: #fff;
+        }
+        .inst-panel { display: none; }
+        .inst-panel.active { display: block; }
+        .info-box, .tip-box, .warn-box, .ok-box {
+            border-radius: 12px;
+            padding: 18px 22px;
+            margin-bottom: 16px;
+            font-size: 15px;
+            line-height: 1.65;
+        }
+        .info-box { background: #e8f4fd; border-left: 4px solid #1976d2; color: #1a3a4a; }
+        .tip-box  { background: #f0f7f0; border-left: 4px solid #388e3c; color: #1b3a1c; }
+        .warn-box { background: #fff8e1; border-left: 4px solid #f57c00; color: #4a2f00; }
+        .ok-box   { background: #f3e5f5; border-left: 4px solid #7b1fa2; color: #2d0a40; }
+        .box-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: .05em;
+        }
+        .check-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+        @media (max-width: 650px) { .check-grid { grid-template-columns: 1fr; } }
+        .check-card {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: var(--shadow-section);
+            padding: 20px;
+        }
+        .check-card h4 {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--color-primary);
+            margin-bottom: 12px;
+        }
+        .check-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .check-list li {
+            display: flex;
+            gap: 10px;
+            align-items: flex-start;
+            font-size: 14px;
+            color: var(--color-primary);
+            line-height: 1.5;
+        }
+        .check-list li::before {
+            content: "☐";
+            flex-shrink: 0;
+            font-size: 16px;
+            margin-top: -1px;
+            color: var(--color-accent);
+        }
+        .do-dont {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 620px) { .do-dont { grid-template-columns: 1fr; } }
+        .do-col { background: #f0f7f0; border-radius: 12px; padding: 20px; }
+        .dont-col { background: #fff3f3; border-radius: 12px; padding: 20px; }
+        .do-col h4 { color: #2e7d32; font-size: 16px; margin-bottom: 12px; }
+        .dont-col h4 { color: #c62828; font-size: 16px; margin-bottom: 12px; }
+        .do-col ul, .dont-col ul {
+            margin: 0;
+            padding-left: 18px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .do-col li, .dont-col li { font-size: 14px; line-height: 1.55; }
+        .script-box {
+            background: #f8f9fa;
+            border-radius: 10px;
+            border: 1px solid #e0e0e0;
+            padding: 16px 20px;
+            font-style: italic;
+            color: #37474f;
+            font-size: 14px;
+            line-height: 1.65;
+            margin-top: 10px;
+        }
+        .script-box::before {
+            content: "💬 Formulierungshilfe";
+            display: block;
+            font-style: normal;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: .06em;
+            color: #90a4ae;
+            margin-bottom: 8px;
+        }
+        .meetings-guide-cta {
+            background: var(--color-bg-light);
+            border-radius: 16px;
+            padding: 36px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .meetings-guide-cta h3 { font-size: 20px; color: var(--color-primary); margin-bottom: 10px; }
+        .meetings-guide-cta p { color: var(--color-secondary); margin-bottom: 20px; font-size: 15px; }
+
+        /* Patterns Page */
+        .patterns-wrapper {
+            max-width: 960px;
+            margin: 80px auto;
+            padding: 0 30px 80px;
+        }
+        .patterns-wrapper > h1 {
+            font-size: 36px;
+            color: var(--color-primary);
+            text-align: center;
+            margin-bottom: 12px;
+        }
+        .patterns-intro {
+            text-align: center;
+            color: var(--color-secondary);
+            font-size: 17px;
+            line-height: 1.7;
+            max-width: 680px;
+            margin: 0 auto 60px;
+        }
+        .pattern-category {
+            margin-bottom: 60px;
+        }
+        .pattern-category-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--color-primary);
+            padding: 10px 0 10px 16px;
+            border-left: 4px solid var(--color-accent);
+            margin-bottom: 24px;
+        }
+        .pattern-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 700px) { .pattern-grid { grid-template-columns: 1fr; } }
+        .pattern-card {
+            background: #fff;
+            border-radius: 14px;
+            box-shadow: var(--shadow-section);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .pattern-name {
+            font-size: 17px;
+            font-weight: 700;
+            color: var(--color-primary);
+        }
+        .pattern-desc {
+            font-size: 14px;
+            color: var(--color-secondary);
+            line-height: 1.65;
+        }
+        .pattern-counter {
+            background: #f0f7f0;
+            border-radius: 8px;
+            padding: 14px 16px;
+            margin-top: auto;
+        }
+        .pattern-counter h4 {
+            font-size: 13px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: .04em;
+            color: #2e7d32;
+            margin-bottom: 8px;
+        }
+        .pattern-counter ul {
+            margin: 0;
+            padding-left: 18px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .pattern-counter li {
+            font-size: 13px;
+            color: var(--color-primary);
+            line-height: 1.55;
+        }
+        .patterns-guide-cta {
+            background: var(--color-bg-light);
+            border-radius: 16px;
+            padding: 36px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .patterns-guide-cta h3 {
+            font-size: 20px;
+            color: var(--color-primary);
+            margin-bottom: 10px;
+        }
+        .patterns-guide-cta p {
+            color: var(--color-secondary);
+            margin-bottom: 20px;
+            font-size: 15px;
+        }
+
+        /* Form Feedback */
+        .form-status {
+            display: none;
+            padding: 18px 24px;
+            border-radius: 10px;
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 24px;
+            font-weight: 500;
+        }
+        .form-status.success {
+            display: block;
+            background: #e8f5e9;
+            border: 2px solid #4caf50;
+            color: #2e7d32;
+        }
+        .form-status.error {
+            display: block;
+            background: #fdecea;
+            border: 2px solid #e53935;
+            color: #c62828;
+        }
+        .submit-button:disabled { opacity: 0.65; cursor: not-allowed; }
+        .hp-field { display: none !important; }
+
         /* Legal Pages */
         .legal-section {
             max-width: 800px;
@@ -425,6 +714,8 @@
             <ul class="nav-links">
                 <li><a href="#" onclick="showPage('home')">Start</a></li>
                 <li><a href="#" onclick="showPage('guide')">Leitfaden</a></li>
+                <li><a href="#" onclick="showPage('patterns')">Muster</a></li>
+                <li><a href="#" onclick="showPage('meetings')">Gespräche</a></li>
                 <li><a href="#" onclick="showPage('about')">Über mich</a></li>
                 <li><a href="#" onclick="showPage('contact')">Kontakt</a></li>
             </ul>
@@ -443,10 +734,10 @@
         <section class="features">
             <h2>Was Sie erwartet</h2>
             <div class="feature-grid">
-                <div class="feature-card">
+                <div class="feature-card" onclick="showPage('patterns')" style="cursor:pointer;">
                     <div class="feature-icon">🧠</div>
-                    <h3>Psychologisches Wissen</h3>
-                    <p>Verstehen Sie die Mechanismen hinter Hochkonflikten: Projektion, DARVO, Gaslighting und wie Sie sich davor schützen.</p>
+                    <h3>Muster erkennen</h3>
+                    <p>25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Hub-and-Spoke und systemischem Missbrauch, jeweils mit Gegenstrategie.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">🗺️</div>
@@ -561,6 +852,707 @@
         </div>
     </div>
 
+    <!-- MEETINGS PAGE -->
+    <div id="meetings" class="page">
+        <div class="meetings-wrapper">
+            <h1>Gespräche vorbereiten</h1>
+            <p class="meetings-intro">Termine beim Jugendamt, in der Mediation oder Erziehungsberatung mit dem anderen Elternteil sind besonders herausfordernd. Wer vorbereitet geht, schützt sich – und wirkt glaubwürdig. Diese Seite hilft Ihnen, die richtigen Worte und die richtige Haltung zu finden.</p>
+
+            <!-- ── 1. Vorbereitung ────────────────────────── -->
+            <div class="meetings-section">
+                <div class="meetings-section-title">📋 Vorbereitung</div>
+
+                <div class="warn-box">
+                    <div class="box-title">⚠️ Wichtig vorab</div>
+                    In Hochkonflikt-Situationen wird <em>alles</em>, was Sie sagen, möglicherweise gegen Sie verwendet. Vorbereitung ist kein Nice-to-have – sie ist Selbstschutz.
+                </div>
+
+                <div class="check-grid">
+                    <div class="check-card">
+                        <h4>Unterlagen &amp; Dokumentation</h4>
+                        <ul class="check-list">
+                            <li>Chronologie der relevanten Ereignisse (kompakt, 1 Seite)</li>
+                            <li>Schriftliche Vereinbarungen, Gerichtsbeschlüsse, Beschlüsse</li>
+                            <li>Dokumentation von Umgangsverstößen (Datum, Uhrzeit, was genau)</li>
+                            <li>Screenshots relevanter Nachrichten (ausgedruckt mit Datum)</li>
+                            <li>Kontaktdaten von Zeugen, Ärzten, Lehrern falls relevant</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Ziele &amp; Strategie</h4>
+                        <ul class="check-list">
+                            <li>Max. 3 konkrete Punkte definieren, die Sie ansprechen wollen</li>
+                            <li>Priorität: Was ist wirklich wichtig – was kann warten?</li>
+                            <li>Erwartung realistisch setzen: kein Ergebnis erzwingbar</li>
+                            <li>Eigene rote Linien kennen: Was akzeptieren Sie, was nicht?</li>
+                            <li>Mögliche Provokationen antizipieren und Antworten vorbereiten</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Emotionale Vorbereitung</h4>
+                        <ul class="check-list">
+                            <li>Genug Schlaf, keine anderen Stresstermine direkt davor</li>
+                            <li>Vertrauensperson vorher kurz sprechen (Entlastung)</li>
+                            <li>Ruhige Anfahrt einplanen – nicht gehetzt ankommen</li>
+                            <li>Essen und trinken nicht vergessen</li>
+                            <li>Mantra vorbereiten: „Ich muss nicht gewinnen, ich muss sachlich bleiben."</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Beistand mitnehmen?</h4>
+                        <ul class="check-list">
+                            <li>Beim Jugendamt haben Sie das Recht auf Beistand (§ 17 SGB I)</li>
+                            <li>Beistand kann sein: Anwalt, Vertrauensperson, Beratungsstelle</li>
+                            <li>Ankündigen: Jugendamt vorab informieren, wer mitkommt</li>
+                            <li>Bei Mediation: vorab fragen ob Beistand erlaubt ist</li>
+                            <li>Bei Erziehungsberatung: meistens möglich, aber nachfragen</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ── 2. Je Institution ──────────────────────── -->
+            <div class="meetings-section">
+                <div class="meetings-section-title">🏛️ Je nach Institution</div>
+
+                <div class="inst-tabs">
+                    <button class="inst-tab active" onclick="showInst('jugendamt', this)">Jugendamt (ASD)</button>
+                    <button class="inst-tab" onclick="showInst('mediation', this)">Mediation</button>
+                    <button class="inst-tab" onclick="showInst('beratung', this)">Erziehungsberatung</button>
+                </div>
+
+                <!-- Jugendamt -->
+                <div id="inst-jugendamt" class="inst-panel active">
+                    <div class="info-box">
+                        <div class="box-title">ℹ️ Was das Jugendamt tut</div>
+                        Der ASD (Allgemeiner Sozialer Dienst) ist keine Polizei und kein Gericht. Seine Aufgabe ist <strong>Unterstützung von Familien und Schutz des Kindeswohls</strong>. Sachbearbeiter schreiben Berichte, die an das Familiengericht gehen können – wie Sie sich im Gespräch zeigen, fließt darin ein.
+                    </div>
+                    <div class="tip-box">
+                        <div class="box-title">✅ Was gut ankommt</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Fokus auf das Kind, nicht auf den Konflikt mit dem anderen Elternteil</li>
+                            <li>Konkrete Sorgen benennen: Was hat das Kind erlebt? Was braucht es?</li>
+                            <li>Kooperationsbereitschaft signalisieren – auch wenn es schwer fällt</li>
+                            <li>Sachlich und ruhig bleiben, auch wenn der andere Elternteil eskaliert</li>
+                            <li>Nachfragen: „Was empfehlen Sie als nächsten Schritt?"</li>
+                        </ul>
+                    </div>
+                    <div class="warn-box">
+                        <div class="box-title">⚠️ Was schadet</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Den anderen Elternteil schlecht reden – wirkt wie Konfliktverstärkung</li>
+                            <li>Zu viele Papiere mitbringen und „präsentieren" – überwältigend und misstrauisch machend</li>
+                            <li>Emotionale Ausbrüche oder sichtbare Wut</li>
+                            <li>Das Jugendamt als Verbündeten einspannen wollen</li>
+                            <li>Falsche oder übertriebene Angaben – das fällt auf</li>
+                        </ul>
+                    </div>
+                    <div class="tip-box">
+                        <div class="box-title">📌 Besonderheiten beim Jugendamt</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Sie können auch <strong>allein</strong> einen Termin beim Jugendamt anfragen – ohne den anderen Elternteil</li>
+                            <li>Jugendamtsmitarbeiter sind oft überlastet: kommen Sie auf den Punkt</li>
+                            <li>Sie können nach einer schriftlichen Zusammenfassung des Gesprächs fragen</li>
+                            <li>Das Jugendamt kann bei anhaltenden Problemen <strong>Hilfen zur Erziehung</strong> (HzE) vorschlagen – das ist keine Niederlage</li>
+                            <li>Im Notfall (akute Gefährdung): § 8a SGB VIII – direkt ansprechen</li>
+                        </ul>
+                    </div>
+                    <div class="script-box">„Mir ist wichtig, dass [Kind] diese schwierige Zeit gut übersteht. Ich bin bereit, daran mitzuarbeiten. Konkret habe ich folgende Sorge: [eine Sache, sachlich]. Was würden Sie empfehlen?"</div>
+                </div>
+
+                <!-- Mediation -->
+                <div id="inst-mediation" class="inst-panel">
+                    <div class="warn-box">
+                        <div class="box-title">⚠️ Wann Mediation nicht geeignet ist</div>
+                        Mediation funktioniert nur bei <strong>grundsätzlicher Kooperationsbereitschaft beider Seiten</strong>. Bei echter Hochkonflikt-Persönlichkeit, häuslicher Gewalt oder stark asymmetrischer Machtdynamik kann Mediation sogar schaden – der andere Elternteil sammelt Informationen, signalisiert Kooperation ohne sie zu leben, und nutzt den Rahmen zur weiteren Manipulation.
+                    </div>
+                    <div class="info-box">
+                        <div class="box-title">ℹ️ Was Mediation ist – und was nicht</div>
+                        Mediation ist ein freiwilliger, vertraulicher Prozess. Der Mediator ist <strong>neutral</strong> – er ergreift keine Partei. Er moderiert, schlägt aber keine Lösungen vor. Getroffene Vereinbarungen sind zunächst nicht rechtlich bindend, können aber notariell beurkundet werden.
+                    </div>
+                    <div class="tip-box">
+                        <div class="box-title">✅ Tipps für die Mediation</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Fokus auf <strong>Interessen</strong>, nicht auf Positionen: Was brauche ich wirklich – warum?</li>
+                            <li>Den Mediator nicht überzeugen wollen – er ist kein Richter</li>
+                            <li>Pausen nutzen wenn es emotional wird – aktiv darum bitten</li>
+                            <li>Vereinbarungen nur abschließen die Sie wirklich mittragen</li>
+                            <li>Ergebnisse immer schriftlich festhalten, ggf. notariell beurkunden lassen</li>
+                        </ul>
+                    </div>
+                    <div class="warn-box">
+                        <div class="box-title">🔍 Achtung: Hochkonflikt in der Mediation</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Der andere Elternteil kann Mediation nutzen um Zeit zu gewinnen</li>
+                            <li>Alles was Sie preisgeben kann später gegen Sie verwendet werden</li>
+                            <li>Scheinvereinbarungen: Zustimmung im Sitzungsraum, keine Umsetzung danach</li>
+                            <li>Sie können Mediation jederzeit abbrechen – ohne Begründung</li>
+                            <li>Ggf. Co-Mediation mit eigenem Anwalt als Beistand klären</li>
+                        </ul>
+                    </div>
+                    <div class="script-box">„Ich möchte eine Lösung finden, die für [Kind] gut ist. Mein Interesse ist [konkret]. Ich bin offen für Vorschläge – möchte aber jede Vereinbarung schriftlich festhalten."</div>
+                </div>
+
+                <!-- Erziehungsberatung -->
+                <div id="inst-beratung" class="inst-panel">
+                    <div class="info-box">
+                        <div class="box-title">ℹ️ Was Erziehungsberatung ist</div>
+                        Erziehungsberatungsstellen (Caritas, Diakonie, AWO, kommunale Träger) sind <strong>kostenlos, freiwillig und vertraulich</strong>. Sie sind keine Entscheidungsinstanz – sie helfen bei der Kommunikation und unterstützen Kinder in Trennungssituationen. Berater sind <strong>nicht verpflichtet</strong>, Berichte ans Gericht zu liefern (außer bei Kindeswohlgefährdung).
+                    </div>
+                    <div class="tip-box">
+                        <div class="box-title">✅ Wie gemeinsame Beratung gelingt</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Das Kind in den Mittelpunkt stellen: Was braucht es gerade?</li>
+                            <li>Bereit sein, eigenes Verhalten zu reflektieren – auch unbequemes</li>
+                            <li>Berater nicht als Schiedsrichter nutzen wollen</li>
+                            <li>Konkrete Themen nennen: Übergaben, Kommunikation, besondere Anlässe</li>
+                            <li>Ergebnisse aus den Sitzungen selbst schriftlich festhalten</li>
+                        </ul>
+                    </div>
+                    <div class="ok-box">
+                        <div class="box-title">💡 Auch ohne den anderen Elternteil</div>
+                        Sie können Erziehungsberatung auch <strong>allein</strong> in Anspruch nehmen – das ist sogar oft sinnvoller. Einzelberatung stärkt Ihre eigene Handlungsfähigkeit und ist vollständig vertraulich. Viele Stellen bieten auch Kinderberatung an, damit das Kind einen eigenen Raum bekommt.
+                    </div>
+                    <div class="warn-box">
+                        <div class="box-title">⚠️ Grenzen der gemeinsamen Beratung</div>
+                        <ul style="margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;">
+                            <li>Bei schwerem Hochkonflikt kann gemeinsame Beratung eskalieren statt deeskalieren</li>
+                            <li>Berater können nicht erzwingen, dass der andere Elternteil mitarbeitet</li>
+                            <li>Keine Rechtskraft: Vereinbarungen aus Beratungsgesprächen sind nicht vollstreckbar</li>
+                        </ul>
+                    </div>
+                    <div class="script-box">„Ich komme hierher, weil mir [Kind] am Herzen liegt. Ich möchte lernen, wie wir als Eltern besser kommunizieren können – unabhängig davon, wie schwierig das gerade ist."</div>
+                </div>
+            </div>
+
+            <!-- ── 3. Im Gespräch ─────────────────────────── -->
+            <div class="meetings-section">
+                <div class="meetings-section-title">🗣️ Im Gespräch</div>
+
+                <div class="check-grid">
+                    <div class="check-card">
+                        <h4>Kommunikationstechniken</h4>
+                        <ul class="check-list">
+                            <li>Sprechen Sie die Fachkraft an, nicht den anderen Elternteil</li>
+                            <li>Ich-Botschaften: „Ich mache mir Sorgen, dass …" statt „Er/Sie macht …"</li>
+                            <li>Konkret und datiert: „Am 14.01 war die Übergabe zwei Stunden später als vereinbart."</li>
+                            <li>Pause einfordern wenn nötig: „Ich brauche kurz einen Moment."</li>
+                            <li>Nachfragen statt annehmen: „Habe ich das richtig verstanden, dass …?"</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Bei Provokationen</h4>
+                        <ul class="check-list">
+                            <li>Kurze Pause – atmen – dann erst sprechen</li>
+                            <li>Nicht verteidigen, nicht erklären: Angriff kommentarlos stehen lassen</li>
+                            <li>An die Fachkraft wenden: „Kann ich auf das Thema X zurückkommen?"</li>
+                            <li>Bei falschen Aussagen: ruhig korrigieren, nicht empört</li>
+                            <li>DARVO erkennen: nicht auf die Umkehrung einsteigen</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Sprache &amp; Haltung</h4>
+                        <ul class="check-list">
+                            <li>Kein Schimpfen, keine Ironie, kein Augenrollen</li>
+                            <li>Kooperative Formulierungen: „Ich wäre bereit …", „Ich schlage vor …"</li>
+                            <li>Das Kind beim Namen nennen – nicht „das Kind"</li>
+                            <li>Lösungsorientiert klingen, auch bei schwierigen Themen</li>
+                            <li>Zum Abschluss: nächste Schritte konkret ansprechen</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Notizen &amp; Protokoll</h4>
+                        <ul class="check-list">
+                            <li>Kurznotizen während des Gesprächs erlaubt und klug</li>
+                            <li>Am Ende: schriftliche Zusammenfassung erbitten</li>
+                            <li>Wenn keine Zusammenfassung: eigene Protokollnotiz ankündigen</li>
+                            <li>Audioaufnahmen nur mit Zustimmung aller – vorher fragen</li>
+                            <li>Nach dem Gespräch sofort eigene Notiz erstellen (Datum, Anwesende, Inhalte)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ── 4. Do / Don't ─────────────────────────── -->
+            <div class="meetings-section">
+                <div class="meetings-section-title">✅ Do &amp; Don't</div>
+                <div class="do-dont">
+                    <div class="do-col">
+                        <h4>✅ Das hilft Ihrer Glaubwürdigkeit</h4>
+                        <ul>
+                            <li>Sachlich, ruhig und lösungsorientiert auftreten</li>
+                            <li>Das Wohl des Kindes explizit benennen</li>
+                            <li>Eigene Fehler eingestehen können (wenn berechtigt)</li>
+                            <li>Konkrete Beispiele statt pauschale Vorwürfe</li>
+                            <li>Kooperationswillen signalisieren</li>
+                            <li>Pünktlich, vorbereitet und gepflegt erscheinen</li>
+                            <li>Auf Angriffe gelassen reagieren</li>
+                        </ul>
+                    </div>
+                    <div class="dont-col">
+                        <h4>❌ Das schadet Ihrer Glaubwürdigkeit</h4>
+                        <ul>
+                            <li>Den anderen Elternteil emotional angreifen oder abwerten</li>
+                            <li>Übertriebene oder nicht belegbare Vorwürfe</li>
+                            <li>Fachkraft überzeugen wollen, dass Sie „Recht haben"</li>
+                            <li>Mit Papieren überhäufen statt auf den Punkt kommen</li>
+                            <li>Weinend oder zornig in den Termin gehen</li>
+                            <li>Das Kind als Argument einsetzen</li>
+                            <li>Ultimaten stellen oder Drohungen aussprechen</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ── 5. Nachbereitung ───────────────────────── -->
+            <div class="meetings-section">
+                <div class="meetings-section-title">📝 Nachbereitung</div>
+
+                <div class="tip-box">
+                    <div class="box-title">✅ Sofort nach dem Gespräch</div>
+                    Schreiben Sie noch am gleichen Tag eine eigene Gesprächsnotiz: Datum, Uhrzeit, Anwesende, wichtigste Aussagen, vereinbarte nächste Schritte. Das ist keine Paranoia – das ist Professionalität.
+                </div>
+
+                <div class="check-grid">
+                    <div class="check-card">
+                        <h4>Protokoll &amp; Bestätigung</h4>
+                        <ul class="check-list">
+                            <li>Per E-Mail eine schriftliche Zusammenfassung an die Fachkraft schicken: „Ich fasse unser Gespräch vom [Datum] zusammen …"</li>
+                            <li>Formulierung: „Bitte korrigieren Sie mich, wenn ich etwas falsch verstanden habe."</li>
+                            <li>So entsteht ein schriftlicher Beleg ohne offizielles Protokoll</li>
+                            <li>Vereinbarungen explizit benennen und auf Bestätigung warten</li>
+                        </ul>
+                    </div>
+                    <div class="check-card">
+                        <h4>Nächste Schritte</h4>
+                        <ul class="check-list">
+                            <li>Was wurde vereinbart? Von wem bis wann?</li>
+                            <li>Folgetermin direkt im Gespräch vereinbaren</li>
+                            <li>Anwalt informieren wenn rechtlich relevante Aussagen gefallen sind</li>
+                            <li>Eigene Reaktion und Befinden kurz notieren (für Selbstfürsorge)</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="script-box">E-Mail-Vorlage: „Sehr geehrte/r [Name], vielen Dank für das heutige Gespräch. Ich fasse die für mich wesentlichen Punkte zusammen: [Punkt 1]. [Punkt 2]. Als nächste Schritte haben wir vereinbart: [Schritt]. Bitte teilen Sie mir mit, wenn Sie etwas anders verstanden haben. Mit freundlichen Grüßen, [Ihr Name]"</div>
+            </div>
+
+            <!-- CTA -->
+            <div class="meetings-guide-cta">
+                <h3>Vorbereitet – und dann?</h3>
+                <p>Den richtigen Ton für jede Kommunikationssituation finden Sie im Leitfaden – mit konkreten Formulierungen für schwierige Nachrichten, Eskalationen und Notfälle.</p>
+                <a href="#" class="cta-button" onclick="showPage('guide')">Zum Kommunikationsleitfaden →</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- PATTERNS PAGE -->
+    <div id="patterns" class="page">
+        <div class="patterns-wrapper">
+            <h1>Muster erkennen</h1>
+            <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="#" onclick="showPage('guide')">Leitfaden</a>.</p>
+
+            <!-- ── 1. Kommunikation ───────────────────────── -->
+            <div class="pattern-category">
+                <div class="pattern-category-title">🗣️ Kommunikationsmuster</div>
+                <div class="pattern-grid">
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">DARVO</div>
+                        <p class="pattern-desc">Deny – Attack – Reverse Victim and Offender. Auf eine berechtigte Kritik wird erst geleugnet, dann der Angreifer attackiert, und schließlich die Opferrolle umgekehrt: „Du bist das Problem, nicht ich."</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Beim ursprünglichen Sachverhalt bleiben, nicht auf den Gegenangriff eingehen.</li>
+                                <li>Eigene Aussagen und Reaktionen dokumentieren (Datum, Uhrzeit, Wortlaut).</li>
+                                <li>Kurze Antwort: „Ich bleibe bei meiner Aussage vom [Datum]."</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Gaslighting</div>
+                        <p class="pattern-desc">Systematisches Anzweifeln der eigenen Wahrnehmung. „Das habe ich nie gesagt.", „Du übertreibst.", „Du bist zu empfindlich." – bis die Realität des anderen echte Unsicherheit erzeugt.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Eigene Wahrnehmungen zeitnah schriftlich festhalten (Tagebuch, Notiz-App).</li>
+                                <li>Vertrauenspersonen als externe Realitätsprüfung nutzen.</li>
+                                <li>Nicht versuchen, die andere Person zu überzeugen – Energie sparen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Projektion</div>
+                        <p class="pattern-desc">Eigene Verhaltensweisen oder Absichten werden dem anderen zugeschrieben: „Du manipulierst die Kinder!" – während genau das selbst getan wird.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Kurz quittieren ohne zuzustimmen: „Ich sehe das anders."</li>
+                                <li>Keine lange Diskussion – Projektion lässt sich selten rational auflösen.</li>
+                                <li>Eigenes Verhalten konsequent dokumentieren als Gegenbeweis.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">JADE-Falle</div>
+                        <p class="pattern-desc">Justify – Argue – Defend – Explain. Je mehr man sich erklärt und rechtfertigt, desto mehr Angriffsfläche bietet man. Erklärungen werden als Schuldgeständnis oder Schwäche interpretiert.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Kurze, neutrale Antworten – „Nein." ist ein vollständiger Satz.</li>
+                                <li>Graue-Fels-Methode: uninteressant, unaufgeregt, unbeeindruckt reagieren.</li>
+                                <li>Keine Begründungen für eigene Entscheidungen liefern.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Moving the Goalposts</div>
+                        <p class="pattern-desc">Sobald eine Forderung erfüllt ist, taucht die nächste auf. Vereinbarungen werden nachträglich anders ausgelegt oder neue Bedingungen gestellt – es gibt nie einen „guten Abschluss".</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Alle Absprachen schriftlich fixieren (E-Mail, Co-Parenting-App).</li>
+                                <li>Bei Änderungswunsch auf das Originaldokument verweisen: „Unsere Vereinbarung vom [Datum] lautet …"</li>
+                                <li>Keine mündlichen Nachverhandlungen – nur schriftlich.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Word Salad</div>
+                        <p class="pattern-desc">Verwirrende, widersprüchliche oder ausschweifende Nachrichten ohne klaren Inhalt. Ziel ist emotionale Erschöpfung und das Provozieren einer unüberlegten Reaktion.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Nur auf konkrete, eindeutige Fragen und Forderungen antworten.</li>
+                                <li>Den Rest der Nachricht ignorieren – er muss nicht kommentiert werden.</li>
+                                <li>Nachrichten gesammelt lesen, nicht sofort reagieren.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Silent Treatment / Stonewalling</div>
+                        <p class="pattern-desc">Totale Kommunikationsverweigerung als Machtmittel – strategisch, nicht weil man nichts zu sagen hätte. Ziel: den anderen zu Zugeständnissen zu zwingen oder ihn zu destabilisieren.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Wichtige Informationen schriftlich senden – damit sie zugestellt und dokumentiert sind.</li>
+                                <li>Nicht eskalieren, um eine Reaktion zu erzwingen.</li>
+                                <li>Im Streitfall: „Nachricht gesendet am [Datum], keine Antwort erhalten."</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Themen-Eskalation</div>
+                        <p class="pattern-desc">Eine sachliche Nachricht zu Thema A wird beantwortet mit Vorwürfen zu Thema B, C und D. Der ursprüngliche Sachverhalt geht im Chaos unter – ein häufiges Muster in Hochkonflikten.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Beim eigenen Thema bleiben: „Ich beantworte diesen Punkt. Zu anderen Themen bitte eine separate Nachricht."</li>
+                                <li>Scope creep aktiv begrenzen, nicht mitschwingen.</li>
+                                <li>Nebenpunkte unkommentiert lassen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Verantwortungsverschiebung</div>
+                        <p class="pattern-desc">Eigene Handlungen oder Versäumnisse werden systematisch dem anderen angelastet. Nie ist man selbst schuld – immer ist die Reaktion des anderen der eigentliche Auslöser.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Nicht in die Defensive gehen oder Schuld anerkennen.</li>
+                                <li>Sachlich das eigene Handeln dokumentieren: „Ich habe [X] getan, das ist schriftlich belegt."</li>
+                                <li>Keine gemeinsame Ursachenforschung – das führt selten irgendwohin.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Future Faking</div>
+                        <p class="pattern-desc">Versprechen, die nie eingehalten werden – Urlaube, Absprachen, Übergabezeiten. Kurzfristig beruhigend, langfristig erschöpfend. Kinder sind häufig die eigentlichen Leidtragenden.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Keine Planung mehr auf Basis von Versprechen – erst handeln wenn Zusagen schriftlich sind.</li>
+                                <li>Kinder vor Enttäuschungen schützen: Erwartungen bewusst niedrig halten.</li>
+                                <li>Nichteinhaltung ruhig dokumentieren ohne Vorwurf.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ── 2. Soziale Manipulation ────────────────── -->
+            <div class="pattern-category">
+                <div class="pattern-category-title">🕸️ Soziale Manipulation</div>
+                <div class="pattern-grid">
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Hub and Spoke</div>
+                        <p class="pattern-desc">Der Hochkonflikt-Elternteil positioniert sich als unverzichtbares Zentrum: Schule, Arzt, Behörden, Großeltern – alle sollen nur über ihn kommunizieren. Der andere Elternteil wird aktiv aus allen Kanälen ausgeschlossen und wirkt dadurch passiv oder desinteressiert.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Direkt und schriftlich bei Schule, Arzt etc. als gleichberechtigter Elternteil einfordern (§ 1627 BGB: Auskunftsrecht für beide Eltern).</li>
+                                <li>Institutionen erklären dass gemeinsames Sorgerecht besteht.</li>
+                                <li>Schriftlich bestätigen lassen, dass man in den Verteiler aufgenommen wurde.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Flying Monkeys</div>
+                        <p class="pattern-desc">Dritte werden rekrutiert, um Druck auszuüben, Informationen zu sammeln oder Botschaften zu überbringen – oft ohne dass diese merken, dass sie instrumentalisiert werden.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Dritten gegenüber freundlich, aber zurückhaltend mit Informationen bleiben.</li>
+                                <li>Den „Boten" nicht als Feind behandeln – er ist oft selbst manipuliert.</li>
+                                <li>Sachverhalte direkt klären, nicht über Dritte.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Smear Campaign</div>
+                        <p class="pattern-desc">Systematisches Verbreiten negativer Narrative über den anderen Elternteil – im Freundeskreis, bei der Schule, beim Jugendamt, bei Ärzten. Ziel: soziale Isolation und Vertrauensverlust.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Nicht öffentlich kontern – das verstärkt den Konflikt und bestätigt das Narrativ.</li>
+                                <li>Wichtige Institutionen (Schule, Arzt) direkt und sachlich informieren.</li>
+                                <li>Das eigene Handeln konsistent halten – es spricht langfristig für sich.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Triangulation</div>
+                        <p class="pattern-desc">Kommunikation läuft über Dritte statt direkt – über das Kind, neue Partner, Anwälte, Großeltern. Informationen werden dabei gefiltert, verzögert oder verändert weitergegeben.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Direkten schriftlichen Kommunikationsweg bestehen.</li>
+                                <li>„Bitte sprechen Sie mich direkt an, nicht über [Person]."</li>
+                                <li>Kind konsequent aus der Kommunikationsrolle herausnehmen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Hoovering</div>
+                        <p class="pattern-desc">Plötzlich positives, kooperatives oder sogar freundliches Verhalten – nach einer Eskalationsphase. Ziel: Verwirrung stiften, Hoffnung wecken, die andere Person zur Senkung der Schutzmaßnahmen bringen.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Positive Phasen als Teil des Musters erkennen, nicht als echte Veränderung werten.</li>
+                                <li>Trotzdem sachlich und neutral bleiben – weder kälter noch wärmer reagieren.</li>
+                                <li>Schutzmaßnahmen (Dokumentation, schriftliche Kommunikation) beibehalten.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ── 3. Kinder ──────────────────────────────── -->
+            <div class="pattern-category">
+                <div class="pattern-category-title">👦 Instrumentalisierung der Kinder</div>
+                <div class="pattern-grid">
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Alienation</div>
+                        <p class="pattern-desc">Aktives Untergraben der Beziehung des Kindes zum anderen Elternteil – durch negative Kommentare, Lügen, Einschränkung von Kontakt oder das Erzeugen von Angst und Ablehnung.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Eigene Beziehung durch Verlässlichkeit und Konstanz stärken – Versprechen halten.</li>
+                                <li>Nie schlecht über den anderen Elternteil reden, auch wenn provoziert.</li>
+                                <li>Spezifische Aussagen des Kindes dokumentieren, die auf Beeinflussung hindeuten.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Parentifizierung</div>
+                        <p class="pattern-desc">Kinder werden in Erwachsenenrollen gedrängt – als emotionale Stütze, Vertraute oder Informationsquelle. Sie tragen Verantwortung, die nicht ihrer Entwicklungsstufe entspricht.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Klar und regelmäßig: „Das ist nichts, worüber du dir Sorgen machen musst – das ist Erwachsenensache."</li>
+                                <li>Dem Kind die Kindrolle aktiv zurückgeben.</li>
+                                <li>Bei Auffälligkeiten Schulpsychologen oder Kinderpsychotherapeuten einbeziehen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Kinder als Boten &amp; Informanten</div>
+                        <p class="pattern-desc">Das Kind muss Nachrichten, Forderungen oder Dokumente überbringen – oder wird befragt, was beim anderen Elternteil passiert. Beides erzeugt massiven Loyalitätsdruck.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>„Das ist nichts für dich. Ich spreche das direkt mit Mama/Papa."</li>
+                                <li>Kind entlasten: „Du musst das nicht wissen und auch nicht weitersagen."</li>
+                                <li>Eigene Kommunikation konsequent direkt führen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Loyalitätskonflikte erzwingen</div>
+                        <p class="pattern-desc">Situationen werden bewusst so gestaltet, dass das Kind sich zwischen den Elternteilen entscheiden muss. Das Kind leidet darunter unabhängig davon, wie es sich entscheidet.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Dem Kind explizit erlauben, beide Elternteile zu lieben.</li>
+                                <li>Klare Botschaft: „Ich möchte nicht, dass du dich entscheiden musst."</li>
+                                <li>Nie negative Aussagen über den anderen im Beisein des Kindes.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ── 4. Eskalation ─────────────────────────── -->
+            <div class="pattern-category">
+                <div class="pattern-category-title">⚡ Eskalationsmuster</div>
+                <div class="pattern-grid">
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Intermittent Reinforcement</div>
+                        <p class="pattern-desc">Abwechslung zwischen harten Strafen und unerwarteten positiven Momenten. Dieses Wechselbad schafft emotionale Abhängigkeit – dasselbe psychologische Prinzip wie bei Glücksspielen.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Das Muster als Muster erkennen und benennen – für sich selbst.</li>
+                                <li>Auf positive Phasen nicht überschwänglich reagieren, auf negative nicht zusammenbrechen.</li>
+                                <li>Konstanz in der eigenen Haltung als Gegengewicht.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Emotional Flooding</div>
+                        <p class="pattern-desc">Überwältigende Mengen an Nachrichten, Anrufen, Vorwürfen in kurzer Zeit. Ziel: den anderen zu überfordern, eine unüberlegte Reaktion zu provozieren oder einfach zu erschöpfen.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>24-Stunden-Regel: nicht sofort antworten.</li>
+                                <li>Nachrichten gesammelt lesen, nicht einzeln – das reduziert die emotionale Wirkung.</li>
+                                <li>Feste Kommunikationszeiten einführen (z.B. nur per E-Mail, einmal täglich).</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Mikromanagement-Angriffe</div>
+                        <p class="pattern-desc">Jede Kleinigkeit wird zum Konfliktthema: Kleidung, Ernährung, Schlafenszeit, Hausaufgaben. Nichts ist gut genug. Ziel ist nicht Verbesserung, sondern dauerhafte Kontrolle und Beschäftigung.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Graue-Fels-Methode: kurze, neutrale Antworten ohne Emotionen.</li>
+                                <li>Bei klarer Rechtslage einfach umsetzen ohne Diskussion.</li>
+                                <li>Keine langen Begründungen für Alltagsentscheidungen liefern.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Eskalation vor besonderen Ereignissen</div>
+                        <p class="pattern-desc">Gezielte Konflikte kurz vor Weihnachten, Geburtstagen, Schulanfang oder Urlaub. Das Muster ist selten zufällig – besondere Momente sollen vergiftet oder sabotiert werden.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Muster im Kalender markieren – wann eskaliert es erfahrungsgemäß?</li>
+                                <li>Wichtige Absprachen 2–3 Wochen vorher schriftlich fixieren.</li>
+                                <li>In Hochphasen besondere Gelassenheit einplanen und Erwartungen anpassen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ── 5. Systemischer Missbrauch ─────────────── -->
+            <div class="pattern-category">
+                <div class="pattern-category-title">⚖️ Systemischer Missbrauch</div>
+                <div class="pattern-grid">
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Weaponizing the Legal System</div>
+                        <p class="pattern-desc">Übermäßige Anträge, ASD-Meldungen, Strafanzeigen und Klagen als Zermürbungsstrategie. Nicht das Recht, sondern der Prozess selbst ist die Waffe – Zeit, Geld und Nerven sollen erschöpft werden.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Alle Meldungen und Anträge chronologisch dokumentieren.</li>
+                                <li>Anwalt über die Häufung informieren – kann als Schikane (§ 240 StGB) gewertet werden.</li>
+                                <li>Ruhe bewahren: viele dieser Anträge verlaufen ohne Konsequenz.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Falsche Anschuldigungen</div>
+                        <p class="pattern-desc">Gezielte Falschaussagen bei Gericht, Jugendamt oder Polizei. Oft ohne jede Grundlage, aber wirkungsvoll – Behörden müssen jede Meldung ernst nehmen.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Sofort und sachlich reagieren – Schweigen kann als Bestätigung interpretiert werden.</li>
+                                <li>Eigene Dokumentation als Gegenbeweis bereithalten (Fotos, Nachrichten, Zeugen).</li>
+                                <li>Anwalt sofort informieren.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Document Flooding</div>
+                        <p class="pattern-desc">Flut an E-Mails, Briefen und Anträgen, die unbeantwortbar viel Zeit und Energie kosten. Jede Antwort zieht weitere nach sich – ein endloser Kreislauf.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Feste wöchentliche Zeit für Kommunikation reservieren, nicht on-demand reagieren.</li>
+                                <li>Themen kategorisieren: was ist wirklich relevant – und was nicht?</li>
+                                <li>Anwalt kann bei Gericht auf querulatorisches Verhalten hinweisen.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pattern-card">
+                        <div class="pattern-name">Finanzielle Kriegsführung</div>
+                        <p class="pattern-desc">Unterhalt wird verzögert oder verweigert, übermäßige Anwaltskosten werden als Druckmittel eingesetzt, Konten gesperrt oder Vermögen versteckt.</p>
+                        <div class="pattern-counter">
+                            <h4>Gegenstrategie</h4>
+                            <ul>
+                                <li>Alle Zahlungsausfälle mit Datum und Betrag dokumentieren.</li>
+                                <li>Unterhaltsvorschuss beim Jugendamt beantragen.</li>
+                                <li>Bei anhaltender Verweigerung: gerichtliche Vollstreckung über das Familiengericht.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- CTA zum Leitfaden -->
+            <div class="patterns-guide-cta">
+                <h3>Muster erkannt – was jetzt?</h3>
+                <p>Der Leitfaden enthält einen interaktiven Entscheidungsbaum mit konkreten Formulierungsvorschlägen für jede Situation – von Angriffen über Umgangsverstöße bis hin zu Notfällen.</p>
+                <a href="#" class="cta-button" onclick="showPage('guide')">Zum vollständigen Leitfaden →</a>
+            </div>
+
+        </div>
+    </div>
+
     <!-- CONTACT PAGE -->
     <div id="contact" class="page">
         <div class="contact-section">
@@ -568,6 +1560,14 @@
             <p>Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
 
             <form id="contactForm">
+                <!-- Status-Meldung -->
+                <div id="formStatus" class="form-status"></div>
+
+                <!-- Honeypot (Bot-Schutz, für Menschen unsichtbar) -->
+                <div class="hp-field">
+                    <input type="text" name="website" tabindex="-1" autocomplete="off">
+                </div>
+
                 <div class="form-group">
                     <label for="name">Name</label>
                     <input type="text" id="name" name="name" required>
@@ -718,10 +1718,48 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
+        function showInst(id, btn) {
+            document.querySelectorAll('.inst-panel').forEach(p => p.classList.remove('active'));
+            document.querySelectorAll('.inst-tab').forEach(b => b.classList.remove('active'));
+            document.getElementById('inst-' + id).classList.add('active');
+            btn.classList.add('active');
+        }
+
+        document.getElementById('contactForm').addEventListener('submit', async function(e) {
             e.preventDefault();
-            alert('Vielen Dank für Ihre Nachricht! Ich melde mich so bald wie möglich bei Ihnen.\n\n(Hinweis: Dies ist eine Demo. In der Live-Version würde die Nachricht tatsächlich versendet.)');
-            this.reset();
+
+            const btn    = this.querySelector('button[type="submit"]');
+            const status = document.getElementById('formStatus');
+
+            // Lade-Zustand
+            btn.disabled    = true;
+            btn.textContent = 'Wird gesendet …';
+            status.className = 'form-status';
+            status.textContent = '';
+
+            try {
+                const res  = await fetch('contact.php', {
+                    method: 'POST',
+                    body:   new FormData(this)
+                });
+                const data = await res.json();
+
+                if (data.success) {
+                    status.className   = 'form-status success';
+                    status.textContent = data.message;
+                    this.reset();
+                } else {
+                    status.className   = 'form-status error';
+                    status.textContent = data.message;
+                }
+            } catch (err) {
+                status.className   = 'form-status error';
+                status.textContent = 'Verbindungsfehler. Bitte prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.';
+            } finally {
+                btn.disabled    = false;
+                btn.textContent = 'Nachricht senden';
+                status.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
         });
 
         // Cookie Banner
