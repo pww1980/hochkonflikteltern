@@ -765,3 +765,29 @@ footer a:hover { text-decoration: underline; }
 
 .back-button--light { background: none; border: 2px solid var(--color-border); border-radius: 8px; padding: 8px 18px; color: var(--color-primary); font-size: 15px; font-weight: 600; cursor: pointer; transition: all .2s; }
 .back-button--light:hover { border-color: var(--color-btn); background: var(--color-btn); color: #fff; }
+
+/* ── Breadcrumb-Navigation ───────────────────────────────── */
+.guide-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 0 0 20px;
+    font-size: 14px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: 24px;
+}
+.guide-breadcrumb .bc-link {
+    color: var(--color-btn);
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 500;
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 14px;
+    font-family: inherit;
+}
+.guide-breadcrumb .bc-link:hover { text-decoration: underline; }
+.guide-breadcrumb .bc-sep { color: var(--color-secondary); margin: 0 2px; }
+.guide-breadcrumb .bc-current { color: var(--color-secondary); }

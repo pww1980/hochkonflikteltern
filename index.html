@@ -103,6 +103,9 @@
     <div id="guide" class="page">
         <div class="guide-wrapper">
 
+            <!-- ── Breadcrumb ────────────────────────────── -->
+            <nav id="guide-breadcrumb" class="guide-breadcrumb" style="display:none;" aria-label="Navigationspfad"></nav>
+
             <!-- ── Übersicht ─────────────────────────────── -->
             <div id="guide-overview" class="guide-sub-section active">
                 <h1>Kommunikationsleitfaden</h1>
@@ -527,6 +530,18 @@
                     <strong>Worum geht es?</strong> Nach einer Trennung gibt es zwei grundlegend verschiedene Modelle, wie Eltern ihre Kinder gemeinsam erziehen. Welches Modell sinnvoll ist, hängt entscheidend davon ab, ob die Eltern in der Lage sind, konstruktiv miteinander zu kommunizieren – oder nicht.
                 </div>
 
+                <div class="guide-info-box" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
+                    <span style="font-size:28px; flex-shrink:0;">📄</span>
+                    <div style="flex:1; min-width:180px;">
+                        <strong>Factsheet zum Mitnehmen</strong><br>
+                        <span style="font-size:14px; color:var(--color-secondary);">Kompakte Zusammenfassung von Co- vs. Parallel Parenting als PDF – zum Ausdrucken oder Weiterleiten an Fachkräfte.</span>
+                    </div>
+                    <a href="Parallel_Parenting_Factsheet.pdf" target="_blank" rel="noopener" download
+                       style="flex-shrink:0; background:var(--color-btn); color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-size:14px; font-weight:600; white-space:nowrap;">
+                        PDF herunterladen
+                    </a>
+                </div>
+
                 <div class="parenting-compare">
                     <div class="parenting-col">
                         <div class="parenting-col-header co">Co-Parenting</div>
@@ -629,17 +644,6 @@
                     <strong>Weiterführend:</strong> Johnston, J. R. (1994). High-conflict divorce. <em>The Future of Children, 4</em>(1), 165–182. &mdash; Sandler, I. et al. (2013). Long-term effects of the Family Bereavement Program on multiple indicators of grief in parentally bereaved children and adolescents. <em>Journal of Consulting and Clinical Psychology.</em>
                 </div>
 
-                <div class="guide-info-box" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
-                    <span style="font-size:28px; flex-shrink:0;">📄</span>
-                    <div style="flex:1; min-width:180px;">
-                        <strong>Factsheet zum Mitnehmen</strong><br>
-                        <span style="font-size:14px; color:var(--color-secondary);">Kompakte Zusammenfassung von Co- vs. Parallel Parenting als PDF – zum Ausdrucken oder Weiterleiten an Fachkräfte.</span>
-                    </div>
-                    <a href="Parallel_Parenting_Factsheet.pdf" target="_blank" rel="noopener" download
-                       style="flex-shrink:0; background:var(--color-btn); color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-size:14px; font-weight:600; white-space:nowrap;">
-                        PDF herunterladen
-                    </a>
-                </div>
             </div>
 
             <!-- ── Selbstschutz ───────────────────────────── -->
@@ -1667,12 +1671,59 @@
             btn.classList.add('active');
         }
 
+        const _sectionLabels = {
+            'written':    'Schriftliche Kommunikation',
+            'background': 'Hintergrundwissen',
+            'longterm':   'Langfriststrategie',
+            'parenting':  'Co- vs. Parallel Parenting',
+            'selfcare':   'Selbstschutz'
+        };
+        const _nodeLabels = {
+            'dt-received':      'Ich habe eine Nachricht erhalten',
+            'dt-send':          'Ich muss etwas mitteilen',
+            'dt-violation':     'Verstoß gegen Vereinbarungen',
+            'dt-emergency':     'Notfall / Dringend',
+            'dt-attack':        'Angriff / Vorwurf',
+            'dt-info':          'Sachliche Information',
+            'dt-question':      'Frage oder Diskussion',
+            'dt-change':        'Änderungsanfrage',
+            'dt-appointment':   'Termin mitteilen',
+            'dt-request-info':  'Informationen anfordern',
+            'dt-request-docs':  'Dokumente anfordern',
+            'dt-clarify':       'Sachverhalt klarstellen',
+            'dt-viol-access':   'Umgang wird verweigert',
+            'dt-viol-docs':     'Dokumente fehlen',
+            'dt-viol-info':     'Information verweigert',
+            'dt-viol-decision': 'Entscheidung ohne Absprache'
+        };
+
+        function updateBreadcrumb(sectionId, nodeId) {
+            const bc = document.getElementById('guide-breadcrumb');
+            if (!bc) return;
+            if (sectionId === 'overview') { bc.style.display = 'none'; bc.innerHTML = ''; return; }
+            const parts = [`<button class="bc-link" onclick="showGuideSection('overview')">Leitfaden</button>`];
+            const sLabel = _sectionLabels[sectionId];
+            if (sLabel) {
+                parts.push('<span class="bc-sep">›</span>');
+                if (nodeId && _nodeLabels[nodeId]) {
+                    parts.push(`<button class="bc-link" onclick="showGuideSection('${sectionId}')">${sLabel}</button>`);
+                    parts.push('<span class="bc-sep">›</span>');
+                    parts.push(`<span class="bc-current">${_nodeLabels[nodeId]}</span>`);
+                } else {
+                    parts.push(`<span class="bc-current">${sLabel}</span>`);
+                }
+            }
+            bc.innerHTML = parts.join('');
+            bc.style.display = 'flex';
+        }
+
         function showGuideSection(sectionId) {
             document.querySelectorAll('.guide-sub-section').forEach(s => s.classList.remove('active'));
             const target = document.getElementById('guide-' + sectionId);
             if (target) { target.classList.add('active'); }
             // Entscheidungsbaum-Start zurücksetzen wenn "written" geöffnet wird
             if (sectionId === 'written') { showNode('dt-start'); }
+            updateBreadcrumb(sectionId, null);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
@@ -1683,6 +1734,7 @@
             const target = document.getElementById(nodeId);
             if (target) {
                 target.classList.remove('hidden');
+                updateBreadcrumb('written', nodeId);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
         }
