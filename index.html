@@ -18,18 +18,13 @@
             </button>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
-                <li class="nav-dropdown" id="navDropdownLeitfaden">
-                    <a href="#" data-page="guide" onclick="showPage('guide'); return false;">Leitfaden</a>
-                    <ul class="nav-dropdown-menu">
-                        <li><a href="#" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
-                        <li><a href="#" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
-                        <li><a href="#" onclick="navigateToGuide('background'); return false;">📚 Hintergrundwissen</a></li>
-                        <li><a href="#" onclick="navigateToGuide('longterm'); return false;">📈 Langfriststrategie</a></li>
-                        <li><a href="#" onclick="navigateToGuide('selfcare'); return false;">🛡️ Selbstschutz</a></li>
-                        <li><a href="#" onclick="navigateToGuide('parenting'); return false;">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" data-page="patterns" onclick="showPage('patterns')">Muster</a></li>
+                <li><a href="#" data-page="guide" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
+                <li><a href="#" data-page="meetings" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
+                <li><a href="#" data-page="guide" onclick="navigateToGuide('background'); return false;">📚 Hintergrundwissen</a></li>
+                <li><a href="#" data-page="guide" onclick="navigateToGuide('longterm'); return false;">📈 Langfriststrategie</a></li>
+                <li><a href="#" data-page="guide" onclick="navigateToGuide('selfcare'); return false;">🛡️ Selbstschutz</a></li>
+                <li><a href="#" data-page="guide" onclick="navigateToGuide('parenting'); return false;">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
+                <li><a href="#" data-page="patterns" onclick="showPage('patterns')">🧠 Muster</a></li>
                 <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
                 <li><a href="#" data-page="contact" onclick="showPage('contact')">Kontakt</a></li>
             </ul>
@@ -632,6 +627,18 @@
 
                 <div class="guide-info-box">
                     <strong>Weiterführend:</strong> Johnston, J. R. (1994). High-conflict divorce. <em>The Future of Children, 4</em>(1), 165–182. &mdash; Sandler, I. et al. (2013). Long-term effects of the Family Bereavement Program on multiple indicators of grief in parentally bereaved children and adolescents. <em>Journal of Consulting and Clinical Psychology.</em>
+                </div>
+
+                <div class="guide-info-box" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
+                    <span style="font-size:28px; flex-shrink:0;">📄</span>
+                    <div style="flex:1; min-width:180px;">
+                        <strong>Factsheet zum Mitnehmen</strong><br>
+                        <span style="font-size:14px; color:var(--color-secondary);">Kompakte Zusammenfassung von Co- vs. Parallel Parenting als PDF – zum Ausdrucken oder Weiterleiten an Fachkräfte.</span>
+                    </div>
+                    <a href="Parallel_Parenting_Factsheet.pdf" target="_blank" rel="noopener" download
+                       style="flex-shrink:0; background:var(--color-btn); color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-size:14px; font-weight:600; white-space:nowrap;">
+                        PDF herunterladen
+                    </a>
                 </div>
             </div>
 
@@ -1628,11 +1635,8 @@
             document.querySelectorAll('.nav-links a').forEach(a => {
                 a.classList.toggle('active', a.dataset.page === pageId);
             });
-            // Mobiles Menü schließen
-            const navLinks = document.getElementById('navLinks');
-            const toggle = document.querySelector('.nav-toggle');
-            navLinks.classList.remove('open');
-            if (toggle) { toggle.setAttribute('aria-expanded', 'false'); }
+            // Menü schließen
+            if (typeof closeNav === 'function') closeNav();
             // Guide-Abschnitt setzen
             if (pageId === 'guide') { showGuideSection(guideSection || 'overview'); }
         }
@@ -1641,6 +1645,19 @@
             const navLinks = document.getElementById('navLinks');
             const open = navLinks.classList.toggle('open');
             btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        }
+
+        // Klick außerhalb schließt das Menü
+        document.addEventListener('click', function(e) {
+            if (!document.querySelector('nav').contains(e.target)) closeNav();
+        });
+        document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeNav(); });
+
+        function closeNav() {
+            const navLinks = document.getElementById('navLinks');
+            const toggle = document.querySelector('.nav-toggle');
+            navLinks.classList.remove('open');
+            if (toggle) toggle.setAttribute('aria-expanded', 'false');
         }
 
         function showInst(id, btn) {
