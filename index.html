@@ -19,8 +19,7 @@
                 <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
                 <li><a href="#" data-page="guide" onclick="showPage('guide')">Leitfaden</a></li>
                 <li><a href="#" data-page="patterns" onclick="showPage('patterns')">Muster</a></li>
-                <li><a href="#" data-page="meetings" onclick="showPage('meetings')">Gespräche</a></li>
-                <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
+                    <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
                 <li><a href="#" data-page="contact" onclick="showPage('contact')">Kontakt</a></li>
             </ul>
         </div>
@@ -364,17 +363,9 @@
                         <li>Vergangenes wird wiederholt aufgewärmt</li>
                     </ul>
                 </div>
-                <div class="guide-mechanism-box">
-                    <h4>Projektion</h4>
-                    <p>Eigene inakzeptable Verhaltensweisen werden dem anderen zugeschrieben. <em>Beispiel: Wer selbst Termine nicht einhält, wirft Ihnen Unzuverlässigkeit vor.</em></p>
-                </div>
-                <div class="guide-mechanism-box">
-                    <h4>DARVO</h4>
-                    <p>Deny (Leugnen) → Attack (Angreifen) → Reverse (Täter-Opfer-Umkehr). Auf jede berechtigte Kritik folgt erst Leugnen, dann Gegenangriff, dann Opferrolle.</p>
-                </div>
-                <div class="guide-mechanism-box">
-                    <h4>Gaslighting</h4>
-                    <p>Systematisches Anzweifeln Ihrer Wahrnehmung und Ihres Gedächtnisses. Ziel: Unsicherheit erzeugen, die eigene Deutungshoheit sichern.</p>
+                <div class="guide-info-box guide-info-box--link">
+                    <strong>Häufige Muster im Hochkonflikt</strong><br>
+                    Von DARVO und Gaslighting über Parentifizierung bis zu systemischem Missbrauch – alle 25+ dokumentierten Muster mit Gegenstrategien finden Sie auf der <a href="#" onclick="showPage('patterns')">Musterseite →</a>
                 </div>
                 <div class="guide-warn">
                     <strong>Warum „normale" Kommunikation nicht funktioniert:</strong> Hochkonflikt-Persönlichkeiten nutzen offene Kommunikation als Informationsquelle oder Eskalationshebel. Deeskalation muss einseitig funktionieren – unabhängig davon, ob die andere Seite mitmacht.
@@ -779,8 +770,8 @@
             <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="#" onclick="showPage('guide')">Leitfaden</a>.</p>
 
             <!-- ── 1. Kommunikation ───────────────────────── -->
-            <div class="pattern-category">
-                <div class="pattern-category-title">🗣️ Kommunikationsmuster</div>
+            <details class="pattern-category" open>
+                <summary class="pattern-category-title">🗣️ Kommunikationsmuster</summary>
                 <div class="pattern-grid">
 
                     <div class="pattern-card">
@@ -914,11 +905,11 @@
                     </div>
 
                 </div>
-            </div>
+            </details>
 
             <!-- ── 2. Soziale Manipulation ────────────────── -->
-            <div class="pattern-category">
-                <div class="pattern-category-title">🕸️ Soziale Manipulation</div>
+            <details class="pattern-category" open>
+                <summary class="pattern-category-title">🕸️ Soziale Manipulation</summary>
                 <div class="pattern-grid">
 
                     <div class="pattern-card">
@@ -987,11 +978,11 @@
                     </div>
 
                 </div>
-            </div>
+            </details>
 
             <!-- ── 3. Kinder ──────────────────────────────── -->
-            <div class="pattern-category">
-                <div class="pattern-category-title">👦 Instrumentalisierung der Kinder</div>
+            <details class="pattern-category" open>
+                <summary class="pattern-category-title">👦 Instrumentalisierung der Kinder</summary>
                 <div class="pattern-grid">
 
                     <div class="pattern-card">
@@ -1047,11 +1038,11 @@
                     </div>
 
                 </div>
-            </div>
+            </details>
 
             <!-- ── 4. Eskalation ─────────────────────────── -->
-            <div class="pattern-category">
-                <div class="pattern-category-title">⚡ Eskalationsmuster</div>
+            <details class="pattern-category" open>
+                <summary class="pattern-category-title">⚡ Eskalationsmuster</summary>
                 <div class="pattern-grid">
 
                     <div class="pattern-card">
@@ -1107,11 +1098,11 @@
                     </div>
 
                 </div>
-            </div>
+            </details>
 
             <!-- ── 5. Systemischer Missbrauch ─────────────── -->
-            <div class="pattern-category">
-                <div class="pattern-category-title">⚖️ Systemischer Missbrauch</div>
+            <details class="pattern-category" open>
+                <summary class="pattern-category-title">⚖️ Systemischer Missbrauch</summary>
                 <div class="pattern-grid">
 
                     <div class="pattern-card">
@@ -1167,7 +1158,7 @@
                     </div>
 
                 </div>
-            </div>
+            </details>
 
             <!-- CTA zum Leitfaden -->
             <div class="patterns-guide-cta">
