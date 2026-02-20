@@ -216,6 +216,7 @@ nav {
 }
 .guide-wrapper h1 { text-align: center; color: var(--color-primary); margin-bottom: 20px; }
 .guide-wrapper > p { text-align: center; color: var(--color-secondary); margin-bottom: 40px; font-size: 18px; }
+#guide-overview > p { text-align: center; color: var(--color-secondary); margin-bottom: 40px; font-size: 18px; }
 .guide-downloads { text-align: center; margin-bottom: 40px; }
 .guide-section { margin-top: 60px; }
 
