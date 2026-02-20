@@ -5,744 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Professioneller Kommunikations-Leitfaden für Eltern in Hochkonfliktsituationen nach Trennung. Praktische Strategien, psychologisches Hintergrundwissen.">
     <title>Hochkonflikt Eltern - Kommunikationsleitfaden für getrennte Eltern</title>
-    <style>
-        :root {
-            --color-primary: #6b6456;
-            --color-secondary: #8a8275;
-            --color-accent: #c4bcad;
-            --color-btn: #6b6456;
-            --color-border: #e8e4dc;
-            --color-bg-light: #faf9f6;
-            --shadow-card: 0 4px 15px rgba(107, 100, 86, 0.08);
-            --shadow-section: 0 10px 40px rgba(107, 100, 86, 0.08);
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
-            background: linear-gradient(135deg, #f5f3ed 0%, #ebe8df 100%);
-            color: var(--color-primary);
-            line-height: 1.6;
-        }
-
-        /* Navigation */
-        nav {
-            background: #ffffff;
-            box-shadow: 0 2px 10px rgba(107, 100, 86, 0.1);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-        }
-        .nav-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 40px;
-        }
-        .logo {
-            font-size: 24px;
-            font-weight: bold;
-            color: var(--color-primary);
-            text-decoration: none;
-        }
-        .nav-links {
-            display: flex;
-            gap: 30px;
-            list-style: none;
-        }
-        .nav-links a {
-            color: var(--color-primary);
-            text-decoration: none;
-            font-weight: 500;
-            transition: color 0.3s;
-        }
-        .nav-links a:hover { color: var(--color-primary); text-decoration: underline; }
-        .nav-links a.active { color: var(--color-primary); font-weight: 700; text-decoration: underline; }
-
-        /* Hero Section */
-        .hero {
-            max-width: 1200px;
-            margin: 60px auto;
-            padding: 80px 40px;
-            text-align: center;
-        }
-        .hero h1 {
-            font-size: 48px;
-            color: var(--color-primary);
-            margin-bottom: 20px;
-            line-height: 1.2;
-        }
-        .hero .subtitle {
-            font-size: 24px;
-            color: var(--color-secondary);
-            margin-bottom: 40px;
-            font-weight: 300;
-        }
-        .hero p {
-            font-size: 18px;
-            color: var(--color-secondary);
-            max-width: 700px;
-            margin: 0 auto 40px;
-        }
-        .hero--secondary { margin-top: 60px; }
-        .hero--secondary h2 {
-            font-size: 32px;
-            margin-bottom: 30px;
-        }
-        .checklist {
-            text-align: left;
-            max-width: 700px;
-            margin: 0 auto;
-        }
-        .checklist p {
-            margin-bottom: 15px;
-        }
-        .cta-button {
-            display: inline-block;
-            background: var(--color-btn);
-            color: #ffffff;
-            padding: 18px 40px;
-            border-radius: 10px;
-            text-decoration: none;
-            font-size: 18px;
-            font-weight: 600;
-            transition: all 0.3s;
-            box-shadow: 0 4px 15px rgba(196, 188, 173, 0.3);
-        }
-        .cta-button:hover {
-            background: #5a5347;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(107, 100, 86, 0.4);
-        }
-        .cta-button--secondary { background: #8a8275; }
-        .cta-mt { margin-top: 40px; }
-        .cta-mx { margin: 10px; }
-
-        /* Features Section */
-        .features {
-            max-width: 1200px;
-            margin: 80px auto;
-            padding: 0 40px;
-        }
-        .features h2 {
-            text-align: center;
-            font-size: 36px;
-            color: var(--color-primary);
-            margin-bottom: 60px;
-        }
-        .feature-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 40px;
-        }
-        .feature-card {
-            background: #ffffff;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: var(--shadow-card);
-            transition: transform 0.3s;
-        }
-        .feature-card:hover { transform: translateY(-5px); }
-        .feature-icon {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-        .feature-card h3 {
-            font-size: 22px;
-            color: var(--color-primary);
-            margin-bottom: 15px;
-        }
-        .feature-card p {
-            color: var(--color-secondary);
-            line-height: 1.8;
-        }
-
-        /* About Section */
-        .about-section {
-            max-width: 800px;
-            margin: 80px auto;
-            padding: 60px 40px;
-            background: #ffffff;
-            border-radius: 20px;
-            box-shadow: var(--shadow-section);
-        }
-        .about-section h2 {
-            font-size: 36px;
-            color: var(--color-primary);
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        .about-section p {
-            font-size: 18px;
-            color: var(--color-primary);
-            line-height: 1.8;
-            margin-bottom: 20px;
-        }
-        .about-section .highlight {
-            background: var(--color-bg-light);
-            border-left: 4px solid var(--color-accent);
-            padding: 20px;
-            margin: 30px 0;
-            border-radius: 8px;
-        }
-        .about-section .highlight h3 {
-            margin-bottom: 15px;
-            color: var(--color-primary);
-        }
-        .about-section ul {
-            margin-left: 20px;
-            margin-bottom: 20px;
-        }
-        .text-center { text-align: center; }
-        .mt-40 { margin-top: 40px; }
-
-        /* Guide Page */
-        .guide-wrapper {
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 40px;
-        }
-        .guide-wrapper h1 {
-            text-align: center;
-            color: var(--color-primary);
-            margin-bottom: 20px;
-        }
-        .guide-wrapper > p {
-            text-align: center;
-            color: var(--color-secondary);
-            margin-bottom: 40px;
-            font-size: 18px;
-        }
-        .guide-downloads {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        .guide-section { margin-top: 60px; }
-
-        /* Contact Form */
-        .contact-section {
-            max-width: 600px;
-            margin: 80px auto;
-            padding: 60px 40px;
-            background: #ffffff;
-            border-radius: 20px;
-            box-shadow: var(--shadow-section);
-        }
-        .contact-section h2 {
-            font-size: 36px;
-            color: var(--color-primary);
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        .contact-section > p {
-            text-align: center;
-            color: var(--color-secondary);
-            margin-bottom: 30px;
-        }
-        .form-group { margin-bottom: 25px; }
-        .form-group label {
-            display: block;
-            margin-bottom: 8px;
-            color: var(--color-primary);
-            font-weight: 500;
-        }
-        .form-group input,
-        .form-group textarea {
-            width: 100%;
-            padding: 15px;
-            border: 2px solid var(--color-border);
-            border-radius: 8px;
-            font-size: 16px;
-            font-family: inherit;
-            transition: border-color 0.3s;
-        }
-        .form-group input:focus,
-        .form-group textarea:focus {
-            outline: none;
-            border-color: var(--color-accent);
-        }
-        .form-group textarea {
-            min-height: 150px;
-            resize: vertical;
-        }
-        .submit-button {
-            width: 100%;
-            background: var(--color-btn);
-            color: #ffffff;
-            padding: 18px;
-            border: none;
-            border-radius: 10px;
-            font-size: 18px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        .submit-button:hover {
-            background: #5a5347;
-            transform: translateY(-2px);
-        }
-        .privacy-note {
-            margin-top: 20px;
-            font-size: 14px;
-            color: var(--color-secondary);
-            text-align: center;
-        }
-
-        /* Footer */
-        footer {
-            background: var(--color-primary);
-            color: #ffffff;
-            padding: 40px;
-            text-align: center;
-            margin-top: 100px;
-        }
-        footer a {
-            color: #ffffff;
-            text-decoration: none;
-            margin: 0 15px;
-        }
-        footer a:hover { text-decoration: underline; }
-        .footer-links { margin-top: 10px; }
-
-        /* Page Container */
-        .page { display: none; }
-        .page.active { display: block; }
-
-        /* Meetings Page */
-        .meetings-wrapper {
-            max-width: 860px;
-            margin: 80px auto;
-            padding: 0 30px 80px;
-        }
-        .meetings-wrapper > h1 {
-            font-size: 36px;
-            color: var(--color-primary);
-            text-align: center;
-            margin-bottom: 12px;
-        }
-        .meetings-intro {
-            text-align: center;
-            color: var(--color-secondary);
-            font-size: 17px;
-            line-height: 1.7;
-            max-width: 680px;
-            margin: 0 auto 50px;
-        }
-        .meetings-section {
-            margin-bottom: 52px;
-        }
-        .meetings-section-title {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--color-primary);
-            padding: 10px 0 10px 16px;
-            border-left: 4px solid var(--color-accent);
-            margin-bottom: 24px;
-        }
-        .inst-tabs {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-bottom: 24px;
-        }
-        .inst-tab {
-            padding: 10px 22px;
-            border-radius: 30px;
-            border: 2px solid #ddd;
-            background: #fff;
-            font-size: 15px;
-            font-weight: 600;
-            color: var(--color-secondary);
-            cursor: pointer;
-            transition: all .2s;
-        }
-        .inst-tab.active, .inst-tab:hover {
-            border-color: var(--color-btn);
-            background: var(--color-btn);
-            color: #fff;
-        }
-        .inst-panel { display: none; }
-        .inst-panel.active { display: block; }
-        .info-box, .tip-box, .warn-box, .ok-box {
-            border-radius: 12px;
-            padding: 18px 22px;
-            margin-bottom: 16px;
-            font-size: 15px;
-            line-height: 1.65;
-        }
-        .info-box { background: #e8f4fd; border-left: 4px solid #1976d2; color: #1a3a4a; }
-        .tip-box  { background: #f0f7f0; border-left: 4px solid #388e3c; color: #1b3a1c; }
-        .warn-box { background: #fff8e1; border-left: 4px solid #f57c00; color: #4a2f00; }
-        .ok-box   { background: #f3e5f5; border-left: 4px solid #7b1fa2; color: #2d0a40; }
-        .box-title {
-            font-weight: 700;
-            margin-bottom: 6px;
-            font-size: 13px;
-            text-transform: uppercase;
-            letter-spacing: .05em;
-        }
-        .check-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 12px;
-        }
-        @media (max-width: 650px) { .check-grid { grid-template-columns: 1fr; } }
-        .check-card {
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: var(--shadow-section);
-            padding: 20px;
-        }
-        .check-card h4 {
-            font-size: 15px;
-            font-weight: 700;
-            color: var(--color-primary);
-            margin-bottom: 12px;
-        }
-        .check-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        .check-list li {
-            display: flex;
-            gap: 10px;
-            align-items: flex-start;
-            font-size: 14px;
-            color: var(--color-primary);
-            line-height: 1.5;
-        }
-        .check-list li::before {
-            content: "☐";
-            flex-shrink: 0;
-            font-size: 16px;
-            margin-top: -1px;
-            color: var(--color-primary);
-        }
-        .do-dont {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-        }
-        @media (max-width: 620px) { .do-dont { grid-template-columns: 1fr; } }
-        .do-col { background: #f0f7f0; border-radius: 12px; padding: 20px; }
-        .dont-col { background: #fff3f3; border-radius: 12px; padding: 20px; }
-        .do-col h4 { color: #2e7d32; font-size: 16px; margin-bottom: 12px; }
-        .dont-col h4 { color: #c62828; font-size: 16px; margin-bottom: 12px; }
-        .do-col ul, .dont-col ul {
-            margin: 0;
-            padding-left: 18px;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        .do-col li, .dont-col li { font-size: 14px; line-height: 1.55; }
-        .script-box {
-            background: #f8f9fa;
-            border-radius: 10px;
-            border: 1px solid #e0e0e0;
-            padding: 16px 20px;
-            font-style: italic;
-            color: #37474f;
-            font-size: 14px;
-            line-height: 1.65;
-            margin-top: 10px;
-        }
-        .script-box::before {
-            content: "💬 Formulierungshilfe";
-            display: block;
-            font-style: normal;
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: .06em;
-            color: var(--color-secondary);
-            margin-bottom: 8px;
-        }
-        .meetings-guide-cta {
-            background: var(--color-bg-light);
-            border-radius: 16px;
-            padding: 36px;
-            text-align: center;
-            margin-top: 20px;
-        }
-        .meetings-guide-cta h3 { font-size: 20px; color: var(--color-primary); margin-bottom: 10px; }
-        .meetings-guide-cta p { color: var(--color-secondary); margin-bottom: 20px; font-size: 15px; }
-
-        /* Patterns Page */
-        .patterns-wrapper {
-            max-width: 960px;
-            margin: 80px auto;
-            padding: 0 30px 80px;
-        }
-        .patterns-wrapper > h1 {
-            font-size: 36px;
-            color: var(--color-primary);
-            text-align: center;
-            margin-bottom: 12px;
-        }
-        .patterns-intro {
-            text-align: center;
-            color: var(--color-secondary);
-            font-size: 17px;
-            line-height: 1.7;
-            max-width: 680px;
-            margin: 0 auto 60px;
-        }
-        .pattern-category {
-            margin-bottom: 60px;
-        }
-        .pattern-category-title {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--color-primary);
-            padding: 10px 0 10px 16px;
-            border-left: 4px solid var(--color-accent);
-            margin-bottom: 24px;
-        }
-        .pattern-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-        }
-        @media (max-width: 700px) { .pattern-grid { grid-template-columns: 1fr; } }
-        .pattern-card {
-            background: #fff;
-            border-radius: 14px;
-            box-shadow: var(--shadow-section);
-            padding: 24px;
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-        .pattern-name {
-            font-size: 17px;
-            font-weight: 700;
-            color: var(--color-primary);
-        }
-        .pattern-desc {
-            font-size: 14px;
-            color: var(--color-secondary);
-            line-height: 1.65;
-        }
-        .pattern-counter {
-            background: #f0f7f0;
-            border-radius: 8px;
-            padding: 14px 16px;
-            margin-top: auto;
-        }
-        .pattern-counter h4 {
-            font-size: 13px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: .04em;
-            color: #2e7d32;
-            margin-bottom: 8px;
-        }
-        .pattern-counter ul {
-            margin: 0;
-            padding-left: 18px;
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-        .pattern-counter li {
-            font-size: 13px;
-            color: var(--color-primary);
-            line-height: 1.55;
-        }
-        .patterns-guide-cta {
-            background: var(--color-bg-light);
-            border-radius: 16px;
-            padding: 36px;
-            text-align: center;
-            margin-top: 20px;
-        }
-        .patterns-guide-cta h3 {
-            font-size: 20px;
-            color: var(--color-primary);
-            margin-bottom: 10px;
-        }
-        .patterns-guide-cta p {
-            color: var(--color-secondary);
-            margin-bottom: 20px;
-            font-size: 15px;
-        }
-
-        /* Form Feedback */
-        .form-status {
-            display: none;
-            padding: 18px 24px;
-            border-radius: 10px;
-            font-size: 16px;
-            line-height: 1.6;
-            margin-bottom: 24px;
-            font-weight: 500;
-        }
-        .form-status.success {
-            display: block;
-            background: #e8f5e9;
-            border: 2px solid #4caf50;
-            color: #2e7d32;
-        }
-        .form-status.error {
-            display: block;
-            background: #fdecea;
-            border: 2px solid #e53935;
-            color: #c62828;
-        }
-        .submit-button:disabled { opacity: 0.65; cursor: not-allowed; }
-        .hp-field { display: none !important; }
-
-        /* Legal Pages */
-        .legal-section {
-            max-width: 800px;
-            margin: 80px auto;
-            padding: 60px 40px;
-            background: #ffffff;
-            border-radius: 20px;
-            box-shadow: var(--shadow-section);
-        }
-        .legal-section h2 {
-            font-size: 36px;
-            color: var(--color-primary);
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        .legal-section h3 {
-            font-size: 20px;
-            color: var(--color-primary);
-            margin: 30px 0 10px;
-        }
-        .legal-section p,
-        .legal-section li {
-            font-size: 16px;
-            color: var(--color-primary);
-            line-height: 1.8;
-            margin-bottom: 10px;
-        }
-        .legal-section ul {
-            margin-left: 20px;
-            margin-bottom: 20px;
-        }
-        .legal-placeholder {
-            background: var(--color-bg-light);
-            border: 2px dashed var(--color-accent);
-            padding: 10px 16px;
-            border-radius: 6px;
-            display: inline-block;
-            color: var(--color-secondary);
-            font-style: italic;
-        }
-
-        /* Cookie Banner */
-        .cookie-banner {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: #ffffff;
-            border-top: 3px solid var(--color-accent);
-            box-shadow: 0 -4px 20px rgba(107, 100, 86, 0.12);
-            padding: 20px 40px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 20px;
-            z-index: 1000;
-        }
-        .cookie-banner.hidden { display: none; }
-        .cookie-banner p {
-            color: var(--color-primary);
-            font-size: 15px;
-            line-height: 1.6;
-            margin: 0;
-            flex: 1;
-        }
-        .cookie-banner a {
-            color: var(--color-primary);
-            font-weight: 600;
-        }
-        .cookie-actions {
-            display: flex;
-            gap: 12px;
-            flex-shrink: 0;
-        }
-        .cookie-btn {
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-size: 15px;
-            font-weight: 600;
-            cursor: pointer;
-            border: 2px solid transparent;
-            transition: all 0.3s;
-        }
-        .cookie-btn--accept {
-            background: var(--color-btn);
-            color: #ffffff;
-        }
-        .cookie-btn--accept:hover { background: #5a5347; }
-        .cookie-btn--decline {
-            background: transparent;
-            color: var(--color-primary);
-            border-color: var(--color-border);
-        }
-        .cookie-btn--decline:hover { border-color: var(--color-accent); }
-
-        /* Hamburger Button */
-        .nav-toggle {
-            display: none;
-            flex-direction: column;
-            gap: 5px;
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 4px;
-        }
-        .nav-toggle span {
-            display: block;
-            width: 24px;
-            height: 2px;
-            background: var(--color-primary);
-            border-radius: 2px;
-            transition: all 0.3s;
-        }
-        .nav-toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
-        .nav-toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
-        .nav-toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
-
-        /* Mobile */
-        @media (max-width: 768px) {
-            .hero h1 { font-size: 32px; }
-            .hero .subtitle { font-size: 18px; }
-            .nav-container { flex-wrap: wrap; padding: 16px 20px; }
-            .nav-toggle { display: flex; }
-            .nav-links {
-                display: none;
-                width: 100%;
-                flex-direction: column;
-                gap: 0;
-                text-align: center;
-                border-top: 1px solid var(--color-border);
-                margin-top: 8px;
-                padding-top: 8px;
-            }
-            .nav-links.open { display: flex; }
-            .nav-links li a {
-                display: block;
-                padding: 12px 0;
-                border-bottom: 1px solid var(--color-border);
-            }
-            .cookie-banner { flex-direction: column; padding: 20px; }
-            .cookie-actions { width: 100%; }
-            .cookie-btn { flex: 1; text-align: center; }
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- Navigation -->
@@ -775,32 +38,32 @@
         <section class="features">
             <h2>Was Sie erwartet</h2>
             <div class="feature-grid">
-                <div class="feature-card" onclick="showPage('patterns')" style="cursor:pointer;">
+                <div class="feature-card" onclick="showPage('patterns')">
                     <div class="feature-icon">🧠</div>
                     <h3>Muster erkennen</h3>
                     <p>25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Hub-and-Spoke und systemischem Missbrauch, jeweils mit Gegenstrategie.</p>
                 </div>
-                <div class="feature-card">
+                <div class="feature-card" onclick="navigateToGuide('written')">
                     <div class="feature-icon">🗺️</div>
                     <h3>Interaktiver Entscheidungsbaum</h3>
                     <p>Für jede Situation die richtige Reaktion finden – mit konkreten Formulierungsvorschlägen und Templates.</p>
                 </div>
-                <div class="feature-card">
+                <div class="feature-card" onclick="navigateToGuide('longterm')">
                     <div class="feature-icon">📈</div>
                     <h3>Langfristige Strategie</h3>
                     <p>Denken Sie in Jahren, nicht in einzelnen Konflikten. Lernen Sie nachhaltige Ansätze für dauerhaften Frieden.</p>
                 </div>
-                <div class="feature-card">
+                <div class="feature-card" onclick="navigateToGuide('selfcare')">
                     <div class="feature-icon">🛡️</div>
                     <h3>Selbstschutz</h3>
                     <p>Schützen Sie Ihre emotionale Gesundheit und Energie – mit praktischen Techniken für den Alltag.</p>
                 </div>
-                <div class="feature-card">
+                <div class="feature-card" onclick="navigateToGuide('background')">
                     <div class="feature-icon">📚</div>
                     <h3>Forschungsbasiert</h3>
                     <p>Alle Strategien basieren auf aktueller Familienpsychologie und Konfliktforschung.</p>
                 </div>
-                <div class="feature-card">
+                <div class="feature-card" onclick="showPage('about')">
                     <div class="feature-icon">✅</div>
                     <h3>Praxiserprobt</h3>
                     <p>Entwickelt aus 9 Jahren realer Erfahrung in einer Hochkonfliktsituation.</p>
@@ -824,37 +87,354 @@
     <!-- GUIDE PAGE -->
     <div id="guide" class="page">
         <div class="guide-wrapper">
-            <h1>Der vollständige Leitfaden</h1>
-            <p>Praktische Strategien, psychologisches Hintergrundwissen und konkrete Handlungsempfehlungen für friedlichere Kommunikation – auch wenn der andere Elternteil nicht kooperiert.</p>
 
-            <div class="guide-downloads">
-                <a href="#" class="cta-button cta-mx" onclick="showPage('patterns')">Muster erkennen →</a>
-                <a href="#" class="cta-button cta-button--secondary cta-mx" onclick="showPage('meetings')">Gespräche vorbereiten →</a>
+            <!-- ── Übersicht ─────────────────────────────── -->
+            <div id="guide-overview" class="guide-sub-section active">
+                <h1>Kommunikationsleitfaden</h1>
+                <p>Wählen Sie den Bereich, der Ihrer aktuellen Situation entspricht.</p>
+
+                <div class="guide-entry-cards">
+                    <div class="guide-entry-card" onclick="showGuideSection('written')">
+                        <div class="guide-entry-icon">✉️</div>
+                        <h2>Schriftliche Kommunikation</h2>
+                        <p>Nachrichten, E-Mails, WhatsApp – der interaktive Entscheidungsbaum hilft Ihnen, für jede Nachricht die richtige Reaktion zu finden.</p>
+                    </div>
+                    <div class="guide-entry-card" onclick="showPage('meetings')">
+                        <div class="guide-entry-icon">🗣️</div>
+                        <h2>Persönliches Gespräch</h2>
+                        <p>Jugendamt, Mediation, Erziehungsberatung – vorbereitet und souverän in jeden Termin.</p>
+                    </div>
+                </div>
+
+                <div class="guide-topics">
+                    <button class="guide-topic-link" onclick="showGuideSection('background')">📚 Hintergrundwissen</button>
+                    <button class="guide-topic-link" onclick="showPage('patterns')">🧠 Muster erkennen</button>
+                    <button class="guide-topic-link" onclick="showGuideSection('longterm')">📈 Langfriststrategie</button>
+                    <button class="guide-topic-link" onclick="showGuideSection('selfcare')">🛡️ Selbstschutz</button>
+                </div>
             </div>
 
-            <div class="about-section guide-section">
-                <h2>Was erwartet Sie im Leitfaden?</h2>
-                <div class="highlight">
-                    <h3>📚 Umfassendes Hintergrundwissen</h3>
-                    <p>Verstehen Sie die psychologischen Mechanismen von Hochkonflikten und warum "normale" Kommunikation nicht funktioniert.</p>
+            <!-- ── Schriftliche Kommunikation (Entscheidungsbaum) ── -->
+            <div id="guide-written" class="guide-sub-section">
+                <div class="guide-sub-header">
+                    <button class="back-button--light" onclick="showGuideSection('overview')">← Zurück</button>
+                    <h2>✉️ Schriftliche Kommunikation</h2>
                 </div>
-                <div class="highlight">
-                    <h3>🗺️ Interaktiver Entscheidungsbaum</h3>
-                    <p>Für jede konkrete Situation – von Angriffen über Umgangsverstöße bis Notfälle – die passende Reaktion mit Formulierungsvorschlägen.</p>
+
+                <!-- Start -->
+                <div id="dt-start" class="decision-node">
+                    <div class="question">Was ist Ihre aktuelle Situation?</div>
+                    <div class="options">
+                        <div class="option" onclick="showNode('dt-received')">Ich habe eine Nachricht erhalten</div>
+                        <div class="option" onclick="showNode('dt-send')">Ich muss etwas mitteilen</div>
+                        <div class="option" onclick="showNode('dt-violation')">Verstoß gegen Vereinbarungen</div>
+                        <div class="option" onclick="showNode('dt-emergency')">Notfall / Dringend</div>
+                    </div>
                 </div>
-                <div class="highlight">
-                    <h3>🔄 Muster erkennen</h3>
-                    <p>Lernen Sie die typischen Hochkonflikt-Muster zu identifizieren und richtig darauf zu reagieren.</p>
+
+                <!-- Nachricht erhalten -->
+                <div id="dt-received" class="decision-node hidden">
+                    <div class="question">Welche Art von Nachricht haben Sie erhalten?</div>
+                    <div class="options">
+                        <div class="option" onclick="showNode('dt-attack')">Angriff / Vorwurf / Schuldzuweisung</div>
+                        <div class="option" onclick="showNode('dt-info')">Sachliche Information</div>
+                        <div class="option" onclick="showNode('dt-question')">Frage oder Diskussion</div>
+                        <div class="option" onclick="showNode('dt-change')">Änderungsanfrage</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
                 </div>
-                <div class="highlight">
-                    <h3>📈 Langfristige Strategie</h3>
-                    <p>Von Akut-Konflikt bis zu erwachsenen Kindern – was in jeder Phase wichtig ist.</p>
+
+                <div id="dt-attack" class="result hidden">
+                    <h3>In 90 % der Fälle: Nicht antworten</h3>
+                    <div class="result-content">
+                        <p><strong>Grundregel:</strong> Vorwürfe und Angriffe brauchen keine Antwort.</p>
+                        <div class="principle-box">
+                            <strong>Warum nicht?</strong><br>
+                            • Jede Verteidigung verstärkt den Konflikt<br>
+                            • Sie geraten in reaktive Position<br>
+                            • Schweigen signalisiert Souveränität
+                        </div>
+                        <p><strong>Nur antworten wenn</strong> ein faktisch falscher Sachverhalt dokumentarisch korrigiert werden muss:</p>
+                        <div class="example">"Zur Klarstellung: [Ein Fakt in einem Satz].<br><br>Mit freundlichen Grüßen"</div>
+                        <div class="warning">
+                            <strong>⚠️ Niemals:</strong> Rechtfertigungen · Emotionale Aussagen · Gegenvorwürfe · Lange Erklärungen
+                        </div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
                 </div>
-                <div class="highlight">
-                    <h3>🛡️ Selbstschutz</h3>
-                    <p>Praktische Techniken um Ihre emotionale Gesundheit zu schützen und Burnout zu vermeiden.</p>
+
+                <div id="dt-info" class="result hidden">
+                    <h3>Kurze Bestätigung senden</h3>
+                    <div class="result-content">
+                        <div class="example">"Vielen Dank für die Information.<br>[Optional: Gute Besserung / Zur Kenntnis]<br><br>Mit freundlichen Grüßen"</div>
+                        <div class="principle-box">
+                            <strong>Drei-Satz-Maximum.</strong> Keine Ratschläge. Keine Nachfragen. Keine Kritik.
+                        </div>
+                        <div class="info"><strong>Timing:</strong> 24–48 h Antwortzeit zeigt Verlässlichkeit ohne Dringlichkeit.</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+                </div>
+
+                <div id="dt-question" class="result hidden">
+                    <h3>Sachfrage oder Diskussionsköder?</h3>
+                    <div class="result-content">
+                        <p><strong>Echte Sachfrage</strong> – konkrete Details, Termine, Informationen:</p>
+                        <div class="success">→ Kurz beantworten (max. 3 Sätze)</div>
+                        <p class="mt-20"><strong>Diskussionsversuch</strong> – „Warum …", „Findest Du nicht …":</p>
+                        <div class="warning">→ Nicht antworten. Das ist ein Köder.</div>
+                        <div class="example example--light">
+                            <strong>Sachfrage:</strong> „Wann bringst Du [Kind] zurück?"<br>
+                            <strong>Antwort:</strong> „Um 17 Uhr laut Vereinbarung. MfG"<br><br>
+                            <strong>Köder:</strong> „Warum bestehst Du auf diesen Zeiten?"<br>
+                            <strong>Antwort:</strong> Keine.
+                        </div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+                </div>
+
+                <div id="dt-change" class="result hidden">
+                    <h3>Verweis auf offizielle Stellen</h3>
+                    <div class="result-content">
+                        <div class="principle-box">
+                            <strong>Keine Verhandlungen per Nachricht.</strong><br>
+                            Alle Änderungen über Erziehungsberatung oder Gericht.
+                        </div>
+                        <div class="example">"Änderungen der Vereinbarung besprechen wir bei [Beratungsstelle / Termin].<br><br>MfG"</div>
+                        <p class="mt-20"><strong>Bei einmaliger Ausnahme:</strong></p>
+                        <div class="example">"Für diese Ausnahme: [Ja/Nein mit kurzem Grund].<br>Für strukturelle Änderungen: Termin bei [Stelle].<br><br>MfG"</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
+                </div>
+
+                <!-- Ich muss mitteilen -->
+                <div id="dt-send" class="decision-node hidden">
+                    <div class="question">Was müssen Sie mitteilen?</div>
+                    <div class="options">
+                        <div class="option" onclick="showNode('dt-appointment')">Termin / Organisatorisches</div>
+                        <div class="option" onclick="showNode('dt-request-info')">Ich benötige Information</div>
+                        <div class="option" onclick="showNode('dt-request-docs')">Ich benötige Dokumente</div>
+                        <div class="option" onclick="showNode('dt-clarify')">Sachverhalt klarstellen</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+                </div>
+
+                <div id="dt-appointment" class="result hidden">
+                    <h3>Sachliche Mitteilung</h3>
+                    <div class="result-content">
+                        <div class="example">"Am [Datum] um [Uhrzeit] findet [Termin] statt.<br><br>Mit freundlichen Grüßen"</div>
+                        <div class="principle-box">
+                            <strong>Keine Fragen einbauen:</strong><br>
+                            ❌ „Passt Dir das?" · ❌ „Könntest Du …?"<br>
+                            ✓ Einfach mitteilen. Punkt.
+                        </div>
+                        <div class="info">
+                            <strong>Vorlaufzeit:</strong> Routine: 7 Tage · Arzt: 2–3 Tage · Notfall: Sofort
+                        </div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+                </div>
+
+                <div id="dt-request-info" class="result hidden">
+                    <h3>Information anfordern</h3>
+                    <div class="result-content">
+                        <div class="example">"Ich benötige [konkrete Information] für [Zweck].<br>Laut [Sorgerecht/Vereinbarung] habe ich Anspruch darauf.<br>Bitte bis [Datum].<br><br>Mit freundlichen Grüßen"</div>
+                        <div class="principle-box"><strong>Drei Elemente:</strong> Was · Rechtliche Grundlage · Klare Frist</div>
+                        <div class="warning"><strong>Falls keine Antwort:</strong> Keine Erinnerung – direkt zur Quelle (Schule, Arzt, Jugendamt)</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+                </div>
+
+                <div id="dt-request-docs" class="result hidden">
+                    <h3>Dokumente anfordern</h3>
+                    <div class="result-content">
+                        <div class="example">"Laut [Vereinbarung] sind [Dokumente] bei Umgangsterminen mitzugeben.<br>Bitte stellen Sie sicher, dass diese beim nächsten Termin dabei sind.<br><br>MfG"</div>
+                        <div class="info"><strong>Bei wiederholtem Fehlen:</strong> Dokumente selbst beschaffen, Kosten dokumentieren.</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+                </div>
+
+                <div id="dt-clarify" class="result hidden">
+                    <h3>Sachliche Richtigstellung</h3>
+                    <div class="result-content">
+                        <div class="example">"Zur Klarstellung: [Ein Fakt in einem Satz].<br><br>Mit freundlichen Grüßen"</div>
+                        <div class="principle-box"><strong>Ein Fakt. Ein Satz. Fertig.</strong> Keine Begründungen, keine Emotionen.</div>
+                        <div class="warning">Nur klarstellen wenn dokumentarisch relevant für Jugendamt/Gericht.</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
+                </div>
+
+                <!-- Verstöße -->
+                <div id="dt-violation" class="decision-node hidden">
+                    <div class="question">Welche Art von Verstoß?</div>
+                    <div class="options">
+                        <div class="option" onclick="showNode('dt-viol-access')">Umgangsverweigerung</div>
+                        <div class="option" onclick="showNode('dt-viol-docs')">Dokumente nicht mitgegeben</div>
+                        <div class="option" onclick="showNode('dt-viol-info')">Information verweigert</div>
+                        <div class="option" onclick="showNode('dt-viol-decision')">Entscheidung ohne Absprache</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
+                </div>
+
+                <div id="dt-viol-access" class="result hidden">
+                    <h3>Dokumentieren &amp; Eskalieren</h3>
+                    <div class="result-content">
+                        <p><strong>Schritt 1 – An den anderen Elternteil (einmalig):</strong></p>
+                        <div class="example">"Am [Datum] war laut [Vereinbarung] meine Umgangszeit. Der Umgang hat nicht stattgefunden.<br>Bitte halten Sie sich an die Vereinbarung.<br><br>MfG"</div>
+                        <p class="mt-20"><strong>Schritt 2 – An Jugendamt:</strong></p>
+                        <div class="example">"Sehr geehrte Damen und Herren,<br>ich dokumentiere: Am [Datum] war laut Punkt [X] meine Umgangszeit. [Kurze Sachdarstellung].<br>Bitte um Dokumentation.<br><br>MfG"</div>
+                        <p class="mt-20"><strong>Schritt 3 – Bei Wiederholung:</strong></p>
+                        <div class="warning">→ Ordnungsmittelantrag beim Familiengericht (§ 89 FamFG) · Rechtsberatung einholen</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+                </div>
+
+                <div id="dt-viol-docs" class="result hidden">
+                    <h3>Auffordern, warten, selbst handeln</h3>
+                    <div class="result-content">
+                        <div class="example">"Laut [Vereinbarung] sind [Dokumente] mitzugeben. Bitte beim nächsten Termin dabei haben. MfG"</div>
+                        <p class="mt-20"><strong>Nach 2 Wochen ohne Besserung:</strong></p>
+                        <div class="success">1. Dokumente selbst beschaffen<br>2. „Dokumente waren erneut nicht dabei. Ich habe Ersatz beantragt."<br>3. Kosten und Zeitaufwand dokumentieren</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+                </div>
+
+                <div id="dt-viol-info" class="result hidden">
+                    <h3>Direkt zur Quelle</h3>
+                    <div class="result-content">
+                        <div class="example">"Ich benötige [Information]. Als Sorgeberechtigter habe ich Anspruch darauf. Bitte bis [Datum]. MfG"</div>
+                        <p class="mt-20"><strong>Falls keine Antwort:</strong></p>
+                        <div class="success">Keine zweite Anfrage. → Direkt zur Quelle: Schule, Arzt, Klinik · Jugendamt informieren</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+                </div>
+
+                <div id="dt-viol-decision" class="result hidden">
+                    <h3>Nach Gewicht unterscheiden</h3>
+                    <div class="result-content">
+                        <p><strong>Wichtige Entscheidungen (Gesundheit, Schule, Wohnort):</strong></p>
+                        <div class="warning">→ Schriftlicher Widerspruch · Dokumentation Jugendamt · Bei Blockade: § 1628 BGB Antrag</div>
+                        <p class="mt-20"><strong>Alltägliche Entscheidungen (Kleidung, Hobbys):</strong></p>
+                        <div class="success">→ Nicht eingreifen · Fokus auf wichtige Themen</div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
+                </div>
+
+                <!-- Notfall -->
+                <div id="dt-emergency" class="result hidden">
+                    <h3>⚠️ Notfall-Kommunikation</h3>
+                    <div class="result-content">
+                        <div class="warning">
+                            <strong>Sofort und direkt informieren:</strong><br>
+                            „[Kind] [Situation]. Ich bin/war [Ort]. [Status]. Weitere Info folgt."
+                        </div>
+                        <div class="principle-box">
+                            <strong>Reihenfolge:</strong><br>
+                            1. Handeln (Notruf, Krankenhaus)<br>
+                            2. Informieren (Fakten)<br>
+                            3. Dokumentieren (später)<br>
+                            4. Diskussion (viel später oder nie)
+                        </div>
+                    </div>
+                    <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
                 </div>
             </div>
+
+            <!-- ── Hintergrundwissen ───────────────────────── -->
+            <div id="guide-background" class="guide-sub-section">
+                <div class="guide-sub-header">
+                    <button class="back-button--light" onclick="showGuideSection('overview')">← Zurück</button>
+                    <h2>📚 Hintergrundwissen</h2>
+                </div>
+                <div class="guide-info-box">
+                    <strong>Was ist Hochkonflikt-Elternschaft?</strong><br>
+                    Anhaltende, intensive Konflikte zwischen getrennt lebenden Eltern, die trotz Regelungen fortbestehen und alle Beteiligten belasten.
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Typische Merkmale</h4>
+                    <ul>
+                        <li>Andauernde Streitigkeiten trotz Vereinbarungen</li>
+                        <li>Häufige Gerichtsverfahren</li>
+                        <li>Schwierige Alltagsabsprachen</li>
+                        <li>Kinder werden in den Konflikt einbezogen</li>
+                        <li>Vergangenes wird wiederholt aufgewärmt</li>
+                    </ul>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Projektion</h4>
+                    <p>Eigene inakzeptable Verhaltensweisen werden dem anderen zugeschrieben. <em>Beispiel: Wer selbst Termine nicht einhält, wirft Ihnen Unzuverlässigkeit vor.</em></p>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>DARVO</h4>
+                    <p>Deny (Leugnen) → Attack (Angreifen) → Reverse (Täter-Opfer-Umkehr). Auf jede berechtigte Kritik folgt erst Leugnen, dann Gegenangriff, dann Opferrolle.</p>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Gaslighting</h4>
+                    <p>Systematisches Anzweifeln Ihrer Wahrnehmung und Ihres Gedächtnisses. Ziel: Unsicherheit erzeugen, die eigene Deutungshoheit sichern.</p>
+                </div>
+                <div class="guide-warn">
+                    <strong>Warum „normale" Kommunikation nicht funktioniert:</strong> Hochkonflikt-Persönlichkeiten nutzen offene Kommunikation als Informationsquelle oder Eskalationshebel. Deeskalation muss einseitig funktionieren – unabhängig davon, ob die andere Seite mitmacht.
+                </div>
+            </div>
+
+            <!-- ── Langfriststrategie ─────────────────────── -->
+            <div id="guide-longterm" class="guide-sub-section">
+                <div class="guide-sub-header">
+                    <button class="back-button--light" onclick="showGuideSection('overview')">← Zurück</button>
+                    <h2>📈 Langfristige Strategie</h2>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Phase 1: Akut-Konflikt (0–12 Monate)</h4>
+                    <p>Hohe Emotionalität, instabile Regelungen.<br><strong>Fokus:</strong> Selbstschutz, klare Regelungen, Dokumentation beginnen.</p>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Phase 2: Chronifizierung (1–3 Jahre)</h4>
+                    <p>Muster stabilisieren sich.<br><strong>Fokus:</strong> Konsistente Strategie, Kinder stärken, eigene Lebensqualität.</p>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Phase 3: Stabilisierung (3+ Jahre)</h4>
+                    <p>Strukturen festigen sich durch Gerichts­beschlüsse, Schulalter der Kinder.<br><strong>Fokus:</strong> Grauzone reduzieren, Kontakte minimieren, Kinder zunehmend selbst kommunizieren lassen.</p>
+                </div>
+                <div class="guide-info-box">
+                    <strong>Die 5-Jahres-Frage:</strong> Fragen Sie sich vor jeder Reaktion – „Wird das in 5 Jahren noch wichtig sein?" Wenn nein, sparen Sie Energie.
+                </div>
+                <div class="guide-warn">
+                    <strong>Langfristige Konstanz schlägt kurzfristige Siege.</strong> Jede eskalierende Reaktion gibt dem anderen Elternteil Material. Ruhiges, vorhersehbares Verhalten über Jahre hinweg ist die wirksamste Strategie.
+                </div>
+            </div>
+
+            <!-- ── Selbstschutz ───────────────────────────── -->
+            <div id="guide-selfcare" class="guide-sub-section">
+                <div class="guide-sub-header">
+                    <button class="back-button--light" onclick="showGuideSection('overview')">← Zurück</button>
+                    <h2>🛡️ Selbstschutz</h2>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Emotionale Grenzen setzen</h4>
+                    <ul>
+                        <li>Feste Zeiten für Kommunikation (z. B. nur werktags 9–18 Uhr)</li>
+                        <li>48-Stunden-Regel: Nicht sofort antworten, abwarten ob Antwort nötig ist</li>
+                        <li>Gedankenstopp-Technik bei Grübeln über Konflikte</li>
+                    </ul>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Unterstützungssystem aufbauen</h4>
+                    <ul>
+                        <li>Eigene Therapie / Psychologische Beratung</li>
+                        <li>Hochkonflikt-geschulte Berater oder Anwälte</li>
+                        <li>Selbsthilfegruppen für Betroffene</li>
+                        <li>Vertrauenspersonen als „Reality Check"</li>
+                    </ul>
+                </div>
+                <div class="guide-mechanism-box">
+                    <h4>Dokumentation als Entlastung</h4>
+                    <p>Schreiben Sie Ereignisse zeitnah auf. Das schont das Gedächtnis, reduziert Grübeln und schützt vor Gaslighting. Eine App oder ein verschlüsseltes Notizbuch reicht.</p>
+                </div>
+                <div class="guide-warn">
+                    <strong>⚠️ Warnsignale für Überlastung:</strong> Schlafstörungen · Sozialer Rückzug · Chronische Erschöpfung · Gedanken drehen sich nur um den Konflikt<br><br>
+                    Bei diesen Zeichen: Professionelle Hilfe holen. Sie können niemanden schützen, wenn Sie selbst ausbrennen.
+                </div>
+            </div>
+
         </div>
     </div>
 
@@ -1753,7 +1333,7 @@
     </footer>
 
     <script>
-        function showPage(pageId) {
+        function showPage(pageId, guideSection) {
             document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
             document.getElementById(pageId).classList.add('active');
             window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -1765,6 +1345,8 @@
             const toggle = document.querySelector('.nav-toggle');
             navLinks.classList.remove('open');
             if (toggle) { toggle.setAttribute('aria-expanded', 'false'); }
+            // Guide-Abschnitt setzen
+            if (pageId === 'guide') { showGuideSection(guideSection || 'overview'); }
         }
 
         function toggleNav(btn) {
@@ -1778,6 +1360,30 @@
             document.querySelectorAll('.inst-tab').forEach(b => b.classList.remove('active'));
             document.getElementById('inst-' + id).classList.add('active');
             btn.classList.add('active');
+        }
+
+        function showGuideSection(sectionId) {
+            document.querySelectorAll('.guide-sub-section').forEach(s => s.classList.remove('active'));
+            const target = document.getElementById('guide-' + sectionId);
+            if (target) { target.classList.add('active'); }
+            // Entscheidungsbaum-Start zurücksetzen wenn "written" geöffnet wird
+            if (sectionId === 'written') { showNode('dt-start'); }
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function showNode(nodeId) {
+            const tree = document.getElementById('guide-written');
+            if (!tree) return;
+            tree.querySelectorAll('.decision-node, .result').forEach(n => n.classList.add('hidden'));
+            const target = document.getElementById(nodeId);
+            if (target) {
+                target.classList.remove('hidden');
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        }
+
+        function navigateToGuide(sectionId) {
+            showPage('guide', sectionId);
         }
 
         document.getElementById('contactForm').addEventListener('submit', async function(e) {
