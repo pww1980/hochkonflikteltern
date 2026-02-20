@@ -452,6 +452,76 @@ nav {
     color: var(--color-primary);
 }
 
+/* ── Co-Parenting vs. Parallel Parenting Vergleich ───── */
+.parenting-compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 20px 0;
+}
+.parenting-col {
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid var(--color-border);
+}
+.parenting-col-header {
+    padding: 16px 20px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.parenting-col-header.co     { background: #b05e4a; }
+.parenting-col-header.parallel { background: #4a7b5e; }
+.parenting-col-body {
+    padding: 18px 20px;
+    background: #ffffff;
+}
+.parenting-col-body ul {
+    margin: 0;
+    padding-left: 20px;
+    color: var(--color-secondary);
+    font-size: 15px;
+    line-height: 1.8;
+}
+.parenting-verdict {
+    background: #f0f7f3;
+    border-left: 5px solid #4a7b5e;
+    border-radius: 8px;
+    padding: 18px 22px;
+    margin: 20px 0;
+    color: var(--color-primary);
+    font-size: 15px;
+    line-height: 1.7;
+}
+.parenting-verdict strong { display: block; font-size: 17px; margin-bottom: 6px; }
+.parenting-criteria {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 14px;
+    margin: 16px 0;
+}
+.parenting-criteria-item {
+    background: #ffffff;
+    border: 2px solid var(--color-border);
+    border-radius: 10px;
+    padding: 16px 18px;
+}
+.parenting-criteria-item h5 {
+    margin: 0 0 6px;
+    font-size: 15px;
+    color: var(--color-primary);
+}
+.parenting-criteria-item p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--color-secondary);
+    line-height: 1.6;
+}
+@media (max-width: 600px) {
+    .parenting-compare { grid-template-columns: 1fr; }
+}
+
 /* ── Meetings Page ────────────────────────────────────── */
 .meetings-wrapper {
     max-width: 860px;
