@@ -617,12 +617,17 @@
                         <li><strong>Übergaben ohne Gespräch:</strong> Das Kind wird übergeben, nicht die Eltern kommunizieren. Öffentliche Orte oder Schule als Übergabeort reduzieren Eskalation.</li>
                         <li><strong>Umgangsplan schriftlich fixieren:</strong> Feiertage, Ferien, Geburtstage – alles geregelt, keine Verhandlungsspielräume, die als Druckmittel genutzt werden können.</li>
                         <li><strong>Unterschiedliche Regeln akzeptieren:</strong> Was beim anderen Elternteil gilt, ist dort die Realität. Das Kind lernt, in verschiedenen Kontexten zu funktionieren – eine Fähigkeit, die ihm das ganze Leben nützt.</li>
-                        <li><strong>Informationen über das Kind nur über das Kind weitergeben lassen, wenn es altersgemäß ist</strong> – oder direkt vom Arzt / der Schule bei beiden Elternteilen anfragen.</li>
+                        <li><strong>Informationen über das Kind direkt bei der Quelle einholen:</strong> Schulnoten und Mitteilungen über Schul-Apps, Gesundheitsdaten über digitale Patientenportale oder direkt beim Fachpersonal – beide Elternteile können sich dort eigenständig informieren. Das Kind wird so komplett als Bote entlastet und nicht unbeabsichtigt instrumentalisiert.</li>
                     </ul>
                 </div>
 
                 <div class="guide-warn">
                     <strong>Parallel Parenting ist kein Versagen – es ist eine Schutzmaßnahme.</strong> Wer in einer Hochkonfliktsituation auf Co-Parenting besteht, handelt nicht im Interesse des Kindes, sondern im Glauben an eine Normalität, die in dieser Situation nicht existiert. Parallel Parenting ist die ehrlichere, realistischere und kindgerechtere Antwort auf eine Situation, die kein "Ideal" mehr kennt.
+                </div>
+
+                <div class="guide-info-box guide-info-box--pro">
+                    <span class="pro-label">Hinweis für Fachkräfte</span>
+                    <p style="margin:0; color: var(--color-primary); font-size: 15px; line-height: 1.7;">Parallel Parenting ist <strong>keine dauerhafte Kontaktverweigerung zwischen den Eltern</strong> und kein Zeichen mangelnder Kooperationsbereitschaft. Es ist eine strukturierte, forschungsbasierte Deeskalationsstrategie, die gezielt Berührungspunkte reduziert, um dem Kind zwei emotional unbelastete Elternhäuser zu ermöglichen. Verfahrensbeistände, Jugendamtsmitarbeiter und Familienrichter, die dieses Modell beobachten, sehen kein gestörtes System – sie sehen ein System, das gelernt hat, dem Kind Vorrang zu geben. Die wissenschaftliche Grundlage liefern u. a. Johnston (1994) und Pruett &amp; Johnston (2004).</p>
                 </div>
 
                 <div class="guide-info-box">
@@ -1637,23 +1642,6 @@
             const open = navLinks.classList.toggle('open');
             btn.setAttribute('aria-expanded', open ? 'true' : 'false');
         }
-
-        // Dropdown: auf Touch/Klick öffnen, außerhalb schließen
-        document.addEventListener('DOMContentLoaded', function () {
-            document.querySelectorAll('.nav-dropdown > a').forEach(function (link) {
-                link.addEventListener('click', function (e) {
-                    const li = this.closest('.nav-dropdown');
-                    const isOpen = li.classList.contains('open');
-                    document.querySelectorAll('.nav-dropdown').forEach(d => d.classList.remove('open'));
-                    if (!isOpen) { li.classList.add('open'); e.preventDefault(); }
-                });
-            });
-            document.addEventListener('click', function (e) {
-                if (!e.target.closest('.nav-dropdown')) {
-                    document.querySelectorAll('.nav-dropdown').forEach(d => d.classList.remove('open'));
-                }
-            });
-        });
 
         function showInst(id, btn) {
             document.querySelectorAll('.inst-panel').forEach(p => p.classList.remove('active'));
