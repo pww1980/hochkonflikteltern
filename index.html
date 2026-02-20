@@ -11,7 +11,7 @@
             --color-primary: #6b6456;
             --color-secondary: #8a8275;
             --color-accent: #c4bcad;
-            --color-btn: #d4cec0;
+            --color-btn: #6b6456;
             --color-border: #e8e4dc;
             --color-bg-light: #faf9f6;
             --shadow-card: 0 4px 15px rgba(107, 100, 86, 0.08);
@@ -59,7 +59,8 @@
             font-weight: 500;
             transition: color 0.3s;
         }
-        .nav-links a:hover { color: var(--color-accent); }
+        .nav-links a:hover { color: var(--color-primary); text-decoration: underline; }
+        .nav-links a.active { color: var(--color-primary); font-weight: 700; text-decoration: underline; }
 
         /* Hero Section */
         .hero {
@@ -112,11 +113,11 @@
             box-shadow: 0 4px 15px rgba(196, 188, 173, 0.3);
         }
         .cta-button:hover {
-            background: var(--color-accent);
+            background: #5a5347;
             transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(196, 188, 173, 0.4);
+            box-shadow: 0 6px 20px rgba(107, 100, 86, 0.4);
         }
-        .cta-button--secondary { background: var(--color-accent); }
+        .cta-button--secondary { background: #8a8275; }
         .cta-mt { margin-top: 40px; }
         .cta-mx { margin: 10px; }
 
@@ -280,7 +281,7 @@
             transition: all 0.3s;
         }
         .submit-button:hover {
-            background: var(--color-accent);
+            background: #5a5347;
             transform: translateY(-2px);
         }
         .privacy-note {
@@ -359,8 +360,8 @@
             transition: all .2s;
         }
         .inst-tab.active, .inst-tab:hover {
-            border-color: var(--color-accent);
-            background: var(--color-accent);
+            border-color: var(--color-btn);
+            background: var(--color-btn);
             color: #fff;
         }
         .inst-panel { display: none; }
@@ -422,7 +423,7 @@
             flex-shrink: 0;
             font-size: 16px;
             margin-top: -1px;
-            color: var(--color-accent);
+            color: var(--color-primary);
         }
         .do-dont {
             display: grid;
@@ -461,7 +462,7 @@
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: .06em;
-            color: #90a4ae;
+            color: var(--color-secondary);
             margin-bottom: 8px;
         }
         .meetings-guide-cta {
@@ -686,7 +687,7 @@
             background: var(--color-btn);
             color: #ffffff;
         }
-        .cookie-btn--accept:hover { background: var(--color-accent); }
+        .cookie-btn--accept:hover { background: #5a5347; }
         .cookie-btn--decline {
             background: transparent;
             color: var(--color-primary);
@@ -694,12 +695,50 @@
         }
         .cookie-btn--decline:hover { border-color: var(--color-accent); }
 
+        /* Hamburger Button */
+        .nav-toggle {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 4px;
+        }
+        .nav-toggle span {
+            display: block;
+            width: 24px;
+            height: 2px;
+            background: var(--color-primary);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .nav-toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+        .nav-toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+        .nav-toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
         /* Mobile */
         @media (max-width: 768px) {
             .hero h1 { font-size: 32px; }
             .hero .subtitle { font-size: 18px; }
-            .nav-container { flex-direction: column; gap: 20px; }
-            .nav-links { flex-direction: column; gap: 15px; text-align: center; }
+            .nav-container { flex-wrap: wrap; padding: 16px 20px; }
+            .nav-toggle { display: flex; }
+            .nav-links {
+                display: none;
+                width: 100%;
+                flex-direction: column;
+                gap: 0;
+                text-align: center;
+                border-top: 1px solid var(--color-border);
+                margin-top: 8px;
+                padding-top: 8px;
+            }
+            .nav-links.open { display: flex; }
+            .nav-links li a {
+                display: block;
+                padding: 12px 0;
+                border-bottom: 1px solid var(--color-border);
+            }
             .cookie-banner { flex-direction: column; padding: 20px; }
             .cookie-actions { width: 100%; }
             .cookie-btn { flex: 1; text-align: center; }
@@ -711,13 +750,16 @@
     <nav>
         <div class="nav-container">
             <a href="#" class="logo" onclick="showPage('home')">Hochkonflikt Eltern</a>
-            <ul class="nav-links">
-                <li><a href="#" onclick="showPage('home')">Start</a></li>
-                <li><a href="#" onclick="showPage('guide')">Leitfaden</a></li>
-                <li><a href="#" onclick="showPage('patterns')">Muster</a></li>
-                <li><a href="#" onclick="showPage('meetings')">Gespräche</a></li>
-                <li><a href="#" onclick="showPage('about')">Über mich</a></li>
-                <li><a href="#" onclick="showPage('contact')">Kontakt</a></li>
+            <button class="nav-toggle" aria-label="Menü öffnen" aria-expanded="false" onclick="toggleNav(this)">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
+                <li><a href="#" data-page="guide" onclick="showPage('guide')">Leitfaden</a></li>
+                <li><a href="#" data-page="patterns" onclick="showPage('patterns')">Muster</a></li>
+                <li><a href="#" data-page="meetings" onclick="showPage('meetings')">Gespräche</a></li>
+                <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
+                <li><a href="#" data-page="contact" onclick="showPage('contact')">Kontakt</a></li>
             </ul>
         </div>
     </nav>
@@ -784,11 +826,11 @@
     <div id="guide" class="page">
         <div class="guide-wrapper">
             <h1>Der vollständige Leitfaden</h1>
-            <p>Öffnen Sie den Leitfaden direkt im Browser oder laden Sie ihn herunter.</p>
+            <p>Praktische Strategien, psychologisches Hintergrundwissen und konkrete Handlungsempfehlungen für friedlichere Kommunikation – auch wenn der andere Elternteil nicht kooperiert.</p>
 
             <div class="guide-downloads">
-                <a href="Kommunikationsleitfaden_Ultimate.html" class="cta-button cta-mx">Leitfaden im Browser öffnen</a>
-                <a href="Kommunikationsleitfaden_Ultimate.html" download class="cta-button cta-button--secondary cta-mx">Als HTML herunterladen</a>
+                <a href="#" class="cta-button cta-mx" onclick="showPage('patterns')">Muster erkennen →</a>
+                <a href="#" class="cta-button cta-button--secondary cta-mx" onclick="showPage('meetings')">Gespräche vorbereiten →</a>
             </div>
 
             <div class="about-section guide-section">
@@ -1716,6 +1758,20 @@
             document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
             document.getElementById(pageId).classList.add('active');
             window.scrollTo({ top: 0, behavior: 'smooth' });
+            document.querySelectorAll('.nav-links a').forEach(a => {
+                a.classList.toggle('active', a.dataset.page === pageId);
+            });
+            // Mobiles Menü schließen
+            const navLinks = document.getElementById('navLinks');
+            const toggle = document.querySelector('.nav-toggle');
+            navLinks.classList.remove('open');
+            if (toggle) { toggle.setAttribute('aria-expanded', 'false'); }
+        }
+
+        function toggleNav(btn) {
+            const navLinks = document.getElementById('navLinks');
+            const open = navLinks.classList.toggle('open');
+            btn.setAttribute('aria-expanded', open ? 'true' : 'false');
         }
 
         function showInst(id, btn) {
