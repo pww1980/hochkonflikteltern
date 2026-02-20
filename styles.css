@@ -172,18 +172,13 @@ nav {
     grid-column: 1 / -1;
     background: var(--color-btn);
     color: #ffffff;
-    display: flex;
-    align-items: center;
-    gap: 40px;
+    text-align: center;
     cursor: default;
 }
 .feature-card--child:hover { transform: none; }
-.feature-card--child .feature-icon { font-size: 64px; margin-bottom: 0; flex-shrink: 0; }
-.feature-card--child h3 { font-size: 24px; color: #ffffff; margin-bottom: 12px; }
-.feature-card--child p  { color: rgba(255,255,255,.88); font-size: 17px; line-height: 1.75; margin: 0; }
-@media (max-width: 600px) {
-    .feature-card--child { flex-direction: column; gap: 20px; text-align: center; }
-}
+.feature-card--child .feature-icon { font-size: 56px; margin-bottom: 16px; }
+.feature-card--child h3 { font-size: 26px; color: #ffffff; margin-bottom: 16px; }
+.feature-card--child p  { color: rgba(255,255,255,.88); font-size: 17px; line-height: 1.75; margin: 0 auto; max-width: 680px; }
 
 /* ── About Section ────────────────────────────────────── */
 .about-section {
