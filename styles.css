@@ -194,7 +194,9 @@ nav {
     border-radius: 20px;
     box-shadow: var(--shadow-section);
 }
-.about-section h2 { font-size: 36px; color: var(--color-primary); margin-bottom: 30px; text-align: center; }
+.about-section h2 { font-size: 36px; color: var(--color-primary); margin-bottom: 20px; text-align: center; }
+.about-photo-wrap { text-align: center; margin-bottom: 32px; }
+.about-photo { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 4px solid var(--color-accent); box-shadow: 0 4px 20px rgba(0,0,0,.12); }
 .about-section p  { font-size: 18px; color: var(--color-primary); line-height: 1.8; margin-bottom: 20px; }
 .about-section .highlight {
     background: var(--color-bg-light);
@@ -297,6 +299,17 @@ nav {
 }
 .guide-back-btn:hover { border-color: var(--color-btn); background: var(--color-btn); color: #fff; }
 .guide-sub-section h2 { font-size: 28px; color: var(--color-primary); }
+
+/* ── BIFF Box ─────────────────────────────────────────── */
+.biff-box { background: #fff; border: 2px solid var(--color-accent); border-radius: 14px; padding: 28px 32px; margin-bottom: 36px; }
+.biff-title { font-size: 18px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px; }
+.biff-box > p { color: var(--color-secondary); margin-bottom: 20px; font-size: 15px; line-height: 1.6; }
+.biff-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+@media (max-width: 600px) { .biff-grid { grid-template-columns: 1fr; } }
+.biff-item { background: var(--color-bg-light); border-radius: 8px; padding: 12px 16px; font-size: 15px; color: var(--color-primary); line-height: 1.5; }
+.biff-letter { font-size: 22px; font-weight: 800; color: var(--color-accent); margin-right: 2px; }
+.biff-label { font-weight: 700; margin-right: 6px; }
+.biff-note { font-size: 14px; color: var(--color-secondary); font-style: italic; margin: 0; }
 
 /* ── Decision Tree ────────────────────────────────────── */
 .decision-node {
@@ -527,7 +540,8 @@ nav {
 /* ── Patterns Page ────────────────────────────────────── */
 .patterns-wrapper { max-width: 960px; margin: 80px auto; padding: 0 30px 80px; }
 .patterns-wrapper > h1 { font-size: 36px; color: var(--color-primary); text-align: center; margin-bottom: 12px; }
-.patterns-intro { text-align: center; color: var(--color-secondary); font-size: 17px; line-height: 1.7; max-width: 680px; margin: 0 auto 60px; }
+.patterns-intro { text-align: center; color: var(--color-secondary); font-size: 17px; line-height: 1.7; max-width: 680px; margin: 0 auto 20px; }
+.patterns-hint { text-align: center; color: var(--color-accent); font-size: 15px; margin: 0 auto 48px; }
 .pattern-category { margin-bottom: 60px; }
 .pattern-category summary { list-style: none; cursor: pointer; user-select: none; }
 .pattern-category summary::-webkit-details-marker { display: none; }
