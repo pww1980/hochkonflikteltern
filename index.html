@@ -18,8 +18,10 @@
             <ul class="nav-links" id="navLinks">
                 <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
                 <li class="nav-dropdown" id="navDropdownLeitfaden">
-                    <a href="#" data-page="guide" onclick="showPage('guide'); return false;">Leitfaden</a>
-                    <ul class="nav-dropdown-menu">
+                    <button class="nav-dropdown-toggle" onclick="toggleDropdown('navDropdownLeitfaden', event)" aria-expanded="false" aria-haspopup="true">
+                        Leitfaden <span class="dd-arrow">▾</span>
+                    </button>
+                    <ul class="nav-dropdown-menu" role="menu">
                         <li><a href="#" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
                         <li><a href="#" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
                         <li><a href="#" onclick="navigateToGuide('background'); return false;">📚 Hintergrundwissen</a></li>
@@ -1627,11 +1629,12 @@
             document.querySelectorAll('.nav-links a').forEach(a => {
                 a.classList.toggle('active', a.dataset.page === pageId);
             });
-            // Mobiles Menü schließen
+            // Menüs schließen
             const navLinks = document.getElementById('navLinks');
             const toggle = document.querySelector('.nav-toggle');
             navLinks.classList.remove('open');
             if (toggle) { toggle.setAttribute('aria-expanded', 'false'); }
+            if (typeof closeAllDropdowns === 'function') closeAllDropdowns();
             // Guide-Abschnitt setzen
             if (pageId === 'guide') { showGuideSection(guideSection || 'overview'); }
         }
@@ -1640,7 +1643,32 @@
             const navLinks = document.getElementById('navLinks');
             const open = navLinks.classList.toggle('open');
             btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+            // Untermenüs beim Schließen des Hamburger zurücksetzen
+            if (!open) closeAllDropdowns();
         }
+
+        function toggleDropdown(id, event) {
+            event.stopPropagation();
+            const li = document.getElementById(id);
+            const isOpen = li.classList.contains('open');
+            closeAllDropdowns();
+            if (!isOpen) {
+                li.classList.add('open');
+                li.querySelector('.nav-dropdown-toggle').setAttribute('aria-expanded', 'true');
+            }
+        }
+
+        function closeAllDropdowns() {
+            document.querySelectorAll('.nav-dropdown.open').forEach(function(el) {
+                el.classList.remove('open');
+                const btn = el.querySelector('.nav-dropdown-toggle');
+                if (btn) btn.setAttribute('aria-expanded', 'false');
+            });
+        }
+
+        // Klick außerhalb schließt Dropdowns
+        document.addEventListener('click', function() { closeAllDropdowns(); });
+        document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeAllDropdowns(); });
 
         function showInst(id, btn) {
             document.querySelectorAll('.inst-panel').forEach(p => p.classList.remove('active'));
