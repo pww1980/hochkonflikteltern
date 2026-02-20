@@ -17,9 +17,19 @@
             </button>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
-                <li><a href="#" data-page="guide" onclick="showPage('guide')">Leitfaden</a></li>
+                <li class="nav-dropdown" id="navDropdownLeitfaden">
+                    <a href="#" data-page="guide" onclick="showPage('guide'); return false;">Leitfaden</a>
+                    <ul class="nav-dropdown-menu">
+                        <li><a href="#" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
+                        <li><a href="#" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
+                        <li><a href="#" onclick="navigateToGuide('background'); return false;">📚 Hintergrundwissen</a></li>
+                        <li><a href="#" onclick="navigateToGuide('longterm'); return false;">📈 Langfriststrategie</a></li>
+                        <li><a href="#" onclick="navigateToGuide('selfcare'); return false;">🛡️ Selbstschutz</a></li>
+                        <li><a href="#" onclick="navigateToGuide('parenting'); return false;">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
+                    </ul>
+                </li>
                 <li><a href="#" data-page="patterns" onclick="showPage('patterns')">Muster</a></li>
-                    <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
+                <li><a href="#" data-page="about" onclick="showPage('about')">Über mich</a></li>
                 <li><a href="#" data-page="contact" onclick="showPage('contact')">Kontakt</a></li>
             </ul>
         </div>
@@ -56,6 +66,11 @@
                     <div class="feature-icon">🛡️</div>
                     <h3>Selbstschutz</h3>
                     <p>Schützen Sie Ihre emotionale Gesundheit und Energie – mit praktischen Techniken für den Alltag.</p>
+                </div>
+                <div class="feature-card" onclick="navigateToGuide('parenting')">
+                    <div class="feature-icon">👨‍👩‍👧</div>
+                    <h3>Co- vs. Parallel Parenting</h3>
+                    <p>Warum Co-Parenting im Hochkonflikt oft scheitert – und wie Parallel Parenting das Kind schützt. Mit Vergleich, Forschungsbezug und Praxistipps.</p>
                 </div>
                 <div class="feature-card" onclick="navigateToGuide('background')">
                     <div class="feature-icon">📚</div>
@@ -1621,6 +1636,23 @@
             const open = navLinks.classList.toggle('open');
             btn.setAttribute('aria-expanded', open ? 'true' : 'false');
         }
+
+        // Dropdown: auf Touch/Klick öffnen, außerhalb schließen
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.nav-dropdown > a').forEach(function (link) {
+                link.addEventListener('click', function (e) {
+                    const li = this.closest('.nav-dropdown');
+                    const isOpen = li.classList.contains('open');
+                    document.querySelectorAll('.nav-dropdown').forEach(d => d.classList.remove('open'));
+                    if (!isOpen) { li.classList.add('open'); e.preventDefault(); }
+                });
+            });
+            document.addEventListener('click', function (e) {
+                if (!e.target.closest('.nav-dropdown')) {
+                    document.querySelectorAll('.nav-dropdown').forEach(d => d.classList.remove('open'));
+                }
+            });
+        });
 
         function showInst(id, btn) {
             document.querySelectorAll('.inst-panel').forEach(p => p.classList.remove('active'));
