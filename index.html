@@ -102,6 +102,9 @@
     <div id="guide" class="page">
         <div class="guide-wrapper">
 
+            <!-- ── Breadcrumb ────────────────────────────── -->
+            <nav id="guide-breadcrumb" class="guide-breadcrumb" style="display:none;" aria-label="Navigationspfad"></nav>
+
             <!-- ── Übersicht ─────────────────────────────── -->
             <div id="guide-overview" class="guide-sub-section active">
                 <h1>Kommunikationsleitfaden</h1>
@@ -1667,12 +1670,59 @@
             btn.classList.add('active');
         }
 
+        const _sectionLabels = {
+            'written':    'Schriftliche Kommunikation',
+            'background': 'Hintergrundwissen',
+            'longterm':   'Langfriststrategie',
+            'parenting':  'Co- vs. Parallel Parenting',
+            'selfcare':   'Selbstschutz'
+        };
+        const _nodeLabels = {
+            'dt-received':      'Ich habe eine Nachricht erhalten',
+            'dt-send':          'Ich muss etwas mitteilen',
+            'dt-violation':     'Verstoß gegen Vereinbarungen',
+            'dt-emergency':     'Notfall / Dringend',
+            'dt-attack':        'Angriff / Vorwurf',
+            'dt-info':          'Sachliche Information',
+            'dt-question':      'Frage oder Diskussion',
+            'dt-change':        'Änderungsanfrage',
+            'dt-appointment':   'Termin mitteilen',
+            'dt-request-info':  'Informationen anfordern',
+            'dt-request-docs':  'Dokumente anfordern',
+            'dt-clarify':       'Sachverhalt klarstellen',
+            'dt-viol-access':   'Umgang wird verweigert',
+            'dt-viol-docs':     'Dokumente fehlen',
+            'dt-viol-info':     'Information verweigert',
+            'dt-viol-decision': 'Entscheidung ohne Absprache'
+        };
+
+        function updateBreadcrumb(sectionId, nodeId) {
+            const bc = document.getElementById('guide-breadcrumb');
+            if (!bc) return;
+            if (sectionId === 'overview') { bc.style.display = 'none'; bc.innerHTML = ''; return; }
+            const parts = [`<button class="bc-link" onclick="showGuideSection('overview')">Leitfaden</button>`];
+            const sLabel = _sectionLabels[sectionId];
+            if (sLabel) {
+                parts.push('<span class="bc-sep">›</span>');
+                if (nodeId && _nodeLabels[nodeId]) {
+                    parts.push(`<button class="bc-link" onclick="showGuideSection('${sectionId}')">${sLabel}</button>`);
+                    parts.push('<span class="bc-sep">›</span>');
+                    parts.push(`<span class="bc-current">${_nodeLabels[nodeId]}</span>`);
+                } else {
+                    parts.push(`<span class="bc-current">${sLabel}</span>`);
+                }
+            }
+            bc.innerHTML = parts.join('');
+            bc.style.display = 'flex';
+        }
+
         function showGuideSection(sectionId) {
             document.querySelectorAll('.guide-sub-section').forEach(s => s.classList.remove('active'));
             const target = document.getElementById('guide-' + sectionId);
             if (target) { target.classList.add('active'); }
             // Entscheidungsbaum-Start zurücksetzen wenn "written" geöffnet wird
             if (sectionId === 'written') { showNode('dt-start'); }
+            updateBreadcrumb(sectionId, null);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
@@ -1683,6 +1733,7 @@
             const target = document.getElementById(nodeId);
             if (target) {
                 target.classList.remove('hidden');
+                updateBreadcrumb('written', nodeId);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
         }
