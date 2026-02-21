@@ -91,6 +91,14 @@ function showNode(nodeId) {
         target.classList.remove('hidden');
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
+    const backBar = document.getElementById('dt-back-to-start');
+    if (backBar) {
+        if (nodeId === 'dt-start') {
+            backBar.classList.add('hidden');
+        } else {
+            backBar.classList.remove('hidden');
+        }
+    }
 }
 
 function navigateToGuide(sectionId) {
