@@ -714,8 +714,13 @@ footer a:hover { text-decoration: underline; }
 
 /* ── Mobile ───────────────────────────────────────────── */
 @media (max-width: 768px) {
+    .hero { padding: 40px 20px; margin: 20px auto; }
     .hero h1 { font-size: 32px; }
     .hero .subtitle { font-size: 18px; }
+    .features { padding: 0 20px; margin: 40px auto; }
+    .features h2 { font-size: 26px; margin-bottom: 32px; }
+    .feature-grid { grid-template-columns: 1fr; gap: 20px; }
+    .feature-card { padding: 28px 24px; }
     .nav-container { flex-wrap: wrap; padding: 16px 20px; }
     .nav-links {
         position: static;
