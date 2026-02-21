@@ -12,7 +12,7 @@ $description  = '25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gasligh
 <div class="page active">
         <div class="patterns-wrapper">
             <h1>Muster erkennen</h1>
-            <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="index.php">Leitfaden</a>.</p>
+            <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Diese Muster sind jedoch nur dann aussagekräftig, wenn sie systematisch und wiederholt auftreten – sie eignen sich nicht dazu, einzelne schwierige Situationen oder Reaktionen zu erklären. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="index.php">Leitfaden</a>.</p>
 
             <p class="patterns-hint">▸ Klicken Sie auf eine Kategorie, um sie auf- oder zuzuklappen.</p>
 
