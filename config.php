@@ -20,7 +20,7 @@ define('SITE_NAME', 'Hochkonflikt Eltern');
 define('SITE_URL',  'https://hochkonflikteltern.de');
 
 // Standard-OG-Bild (Social Sharing) – wird genutzt wenn keine Seite ein eigenes setzt
-define('SITE_OG_IMAGE', SITE_URL . '/ich.jpg');
+define('SITE_OG_IMAGE', SITE_URL . '/social_preview.png');
 
 // Umami Analytics
 define('UMAMI_TRACKER_URL', 'https://tracker.hochkonflikteltern.de/script.js');
