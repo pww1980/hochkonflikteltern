@@ -1,0 +1,39 @@
+# ─── Sicherheits-Header ──────────────────────────────────────────────────────
+<IfModule mod_headers.c>
+    # Verhindert MIME-Typ-Sniffing
+    Header always set X-Content-Type-Options "nosniff"
+    # Verhindert Einbettung in Frames (Clickjacking-Schutz)
+    Header always set X-Frame-Options "SAMEORIGIN"
+    # Referrer nur beim Wechsel zur externen Seite senden
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    # Kein Zugriff auf Kamera, Mikrofon, Standort
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+    # PHP-Version aus Antwort-Headern entfernen
+    Header always unset X-Powered-By
+</IfModule>
+
+# ─── Dateizugriff sperren ─────────────────────────────────────────────────────
+# config.php darf nicht direkt aufgerufen werden
+<Files "config.php">
+    Order deny,allow
+    Deny from all
+</Files>
+
+# Versteckte Dateien (.env, .git, …) sperren
+<FilesMatch "^\.">
+    Order deny,allow
+    Deny from all
+</FilesMatch>
+
+# ─── PHP-Fehlerausgabe im Browser unterdrücken ────────────────────────────────
+<IfModule mod_php.c>
+    php_flag display_errors Off
+    php_flag log_errors On
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag display_errors Off
+    php_flag log_errors On
+</IfModule>
+
+# ─── Zeichenkodierung ─────────────────────────────────────────────────────────
+AddDefaultCharset UTF-8

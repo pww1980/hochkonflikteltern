@@ -2,17 +2,8 @@
 /**
  * Kontaktformular-Handler für hochkonflikteltern.de
  * Läuft auf YunoHost (Postfix / PHP mail())
- *
- * ─── KONFIGURATION ───────────────────────────────────────────────────────────
- * Tragen Sie hier Ihre E-Mail-Adresse ein, bevor Sie die Seite live schalten:
  */
-define('RECIPIENT_EMAIL', 'ihre@email.de');   // <-- hier anpassen
-define('RECIPIENT_NAME',  'Hochkonflikt Eltern');
-define('SUBJECT_PREFIX',  '[Kontaktformular] ');
-define('RATE_LIMIT_FILE', sys_get_temp_dir() . '/hke_ratelimit.json');
-define('RATE_LIMIT_MAX',  5);   // max. Nachrichten pro IP
-define('RATE_LIMIT_SECS', 3600); // ... innerhalb dieser Sekunden (1 Stunde)
-// ─────────────────────────────────────────────────────────────────────────────
+require_once __DIR__ . '/config.php';
 
 header('Content-Type: application/json; charset=utf-8');
 header('X-Content-Type-Options: nosniff');
@@ -23,6 +14,18 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     echo json_encode(['success' => false, 'message' => 'Methode nicht erlaubt.']);
     exit;
 }
+
+// ── CSRF-Schutz ───────────────────────────────────────────────────────────────
+session_start();
+$csrf_token   = $_POST['csrf_token'] ?? '';
+$session_token = $_SESSION['csrf_token'] ?? '';
+if (empty($session_token) || !hash_equals($session_token, $csrf_token)) {
+    http_response_code(403);
+    echo json_encode(['success' => false, 'message' => 'Ungültige Anfrage. Bitte laden Sie die Seite neu und versuchen Sie es erneut.']);
+    exit;
+}
+// Token nach Verwendung ungültig machen (One-Time-Use)
+unset($_SESSION['csrf_token']);
 
 // ── Honeypot-Prüfung (Bot-Schutz) ────────────────────────────────────────────
 if (!empty($_POST['website'])) {
@@ -117,6 +120,7 @@ if ($sent) {
     http_response_code(200);
     echo json_encode(['success' => true, 'message' => 'Ihre Nachricht wurde erfolgreich gesendet. Ich melde mich so bald wie möglich bei Ihnen.']);
 } else {
+    error_log('[hochkonflikteltern] mail() fehlgeschlagen – Empfänger: ' . RECIPIENT_EMAIL . ', Betreff: ' . $mailSubject);
     http_response_code(500);
     echo json_encode(['success' => false, 'message' => 'Die Nachricht konnte leider nicht gesendet werden. Bitte versuchen Sie es später erneut oder schreiben Sie direkt eine E-Mail.']);
 }

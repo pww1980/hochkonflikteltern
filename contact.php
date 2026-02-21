@@ -1,4 +1,8 @@
 <?php
+session_start();
+// CSRF-Token für diesen Seitenaufruf generieren
+$_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+
 $current_page = 'contact';
 $title        = 'Kontakt | Hochkonflikt Eltern';
 $description  = 'Schreiben Sie uns – Fragen, Feedback oder Anregungen zum Hochkonflikt-Eltern-Leitfaden sind herzlich willkommen.';
@@ -17,6 +21,9 @@ $description  = 'Schreiben Sie uns – Fragen, Feedback oder Anregungen zum Hoch
             <form id="contactForm">
                 <!-- Status-Meldung -->
                 <div id="formStatus" class="form-status"></div>
+
+                <!-- CSRF-Schutz -->
+                <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($_SESSION['csrf_token']) ?>">
 
                 <!-- Honeypot (Bot-Schutz, für Menschen unsichtbar) -->
                 <div class="hp-field">
