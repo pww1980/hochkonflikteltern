@@ -1,83 +1,21 @@
+<?php
+$current_page = 'leitfaden';
+$title        = 'Vollständiger Leitfaden | Hochkonflikt Eltern';
+$description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche Kommunikation in Hochkonfliktsituationen – mit psychologischem Hintergrund und konkreten Formulierungen.';
+?>
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <script defer src="https://tracker.hochkonflikteltern.de/script.js" data-website-id="3579d3bd-7cda-4263-9ad2-5c98d70413ba"></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hochkonflikt-Elternschaft: Der vollständige Leitfaden</title>
-    <style>
-        :root {
-            --color-primary: #6b6456;
-            --color-secondary: #8a8275;
-            --color-accent: #c4bcad;
-            --color-btn: #6b6456;
-            --color-border: #e8e4dc;
-            --color-bg-light: #faf9f6;
-            --color-bg-subtle: #fdfcfa;
-            --shadow-container: 0 10px 40px rgba(107, 100, 86, 0.08);
-            --shadow-node: 0 2px 8px rgba(107, 100, 86, 0.05);
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
-            background: linear-gradient(135deg, #f5f3ed 0%, #ebe8df 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: #ffffff;
-            border-radius: 20px;
-            padding: 40px;
-            box-shadow: var(--shadow-container);
-        }
-        h1 { color: var(--color-primary); margin-bottom: 10px; font-size: 32px; }
-        h2 { color: var(--color-primary); margin: 30px 0 15px 0; font-size: 24px; border-bottom: 2px solid var(--color-border); padding-bottom: 10px; }
-        h3 { color: var(--color-primary); margin: 20px 0 10px 0; font-size: 20px; }
-        h4 { color: var(--color-secondary); font-size: 18px; margin: 15px 0 10px 0; }
-        p { color: var(--color-primary); line-height: 1.8; margin-bottom: 15px; }
-        ul { margin: 15px 0 15px 20px; color: var(--color-primary); line-height: 1.8; }
-        .subtitle { color: var(--color-secondary); margin-bottom: 30px; font-style: italic; line-height: 1.6; }
-        .intro-box { background: var(--color-bg-light); border-left: 4px solid var(--color-accent); padding: 20px; margin-bottom: 30px; border-radius: 8px; color: var(--color-primary); line-height: 1.8; }
-        .nav-buttons { display: flex; gap: 15px; flex-wrap: wrap; margin: 30px 0; }
-        .nav-button { background: var(--color-btn); color: #ffffff; padding: 15px 25px; border: none; border-radius: 10px; cursor: pointer; font-size: 16px; font-weight: 500; transition: all 0.3s ease; flex: 1; min-width: 200px; }
-        .nav-button:hover { background: #5a5347; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(107, 100, 86, 0.3); }
-        .decision-node { background: var(--color-bg-subtle); border-left: 5px solid var(--color-btn); padding: 25px; margin: 20px 0; border-radius: 10px; box-shadow: var(--shadow-node); }
-        .question { font-size: 20px; font-weight: bold; color: var(--color-primary); margin-bottom: 20px; }
-        .options { display: flex; flex-direction: column; gap: 12px; }
-        .option { background: #ffffff; padding: 18px 24px; border-radius: 8px; cursor: pointer; transition: all 0.3s ease; border: 2px solid var(--color-border); font-size: 16px; display: flex; align-items: center; color: var(--color-primary); }
-        .option:hover { border-color: var(--color-btn); transform: translateX(5px); box-shadow: 0 3px 10px rgba(107, 100, 86, 0.15); background: var(--color-bg-light); }
-        .option::before { content: '→'; margin-right: 15px; font-weight: bold; color: var(--color-btn); font-size: 20px; }
-        .result { background: var(--color-btn); color: #ffffff; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 6px 20px rgba(107, 100, 86, 0.2); }
-        .result h3 { font-size: 24px; margin-bottom: 15px; display: flex; align-items: center; color: #ffffff; }
-        .result h3::before { content: '✓'; margin-right: 12px; background: #ffffff; color: var(--color-btn); width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; }
-        .result-content { background: rgba(255, 255, 255, 0.15); padding: 20px; border-radius: 10px; margin-top: 15px; line-height: 1.8; }
-        .result-content p { color: #ffffff; }
-        .example { background: rgba(255, 255, 255, 0.25); padding: 15px; border-radius: 8px; margin-top: 15px; font-style: italic; border-left: 3px solid #ffffff; color: #ffffff; }
-        .example--light { background: rgba(255, 255, 255, 0.3); }
-        .warning { background: #fef9f3; border-left: 5px solid #e6d5c3; padding: 20px; border-radius: 8px; margin: 20px 0; color: var(--color-primary); }
-        .success { background: #f7f9f4; border-left: 5px solid #c4d4b8; padding: 20px; border-radius: 8px; margin: 20px 0; color: var(--color-primary); }
-        .info { background: #f9f8f5; border-left: 5px solid var(--color-btn); padding: 20px; border-radius: 8px; margin: 20px 0; color: var(--color-primary); }
-        .back-button { background: rgba(255,255,255,.15); color: #ffffff; padding: 12px 24px; border: 2px solid rgba(255,255,255,.5); border-radius: 8px; cursor: pointer; font-size: 16px; margin-top: 20px; transition: all 0.3s ease; }
-        .back-button:hover { background: rgba(255,255,255,.25); transform: translateY(-2px); }
-        .hidden { display: none; }
-        .principle-box { background: var(--color-bg-light); border-left: 4px solid var(--color-accent); padding: 15px; margin: 15px 0; border-radius: 8px; }
-        .principle-box strong { color: var(--color-primary); }
-        .context-note { background: var(--color-bg-subtle); border: 2px dashed var(--color-border); padding: 15px; margin: 20px 0; border-radius: 8px; font-size: 14px; color: var(--color-secondary); }
-        .background-section { background: var(--color-bg-subtle); padding: 30px; border-radius: 12px; margin: 30px 0; border: 1px solid var(--color-border); }
-        .mechanism-box { background: #ffffff; border: 2px solid var(--color-border); border-radius: 10px; padding: 20px; margin: 15px 0; }
-        .research-box { background: #f7f9f4; border-left: 4px solid #c4d4b8; padding: 20px; margin: 20px 0; border-radius: 8px; }
-        .mt-20 { margin-top: 20px; }
-    </style>
-</head>
+<?php include 'includes/head.php'; ?>
 <body>
-    <div class="container">
-        <h1>📋 Hochkonflikt-Elternschaft: Der vollständige Leitfaden</h1>
-        <p class="subtitle">Psychologisches Hintergrundwissen, praktische Strategien und vollständiger Entscheidungsbaum</p>
+<?php include 'includes/nav.php'; ?>
 
-        <div class="intro-box">
+<div class="page active">
+    <div class="guide-wrapper">
+
+        <h1>📋 Hochkonflikt-Elternschaft: Der vollständige Leitfaden</h1>
+        <p>Psychologisches Hintergrundwissen, praktische Strategien und vollständiger Entscheidungsbaum</p>
+
+        <div class="guide-info-box">
             <strong>Dieser umfassende Leitfaden bietet:</strong><br>
             • Tiefes Verständnis psychologischer Mechanismen<br>
             • Vollständigen, interaktiven Entscheidungsbaum für alle Situationen<br>
@@ -86,74 +24,20 @@
             • Konkrete Templates für jede Kommunikationssituation
         </div>
 
-        <div id="main-nav" class="section">
-            <h2>Navigation</h2>
-            <div class="nav-buttons">
-                <button class="nav-button" onclick="showSection('background')">📚 Hintergrundwissen</button>
-                <button class="nav-button" onclick="showSection('psychology')">🧠 Psychologie</button>
-                <button class="nav-button" onclick="showSection('patterns')">🔄 Muster erkennen</button>
-                <button class="nav-button" onclick="showSection('decision-tree')">🗺️ Entscheidungsbaum (Vollständig)</button>
-                <button class="nav-button" onclick="showSection('long-term')">📈 Langfriststrategie</button>
-                <button class="nav-button" onclick="showSection('self-care')">🛡️ Selbstschutz</button>
-            </div>
+        <div class="guide-topics">
+            <button class="guide-topic-link" onclick="location.href='background.php'">📚 Hintergrundwissen</button>
+            <button class="guide-topic-link" onclick="location.href='background.php'">🧠 Psychologie</button>
+            <button class="guide-topic-link" onclick="location.href='patterns.php'">🔄 Muster erkennen</button>
+            <button class="guide-topic-link" onclick="location.href='longterm.php'">📈 Langfriststrategie</button>
+            <button class="guide-topic-link" onclick="location.href='selfcare.php'">🛡️ Selbstschutz</button>
         </div>
 
-        <!-- BACKGROUND SECTION -->
-        <div id="background" class="section hidden">
-            <h2>📚 Hintergrundwissen</h2>
-            <div class="background-section">
-                <h3>Was ist Hochkonflikt-Elternschaft?</h3>
-                <p>Hochkonflikt-Elternschaft bezeichnet anhaltende, intensive Konflikte zwischen getrennt lebenden Eltern, die trotz Regelungen fortbestehen und alle Beteiligten belasten.</p>
-                <div class="mechanism-box">
-                    <h4>Merkmale:</h4>
-                    <ul>
-                        <li>Andauernde Streitigkeiten trotz Vereinbarungen</li>
-                        <li>Häufige Gerichtsverfahren</li>
-                        <li>Schwierige Alltagsabsprachen</li>
-                        <li>Kinder werden einbezogen</li>
-                        <li>Vergangenes wird wiederholt aufgewärmt</li>
-                    </ul>
-                </div>
-            </div>
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
-        </div>
-
-        <!-- PSYCHOLOGY SECTION -->
-        <div id="psychology" class="section hidden">
-            <h2>🧠 Psychologische Mechanismen</h2>
-            <div class="mechanism-box">
-                <h4>1. Projektion</h4>
-                <p>Eigene inakzeptable Verhaltensweisen werden dem anderen zugeschrieben.</p>
-                <p><strong>Beispiel:</strong> Wer selbst Termine nicht einhält, wirft Ihnen Unzuverlässigkeit vor.</p>
-            </div>
-            <div class="mechanism-box">
-                <h4>2. DARVO</h4>
-                <p>Deny (Leugnen) → Attack (Angreifen) → Reverse (Täter-Opfer-Umkehr)</p>
-            </div>
-            <div class="mechanism-box">
-                <h4>3. Gaslighting</h4>
-                <p>Systematisches Anzweifeln Ihrer Wahrnehmung und Ihres Gedächtnisses.</p>
-            </div>
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
-        </div>
-
-        <!-- PATTERNS SECTION -->
-        <div id="patterns" class="section hidden">
-            <h2>🔄 Typische Muster erkennen</h2>
-            <div class="mechanism-box">
-                <h4>Themen-Eskalation</h4>
-                <p>Einfache Fragen werden zu großen Konflikten.</p>
-            </div>
-            <div class="mechanism-box">
-                <h4>Verantwortungsverschiebung</h4>
-                <p>Probleme sind immer Schuld des anderen.</p>
-            </div>
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
-        </div>
-
-        <!-- COMPLETE DECISION TREE -->
-        <div id="decision-tree" class="section hidden">
+        <!-- VOLLSTÄNDIGER ENTSCHEIDUNGSBAUM -->
+        <div class="guide-sub-header" style="margin-top: 40px;">
             <h2>🗺️ Vollständiger Entscheidungsbaum</h2>
+        </div>
+
+        <div id="guide-written">
 
             <div id="dt-start" class="decision-node">
                 <div class="question">Was ist Ihre aktuelle Situation?</div>
@@ -165,7 +49,7 @@
                 </div>
             </div>
 
-            <!-- PATH 1: Received Message -->
+            <!-- PATH 1: Nachricht erhalten -->
             <div id="dt-received" class="decision-node hidden">
                 <div class="question">Welche Art von Nachricht haben Sie erhalten?</div>
                 <div class="options">
@@ -216,7 +100,7 @@
                         Keine Ratschläge. Keine Nachfragen. Keine Kritik.
                     </div>
                     <div class="info">
-                        <strong>Timing:</strong> 24-48h Antwortzeit zeigt Verlässlichkeit ohne Dringlichkeit.
+                        <strong>Timing:</strong> 24–48h Antwortzeit zeigt Verlässlichkeit ohne Dringlichkeit.
                     </div>
                 </div>
                 <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
@@ -227,10 +111,8 @@
                 <div class="result-content">
                     <p><strong>Echte Sachfrage:</strong> Konkrete Details, Termine, Informationen</p>
                     <div class="success">→ Kurz beantworten (max. 3 Sätze)</div>
-
                     <p class="mt-20"><strong>Diskussionsversuch:</strong> "Warum...", "Findest Du nicht..."</p>
                     <div class="warning">→ NICHT beantworten. Das ist ein Köder.</div>
-
                     <div class="example example--light">
                         <strong>Sachfrage:</strong> "Wann bringst Du [Kind] zurück?"<br>
                         <strong>Antwort:</strong> "Um 17 Uhr laut Vereinbarung. MfG"<br><br>
@@ -260,7 +142,7 @@
                 <button class="back-button" onclick="showNode('dt-received')">← Zurück</button>
             </div>
 
-            <!-- PATH 2: Need to Send -->
+            <!-- PATH 2: Mitteilen -->
             <div id="dt-send" class="decision-node hidden">
                 <div class="question">Was müssen Sie mitteilen?</div>
                 <div class="options">
@@ -287,7 +169,7 @@
                     <div class="info">
                         <strong>Vorlaufzeit:</strong><br>
                         • Routine: 7 Tage<br>
-                        • Arzt: 2-3 Tage<br>
+                        • Arzt: 2–3 Tage<br>
                         • Notfall: Sofort
                     </div>
                 </div>
@@ -323,12 +205,12 @@
                 <div class="result-content">
                     <div class="example">
                         "Laut [Vereinbarung] sind [Dokumente] bei Umgangsterminen mitzugeben.<br><br>
-                        Bitte stellen Sie sicher dass diese beim nächsten Termin dabei sind.<br><br>
+                        Bitte stellen Sie sicher, dass diese beim nächsten Termin dabei sind.<br><br>
                         MfG"
                     </div>
                     <div class="info">
                         <strong>Bei wiederholtem Fehlen:</strong><br>
-                        Nach 2-3 Wochen → Dokumente selbst beschaffen
+                        Nach 2–3 Wochen → Dokumente selbst beschaffen
                     </div>
                     <div class="success">
                         Kosten dokumentieren und ggf. beim Jugendamt/Gericht vorlegen
@@ -354,7 +236,7 @@
                 <button class="back-button" onclick="showNode('dt-send')">← Zurück</button>
             </div>
 
-            <!-- PATH 3: Violations -->
+            <!-- PATH 3: Verstöße -->
             <div id="dt-violation" class="decision-node hidden">
                 <div class="question">Welche Art von Verstoß?</div>
                 <div class="options">
@@ -382,7 +264,7 @@
                     </div>
                     <p class="mt-20"><strong>Schritt 3: Bei Wiederholung:</strong></p>
                     <div class="warning">
-                        → Ordnungsmittelantrag beim Familiengericht (§89 FamFG)<br>
+                        → Ordnungsmittelantrag beim Familiengericht (§ 89 FamFG)<br>
                         → Rechtsberatung einholen
                     </div>
                 </div>
@@ -428,7 +310,7 @@
                     <div class="warning">
                         → Schriftlicher Widerspruch<br>
                         → Dokumentation Jugendamt<br>
-                        → Bei Blockade: §1628 BGB Antrag
+                        → Bei Blockade: § 1628 BGB Antrag
                     </div>
                     <p class="mt-20"><strong>Alltägliche Entscheidungen (Kleidung, Hobbys):</strong></p>
                     <div class="success">
@@ -439,7 +321,7 @@
                 <button class="back-button" onclick="showNode('dt-violation')">← Zurück</button>
             </div>
 
-            <!-- PATH 4: Emergency -->
+            <!-- PATH 4: Notfall -->
             <div id="dt-emergency" class="result hidden">
                 <h3>NOTFALL-KOMMUNIKATION</h3>
                 <div class="result-content">
@@ -458,77 +340,13 @@
                 <button class="back-button" onclick="showNode('dt-start')">← Zurück</button>
             </div>
 
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück zur Hauptnavigation</button>
-        </div>
+        </div><!-- #guide-written -->
 
-        <!-- LONG-TERM SECTION -->
-        <div id="long-term" class="section hidden">
-            <h2>📈 Langfristige Strategie</h2>
-            <div class="mechanism-box">
-                <h4>Phase 1: Akut-Konflikt (0-12 Monate)</h4>
-                <p>Hohe Emotionalität, instabile Regelungen.</p>
-                <p><strong>Fokus:</strong> Selbstschutz, klare Regelungen, Dokumentation beginnen.</p>
-            </div>
-            <div class="mechanism-box">
-                <h4>Phase 2: Chronifizierung (1-3 Jahre)</h4>
-                <p>Muster stabilisieren sich.</p>
-                <p><strong>Fokus:</strong> Konsistente Strategie, Kinder stärken, eigene Lebensqualität.</p>
-            </div>
-            <div class="research-box">
-                <strong>5-Jahres-Perspektive:</strong> Fragen Sie sich: "Wird das in 5 Jahren wichtig sein?"
-            </div>
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
-        </div>
+    </div><!-- .guide-wrapper -->
+</div><!-- .page -->
 
-        <!-- SELF-CARE SECTION -->
-        <div id="self-care" class="section hidden">
-            <h2>🛡️ Selbstschutz</h2>
-            <div class="mechanism-box">
-                <h4>1. Emotionale Grenzen setzen</h4>
-                <ul>
-                    <li>Feste Zeiten für Kommunikation</li>
-                    <li>48h-Regel für Antworten</li>
-                    <li>Gedankenstopp-Technik</li>
-                </ul>
-            </div>
-            <div class="mechanism-box">
-                <h4>2. Unterstützungssystem nutzen</h4>
-                <ul>
-                    <li>Eigene Therapie</li>
-                    <li>Hochkonflikt-geschulte Berater</li>
-                    <li>Selbsthilfegruppen</li>
-                </ul>
-            </div>
-            <div class="warning">
-                <strong>⚠️ Warnsignale:</strong> Schlafstörungen, sozialer Rückzug, Erschöpfung → Professionelle Hilfe holen!
-            </div>
-            <button class="back-button" onclick="showSection('main-nav')">← Zurück</button>
-        </div>
-
-    </div>
-
-    <script>
-        function showSection(sectionId) {
-            document.querySelectorAll('.section').forEach(el => el.classList.add('hidden'));
-            const target = document.getElementById(sectionId);
-            if (target) {
-                target.classList.remove('hidden');
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            }
-        }
-
-        function showNode(nodeId) {
-            document.querySelectorAll('#decision-tree .decision-node, #decision-tree .result').forEach(n => {
-                n.classList.add('hidden');
-            });
-            const target = document.getElementById(nodeId);
-            if (target) {
-                target.classList.remove('hidden');
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            }
-        }
-
-        window.onload = () => showSection('main-nav');
-    </script>
+<?php include 'includes/cookie_banner.php'; ?>
+<?php include 'includes/footer.php'; ?>
+    <script src="script.js"></script>
 </body>
 </html>
