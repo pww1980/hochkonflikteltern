@@ -767,3 +767,46 @@ footer a:hover { text-decoration: underline; }
 .back-button--light { background: none; border: 2px solid var(--color-border); border-radius: 8px; padding: 8px 18px; color: var(--color-primary); font-size: 15px; font-weight: 600; cursor: pointer; transition: all .2s; }
 .back-button--light:hover { border-color: var(--color-btn); background: var(--color-btn); color: #fff; }
 
+/* ── Trust-Stempel ────────────────────────────────────── */
+.hero-cta-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    flex-wrap: wrap;
+}
+.trust-stamp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border: 3px solid var(--color-btn);
+    border-radius: 50%;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--color-btn);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    line-height: 1.4;
+    text-align: center;
+    text-decoration: none;
+    transform: rotate(-12deg);
+    transition: all 0.3s;
+    position: relative;
+    flex-shrink: 0;
+}
+.trust-stamp::before {
+    content: '';
+    position: absolute;
+    inset: 5px;
+    border: 1.5px solid var(--color-accent);
+    border-radius: 50%;
+}
+.trust-stamp:hover {
+    background: var(--color-btn);
+    color: #fff;
+    transform: rotate(-6deg) scale(1.08);
+    text-decoration: none;
+}
+
