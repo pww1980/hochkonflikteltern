@@ -1,37 +1,15 @@
+<?php
+$current_page = 'home';
+$title        = 'Hochkonflikt Eltern – Kommunikationsleitfaden für getrennte Eltern';
+$description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkonfliktsituationen nach Trennung. Praktische Strategien, psychologisches Hintergrundwissen.';
+?>
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <script defer src="https://tracker.hochkonflikteltern.de/script.js" data-website-id="3579d3bd-7cda-4263-9ad2-5c98d70413ba"></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Professioneller Kommunikations-Leitfaden für Eltern in Hochkonfliktsituationen nach Trennung. Praktische Strategien, psychologisches Hintergrundwissen.">
-    <title>Hochkonflikt Eltern - Kommunikationsleitfaden für getrennte Eltern</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+<?php include 'includes/head.php'; ?>
 <body>
-    <!-- Navigation -->
-    <nav>
-        <div class="nav-container">
-            <a href="#" class="logo" onclick="showPage('home')">Hochkonflikt Eltern</a>
-            <button class="nav-toggle" aria-label="Menü öffnen" aria-expanded="false" onclick="toggleNav(this)">
-                <span></span><span></span><span></span>
-            </button>
-            <ul class="nav-links" id="navLinks">
-                <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
-                <li><a href="#" data-page="meetings" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('background'); return false;">📚 Hintergrundwissen</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('longterm'); return false;">📈 Langfriststrategie</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('selfcare'); return false;">🛡️ Selbstschutz</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('parenting'); return false;">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
-                <li><a href="patterns.html">🧠 Muster</a></li>
-                <li><a href="about.html">Über mich</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </div>
-    </nav>
+<?php include 'includes/nav.php'; ?>
 
-    <!-- HOME PAGE -->
+<!-- HOME PAGE -->
     <div id="home" class="page active">
         <section class="hero">
             <h1>Kommunikation in Hochkonfliktsituationen</h1>
@@ -43,7 +21,7 @@
         <section class="features">
             <h2>Was Sie erwartet</h2>
             <div class="feature-grid">
-                <div class="feature-card" onclick="location.href='patterns.html'">
+                <div class="feature-card" onclick="location.href='patterns.php'">
                     <div class="feature-icon">🧠</div>
                     <h3>Muster erkennen</h3>
                     <p>25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Hub-and-Spoke und systemischem Missbrauch, jeweils mit Gegenstrategie.</p>
@@ -73,7 +51,7 @@
                     <h3>Forschungsbasiert</h3>
                     <p>Alle Strategien basieren auf aktueller Familienpsychologie und Konfliktforschung.</p>
                 </div>
-                <div class="feature-card" onclick="location.href='about.html'">
+                <div class="feature-card" onclick="location.href='about.php'">
                     <div class="feature-icon">✅</div>
                     <h3>Praxiserprobt</h3>
                     <p>Entwickelt aus 9 Jahren realer Erfahrung in einer Hochkonfliktsituation.</p>
@@ -126,7 +104,7 @@
 
                 <div class="guide-topics">
                     <button class="guide-topic-link" onclick="showGuideSection('background')">📚 Hintergrundwissen</button>
-                    <button class="guide-topic-link" onclick="location.href='patterns.html'">🧠 Muster erkennen</button>
+                    <button class="guide-topic-link" onclick="location.href='patterns.php'">🧠 Muster erkennen</button>
                     <button class="guide-topic-link" onclick="showGuideSection('longterm')">📈 Langfriststrategie</button>
                     <button class="guide-topic-link" onclick="showGuideSection('selfcare')">🛡️ Selbstschutz</button>
                     <button class="guide-topic-link" onclick="showGuideSection('parenting')">👨‍👩‍👧 Co- vs. Parallel Parenting</button>
@@ -414,7 +392,7 @@
 
                 <div class="guide-info-box guide-info-box--link">
                     <strong>Häufige Muster im Hochkonflikt</strong><br>
-                    Von DARVO und Gaslighting über Parentifizierung bis zu systemischem Missbrauch – alle 25+ dokumentierten Muster mit Gegenstrategien finden Sie auf der <a href="patterns.html">Musterseite →</a>
+                    Von DARVO und Gaslighting über Parentifizierung bis zu systemischem Missbrauch – alle 25+ dokumentierten Muster mit Gegenstrategien finden Sie auf der <a href="patterns.php">Musterseite →</a>
                 </div>
 
                 <div class="guide-mechanism-box">
@@ -1025,29 +1003,8 @@
         </div>
     </div>
 
-    <!-- Cookie Banner -->
-    <div id="cookieBanner" class="cookie-banner hidden">
-        <p>
-            Diese Website verwendet ein technisches Cookie, um Ihre Datenschutz-Einstellung zu speichern. Es werden keine Tracking- oder Werbe-Cookies eingesetzt.
-            <a href="datenschutz.html">Mehr erfahren</a>
-        </p>
-        <div class="cookie-actions">
-            <button class="cookie-btn cookie-btn--decline" onclick="setCookieConsent(false)">Nur notwendige</button>
-            <button class="cookie-btn cookie-btn--accept" onclick="setCookieConsent(true)">Akzeptieren</button>
-        </div>
-    </div>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 hochkonflikteltern.de - Alle Rechte vorbehalten</p>
-        <p class="footer-links">
-            <a href="about.html">Über</a> |
-            <a href="contact.html">Kontakt</a> |
-            <a href="impressum.html">Impressum</a> |
-            <a href="datenschutz.html">Datenschutz</a>
-        </p>
-    </footer>
-
+<?php include 'includes/cookie_banner.php'; ?>
+<?php include 'includes/footer.php'; ?>
     <script src="script.js"></script>
 </body>
 </html>

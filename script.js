@@ -137,7 +137,7 @@ function navigateToGuide(sectionId) {
         status.textContent = '';
 
         try {
-            const res  = await fetch('contact.php', {
+            const res  = await fetch('contact_handler.php', {
                 method: 'POST',
                 body:   new FormData(this)
             });

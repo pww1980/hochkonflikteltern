@@ -1,40 +1,18 @@
+<?php
+$current_page = 'patterns';
+$title        = 'Hochkonflikt-Muster erkennen | Hochkonflikt Eltern';
+$description  = '25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Alienation und systemischem Missbrauch, jeweils mit konkreter Gegenstrategie.';
+?>
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <script defer src="https://tracker.hochkonflikteltern.de/script.js" data-website-id="3579d3bd-7cda-4263-9ad2-5c98d70413ba"></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hochkonflikt-Muster erkennen | Hochkonflikt Eltern</title>
-    <meta name="description" content="25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Alienation und systemischem Missbrauch, jeweils mit konkreter Gegenstrategie.">
-    <link rel="stylesheet" href="styles.css">
-</head>
+<?php include 'includes/head.php'; ?>
 <body>
-    <!-- Navigation -->
-    <nav>
-        <div class="nav-container">
-            <a href="index.html" class="logo">Hochkonflikt Eltern</a>
-            <button class="nav-toggle" aria-label="Menü öffnen" aria-expanded="false" onclick="toggleNav(this)">
-                <span></span><span></span><span></span>
-            </button>
-            <ul class="nav-links" id="navLinks">
-                <li><a href="index.html">Start</a></li>
-                <li><a href="index.html">✉️ Schriftliche Kommunikation</a></li>
-                <li><a href="index.html">🗣️ Persönliche Gespräche</a></li>
-                <li><a href="index.html">📚 Hintergrundwissen</a></li>
-                <li><a href="index.html">📈 Langfriststrategie</a></li>
-                <li><a href="index.html">🛡️ Selbstschutz</a></li>
-                <li><a href="index.html">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
-                <li><a href="patterns.html" class="active">🧠 Muster</a></li>
-                <li><a href="about.html">Über mich</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </div>
-    </nav>
+<?php include 'includes/nav.php'; ?>
 
-    <div class="page active">
+<div class="page active">
         <div class="patterns-wrapper">
             <h1>Muster erkennen</h1>
-            <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="index.html">Leitfaden</a>.</p>
+            <p class="patterns-intro">Hochkonfliktsituationen folgen vorhersehbaren Mustern. Wer sie kennt, kann gezielter reagieren – und sich besser schützen. Für jeden Eintrag finden Sie eine Kurzstrategie; tiefergehende Kommunikationstemplates und den interaktiven Entscheidungsbaum finden Sie im <a href="index.php">Leitfaden</a>.</p>
 
             <p class="patterns-hint">▸ Klicken Sie auf eine Kategorie, um sie auf- oder zuzuklappen.</p>
 
@@ -433,35 +411,14 @@
             <div class="patterns-guide-cta">
                 <h3>Muster erkannt – was jetzt?</h3>
                 <p>Der Leitfaden enthält einen interaktiven Entscheidungsbaum mit konkreten Formulierungsvorschlägen für jede Situation – von Angriffen über Umgangsverstöße bis hin zu Notfällen.</p>
-                <a href="index.html" class="cta-button">Zum vollständigen Leitfaden →</a>
+                <a href="index.php" class="cta-button">Zum vollständigen Leitfaden →</a>
             </div>
 
         </div>
     </div>
 
-    <!-- Cookie Banner -->
-    <div id="cookieBanner" class="cookie-banner hidden">
-        <p>
-            Diese Website verwendet ein technisches Cookie, um Ihre Datenschutz-Einstellung zu speichern. Es werden keine Tracking- oder Werbe-Cookies eingesetzt.
-            <a href="datenschutz.html">Mehr erfahren</a>
-        </p>
-        <div class="cookie-actions">
-            <button class="cookie-btn cookie-btn--decline" onclick="setCookieConsent(false)">Nur notwendige</button>
-            <button class="cookie-btn cookie-btn--accept" onclick="setCookieConsent(true)">Akzeptieren</button>
-        </div>
-    </div>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 hochkonflikteltern.de - Alle Rechte vorbehalten</p>
-        <p class="footer-links">
-            <a href="about.html">Über</a> |
-            <a href="contact.html">Kontakt</a> |
-            <a href="impressum.html">Impressum</a> |
-            <a href="datenschutz.html">Datenschutz</a>
-        </p>
-    </footer>
-
+<?php include 'includes/cookie_banner.php'; ?>
+<?php include 'includes/footer.php'; ?>
     <script src="script.js"></script>
 </body>
 </html>
