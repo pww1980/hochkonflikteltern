@@ -6,15 +6,9 @@
                 <span></span><span></span><span></span>
             </button>
             <ul class="nav-links" id="navLinks">
-                <?php if (($current_page ?? '') === 'home'): ?>
-                <li><a href="#" data-page="home" onclick="showPage('home')" class="active">Start</a></li>
-                <li><a href="#" data-page="guide" onclick="navigateToGuide('written'); return false;">✉️ Schriftliche Kommunikation</a></li>
-                <li><a href="#" data-page="meetings" onclick="showPage('meetings'); return false;">🗣️ Persönliche Gespräche</a></li>
-                <?php else: ?>
-                <li><a href="index.php">Start</a></li>
-                <li><a href="index.php">✉️ Schriftliche Kommunikation</a></li>
-                <li><a href="index.php">🗣️ Persönliche Gespräche</a></li>
-                <?php endif; ?>
+                <li><a href="index.php"<?= ($current_page ?? '') === 'home' ? ' class="active"' : '' ?>>Start</a></li>
+                <li><a href="Kommunikationsleitfaden_Ultimate.php"<?= ($current_page ?? '') === 'leitfaden' ? ' class="active"' : '' ?>>✉️ Schriftliche Kommunikation</a></li>
+                <li><a href="meetings.php"<?= ($current_page ?? '') === 'meetings' ? ' class="active"' : '' ?>>🗣️ Persönliche Gespräche</a></li>
                 <li><a href="background.php"<?= ($current_page ?? '') === 'background' ? ' class="active"' : '' ?>>📚 Hintergrundwissen</a></li>
                 <li><a href="longterm.php"<?= ($current_page ?? '') === 'longterm' ? ' class="active"' : '' ?>>📈 Langfriststrategie</a></li>
                 <li><a href="selfcare.php"<?= ($current_page ?? '') === 'selfcare' ? ' class="active"' : '' ?>>🛡️ Selbstschutz</a></li>
