@@ -97,14 +97,7 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     </div>
                 </div>
 
-                <div class="guide-topics">
-                    <button class="guide-topic-link" onclick="location.href='background.php'">📚 Hintergrundwissen</button>
-                    <button class="guide-topic-link" onclick="location.href='patterns.php'">🧠 Muster erkennen</button>
-                    <button class="guide-topic-link" onclick="location.href='longterm.php'">📈 Langfriststrategie</button>
-                    <button class="guide-topic-link" onclick="location.href='selfcare.php'">🛡️ Selbstschutz</button>
-                    <button class="guide-topic-link" onclick="location.href='parenting.php'">👨‍👩‍👧 Co- vs. Parallel Parenting</button>
-                    <button class="guide-topic-link" onclick="location.href='selbstreflexion.php'">💭 Selbstreflexion</button>
-                </div>
+
             </div>
 
         </div>
