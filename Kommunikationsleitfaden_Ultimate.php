@@ -24,14 +24,6 @@ $description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche
             • Konkrete Templates für jede Kommunikationssituation
         </div>
 
-        <div class="guide-topics">
-            <button class="guide-topic-link" onclick="location.href='background.php'">📚 Hintergrundwissen</button>
-            <button class="guide-topic-link" onclick="location.href='background.php'">🧠 Psychologie</button>
-            <button class="guide-topic-link" onclick="location.href='patterns.php'">🔄 Muster erkennen</button>
-            <button class="guide-topic-link" onclick="location.href='longterm.php'">📈 Langfriststrategie</button>
-            <button class="guide-topic-link" onclick="location.href='selfcare.php'">🛡️ Selbstschutz</button>
-        </div>
-
         <!-- BIFF-Empfehlung -->
         <div class="biff-box">
             <div class="biff-title">✉️ Grundprinzip: Die BIFF-Methode</div>
@@ -51,6 +43,10 @@ $description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche
         </div>
 
         <div id="guide-written">
+
+            <div id="dt-back-to-start" class="hidden" style="margin-bottom: 12px;">
+                <button class="back-button" onclick="showNode('dt-start')">&#8592; Zum Anfang</button>
+            </div>
 
             <div id="dt-start" class="decision-node">
                 <div class="question">Was ist Ihre aktuelle Situation?</div>
