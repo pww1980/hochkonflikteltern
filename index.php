@@ -81,9 +81,6 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
     <div id="guide" class="page">
         <div class="guide-wrapper">
 
-            <!-- ── Breadcrumb ────────────────────────────── -->
-            <nav id="guide-breadcrumb" class="guide-breadcrumb" style="display:none;" aria-label="Navigationspfad"></nav>
-
             <!-- ── Übersicht ─────────────────────────────── -->
             <div id="guide-overview" class="guide-sub-section active">
                 <h1>Kommunikationsleitfaden</h1>

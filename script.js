@@ -74,32 +74,11 @@ const _nodeLabels = {
     'dt-viol-decision': 'Entscheidung ohne Absprache'
 };
 
-function updateBreadcrumb(sectionId, nodeId) {
-    const bc = document.getElementById('guide-breadcrumb');
-    if (!bc) return;
-    if (sectionId === 'overview') { bc.style.display = 'none'; bc.innerHTML = ''; return; }
-    const parts = [`<button class="bc-link" onclick="showGuideSection('overview')">Leitfaden</button>`];
-    const sLabel = _sectionLabels[sectionId];
-    if (sLabel) {
-        parts.push('<span class="bc-sep">›</span>');
-        if (nodeId && _nodeLabels[nodeId]) {
-            parts.push(`<button class="bc-link" onclick="showGuideSection('${sectionId}')">${sLabel}</button>`);
-            parts.push('<span class="bc-sep">›</span>');
-            parts.push(`<span class="bc-current">${_nodeLabels[nodeId]}</span>`);
-        } else {
-            parts.push(`<span class="bc-current">${sLabel}</span>`);
-        }
-    }
-    bc.innerHTML = parts.join('');
-    bc.style.display = 'flex';
-}
-
 function showGuideSection(sectionId) {
     document.querySelectorAll('.guide-sub-section').forEach(s => s.classList.remove('active'));
     const target = document.getElementById('guide-' + sectionId);
     if (target) target.classList.add('active');
     if (sectionId === 'written') { showNode('dt-start'); }
-    updateBreadcrumb(sectionId, null);
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -110,7 +89,6 @@ function showNode(nodeId) {
     const target = document.getElementById(nodeId);
     if (target) {
         target.classList.remove('hidden');
-        updateBreadcrumb('written', nodeId);
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 }
