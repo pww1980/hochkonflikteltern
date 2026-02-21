@@ -21,6 +21,11 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
         <section class="features">
             <h2>Was Sie erwartet</h2>
             <div class="feature-grid">
+                <div class="feature-card" onclick="location.href='selbstreflexion.php'">
+                    <div class="feature-icon">💭</div>
+                    <h3>Selbstreflexion</h3>
+                    <p>Die unbequeme Frage, die die meisten Ratgeber auslassen: Welchen Anteil haben Sie selbst an der Dynamik? Mit konkreten Selbstchecks zu Kommunikation, Kind, Wahrnehmung und System.</p>
+                </div>
                 <div class="feature-card" onclick="location.href='patterns.php'">
                     <div class="feature-icon">🧠</div>
                     <h3>Muster erkennen</h3>
@@ -31,6 +36,11 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     <h3>Interaktiver Entscheidungsbaum</h3>
                     <p>Für jede Situation die richtige Reaktion finden – mit konkreten Formulierungsvorschlägen und Templates.</p>
                 </div>
+                <div class="feature-card" onclick="location.href='parenting.php'">
+                    <div class="feature-icon">👨‍👩‍👧</div>
+                    <h3>Co- vs. Parallel Parenting</h3>
+                    <p>Warum Co-Parenting im Hochkonflikt oft scheitert – und wie Parallel Parenting das Kind schützt. Mit Vergleich, Forschungsbezug und Praxistipps.</p>
+                </div>
                 <div class="feature-card" onclick="location.href='longterm.php'">
                     <div class="feature-icon">📈</div>
                     <h3>Langfristige Strategie</h3>
@@ -40,26 +50,6 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     <div class="feature-icon">🛡️</div>
                     <h3>Selbstschutz</h3>
                     <p>Schützen Sie Ihre emotionale Gesundheit und Energie – mit praktischen Techniken für den Alltag.</p>
-                </div>
-                <div class="feature-card" onclick="location.href='parenting.php'">
-                    <div class="feature-icon">👨‍👩‍👧</div>
-                    <h3>Co- vs. Parallel Parenting</h3>
-                    <p>Warum Co-Parenting im Hochkonflikt oft scheitert – und wie Parallel Parenting das Kind schützt. Mit Vergleich, Forschungsbezug und Praxistipps.</p>
-                </div>
-                <div class="feature-card" onclick="location.href='background.php'">
-                    <div class="feature-icon">📚</div>
-                    <h3>Forschungsbasiert</h3>
-                    <p>Alle Strategien basieren auf aktueller Familienpsychologie und Konfliktforschung.</p>
-                </div>
-                <div class="feature-card" onclick="location.href='about.php'">
-                    <div class="feature-icon">✅</div>
-                    <h3>Praxiserprobt</h3>
-                    <p>Entwickelt aus 9 Jahren realer Erfahrung in einer Hochkonfliktsituation.</p>
-                </div>
-                <div class="feature-card" onclick="location.href='selbstreflexion.php'">
-                    <div class="feature-icon">💭</div>
-                    <h3>Selbstreflexion</h3>
-                    <p>Die unbequeme Frage, die die meisten Ratgeber auslassen: Welchen Anteil haben Sie selbst an der Dynamik? Mit konkreten Selbstchecks zu Kommunikation, Kind, Wahrnehmung und System.</p>
                 </div>
                 <div class="feature-card feature-card--child">
                     <div class="feature-icon">👧🧒</div>
