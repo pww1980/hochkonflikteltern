@@ -1,7 +1,7 @@
 <?php
 $current_page = 'leitfaden';
 $title        = 'Vollständiger Leitfaden | Hochkonflikt Eltern';
-$description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche Kommunikation in Hochkonfliktsituationen – mit psychologischem Hintergrund und konkreten Formulierungen.';
+$description  = 'Interaktiver Entscheidungsbaum für schriftliche Kommunikation im Hochkonflikt – mit psychologischem Hintergrund und konkreten Formulierungsvorschlägen.';
 ?>
 <!DOCTYPE html>
 <html lang="de">
