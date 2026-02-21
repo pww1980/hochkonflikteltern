@@ -35,5 +35,9 @@ $_og_image = !empty($og_image) ? $og_image : SITE_OG_IMAGE;
     <meta name="twitter:description" content="<?= htmlspecialchars($description ?? '') ?>">
     <meta name="twitter:image"       content="<?= htmlspecialchars($_og_image) ?>">
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="apple-touch-icon"          href="/favicon.svg">
+
     <link rel="stylesheet" href="styles.css">
 </head>

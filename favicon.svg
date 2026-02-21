@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Hintergrund: abgerundetes Quadrat in Primärfarbe -->
+  <rect width="32" height="32" rx="7" fill="#6b6456"/>
+
+  <!-- Erwachsener (links, größer, weiß) -->
+  <circle cx="11" cy="9" r="4.5" fill="#ffffff"/>
+  <rect x="4.5" y="16" width="13" height="11" rx="6.5" fill="#ffffff"/>
+
+  <!-- Kind (rechts, kleiner, Akzentfarbe) -->
+  <circle cx="22.5" cy="12.5" r="3.5" fill="#c4bcad"/>
+  <rect x="16.5" y="19" width="10" height="9" rx="5" fill="#c4bcad"/>
+</svg>
