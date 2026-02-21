@@ -34,7 +34,7 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     <h3>Muster erkennen</h3>
                     <p>25+ dokumentierte Hochkonflikt-Muster – von DARVO und Gaslighting bis Hub-and-Spoke und systemischem Missbrauch, jeweils mit Gegenstrategie.</p>
                 </div>
-                <div class="feature-card" onclick="location.href='Kommunikationsleitfaden_Ultimate.php'">
+                <div class="feature-card" onclick="showPage('guide')">
                     <div class="feature-icon">🗺️</div>
                     <h3>Interaktiver Entscheidungsbaum</h3>
                     <p>Für jede Situation die richtige Reaktion finden – mit konkreten Formulierungsvorschlägen und Templates.</p>
