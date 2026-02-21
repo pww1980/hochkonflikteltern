@@ -89,7 +89,7 @@ function showNode(nodeId) {
     const target = document.getElementById(nodeId);
     if (target) {
         target.classList.remove('hidden');
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
     const backBar = document.getElementById('dt-back-to-start');
     if (backBar) {
