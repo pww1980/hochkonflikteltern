@@ -19,6 +19,9 @@ define('RATE_LIMIT_SECS', 3600); // Zeitfenster in Sekunden (1 Stunde)
 define('SITE_NAME', 'Hochkonflikt Eltern');
 define('SITE_URL',  'https://hochkonflikteltern.de');
 
+// Standard-OG-Bild (Social Sharing) – wird genutzt wenn keine Seite ein eigenes setzt
+define('SITE_OG_IMAGE', SITE_URL . '/ich.jpg');
+
 // Umami Analytics
 define('UMAMI_TRACKER_URL', 'https://tracker.hochkonflikteltern.de/script.js');
 define('UMAMI_SITE_ID',     '3579d3bd-7cda-4263-9ad2-5c98d70413ba');
