@@ -32,6 +32,19 @@ $description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche
             <button class="guide-topic-link" onclick="location.href='selfcare.php'">🛡️ Selbstschutz</button>
         </div>
 
+        <!-- BIFF-Empfehlung -->
+        <div class="biff-box">
+            <div class="biff-title">✉️ Grundprinzip: Die BIFF-Methode</div>
+            <p>Bevor Sie den Entscheidungsbaum nutzen: Jede Antwort in einer Hochkonfliktsituation sollte dem BIFF-Prinzip folgen (nach Bill Eddy, High Conflict Institute):</p>
+            <div class="biff-grid">
+                <div class="biff-item"><span class="biff-letter">B</span><span class="biff-label">rief</span> – Kurz halten. Keine langen Erklärungen, keine Rechtfertigungen. Je kürzer, desto weniger Angriffsfläche.</div>
+                <div class="biff-item"><span class="biff-letter">I</span><span class="biff-label">nformative</span> – Nur relevante Sachinformationen. Keine Emotionen, keine Geschichte, keine Vorwürfe.</div>
+                <div class="biff-item"><span class="biff-letter">F</span><span class="biff-label">riendly</span> – Freundlich im Ton, nicht unterwürfig. „Danke für die Info." reicht. Keine Ironie.</div>
+                <div class="biff-item"><span class="biff-letter">F</span><span class="biff-label">irm</span> – Bestimmt. Keine offenen Fragen, keine Einladung zur Diskussion. Eine Aussage, kein Dialog.</div>
+            </div>
+            <p class="biff-note">Der Entscheidungsbaum unten hilft Ihnen, für jede Situation den richtigen Inhalt zu finden – BIFF gibt die Form vor.</p>
+        </div>
+
         <!-- VOLLSTÄNDIGER ENTSCHEIDUNGSBAUM -->
         <div class="guide-sub-header" style="margin-top: 40px;">
             <h2>🗺️ Vollständiger Entscheidungsbaum</h2>
