@@ -16,11 +16,8 @@ $description  = 'Vollständiger interaktiver Entscheidungsbaum für schriftliche
         <p>Psychologisches Hintergrundwissen, praktische Strategien und vollständiger Entscheidungsbaum</p>
 
         <div class="guide-info-box">
-            <strong>Dieser umfassende Leitfaden bietet:</strong><br>
-            • Tiefes Verständnis psychologischer Mechanismen<br>
+            <strong>Dieser geführte Kommunikationsleitfaden bietet:</strong><br>
             • Vollständigen, interaktiven Entscheidungsbaum für alle Situationen<br>
-            • Langfristige Strategien und Selbstschutz<br>
-            • Wissenschaftlich fundierte Ansätze<br>
             • Konkrete Templates für jede Kommunikationssituation
         </div>
 
