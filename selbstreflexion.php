@@ -14,7 +14,7 @@ $description  = 'Die unbequeme Frage: Welchen Anteil haben Sie selbst an der Kon
 
         <div class="guide-sub-header">
             <a href="index.php" class="back-button--light">← Zurück</a>
-            <h2>🪞 Selbstreflexion</h2>
+            <h2>💭 Selbstreflexion</h2>
         </div>
 
         <div class="guide-info-box">

@@ -57,7 +57,7 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     <p>Entwickelt aus 9 Jahren realer Erfahrung in einer Hochkonfliktsituation.</p>
                 </div>
                 <div class="feature-card" onclick="location.href='selbstreflexion.php'">
-                    <div class="feature-icon">🪞</div>
+                    <div class="feature-icon">💭</div>
                     <h3>Selbstreflexion</h3>
                     <p>Die unbequeme Frage, die die meisten Ratgeber auslassen: Welchen Anteil haben Sie selbst an der Dynamik? Mit konkreten Selbstchecks zu Kommunikation, Kind, Wahrnehmung und System.</p>
                 </div>
@@ -110,7 +110,7 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
                     <button class="guide-topic-link" onclick="location.href='longterm.php'">📈 Langfriststrategie</button>
                     <button class="guide-topic-link" onclick="location.href='selfcare.php'">🛡️ Selbstschutz</button>
                     <button class="guide-topic-link" onclick="location.href='parenting.php'">👨‍👩‍👧 Co- vs. Parallel Parenting</button>
-                    <button class="guide-topic-link" onclick="location.href='selbstreflexion.php'">🪞 Selbstreflexion</button>
+                    <button class="guide-topic-link" onclick="location.href='selbstreflexion.php'">💭 Selbstreflexion</button>
                 </div>
             </div>
 
