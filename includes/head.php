@@ -42,4 +42,40 @@ $_og_image = !empty($og_image) ? $og_image : SITE_OG_IMAGE;
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
     <link rel="stylesheet" href="styles.css">
+
+    <?php if (empty($robots)): ?>
+    <!-- JSON-LD Structured Data -->
+    <?php if ($_self === 'index.php'): ?>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": <?= json_encode(SITE_NAME) ?>,
+      "url": <?= json_encode(SITE_URL . '/') ?>,
+      "description": <?= json_encode($description ?? '') ?>,
+      "inLanguage": "de-DE"
+    }
+    </script>
+    <?php endif; ?>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": <?= json_encode($title ?? SITE_NAME) ?>,
+      "description": <?= json_encode($description ?? '') ?>,
+      "url": <?= json_encode($_canonical) ?>,
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": <?= json_encode(SITE_NAME) ?>,
+        "url": <?= json_encode(SITE_URL . '/') ?>
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": <?= json_encode(SITE_NAME) ?>,
+        "url": <?= json_encode(SITE_URL . '/') ?>
+      }
+    }
+    </script>
+    <?php endif; ?>
 </head>

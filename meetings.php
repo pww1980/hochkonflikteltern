@@ -1,7 +1,7 @@
 <?php
 $current_page = 'meetings';
 $title        = 'Gespräche vorbereiten | Hochkonflikt Eltern';
-$description  = 'Jugendamt, Mediation, Erziehungsberatung – so bereiten Sie sich auf persönliche Gespräche in Hochkonfliktsituationen vor. Mit konkreten Tipps, Checklisten und Gesprächsvorlagen.';
+$description  = 'Jugendamt, Mediation, Erziehungsberatung – so bereiten Sie sich auf Gespräche in Hochkonfliktsituationen vor. Mit Tipps, Checklisten und Gesprächsvorlagen.';
 ?>
 <!DOCTYPE html>
 <html lang="de">
