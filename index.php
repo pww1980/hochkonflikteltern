@@ -15,7 +15,10 @@ $description  = 'Professioneller Kommunikations-Leitfaden für Eltern in Hochkon
             <h1>Kommunikation in Hochkonfliktsituationen</h1>
             <p class="subtitle">Der professionelle Leitfaden für getrennte Eltern</p>
             <p>Praktische Strategien, psychologisches Hintergrundwissen und konkrete Handlungsempfehlungen für friedlichere Kommunikation – auch wenn der andere Elternteil nicht kooperiert.</p>
-            <a href="#" class="cta-button" onclick="showPage('guide')">Zum kostenlosen Leitfaden →</a>
+            <div class="hero-cta-row">
+                <a href="#" class="cta-button" onclick="showPage('guide')">Zum kostenlosen Leitfaden →</a>
+                <a href="background.php" class="trust-stamp">Forschungs-<br>basiert</a>
+            </div>
         </section>
 
         <section class="features">
