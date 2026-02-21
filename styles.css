@@ -686,6 +686,7 @@ footer { background: var(--color-primary); color: #ffffff; padding: 40px; text-a
 footer a { color: #ffffff; text-decoration: none; margin: 0 15px; }
 footer a:hover { text-decoration: underline; }
 .footer-links { margin-top: 10px; }
+.footer-disclaimer { margin-top: 15px; font-size: 0.8em; opacity: 0.8; max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.5; }
 
 /* ── Legal Pages ──────────────────────────────────────── */
 .legal-section { max-width: 800px; margin: 80px auto; padding: 60px 40px; background: #ffffff; border-radius: 20px; box-shadow: var(--shadow-section); }
