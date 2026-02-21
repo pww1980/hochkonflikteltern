@@ -14,6 +14,7 @@ if (!isset($current_page)) {
         'patterns'                        => 'patterns',
         'about'                           => 'about',
         'contact'                         => 'contact',
+        'selbstreflexion'                 => 'selbstreflexion',
     ];
     $current_page = $page_map[$script] ?? '';
 }
@@ -33,6 +34,7 @@ if (!isset($current_page)) {
                 <li><a href="selfcare.php"<?= $current_page === 'selfcare' ? ' class="active"' : '' ?>>🛡️ Selbstschutz</a></li>
                 <li><a href="parenting.php"<?= $current_page === 'parenting' ? ' class="active"' : '' ?>>👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
                 <li><a href="patterns.php"<?= $current_page === 'patterns' ? ' class="active"' : '' ?>>🧠 Muster</a></li>
+                <li><a href="selbstreflexion.php"<?= $current_page === 'selbstreflexion' ? ' class="active"' : '' ?>>🪞 Selbstreflexion</a></li>
                 <li><a href="about.php"<?= $current_page === 'about' ? ' class="active"' : '' ?>>Über mich</a></li>
                 <li><a href="contact.php"<?= $current_page === 'contact' ? ' class="active"' : '' ?>>Kontakt</a></li>
             </ul>
