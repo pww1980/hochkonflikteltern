@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Interne Handler und Konfiguration nicht indexieren
+Disallow: /contact_handler.php
+Disallow: /config.php
+
+Sitemap: https://hochkonflikteltern.de/sitemap.xml
