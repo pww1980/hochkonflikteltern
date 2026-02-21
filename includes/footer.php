@@ -7,4 +7,5 @@
             <a href="impressum.php">Impressum</a> |
             <a href="datenschutz.php">Datenschutz</a>
         </p>
+        <p class="footer-disclaimer">Die Inhalte dieser Website dienen ausschließlich der allgemeinen Information und ersetzen keine Rechtsberatung oder psychotherapeutische Behandlung. Bei rechtlichen oder psychischen Problemen wenden Sie sich bitte an eine qualifizierte Fachkraft.</p>
     </footer>
