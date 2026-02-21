@@ -1,38 +1,16 @@
+<?php
+$current_page = 'datenschutz';
+$title        = 'Datenschutzerklärung | Hochkonflikt Eltern';
+$description  = 'Datenschutzerklärung von hochkonflikteltern.de – Informationen zur Verarbeitung personenbezogener Daten gemäß DSGVO.';
+$robots      = 'noindex, nofollow';
+?>
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <script defer src="https://tracker.hochkonflikteltern.de/script.js" data-website-id="3579d3bd-7cda-4263-9ad2-5c98d70413ba"></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>Datenschutzerklärung | Hochkonflikt Eltern</title>
-    <meta name="description" content="Datenschutzerklärung von hochkonflikteltern.de – Informationen zur Verarbeitung personenbezogener Daten gemäß DSGVO.">
-    <link rel="stylesheet" href="styles.css">
-</head>
+<?php include 'includes/head.php'; ?>
 <body>
-    <!-- Navigation -->
-    <nav>
-        <div class="nav-container">
-            <a href="index.html" class="logo">Hochkonflikt Eltern</a>
-            <button class="nav-toggle" aria-label="Menü öffnen" aria-expanded="false" onclick="toggleNav(this)">
-                <span></span><span></span><span></span>
-            </button>
-            <ul class="nav-links" id="navLinks">
-                <li><a href="index.html">Start</a></li>
-                <li><a href="index.html">✉️ Schriftliche Kommunikation</a></li>
-                <li><a href="index.html">🗣️ Persönliche Gespräche</a></li>
-                <li><a href="index.html">📚 Hintergrundwissen</a></li>
-                <li><a href="index.html">📈 Langfriststrategie</a></li>
-                <li><a href="index.html">🛡️ Selbstschutz</a></li>
-                <li><a href="index.html">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
-                <li><a href="patterns.html">🧠 Muster</a></li>
-                <li><a href="about.html">Über mich</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </div>
-    </nav>
+<?php include 'includes/nav.php'; ?>
 
-    <div class="page active">
+<div class="page active">
         <div class="legal-section">
             <h2>Datenschutzerklärung</h2>
 
@@ -86,34 +64,13 @@
             <p>Stand: Februar 2026. Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen.</p>
 
             <div class="text-center mt-40">
-                <a href="index.html" class="cta-button">Zurück zur Startseite</a>
+                <a href="index.php" class="cta-button">Zurück zur Startseite</a>
             </div>
         </div>
     </div>
 
-    <!-- Cookie Banner -->
-    <div id="cookieBanner" class="cookie-banner hidden">
-        <p>
-            Diese Website verwendet ein technisches Cookie, um Ihre Datenschutz-Einstellung zu speichern. Es werden keine Tracking- oder Werbe-Cookies eingesetzt.
-            <a href="datenschutz.html">Mehr erfahren</a>
-        </p>
-        <div class="cookie-actions">
-            <button class="cookie-btn cookie-btn--decline" onclick="setCookieConsent(false)">Nur notwendige</button>
-            <button class="cookie-btn cookie-btn--accept" onclick="setCookieConsent(true)">Akzeptieren</button>
-        </div>
-    </div>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 hochkonflikteltern.de - Alle Rechte vorbehalten</p>
-        <p class="footer-links">
-            <a href="about.html">Über</a> |
-            <a href="contact.html">Kontakt</a> |
-            <a href="impressum.html">Impressum</a> |
-            <a href="datenschutz.html">Datenschutz</a>
-        </p>
-    </footer>
-
+<?php include 'includes/cookie_banner.php'; ?>
+<?php include 'includes/footer.php'; ?>
     <script src="script.js"></script>
 </body>
 </html>
