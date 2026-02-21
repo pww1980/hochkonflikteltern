@@ -4,9 +4,8 @@
     <script defer src="https://tracker.hochkonflikteltern.de/script.js" data-website-id="3579d3bd-7cda-4263-9ad2-5c98d70413ba"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>Impressum | Hochkonflikt Eltern</title>
-    <meta name="description" content="Impressum von hochkonflikteltern.de – Angaben gemäß § 5 TMG zum Seitenbetreiber, Kontakt und Haftungsausschluss.">
+    <title>Kontakt | Hochkonflikt Eltern</title>
+    <meta name="description" content="Schreiben Sie uns – Fragen, Feedback oder Anregungen zum Hochkonflikt-Eltern-Leitfaden sind herzlich willkommen.">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -27,42 +26,48 @@
                 <li><a href="index.html">👨‍👩‍👧 Co- vs. Parallel Parenting</a></li>
                 <li><a href="patterns.html">🧠 Muster</a></li>
                 <li><a href="about.html">Über mich</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
+                <li><a href="contact.html" class="active">Kontakt</a></li>
             </ul>
         </div>
     </nav>
 
     <div class="page active">
-        <div class="legal-section">
-            <h2>Impressum</h2>
+        <div class="contact-section">
+            <h2>Kontakt</h2>
+            <p>Haben Sie Fragen, Feedback oder Anregungen? Ich freue mich über Ihre Nachricht.</p>
 
-            <h3>Angaben gemäß § 5 TMG</h3>
-            <p>
-                <span class="legal-placeholder">[Vor- und Nachname]</span><br>
-                <span class="legal-placeholder">[Straße und Hausnummer]</span><br>
-                <span class="legal-placeholder">[PLZ Ort]</span>
-            </p>
+            <form id="contactForm">
+                <!-- Status-Meldung -->
+                <div id="formStatus" class="form-status"></div>
 
-            <h3>Kontakt</h3>
-            <p>
-                E-Mail: <span class="legal-placeholder">[ihre@email.de]</span>
-            </p>
+                <!-- Honeypot (Bot-Schutz, für Menschen unsichtbar) -->
+                <div class="hp-field">
+                    <input type="text" name="website" tabindex="-1" autocomplete="off">
+                </div>
 
-            <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
-            <p>
-                <span class="legal-placeholder">[Vor- und Nachname]</span><br>
-                <span class="legal-placeholder">[Adresse wie oben]</span>
-            </p>
-
-            <h3>Haftungsausschluss</h3>
-            <p>Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Dieser Leitfaden ersetzt keine professionelle rechtliche oder therapeutische Beratung.</p>
-
-            <h3>Urheberrecht</h3>
-            <p>Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
-
-            <div class="text-center mt-40">
-                <a href="index.html" class="cta-button">Zurück zur Startseite</a>
-            </div>
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">E-Mail-Adresse</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="subject">Betreff</label>
+                    <input type="text" id="subject" name="subject" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Nachricht</label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
+                <button type="submit" class="submit-button">Nachricht senden</button>
+                <p class="privacy-note">
+                    Ihre Daten werden vertraulich behandelt und nicht an Dritte weitergegeben.
+                    Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten zum Zweck der Kontaktaufnahme zu.
+                    Weitere Informationen finden Sie in unserer <a href="datenschutz.html">Datenschutzerklärung</a>.
+                </p>
+            </form>
         </div>
     </div>
 
