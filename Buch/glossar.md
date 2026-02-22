@@ -92,6 +92,10 @@ Eine von Marsha Linehan entwickelte Therapieform, ursprünglich für Borderline-
 Gezielte Maßnahmen, die einen Konflikt abschwächen – durch Ton, Timing, Inhalt oder Rückzug. Im Hochkonfliktkontext: oft das Einzige, was man selbst kontrollieren kann. Deeskalation bedeutet nicht, nachzugeben oder den anderen recht zu geben – es bedeutet, dem Konflikt keine Nahrung zu geben.
 → *Siehe auch: BIFF-Prinzip, Eskalation*
 
+**Dokumentationsordner (Kommunikation)**
+Strukturierte, chronologische Ablage aller schriftlichen Nachrichten mit dem anderen Elternteil – nach Datum, Kanal und ggf. Ereignisprotokoll. Dient als Beweissystem bei gerichtlichen oder behördlichen Verfahren und als eigener Orientierungsrahmen, wenn die Situationswahrnehmung unter Hochkonfliktdruck verzerrt wird. Kein Tagebuch – sachliche Ablage.
+→ *Siehe auch: Dokumentation, BIFF-Prinzip, Kanalreduzierung*
+
 **DARVO**
 Akronym für Deny – Attack – Reverse Victim and Offender (Leugnen – Angreifen – Täter und Opfer vertauschen). Ein dreistufiges Reaktionsmuster auf Konfrontation oder Kritik, beschrieben von der Psychologin Jennifer Freyd. Ziel: das ursprüngliche Sachthema durch Gegenangriff und Täter-Opfer-Umkehr vom Tisch zu bekommen. Gegenstrategie: konsequent beim Sachthema bleiben.
 → *Siehe auch: Gaslighting, BIFF-Prinzip*
@@ -424,6 +428,10 @@ Das Einbeziehen einer dritten Person – meist des Kindes – in einen Zweier-Ko
 ---
 
 ## V
+
+**Verstoßnachricht**
+Nachrichtenkategorie im Hochkonfliktkontext: Eine Nachricht, in der ein Verstoß gegen Vereinbarungen, Beschlüsse oder Sorgerechtsregelungen angekündigt oder durchgeführt wird – oder in der der Empfänger einen solchen Verstoß festgestellt hat. Reaktion: BIFF plus Dokumentation; bei Wiederholung oder Schwere: Anwalt einschalten.
+→ *Siehe auch: BIFF-Prinzip, Kommunikationsleitfaden, Dokumentation*
 
 **Verfahrensbeistand**
 Eine vom Familiengericht bestellte Person, die die Interessen und den Willen des Kindes im gerichtlichen Verfahren vertritt (§ 158 FamFG). Kein Anwalt im rechtlichen Sinne, aber formale Verfahrensbeteiligte mit eigenem Anhörungsrecht. Der Verfahrensbeistand soll sicherstellen, dass die Perspektive des Kindes im Verfahren nicht untergeht. In der Praxis schwankt die Qualität erheblich: Manche Verfahrensbeistände sind in Hochkonfliktsituationen erfahren und erkennen Manipulationsmuster; andere orientieren sich primär an dem, was das Kind verbal äußert – was in Entfremdungssituationen problematisch sein kann.

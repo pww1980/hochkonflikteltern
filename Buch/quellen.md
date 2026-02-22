@@ -347,6 +347,24 @@ New York: Guilford Press.
 
 ---
 
+## Kapitel 6: Der Kommunikationsleitfaden
+
+> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People.*
+*(s. Kapitel 5)*
+
+> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
+
+**High Conflict Institute (laufend).**
+*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
+https://www.highconflictinstitute.com
+
+> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
+
+---
+
 ## Kapitel 5: Das BIFF-Prinzip
 
 ### BIFF und High Conflict Communication
