@@ -1,6 +1,6 @@
 # Buchstruktur: Hochkonflikt-Elternschaft
 
-**Geschätzter Gesamtumfang: ~260 Seiten**
+**Geschätzter Gesamtumfang: ~275 Seiten**
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Teil 1: Verstehen – Was ist Hochkonflikt? (~45 Seiten)
+## Teil 1: Verstehen – Was ist Hochkonflikt? (~60 Seiten)
 
 ### Kapitel 1: Das Hochkonflikt-Phänomen (~15 Seiten)
 
@@ -33,6 +33,14 @@
 - Triangulation, Parentifizierung, Entfremdung
 - JADE-Falle, Moving the Goalposts, Word Salad
 - Für jedes Muster: Erkennung + Gegenstrategie
+
+### Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind (~15 Seiten)
+
+- Strukturelle Grenzen des Hilfesystems
+- Das Neutralitätsgebot und seine Tücken im Hochkonflikt
+- Fehlende Hochkonflikt-Ausbildung bei Fachkräften
+- Wie HCPs Institutionen instrumentalisieren
+- Realistische Erwartungen an das System – und was das für dein Handeln bedeutet
 
 ---
 
@@ -135,13 +143,13 @@
 | Teil | Inhalt | Seiten |
 |------|--------|--------|
 | Vorwort | Einleitung | ~15 |
-| Teil 1 | Verstehen | ~45 |
+| Teil 1 | Verstehen | ~60 |
 | Teil 2 | Kommunizieren | ~60 |
 | Teil 3 | Eltern sein | ~50 |
 | Teil 4 | Standhaft bleiben | ~50 |
 | Teil 5 | Langfristig denken | ~30 |
 | Abschluss | Quellen & Ressourcen | ~10 |
-| **Gesamt** | | **~260 Seiten** |
+| **Gesamt** | | **~275 Seiten** |
 
 ---
 
