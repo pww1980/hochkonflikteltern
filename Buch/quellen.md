@@ -347,11 +347,76 @@ New York: Guilford Press.
 
 ---
 
+## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
+
+### Deutsches Familienrecht und Institutionen
+
+**Münder, J., Meysen, T. & Trenczek, T. (Hrsg.) (2022).**
+*Frankfurter Kommentar zum SGB VIII: Kinder- und Jugendhilfe* (9. Aufl.).
+Baden-Baden: Nomos.
+
+> Standardkommentar zum SGB VIII; maßgeblich für Aufgaben und Grenzen des Jugendamts; §§ 1, 8a, 28 SGB VIII.
+
+**Proksch, R. (2002).**
+*Begleitforschung zur Umsetzung der Neuregelungen zur Reform des Kindschaftsrechts.*
+Hannover: Bundesministerium der Justiz / Universität Hannover.
+
+> Großangelegte Evaluationsstudie zur Kindschaftsrechtsreform 1998; Befunde zur Praxis von Jugendamt, Verfahrensbeistand und Familiengericht in Trennungssituationen.
+
+**Fthenakis, W. E., Niesel, R. & Kunze, H.-R. (1982).**
+*Ehescheidung: Konsequenzen für Eltern und Kinder.*
+München: Urban & Schwarzenberg.
+
+> Pionierarbeit der deutschsprachigen Scheidungsforschung; Beschreibung systemischer Barrieren für betroffene Eltern.
+
+**Kindler, H. & Fichtner, J. (2008).**
+*Hochstrittige Elternschaft: Merkmale, Entwicklungsverläufe, Interventionsmöglichkeiten.*
+München: Deutsches Jugendinstitut (DJI).
+*(s. o., Kapitel 2)*
+
+> Enthält Analyse institutioneller Reaktionen auf Hochkonfliktsituationen im deutschen Kontext; Befunde zu Jugendamt-Praxis.
+
+---
+
+### Verfahrensbeistand und Kindesinteressen im Verfahren
+
+**Stötzel, M. & Balloff, R. (2006).**
+Kinder in Sorgerechts- und Umgangsverfahren – Erfahrungen und Schlussfolgerungen.
+*ZKJ – Zeitschrift für Kindschaftsrecht und Jugendhilfe*, (4), 140–147. *[Angabe prüfen]*
+
+> Empirische Auswertung von Verfahrensbeistandstätigkeit; Qualitätsunterschiede und Einflussfaktoren auf die Wirksamkeit der Kindvertretung.
+
+**Balloff, R. (2004).**
+Kinder vor dem Familiengericht.
+*Praxis der Kinderpsychologie und Kinderpsychiatrie, 53*(4), 218–232. *[Angabe prüfen]*
+
+> Zur psychologischen Situation von Kindern in Sorgerechts- und Umgangsverfahren; Verfahrensgestaltung aus Kindperspektive.
+
+---
+
+### Hochkonflikt und Systemüberforderung
+
+**Bergmann, E., Jopt, U. & Rexilius, G. (Hrsg.) (2002).**
+*Lösungsorientierte Arbeit im Familienrecht: Der systemische Ansatz in der familienrechtlichen Praxis.*
+Köln: Bundesanzeiger Verlag.
+
+> Institutionelle Grenzen klassischer Mediations- und Vermittlungsansätze in hochstrittigen Verfahren; systemische Alternativen.
+
+**Johnston, J. R., Walters, M. G. & Olesen, N. W. (2005).**
+The psychological functioning of alienated children in custody disputing families: An exploratory study.
+*American Journal of Forensic Psychology, 23*(3), 39–64.
+
+> Beschreibung von Instrumentalisierungsmustern gegenüber Sachverständigen und Verfahrensbeiständen in hochstrittigen Sorgerechtsverfahren.
+
+---
+
 ## Konsolidierte Gesamtliste (alphabetisch)
 
 | Autor(en) | Jahr | Titel (Kurzform) |
 |---|---|---|
 | Austin, W. G. | 2008 | Relocation, research, and forensic evaluation (Gatekeeping) |
+| Balloff, R. | 2004 | Kinder vor dem Familiengericht |
+| Bergmann, E., Jopt, U. & Rexilius, G. | 2002 | Lösungsorientierte Arbeit im Familienrecht |
 | Ainsworth, M. D. S. et al. | 1978 | Patterns of Attachment |
 | Amato, P. R. | 2001 | Children of divorce in the 1990s (Meta-Analyse) |
 | Amato, P. R. | 2010 | Research on divorce: Continuing trends |
@@ -368,6 +433,7 @@ New York: Guilford Press.
 | Eddy, B. & Kreger, R. | 2011 | Splitting |
 | Erikson, E. H. | 1968 | Identity: Youth and Crisis |
 | Festinger, L. | 1957 | A Theory of Cognitive Dissonance |
+| Fthenakis, W. E. et al. | 1982 | Ehescheidung: Konsequenzen für Eltern und Kinder |
 | Freyd, J. J. | 1997 | Violations of power… (DARVO) |
 | Freyd, J. J. & Birrell, P. J. | 2013 | Blind to Betrayal |
 | Garmezy, N. | 1993 | Children in poverty: Resilience despite risk |
@@ -376,6 +442,7 @@ New York: Guilford Press.
 | Heim, C. et al. | 2000 | Pituitary-adrenal responses to stress |
 | Hetherington, E. M. & Kelly, J. | 2002 | For Better or for Worse |
 | Johnston, J. R. & Campbell, L. E. G. | 1988 | Impasses of Divorce |
+| Johnston, J. R., Walters, M. G. & Olesen, N. W. | 2005 | Psychological functioning of alienated children in custody disputes |
 | Johnston, J. R. & Roseby, V. | 1997 | In the Name of the Child |
 | Kelly, J. B. | 2003 | Changing Perspectives on Children's Adjustment |
 | Kelly, J. B. & Emery, R. E. | 2003 | Children's adjustment following divorce |
@@ -385,9 +452,12 @@ New York: Guilford Press.
 | Main, M. & Hesse, E. | 1990 | Parents' unresolved traumatic experiences… |
 | Main, M., Kaplan, N. & Cassidy, J. | 1985 | Security in infancy, childhood, and adulthood |
 | Meaney, M. J. & Szyf, M. | 2005 | Environmental programming of stress responses |
+| Münder, J. et al. | 2022 | Frankfurter Kommentar zum SGB VIII (9. Aufl.) |
 | Piaget, J. & Inhelder, B. | 1969 | The Psychology of the Child |
+| Proksch, R. | 2002 | Begleitforschung zur Kindschaftsrechtsreform |
 | Pruett, M. K., Arthur, L. A. & Ebling, R. | 2007 | The hand that rocks the cradle: Maternal gatekeeping after divorce |
 | Shonkoff, J. P. & Garner, A. S. | 2012 | Toxic stress (Pediatrics) |
+| Stötzel, M. & Balloff, R. | 2006 | Kinder in Sorgerechts- und Umgangsverfahren (ZKJ) |
 | Skinner, B. F. | 1938 | The Behavior of Organisms (Intermittent Reinforcement) |
 | Siegel, D. J. | 1999 | The Developing Mind |
 | Siegel, D. J. & Hartzell, M. | 2003 | Parenting from the Inside Out |
@@ -413,3 +483,5 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 - **Walper, S.:** Konkrete Einzelpublikationen (Auswahl aus DJI-Berichten und Fachaufsätzen)
 - **Völlm, B. A.:** Einschlägige Einzelpublikation zu Epigenetik
 - **Eddy & Kreger (2011):** Auflage und Verlagsdetails prüfen
+- **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
+- **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren

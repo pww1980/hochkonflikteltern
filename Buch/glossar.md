@@ -246,6 +246,10 @@ Ein Begriff für das Muster, auf Vorwürfe oder Angriffe mit **J**ustifizieren (
 
 ## K
 
+**Kindeswohl**
+Der zentrale, aber unbestimmte Rechtsbegriff im deutschen Familienrecht – Maßstab für alle gerichtlichen und behördlichen Entscheidungen, die Kinder betreffen (§ 1697a BGB). Kindeswohl umfasst körperliche, geistige und seelische Entwicklung sowie den Schutz vor Schaden. Da es kein festes Kriteriensystem gibt, hat der Begriff erheblichen Auslegungsspielraum – was in Hochkonfliktsituationen sowohl Schutz bieten als auch ausgenutzt werden kann. Gefährdung des Kindeswohls ermächtigt und verpflichtet das Jugendamt und das Familiengericht zum Eingreifen (§ 1666 BGB, § 8a SGB VIII).
+→ *Siehe auch: Jugendamt, Sachverständiger, Verfahrensbeistand*
+
 **Ko-Elternschaft / Koelternschaft**
 Die Zusammenarbeit getrennter Elternteile in allen Fragen, die das Kind betreffen. Ko-Elternschaft erfordert keine Freundschaft, keine gemeinsamen Mahlzeiten und keine emotionale Nähe – sie erfordert sachliche Kommunikation über Alltagsthemen des Kindes. Auch „paralleles Elternsein" (ohne direkte Koordination) gilt als Form der Ko-Elternschaft.
 
@@ -290,6 +294,10 @@ Eine Forschungsmethode, die die Ergebnisse vieler Einzelstudien statistisch zusa
 ---
 
 ## N
+
+**Neutralitätsgebot**
+Das Prinzip, nach dem staatliche Institutionen – insbesondere Jugendamt und Familiengericht – in Konflikten zwischen Elternteilen keine Partei ergreifen dürfen. Sie sind dem Kindeswohl, nicht einem Elternteil verpflichtet. In normalen Trennungskonflikten ist Neutralität sinnvoll und schützt vor Willkür. In Hochkonfliktsituationen kann das Neutralitätsgebot jedoch kontraproduktiv wirken: Es behandelt strukturell ungleiche Positionen gleich und macht Institutionen anfällig für systematische Manipulation durch einen HCP-Elternteil.
+→ *Siehe auch: HCP, Kindeswohl, Jugendamt*
 
 **Narzisstische Kränkung (Narcissistic Injury)**
 Eine intensive Verletzung des Selbstwertgefühls, ausgelöst durch (reale oder wahrgenommene) Kritik, Ablehnung, Demütigung oder Zurückweisung. Auslöser können für Außenstehende trivial erscheinen; die Reaktion ist es selten. Narzisstische Kränkungen können der Beginn von Eskalationen sein.
@@ -353,6 +361,10 @@ Bedingungen, die die Wahrscheinlichkeit einer negativen (Risikofaktor) oder posi
 
 ## S
 
+**Sachverständiger (familienpsychologischer)**
+Ein Psychologe oder Psychiater mit familienrechtlicher Zusatzqualifikation, der vom Familiengericht beauftragt wird, ein Gutachten zur Eltern-Kind-Bindung, zur Kindeswohlgefährdung oder zur Frage des geeigneten Umgangsmodells zu erstellen. Gutachten sind teuer (typisch: 5.000–15.000 Euro), zeitaufwändig (oft 6–18 Monate) und nicht bindend, aber in der Praxis stark einflussreich. Die Qualität schwankt erheblich; nicht alle Sachverständigen haben Erfahrung mit Hochkonfliktsituationen oder HCP-Persönlichkeitsstrukturen. Bundesweit bestehen seit wenigen Jahren erste Qualitätsstandards für Sachverständigentätigkeit im Familienrecht.
+→ *Siehe auch: Kindeswohl, Verfahrensbeistand, HCP*
+
 **Selbstregulation**
 Die Fähigkeit, den eigenen emotionalen und physiologischen Zustand eigenständig zu regulieren – sich beruhigen, konzentrieren, Impulse kontrollieren. Entwickelt sich im Laufe der Kindheit, aufbauend auf wiederholter Co-Regulation mit Bezugspersonen.
 → *Siehe auch: Co-Regulation, Impulskontrolle, Präfrontaler Kortex*
@@ -400,6 +412,10 @@ Das Einbeziehen einer dritten Person – meist des Kindes – in einen Zweier-Ko
 ---
 
 ## V
+
+**Verfahrensbeistand**
+Eine vom Familiengericht bestellte Person, die die Interessen und den Willen des Kindes im gerichtlichen Verfahren vertritt (§ 158 FamFG). Kein Anwalt im rechtlichen Sinne, aber formale Verfahrensbeteiligte mit eigenem Anhörungsrecht. Der Verfahrensbeistand soll sicherstellen, dass die Perspektive des Kindes im Verfahren nicht untergeht. In der Praxis schwankt die Qualität erheblich: Manche Verfahrensbeistände sind in Hochkonfliktsituationen erfahren und erkennen Manipulationsmuster; andere orientieren sich primär an dem, was das Kind verbal äußert – was in Entfremdungssituationen problematisch sein kann.
+→ *Siehe auch: Sachverständiger, Kindeswohl, Alienation*
 
 **Verlassenheitsangst**
 Intensive Angst davor, verlassen, alleingelassen oder zurückgewiesen zu werden. Kernmerkmal der Borderline-Persönlichkeitsstörung. Trennung und Scheidung können diese Angst massiv aktivieren – und damit alle damit verbundenen Reaktionen: Klammern, Wut, Kontrollversuche, Beschuldigungen.
