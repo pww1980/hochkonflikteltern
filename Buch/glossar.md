@@ -40,6 +40,10 @@ Die Bindungstheorie (entwickelt von John Bowlby in den 1960er/70er Jahren) besch
 Störung des Bindungssystems, die entsteht, wenn eine Bezugsperson gleichzeitig Quelle von Sicherheit *und* Quelle von Bedrohung oder Konflikt ist. Das Kind kann das Dilemma nicht auflösen: Nähe suchen bei jemanden, der auch Angst macht, überfordert das Nervensystem.
 → *Siehe auch: Bindung, Loyalitätskonflikt*
 
+**Bindungsstil (erwachsener)**
+Das im Erwachsenenalter vorherrschende Muster im Umgang mit Nähe, Vertrauen und Verlust in engen Beziehungen. Die Bindungsforschung (Main et al.) unterscheidet vier Typen: sicher-autonom (kohärente, balancierte Beziehung zur eigenen Geschichte), unsicher-distanziert (Abwertung von Nähe und Abhängigkeit), unsicher-verstrickt (andauernde emotionale Aktivierung durch Vergangenheit), desorganisiert (kein kohärentes Muster, oft bei unverarbeitetem Trauma). Bindungsstile sind keine unveränderlichen Eigenschaften – sie können durch korrigierende Erfahrungen verändert werden.
+→ *Siehe auch: Bindung, Sichere Bindung, Earned Security, Narrative Kohärenz*
+
 **Borderline-Persönlichkeitsstörung (BPS)**
 Eine Persönlichkeitsstörung, deren Kern intensive Angst vor dem Verlassenwerden ist, verbunden mit extremen Stimmungsschwankungen, instabilem Selbstbild und impulsivem Verhalten. Beziehungen erleben Betroffene oft in Extremen: idealisiert oder abgewertet, selten dazwischen. Wichtig: BPS ist behandelbar – DBT ist eine gut belegte Therapieform.
 → *Siehe auch: Splitting, Verlassenheitsangst, DBT, Emotionale Dysregulation*
@@ -90,6 +94,10 @@ Ein psychischer Schutzmechanismus, bei dem das Erleben von der Realität abgetre
 **Egozentrismus (kindlicher)**
 Ein Begriff aus Jean Piagets Entwicklungspsychologie. Bezeichnet nicht Selbstsucht, sondern die entwicklungsbedingte Unfähigkeit kleiner Kinder (ca. 2–6 Jahre), die Welt aus einer anderen Perspektive als der eigenen zu betrachten. Die fatale Konsequenz in Trennungssituationen: Wenn etwas Schlimmes passiert, schließt das Kind automatisch, es hänge mit ihm zusammen. „Papa ist gegangen, weil ich böse war." Keine Lüge – sondern die logische Schlussfolgerung aus einem noch egozentrisch organisierten Denken.
 → *Siehe auch: Magisches Denken, Präoperationale Phase*
+
+**Earned Security (Erworbene Sicherheit)**
+Ein Konzept der Bindungsforschung (Mary Main): Sichere Bindung im Erwachsenenalter muss nicht aus einer glücklichen Kindheit stammen – sie kann auch durch eigene Reflexion, Therapie oder korrigierende Beziehungserfahrungen entstehen. Wer die eigene unsichere oder belastende Kindheit kohärent verarbeitet hat, kann seinem eigenen Kind sichere Bindung anbieten. Earned Security ist ein zentrales Argument dafür, dass Transmission von Mustern kein Schicksal ist.
+→ *Siehe auch: Narrative Kohärenz, Bindungsstil, Intergenerationale Transmission*
 
 **EAR-Methode**
 Eine Gesprächstechnik des High Conflict Institute: **E**mpathy (Empathie zeigen), **A**ttention (aufmerksam zuhören), **R**espect (Respekt im Ton). Nicht als Zustimmung gedacht, sondern als Weg, das Nervensystem des Gegenübers zu beruhigen – und dadurch Gespräche überhaupt möglich zu machen.
@@ -146,6 +154,10 @@ Ein Zustand erhöhter Wachheit und Alarmbereitschaft, bei dem man die Umgebung s
 ---
 
 ## I
+
+**Intergenerationale Transmission**
+Die Weitergabe von Verhaltensmustern, Bindungsstilen und Stressreaktionen von einer Generation an die nächste. Im Hochkonfliktkontext: Kinder übernehmen unbewusst Konfliktstrategien, die sie beobachtet haben, und tragen eine epigenetisch veränderte Stressreaktion in ihre eigene Elternschaft. Entscheidend: Die Transmission ist kein Automatismus. Narrative Kohärenz – das Verstehen der eigenen Geschichte – unterbricht den Mechanismus nachweislich.
+→ *Siehe auch: Narrative Kohärenz, Earned Security, Epigenetik*
 
 **Identität vs. Rollendiffusion**
 Die zentrale Entwicklungsaufgabe der Adoleszenz nach Erik Erikson: Jugendliche müssen eine stabile Identität entwickeln – das Gefühl, zu wissen, wer man ist, unabhängig von den Eltern. In Hochkonfliktsituationen ist diese Aufgabe erschwert, weil die Ablösung von den Eltern mit Loyalitätskonflikten, Schuld und emotionaler Verantwortung verwoben ist. Jugendliche, die jahrelang parentifiziert wurden, haben sich oft an den Bedürfnissen eines Elternteils orientiert statt an eigenen – was die Identitätsfindung verzögert oder verzerrt.
@@ -207,6 +219,11 @@ Ein normales Merkmal des kindlichen Denkens im Vorschulalter: die Überzeugung, 
 **Metaanalyse**
 Eine Forschungsmethode, die die Ergebnisse vieler Einzelstudien statistisch zusammenfasst, um ein robusteres Gesamtbild zu erhalten. Paul Amatos Metaanalysen zur Scheidungsforschung gelten als die methodisch stärkste Grundlage, weil sie Dutzende Einzelstudien auswerten.
 
+**Narrative Kohärenz**
+Die Fähigkeit, die eigene Lebensgeschichte – einschließlich schwieriger Erfahrungen – in einer zusammenhängenden, stimmigen Erzählung zu verstehen. Nicht: alles war gut. Sondern: Ich verstehe, was passiert ist, warum es passiert ist, und wie es mich geformt hat. Der Neurowissenschaftler Daniel Siegel hat gezeigt, dass narrative Kohärenz der stärkste Einzelprädiktor dafür ist, ob Eltern ihren Kindern sichere Bindung anbieten können – unabhängig von der eigenen Kindheitsqualität.
+→ *Siehe auch: Earned Security, Intergenerationale Transmission, Bindungsstil*
+Eine Forschungsmethode, die die Ergebnisse vieler Einzelstudien statistisch zusammenfasst, um ein robusteres Gesamtbild zu erhalten. Paul Amatos Metaanalysen zur Scheidungsforschung gelten als die methodisch stärkste Grundlage, weil sie Dutzende Einzelstudien auswerten.
+
 ---
 
 ## N
@@ -238,6 +255,10 @@ Das Phänomen, bei dem ein Kind emotionale Aufgaben übernimmt, die eigentlich E
 **Persönlichkeitsstörung**
 Ein dauerhaftes Muster des Erlebens und Verhaltens, das erheblich von kulturellen Erwartungen abweicht, unflexibel ist und zu Leidensdruck oder Beeinträchtigungen führt. Wichtig: Es geht nicht um gelegentlich schwieriges Verhalten, sondern um ein stabiles, durchgängiges Muster. Persönlichkeitsstörungen sind keine Charakterfehler – aber sie erklären, warum bestimmte Verhaltensweisen sich nicht durch Vernunft oder Appelle verändern.
 → *Siehe auch: DSM-5, Cluster B*
+
+**Posttraumatisches Wachstum**
+Die Beobachtung, dass Menschen nach belastenden oder traumatischen Erfahrungen nicht nur Schäden davontragen, sondern unter Umständen spezifische Stärken entwickeln – erhöhte Empathie, Selbständigkeit, Reflexionsvermögen. Entsteht nicht automatisch aus dem Leid selbst, sondern aus der Verarbeitung und Integration dieser Erfahrungen. Wichtig: Posttraumatisches Wachstum rechtfertigt kein Leid – es beschreibt, was unter bestimmten Bedingungen daraus entstehen kann.
+→ *Siehe auch: Resilienz, Narrative Kohärenz*
 
 **Präoperationale Phase**
 Eine Entwicklungsstufe nach Jean Piaget (ca. 2–7 Jahre), in der Kinder zwar sprechen und denken können, aber noch egozentrisch und durch magisches Denken geprägt sind. Sie können noch nicht logisch schlussfolgern oder Perspektiven anderer einnehmen. Für Trennungssituationen bedeutsam: In dieser Phase sind Selbstbeschuldigung und magisches Wiedervereinigungsdenken besonders häufig – weil das Denken des Kindes noch keine andere Erklärung kennt.
