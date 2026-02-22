@@ -80,6 +80,10 @@ Eine von Marsha Linehan entwickelte Therapieform, ursprünglich für Borderline-
 Gezielte Maßnahmen, die einen Konflikt abschwächen – durch Ton, Timing, Inhalt oder Rückzug. Im Hochkonfliktkontext: oft das Einzige, was man selbst kontrollieren kann. Deeskalation bedeutet nicht, nachzugeben oder den anderen recht zu geben – es bedeutet, dem Konflikt keine Nahrung zu geben.
 → *Siehe auch: BIFF-Prinzip, Eskalation*
 
+**DARVO**
+Akronym für Deny – Attack – Reverse Victim and Offender (Leugnen – Angreifen – Täter und Opfer vertauschen). Ein dreistufiges Reaktionsmuster auf Konfrontation oder Kritik, beschrieben von der Psychologin Jennifer Freyd. Ziel: das ursprüngliche Sachthema durch Gegenangriff und Täter-Opfer-Umkehr vom Tisch zu bekommen. Gegenstrategie: konsequent beim Sachthema bleiben.
+→ *Siehe auch: Gaslighting, BIFF-Prinzip*
+
 **Dissoziation**
 Ein psychischer Schutzmechanismus, bei dem das Erleben von der Realität abgetrennt wird – von leichter Gedankenabwesenheit bis hin zu Zuständen, in denen man sich selbst wie von außen beobachtet. Kann ein Zeichen von Überforderung oder Trauma sein. Bei der Borderline-Persönlichkeitsstörung ein mögliches Symptom unter extremem Stress.
 
@@ -122,6 +126,14 @@ Die Steigerung eines Konflikts in Intensität, Mittel oder Reichweite. Im Hochko
 ---
 
 ## G
+
+**Gaslighting**
+Die systematische Untergrabung des Realitätssinns einer Person – durch Leugnen von Tatsachen, Umdeutung von Ereignissen und Infragestellen der Wahrnehmungsfähigkeit. Gaslighting wirkt, wenn das Gegenüber beginnt, der eigenen Erinnerung und Wahrnehmung zu misstrauen. Gegenstrategie: konsequente schriftliche Dokumentation.
+→ *Siehe auch: DARVO, Projektion, Geschichtsrevision*
+
+**Geschichtsrevision**
+Die nachträgliche Neubewertung vergangener Ereignisse oder Vereinbarungen, so dass sie das aktuelle Narrativ stützen. Gemeinsam Entschiedenes wird als aufgezwungen erinnert, Entgegenkommen als Übergriff umdefiniert. Zielt darauf, gegenüber Dritten eine konsistente Tätererzählung aufzubauen. Gegenstrategie: lückenlose schriftliche Dokumentation von Anfang an.
+→ *Siehe auch: Gaslighting, DARVO*
 
 **Grandiositätsgefühl**
 Das Gefühl, besonders, überlegen oder zu Besonderem berufen zu sein – über das normal gesunde Selbstbewusstsein hinaus. Bei narzisstischer Persönlichkeitsstörung oft gleichzeitig mit extrem verletzlicher Selbstachtung: Nach außen Überlegenheit, darunter intensive Empfindlichkeit für Kränkungen.
@@ -211,6 +223,10 @@ Die Situation eines Kindes, das das Gefühl hat, zwischen zwei Elternteilen wäh
 ---
 
 ## M
+
+**Moving the Goalposts (Zielpfosten verschieben)**
+Muster, bei dem Forderungen geändert werden, sobald die ursprüngliche Forderung erfüllt wurde – ohne Anerkennung, dass die erste erfüllt wurde. Kennzeichen dafür, dass der Konflikt nicht gelöst, sondern aufrechterhalten werden will. Gegenstrategie: Vereinbarungen schriftlich fixieren und festhalten.
+→ *Siehe auch: Whataboutism, JADE-Falle*
 
 **Magisches Denken**
 Ein normales Merkmal des kindlichen Denkens im Vorschulalter: die Überzeugung, dass Wünsche, Gedanken oder eigenes Verhalten die Realität verändern können. In Trennungssituationen führt magisches Denken oft zu dem Glauben, die Eltern durch eigenes Verhalten wieder zusammenbringen zu können – besonders brav sein, besonders laut sein, gar nicht schlafen. Oder zur Überzeugung, den Konflikt selbst verursacht zu haben. Beides ist entwicklungspsychologisch normal und trotzdem belastend.
@@ -337,6 +353,10 @@ Intensive Angst davor, verlassen, alleingelassen oder zurückgewiesen zu werden.
 ---
 
 ## W
+
+**Whataboutism**
+Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar ähnliches Verhalten des Gegenübers entgegengestellt wird. Ziel: das ursprüngliche Thema zu begraben und eine moralische Gleichwertigkeitsdiskussion zu erzwingen. Gegenstrategie: beim eigenen Thema bleiben, das Gegenthema separat anbieten.
+→ *Siehe auch: Moving the Goalposts, DARVO, Falsche Gleichsetzung*
 
 **WEB-Modell**
 Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – was sagt die Person?), **E**motions (Emotionen – welche Gefühle werden ausgelöst?), **B**ehavior (Verhalten – was tut die Person konkret?). Das Modell hilft, HCP-Muster zu erkennen, ohne auf diagnostische Labels angewiesen zu sein.

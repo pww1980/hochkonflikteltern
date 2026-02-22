@@ -186,6 +186,24 @@ Children in poverty: Resilience despite risk.
 
 ---
 
+## Kapitel 3: Die Konfliktmuster erkennen
+
+### Realitätsverzerrende Muster
+
+**Freyd, J. J. (1997).**
+Violations of power, adaptive blindness, and betrayal trauma theory.
+*Feminism & Psychology, 7*(1), 22–32.
+
+> Ursprüngliche Beschreibung des DARVO-Musters (Deny, Attack, Reverse Victim and Offender) als Reaktionsmuster auf Konfrontation.
+
+**Freyd, J. J. & Birrell, P. J. (2013).**
+*Blind to Betrayal: Why We Fool Ourselves We Aren't Being Fooled.*
+Hoboken, NJ: Wiley.
+
+> Vertiefung von DARVO und Verratstraumatheorie; psychologische Mechanismen der Realitätsverzerrung.
+
+---
+
 ## Kapitel 2: Die Auswirkungen auf Kinder
 
 ### Entwicklungsphasen
@@ -279,6 +297,8 @@ New York: Guilford Press.
 | Eddy, B. & Cartwright, K. | 2012 | New Ways for Families – Pilotstudie |
 | Eddy, B. & Kreger, R. | 2011 | Splitting |
 | Erikson, E. H. | 1968 | Identity: Youth and Crisis |
+| Freyd, J. J. | 1997 | Violations of power… (DARVO) |
+| Freyd, J. J. & Birrell, P. J. | 2013 | Blind to Betrayal |
 | Garmezy, N. | 1993 | Children in poverty: Resilience despite risk |
 | Gunnar, M. R. & Donzella, B. | 2002 | Social regulation of cortisol levels |
 | Heim, C. et al. | 2000 | Pituitary-adrenal responses to stress |
