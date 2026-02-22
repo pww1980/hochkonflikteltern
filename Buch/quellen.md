@@ -347,6 +347,41 @@ New York: Guilford Press.
 
 ---
 
+## Kapitel 5: Das BIFF-Prinzip
+
+### BIFF und High Conflict Communication
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
+Scottsdale: HCI Press.
+*(s. o., Kapitel 3)*
+
+> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
+
+**Eddy, B. (2014).**
+*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
+Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
+
+> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
+
+---
+
+### Kommunikation und Eskalationsdynamik
+
+**Gottman, J. M. & Silver, N. (1999).**
+*The Seven Principles for Making Marriage Work.*
+*(s. o., Kapitel 3)*
+
+> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
+
+**Tannen, D. (1990).**
+*You Just Don't Understand: Women and Men in Conversation.*
+New York: William Morrow.
+
+> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
+
+---
+
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
 ### Deutsches Familienrecht und Institutionen
@@ -427,6 +462,7 @@ The psychological functioning of alienated children in custody disputing familie
 | De Bellis, M. D. et al. | 2002 | [Folgestudie, Angabe prüfen] |
 | Baker, A. J. L. | 2007 | Adult Children of Parental Alienation Syndrome |
 | Eddy, B. | 2010 | BIFF: Quick Responses to High-Conflict People |
+| Eddy, B. | 2014 | BIFF for Co-Parent Communication |
 | Eddy, B. | 2011 | It's All Your Fault! |
 | Eddy, B. | 2018 | 5 Types of People Who Can Ruin Your Life |
 | Eddy, B. & Cartwright, K. | 2012 | New Ways for Families – Pilotstudie |
@@ -462,6 +498,7 @@ The psychological functioning of alienated children in custody disputing familie
 | Siegel, D. J. | 1999 | The Developing Mind |
 | Siegel, D. J. & Hartzell, M. | 2003 | Parenting from the Inside Out |
 | Tottenham, N. | 2012 | Human amygdala development… |
+| Tannen, D. | 1990 | You Just Don't Understand (Kommunikationsmuster) |
 | Tronick, E. Z. | 1989 | Emotions and emotional communication in infants |
 | Völlm, B. A. | [prüfen] | Epigenetik und frühkindlicher Stress |
 | Wallerstein, J. S. & Kelly, J. B. | 1980 | Surviving the Breakup |
@@ -483,5 +520,6 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 - **Walper, S.:** Konkrete Einzelpublikationen (Auswahl aus DJI-Berichten und Fachaufsätzen)
 - **Völlm, B. A.:** Einschlägige Einzelpublikation zu Epigenetik
 - **Eddy & Kreger (2011):** Auflage und Verlagsdetails prüfen
+- **Eddy, B. (2014): BIFF for Co-Parent Communication:** Genaues Erscheinungsjahr und Auflage verifizieren
 - **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
 - **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren

@@ -6,6 +6,14 @@
 
 ---
 
+## Zahlen / Abkürzungen
+
+**48-Stunden-Regel**
+Die Empfehlung, nach dem Empfang einer provozierenden oder emotional aufgeladenen Nachricht mindestens 48 Stunden zu warten, bevor man antwortet. In dieser Zeit sinkt die emotionale Reaktivität, der sachliche Kern der Nachricht wird klarer erkennbar, und eine BIFF-konforme Antwort ist leichter zu formulieren. Die einzige Ausnahme: echte Notfälle, die das unmittelbare körperliche Wohl des Kindes betreffen. In diesen Fällen wird nur der Notfallkern kurz und sachlich beantwortet.
+→ *Siehe auch: BIFF-Prinzip, Emotionale Dysregulation*
+
+---
+
 ## A
 
 **Adoleszenz**
@@ -245,6 +253,10 @@ Ein Begriff für das Muster, auf Vorwürfe oder Angriffe mit **J**ustifizieren (
 ---
 
 ## K
+
+**Kanalreduzierung**
+Die bewusste Entscheidung, die Kommunikation mit dem anderen Elternteil auf einen einzigen, dokumentierten Kanal zu beschränken – typischerweise E-Mail oder eine Co-Parenting-App. Kanalreduzierung schützt vor unkontrollierbarer Eskalation (keine Überraschungsanrufe, kein Kontakt über das Kind), erzeugt einen lückenlosen Dokumentationsnachweis und senkt den Kommunikationsaufwand. Sie ist keine Verweigerung – sie ist eine Strukturentscheidung, die Verlässlichkeit schafft.
+→ *Siehe auch: BIFF-Prinzip, Dokumentation, Parallel Parenting*
 
 **Kindeswohl**
 Der zentrale, aber unbestimmte Rechtsbegriff im deutschen Familienrecht – Maßstab für alle gerichtlichen und behördlichen Entscheidungen, die Kinder betreffen (§ 1697a BGB). Kindeswohl umfasst körperliche, geistige und seelische Entwicklung sowie den Schutz vor Schaden. Da es kein festes Kriteriensystem gibt, hat der Begriff erheblichen Auslegungsspielraum – was in Hochkonfliktsituationen sowohl Schutz bieten als auch ausgenutzt werden kann. Gefährdung des Kindeswohls ermächtigt und verpflichtet das Jugendamt und das Familiengericht zum Eingreifen (§ 1666 BGB, § 8a SGB VIII).
