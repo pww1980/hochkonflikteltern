@@ -16,6 +16,8 @@ Dieses Kapitel erklärt, warum das so ist. Und was das für dein eigenes Handeln
 
 ### Das Hilfssystem im Überblick
 
+> **[GRAFIK-PLATZHALTER – Grafik K4-A]** *Systemkarte: Alle 5 Institutionen (Jugendamt, Familiengericht, Verfahrensbeistand, Sachverständiger, Erziehungsberatung) mit Rolle, gesetzlicher Grundlage und Beziehung zueinander – als Organigramm oder Kreis-Diagramm. Gibt dem Leser vor dem Fließtext eine Übersicht.*
+
 Bevor wir die Grenzen besprechen, lohnt ein kurzer Blick darauf, welche Institutionen in deutschen Hochkonfliktsituationen überhaupt eine Rolle spielen – und welche Funktion jede hat.
 
 **Das Jugendamt**
@@ -86,6 +88,8 @@ In Hochkonfliktsituationen wird Neutralität zum Problem.
 
 #### Wenn Symmetrie keine Symmetrie ist
 
+> **[GRAFIK-PLATZHALTER – Grafik K4-B]** *Das Symmetrie-Paradox: Zwei-Spalten-Gegenüberstellung – links Normalfall (beide kooperieren → Neutralität funktioniert), rechts Hochkonfliktfall (eine Seite manipuliert → Neutralität begünstigt die manipulierende Seite).*
+
 Neutralität setzt implizit voraus, dass beide Seiten vergleichbar sind: zwei Menschen, die beide zu einem Konflikt beitragen, und bei denen ein Mittelweg möglich ist. Dieses symmetrische Modell passt auf die meisten Trennungen.
 
 Es passt nicht auf Hochkonfliktsituationen – und schon gar nicht auf Situationen, in denen ein Elternteil mit einer ausgeprägten HCP-Persönlichkeit aktiv destruktiv handelt.
@@ -117,6 +121,8 @@ Hochkonfliktelternteile wissen das und nutzen es: Eine ausreichend intensive Ver
 Das vielleicht grundlegendste Problem ist dies: Die meisten Fachkräfte im System sind schlicht nicht dafür ausgebildet, Hochkonfliktsituationen als solche zu erkennen.
 
 #### Was in der Ausbildung fehlt
+
+> **[GRAFIK-PLATZHALTER – Grafik K4-C]** *Kompetenz-Lücken-Matrix: Zeilen = Institutionen (Jugendamt, Gericht, Sachverständige, Verfahrensbeistand), Spalten = relevante Wissensgebiete (Familienrecht, Persönlichkeitsstörungen, Hochkonflikt-Dynamik, Stressphysiologie Kinder, Manipulationserkennung) – als Heatmap oder Tabelle mit Ampelfarben.*
 
 Sozialarbeiter, die im Jugendamt arbeiten, haben eine Ausbildung in allgemeiner Sozialpädagogik. Sie kennen Kindeswohlgefährdung, Armut, häusliche Gewalt, Sucht und Vernachlässigung – die klassischen Risikofaktoren. Hochkonfliktdynamiken, HCP-Persönlichkeitsstrukturen und die Unterscheidung zwischen kooperationsunwilligem und manipulativem Verhalten kommen in der Standardausbildung kaum vor.
 
@@ -154,6 +160,8 @@ In Kapitel 3 (Teil E) wurden die Muster bereits beschrieben: Weaponizing the Leg
 
 #### Das Prinzip der Zurechenbarkeit
 
+> **[GRAFIK-PLATZHALTER – Grafik K4-D]** *Aufwand-Asymmetrie: „Beschwerde einreichen = 1 Stunde" vs. „Beschwerde beantworten = 1 Tag" – als Proportions- oder Balkendiagramm, multipliziert über Monate/Jahre. Macht die Erschöpfungsstrategie sinnlich erfahrbar.*
+
 Jede Meldung, jeder Antrag, jede Beschwerde beim Jugendamt, Gericht oder einer anderen Behörde löst eine Reaktion aus. Die Behörde muss reagieren, muss prüfen, muss dokumentieren. Das ist Rechtsstaat – und das ist richtig so.
 
 Aber dieser Mechanismus kann als Hebel genutzt werden: Wer viele Anträge stellt, zwingt das System zu vielen Reaktionen – und den anderen Elternteil zu vielen Stellungnahmen. Der Aufwand ist asymmetrisch: Eine Beschwerde einreichen dauert eine Stunde; die Beschwerde zu beantworten, das Jugendamtsgespräch vorzubereiten und den Anwalt zu konsultieren dauert einen Tag. Multipliziert über Monate und Jahre ergibt das eine chronische Erschöpfung – genau das, was die Strategie bezweckt.
@@ -180,7 +188,7 @@ Ein Familiengericht ist kein Ort, an dem Wahrheit festgestellt wird. Es ist ein 
 
 Ein HCP-Elternteil, der das System kennt, kann es als Bühne nutzen: Um zu eskalieren. Um den anderen in Reaktion zu zwingen. Um gegenüber Dritten – Verwandten, Bekannten, dem Kind selbst – zu dokumentieren: „Ich war vor Gericht, also muss ich Recht haben." Der Ausgang des Verfahrens ist manchmal zweitrangig; die Konflikterzeugung durch das Verfahren selbst ist das eigentliche Ziel.
 
-> **[GRAFIK-PLATZHALTER – Grafik 7]** *Systemübersicht: Welche Institution macht was? – Visuelle Darstellung der Akteure, ihrer Rollen und ihrer Grenzen in Hochkonfliktsituationen (z. B. als Organigramm oder als Flussdiagramm mit Zuständigkeitsbereichen)*
+> *→ Systemübersicht der Akteure: siehe Grafik K4-A am Beginn des Kapitels.*
 
 ---
 
@@ -266,6 +274,8 @@ Engagement, Geduld und klare, sachliche Kommunikation mit Institutionen – das 
 ---
 
 ### Zusammenfassung: Das Hilfssystem auf einen Blick
+
+> **[GRAFIK-PLATZHALTER – Grafik K4-E]** *Visuelle Matrix der Zusammenfassungstabelle: Institutionen × Kompetenzen mit Farbcodierung (grün = kann / rot = kann nicht) – als gestaltete Übersicht statt reiner Texttabelle.*
 
 | Institution | Kernaufgabe | Was es kann | Was es nicht kann |
 |---|---|---|---|
