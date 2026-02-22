@@ -32,7 +32,14 @@
 - DARVO, Gaslighting, Projektion
 - Triangulation, Parentifizierung, Entfremdung
 - JADE-Falle, Moving the Goalposts, Word Salad
-- Für jedes Muster: Erkennung + Gegenstrategie
+- Für jedes Muster:
+  - Was es ist
+  - Woran du es erkennst
+  - Was es bezweckt
+  - Gegenstrategie
+  - Warum die Gegenstrategie funktioniert ← neu
+  - Beispiel – Das Muster
+  - Beispiel – Die Gegenstrategie
 
 ### Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind (~15 Seiten)
 
