@@ -8,7 +8,7 @@ Es gibt Bücher, von denen man hofft, sie nie zu brauchen.
 
 Dieses ist eines davon.
 
-Wenn du diese Seiten aufschlägst, ist die Wahrscheinlichkeit hoch, dass du gerade in einer der schwierigsten Phasen deines Lebens steckst. Die Trennung liegt vielleicht schon Monate oder Jahre zurück – und trotzdem hört der Konflikt nicht auf. Nachrichten, die dich aus dem Gleichgewicht bringen. Gerichtstermine, die sich anhäufen. Ein Kind, das zwischen zwei Welten pendelt. Nächte, in denen du dich fragst, ob das jemals besser wird.
+Wenn du diese Seiten aufschlägst, steckst du vermutlich in einer Krise, die dich an deine Grenzen führt. Die Trennung liegt vielleicht schon Monate oder Jahre zurück – und trotzdem hört der Konflikt nicht auf. Nachrichten, die dich aus dem Gleichgewicht bringen. Gerichtstermine, die sich anhäufen. Ein Kind, das zwischen zwei Welten pendelt. Nächte, in denen du dich fragst, ob das jemals besser wird.
 
 Es wird besser. Aber nicht von selbst, und nicht mit den Strategien, die in normalen Trennungssituationen funktionieren.
 
@@ -25,7 +25,7 @@ Dieses Buch richtet sich an Elternteile, die nach einer Trennung oder Scheidung 
 Du erkennst dich in diesem Buch, wenn:
 
 - Der Konflikt nach der Trennung **nicht abgenommen**, sondern zugenommen hat.
-- Du das Gefühl hast, dass jede Kommunikation mit dem anderen Elternteil zur **Falle** wird.
+- Du das Gefühl hast, dass jedes Wort auf die Goldwaage gelegt und jede Nachricht zur juristischen **Mine** wird.
 - Vereinbarungen immer wieder gebrochen, gedreht oder geleugnet werden.
 - Du häufig das Gefühl hast, dass deine Aussagen **verdreht, aus dem Kontext gerissen oder gegen dich verwendet** werden.
 - Institutionen wie Jugendamt, Gericht oder Erziehungsberatung **instrumentalisiert** werden, um Druck auf dich auszuüben.
@@ -150,7 +150,7 @@ Du wirst lernen:
 - Wie du dein Kind schützt, ohne es in den Konflikt hineinzuziehen.
 - Wie Hochkonfliktsituationen sich über die Zeit verändern – und was in welcher Phase hilft.
 
-Dieses Buch ist kein Versprechen. Es ist ein Werkzeugkasten. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
+Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten für den emotionalen Überlebenskampf. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
