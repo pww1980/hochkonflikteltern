@@ -8,6 +8,10 @@
 
 ## A
 
+**Adoleszenz**
+Die Entwicklungsphase zwischen ca. 12 und 18 Jahren, in der Jugendliche eine eigene Identität aufbauen, sich von den Eltern ablösen und enge Peerbeziehungen entwickeln. In Hochkonfliktsituationen ist diese Phase besonders heikel: Jugendliche sind alt genug, um Eltern emotional zu stützen (Parentifizierungsrisiko), können Kontakt aktiv verweigern, und entwickeln Schutzmechanismen – frühe Ablösung, Seiten wählen – die nach außen wie Stärke aussehen, aber oft Erschöpfung verbergen.
+→ *Siehe auch: Identität vs. Rollendiffusion, Parentifizierung, Sleeper-Effekt*
+
 **Affektive Instabilität**
 Schnelle, starke Stimmungswechsel, die nicht proportional zu äußeren Auslösern sind. Jemand mit affektiver Instabilität kann innerhalb von Stunden zwischen Euphorie, Wut und Verzweiflung wechseln. Zentrales Merkmal der Borderline-Persönlichkeitsstörung.
 → *Siehe auch: Borderline-Persönlichkeitsstörung, Emotionale Dysregulation*
@@ -83,6 +87,10 @@ Ein psychischer Schutzmechanismus, bei dem das Erleben von der Realität abgetre
 
 ## E
 
+**Egozentrismus (kindlicher)**
+Ein Begriff aus Jean Piagets Entwicklungspsychologie. Bezeichnet nicht Selbstsucht, sondern die entwicklungsbedingte Unfähigkeit kleiner Kinder (ca. 2–6 Jahre), die Welt aus einer anderen Perspektive als der eigenen zu betrachten. Die fatale Konsequenz in Trennungssituationen: Wenn etwas Schlimmes passiert, schließt das Kind automatisch, es hänge mit ihm zusammen. „Papa ist gegangen, weil ich böse war." Keine Lüge – sondern die logische Schlussfolgerung aus einem noch egozentrisch organisierten Denken.
+→ *Siehe auch: Magisches Denken, Präoperationale Phase*
+
 **EAR-Methode**
 Eine Gesprächstechnik des High Conflict Institute: **E**mpathy (Empathie zeigen), **A**ttention (aufmerksam zuhören), **R**espect (Respekt im Ton). Nicht als Zustimmung gedacht, sondern als Weg, das Nervensystem des Gegenübers zu beruhigen – und dadurch Gespräche überhaupt möglich zu machen.
 → *Siehe auch: BIFF-Prinzip, High Conflict Institute*
@@ -139,6 +147,10 @@ Ein Zustand erhöhter Wachheit und Alarmbereitschaft, bei dem man die Umgebung s
 
 ## I
 
+**Identität vs. Rollendiffusion**
+Die zentrale Entwicklungsaufgabe der Adoleszenz nach Erik Erikson: Jugendliche müssen eine stabile Identität entwickeln – das Gefühl, zu wissen, wer man ist, unabhängig von den Eltern. In Hochkonfliktsituationen ist diese Aufgabe erschwert, weil die Ablösung von den Eltern mit Loyalitätskonflikten, Schuld und emotionaler Verantwortung verwoben ist. Jugendliche, die jahrelang parentifiziert wurden, haben sich oft an den Bedürfnissen eines Elternteils orientiert statt an eigenen – was die Identitätsfindung verzögert oder verzerrt.
+→ *Siehe auch: Parentifizierung, Adoleszenz*
+
 **ICD-11**
 *International Classification of Diseases*, 11. Revision (2019), herausgegeben von der Weltgesundheitsorganisation (WHO). Das international gebräuchlichste Klassifikationssystem für Erkrankungen – auch psychische. In Deutschland maßgeblich für klinische Diagnosen.
 → *Siehe auch: DSM-5, Persönlichkeitsstörung*
@@ -188,6 +200,10 @@ Die Situation eines Kindes, das das Gefühl hat, zwischen zwei Elternteilen wäh
 
 ## M
 
+**Magisches Denken**
+Ein normales Merkmal des kindlichen Denkens im Vorschulalter: die Überzeugung, dass Wünsche, Gedanken oder eigenes Verhalten die Realität verändern können. In Trennungssituationen führt magisches Denken oft zu dem Glauben, die Eltern durch eigenes Verhalten wieder zusammenbringen zu können – besonders brav sein, besonders laut sein, gar nicht schlafen. Oder zur Überzeugung, den Konflikt selbst verursacht zu haben. Beides ist entwicklungspsychologisch normal und trotzdem belastend.
+→ *Siehe auch: Egozentrismus, Präoperationale Phase*
+
 **Metaanalyse**
 Eine Forschungsmethode, die die Ergebnisse vieler Einzelstudien statistisch zusammenfasst, um ein robusteres Gesamtbild zu erhalten. Paul Amatos Metaanalysen zur Scheidungsforschung gelten als die methodisch stärkste Grundlage, weil sie Dutzende Einzelstudien auswerten.
 
@@ -223,6 +239,10 @@ Das Phänomen, bei dem ein Kind emotionale Aufgaben übernimmt, die eigentlich E
 Ein dauerhaftes Muster des Erlebens und Verhaltens, das erheblich von kulturellen Erwartungen abweicht, unflexibel ist und zu Leidensdruck oder Beeinträchtigungen führt. Wichtig: Es geht nicht um gelegentlich schwieriges Verhalten, sondern um ein stabiles, durchgängiges Muster. Persönlichkeitsstörungen sind keine Charakterfehler – aber sie erklären, warum bestimmte Verhaltensweisen sich nicht durch Vernunft oder Appelle verändern.
 → *Siehe auch: DSM-5, Cluster B*
 
+**Präoperationale Phase**
+Eine Entwicklungsstufe nach Jean Piaget (ca. 2–7 Jahre), in der Kinder zwar sprechen und denken können, aber noch egozentrisch und durch magisches Denken geprägt sind. Sie können noch nicht logisch schlussfolgern oder Perspektiven anderer einnehmen. Für Trennungssituationen bedeutsam: In dieser Phase sind Selbstbeschuldigung und magisches Wiedervereinigungsdenken besonders häufig – weil das Denken des Kindes noch keine andere Erklärung kennt.
+→ *Siehe auch: Egozentrismus, Magisches Denken*
+
 **Präfrontaler Kortex**
 Der vorderste Teil des Großhirns – Sitz von Vernunft, Impulskontrolle, Planung, Empathie und emotionaler Regulation. Er reift als Letztes aus (vollständig erst mit ca. 25 Jahren) und ist am stärksten von chronischem Stress beeinträchtigt. Bildlich gesprochen: der Dirigent des Gehirns. Bei anhaltender Stressbelastung verliert er an Einfluss gegenüber der Amygdala.
 → *Siehe auch: Amygdala, Impulskontrolle, Cortisol*
@@ -233,6 +253,10 @@ Ein psychischer Abwehrmechanismus: Eigene unerwünschte Gefühle, Absichten oder
 ---
 
 ## R
+
+**Regression**
+Die Rückkehr zu Verhaltensweisen einer früheren Entwicklungsstufe unter psychischem Stress – etwa wenn ein Kind, das längst trocken war, wieder einzunässen beginnt, oder wenn ein Schulkind plötzlich babyhafte Sprache benutzt. Keine Schwäche und kein Rückschritt, sondern ein Schutzmechanismus: Das Nervensystem greift auf ältere, vertrautere Muster zurück. Tritt häufig bei Vorschul- und Grundschulkindern in Hochkonfliktsituationen auf, besonders rund um Übergaben oder nach Konfliktepisoden.
+→ *Siehe auch: Chronischer Stress, Bindung*
 
 **Resilienz**
 Die Fähigkeit, trotz widriger Umstände eine stabile Entwicklung zu zeigen. Kein angeborenes Merkmal, sondern das Ergebnis von schützenden Faktoren – vor allem: einer stabilen, verlässlichen Beziehung zu mindestens einer Bezugsperson. Resilienz ist kein Schutzschild, der automatisch funktioniert; sie braucht Bedingungen, die sie ermöglichen.
@@ -252,6 +276,10 @@ Die Fähigkeit, den eigenen emotionalen und physiologischen Zustand eigenständi
 **Sichere Bindung**
 Ein Bindungsmuster, das entsteht, wenn Bezugspersonen verlässlich, feinfühlig und emotional erreichbar sind. Kinder mit sicherer Bindung erkunden die Welt mutiger, erholen sich schneller von Stress und zeigen langfristig bessere soziale und emotionale Entwicklung. Biologisch: Sichere Bindung dämpft nachweislich das kindliche Stresssystem.
 → *Siehe auch: Bindung, Co-Regulation, Resilienz*
+
+**Somatisierung**
+Das Auftreten körperlicher Beschwerden – Bauchschmerzen, Kopfschmerzen, häufige Infekte, Schlafstörungen – ohne organisch nachweisbare Ursache, als Ausdruck psychischer Belastung. Bei Kindern in Hochkonfliktsituationen eines der häufigsten und am leichtesten übersehenen Symptome: Der Körper kommuniziert, was das Kind nicht in Worte fassen kann oder darf. Somatisierung ist keine Einbildung – sie ist eine echte körperliche Reaktion auf chronischen Stress.
+→ *Siehe auch: Chronischer Stress, Toxischer Stress, HPA-Achse*
 
 **Sleeper-Effekt**
 Beobachtung aus Wallersteins Längsschnittstudie: Manche Kinder – besonders Mädchen – zeigen in der Kindheit kaum Auffälligkeiten, während die Auswirkungen der elterlichen Hochkonfliktsituation erst im frühen Erwachsenenalter aufbrechen, wenn eigene Partnerschaften und Lebensplanung anstehen. Der Effekt tritt „verzögert" auf wie im Schlaf.
