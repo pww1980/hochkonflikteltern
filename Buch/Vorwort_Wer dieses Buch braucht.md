@@ -37,6 +37,8 @@ Du erkennst dich in diesem Buch, wenn:
 
 Wenn du dir bei mehreren dieser Punkte gedacht hast „Ja, genau das ist es" – dann bist du hier richtig.
 
+> **[GRAFIK-PLATZHALTER – Grafik 1]** *Infografik: Visuelle Darstellung der Erkennungsmerkmale als Selbstcheck – „Erkennst du dich in diesen Punkten wieder?"*
+
 ---
 
 ### Wofür dieses Buch nicht ausreicht – und was dann zu tun ist
@@ -115,6 +117,8 @@ Gleichzeitig ist es wichtig, ehrlich zu bleiben: Manchmal erleben sich beide Elt
 
 Dieses Buch ist für den letztgenannten Fall: Für Eltern, die in einem **anhaltenden, eskalierenden Elternkonflikt** gefangen sind, in dem beide Seiten leiden – und in dem das Kind der eigentliche Leidtragende ist.
 
+> **[GRAFIK-PLATZHALTER – Grafik 3]** *Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
+
 Wenn du nicht sicher bist, ob deine Situation unter "Hochkonflikt" oder "Gewalt" fällt: Lies zunächst dieses Kapitel zu Ende. Und sprich mit einer Fachperson – einem Anwalt, einer Beratungsstelle oder dem Jugendamt. Sie können helfen, die Situation einzuordnen.
 
 ---
@@ -149,6 +153,8 @@ Du wirst lernen:
 Dieses Buch ist kein Versprechen. Es ist ein Werkzeugkasten. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
+
+> **[GRAFIK-PLATZHALTER – Grafik 2]** *Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
 
 ---
 

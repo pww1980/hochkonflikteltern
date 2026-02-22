@@ -34,6 +34,8 @@ Ich las **Judith Wallerstein**, deren Langzeitstudie über Scheidungskinder bis 
 
 Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
 
+> **[GRAFIK-PLATZHALTER – Grafik 4]** *Zeitstrahl: Neun Jahre Erfahrung und Forschung – Phasen der Entstehung dieses Buches (eigene Erfahrung → Forschungsarbeit → Praxis → Buch) mit den wichtigsten zitierten Forscherinnen und Forschern*
+
 Ich lernte, was beim Jugendamt hilft – und was den Eindruck erweckt, man sei der schwierige Teil. Ich lernte, wie man Protokolle führt, die im Ernstfall relevant sind. Ich lernte, welche Art von E-Mail eine Eskalation provoziert – und wie man die gleiche Information ohne diese Wirkung übermittelt. Ich lernte, wann ein Gerichtstermin unvermeidlich ist – und wann er nur neue Munition liefert.
 
 Manches davon habe ich auf die harte Tour gelernt.
