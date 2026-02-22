@@ -14,6 +14,8 @@ Es wird besser. Aber nicht von selbst, und nicht mit den Strategien, die in norm
 
 Dieses Buch ist für dich geschrieben.
 
+> **Hinweis:** Dieses Buch ersetzt keine Rechtsberatung und keine Therapie. Es vermittelt Orientierung, Hintergrundwissen und erprobte Strategien – aber jede Situation ist individuell. Wenn du rechtliche Fragen hast, wende dich an eine Anwältin oder einen Anwalt für Familienrecht. Wenn du merkst, dass du emotional an deine Grenzen stößt, ist professionelle psychologische Unterstützung keine Schwäche, sondern eine der klügsten Entscheidungen, die du für dich und dein Kind treffen kannst.
+
 ---
 
 ### Für wen dieses Buch gedacht ist
