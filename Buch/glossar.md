@@ -20,6 +20,10 @@ Schnelle, starke Stimmungswechsel, die nicht proportional zu äußeren Auslöser
 Eine mandelförmige Hirnstruktur, die für das Erkennen und Verarbeiten von Bedrohungen zuständig ist. Sie funktioniert wie ein Rauchmelder: schnell, intuitiv, manchmal überempfindlich. Unter chronischem Stress wird die Amygdala überaktiv – sie schlägt dann auch bei harmlosen Situationen Alarm.
 → *Siehe auch: HPA-Achse, Präfrontaler Kortex, Toxischer Stress*
 
+**Alienation (Elterliche Entfremdung)**
+Der Prozess, durch den ein Kind die Beziehung zu einem Elternteil aktiv verliert – nicht aufgrund eigener Erfahrungen, sondern durch systematische Beeinflussung durch den anderen Elternteil. Das Kind lehnt den entfremdeten Elternteil ab oder fürchtet ihn auf eine Weise, die durch eigene direkte Erfahrung nicht erklärbar ist. Entfremdung ist ein langsamer Prozess: negative Kommentare, Kontakteinschränkungen, das Verknüpfen von Kontakt mit Schuld oder Angst. Wichtig: Echte kindliche Ablehnung kann auch eine legitime Reaktion auf tatsächlich erlebtes problematisches Verhalten sein – die Unterscheidung ist klinisch komplex.
+→ *Siehe auch: Triangulation, Loyalitätskonflikt, Gatekeeping*
+
 **Antisoziale Persönlichkeitsstörung (ASPS)**
 Eine Persönlichkeitsstörung, bei der Regeln und Rechte anderer dauerhaft missachtet werden. Kennzeichen: Lügen, Manipulation, Gleichgültigkeit gegenüber Schäden, die anderen zugefügt werden. Gehört zu den Cluster-B-Störungen. Im Volksmund oft mit „Psychopathie" oder „Soziopathie" gleichgesetzt – die Fachbegriffe sind nicht ganz deckungsgleich.
 → *Siehe auch: Cluster B, Persönlichkeitsstörung*
@@ -87,6 +91,10 @@ Akronym für Deny – Attack – Reverse Victim and Offender (Leugnen – Angrei
 **Dissoziation**
 Ein psychischer Schutzmechanismus, bei dem das Erleben von der Realität abgetrennt wird – von leichter Gedankenabwesenheit bis hin zu Zuständen, in denen man sich selbst wie von außen beobachtet. Kann ein Zeichen von Überforderung oder Trauma sein. Bei der Borderline-Persönlichkeitsstörung ein mögliches Symptom unter extremem Stress.
 
+**Document Flooding**
+Das systematische Überhäufen des anderen Elternteils mit Briefen, E-Mails, Anträgen und Schriftsätzen in einem Ausmaß, das keine inhaltliche Verarbeitung mehr zulässt. Nicht als Kommunikation gemeint, sondern als Erschöpfungsstrategie: Jede Antwort provoziert weitere Nachrichten. Gegenstrategie: strukturierte Kommunikationszeiten einführen, selektiv und sachlich antworten.
+→ *Siehe auch: Weaponizing the Legal System, Emotional Flooding*
+
 **DSM-5**
 *Diagnostic and Statistical Manual of Mental Disorders*, 5. Ausgabe (2013), herausgegeben von der Amerikanischen Psychiatrischen Vereinigung. Das wichtigste Diagnosehandbuch in der amerikanischen Psychiatrie und Psychologie, international weit verbreitet. Enthält die Diagnosekriterien für Persönlichkeitsstörungen.
 → *Siehe auch: ICD-11, Persönlichkeitsstörung*
@@ -111,6 +119,13 @@ Eine Gesprächstechnik des High Conflict Institute: **E**mpathy (Empathie zeigen
 Die Unfähigkeit, die eigene emotionale Reaktion zu steuern – Gefühle kommen intensiver, schneller und halten länger an als in der Situation angemessen. Kein Versagen oder Wille, sondern oft ein neurobiologisches Muster. Kernmerkmal der Borderline-Persönlichkeitsstörung; auch bei anderen Hochkonflikttypologien relevant.
 → *Siehe auch: Affektive Instabilität, DBT, Selbstregulation*
 
+**Elterliche Entfremdung**
+→ *Siehe: Alienation*
+
+**Emotional Flooding (Emotionale Überflutung)**
+Das Verschicken überwältigender Mengen an Nachrichten, Anrufen und Vorwürfen in kurzer Zeit – mit dem Ziel, das Nervensystem des Gegenübers zu überfordern und eine unüberlegte Reaktion zu provozieren. Der Psychologe John Gottman beschrieb Flooding als physiologisches Phänomen: Unter massivem emotionalem Input überhitzt das Stresssystem und rationales Denken wird schwieriger. Gegenstrategie: 24-Stunden-Regel, Nachrichten gesammelt statt einzeln lesen.
+→ *Siehe auch: Intermittent Reinforcement, Document Flooding, Silent Treatment*
+
 **Empathiemangel**
 Eingeschränkte Fähigkeit, die Perspektive, Gefühle oder Bedürfnisse anderer Menschen wahrzunehmen und nachzuempfinden. Bei narzisstischer Persönlichkeitsstörung strukturell verankert – nicht als Gleichgültigkeit geplant, sondern als blinder Fleck. Wichtig: Empathiemangel bedeutet nicht, dass jemand keine Gefühle hat, sondern dass er die Gefühle *anderer* schlecht erfasst.
 → *Siehe auch: Narzisstische Persönlichkeitsstörung*
@@ -125,6 +140,22 @@ Die Steigerung eines Konflikts in Intensität, Mittel oder Reichweite. Im Hochko
 
 ---
 
+## F
+
+**Falsche Gleichsetzung (False Equivalence)**
+Das Darstellen zweier ungleicher Sachverhalte als moralisch gleichwertig – um die Berechtigung einer Kritik zu untergraben. Häufigkeit, Ausmaß und Kontext werden systematisch ignoriert: Eine einmalige Kleinigkeit wird gegen ein wiederholtes, schwerwiegenderes Verhalten aufgewogen. Gegenstrategie: Themen konsequent trennen und getrennt behandeln, ohne auf den Vergleich einzugehen.
+→ *Siehe auch: Whataboutism, DARVO*
+
+**Flying Monkeys**
+Personen aus dem sozialen Umfeld – Familienangehörige, Freunde, neue Partner –, die als Botschafter, Druckmacher oder Informationssammler für einen Hochkonflikt-Elternteil agieren, oft ohne zu wissen, dass sie instrumentalisiert werden. Der Begriff stammt aus dem Märchen *Der Zauberer von Oz*, in dem die böse Hexe geflügelte Affen ausschickt. Gegenstrategie: Dritten gegenüber freundlich, aber informationsknapp bleiben; Sachverhalte nur direkt klären.
+→ *Siehe auch: Smear Campaign, Hub and Spoke, Triangulation*
+
+**Future Faking**
+Das Machen von Versprechen, die nicht eingehalten werden – oder von denen von Anfang an klar ist, dass sie nicht eingehalten werden können. Kurzfristig beruhigend, langfristig erschöpfend. Im Hochkonfliktkontext häufig betroffen: Kinder, denen Ausflüge, Besuche oder Veränderungen versprochen werden, die nie eintreten. Gegenstrategie: Nur auf schriftliche, konkrete Zusagen hin planen; Kinder erst informieren, wenn etwas sicher ist.
+→ *Siehe auch: Intermittent Reinforcement, Moving the Goalposts*
+
+---
+
 ## G
 
 **Gaslighting**
@@ -134,6 +165,10 @@ Die systematische Untergrabung des Realitätssinns einer Person – durch Leugne
 **Geschichtsrevision**
 Die nachträgliche Neubewertung vergangener Ereignisse oder Vereinbarungen, so dass sie das aktuelle Narrativ stützen. Gemeinsam Entschiedenes wird als aufgezwungen erinnert, Entgegenkommen als Übergriff umdefiniert. Zielt darauf, gegenüber Dritten eine konsistente Tätererzählung aufzubauen. Gegenstrategie: lückenlose schriftliche Dokumentation von Anfang an.
 → *Siehe auch: Gaslighting, DARVO*
+
+**Gatekeeping**
+Die einseitige Kontrolle eines Elternteils über den Zugang des anderen Elternteils zum Kind – über die vereinbarte oder gerichtlich festgelegte Rolle hinaus. Man unterscheidet restriktives Gatekeeping (aktive Beschränkung von Kontakt, Informationen und Teilhabe) und förderndes Gatekeeping (aktive Unterstützung des Kontakts). In Hochkonfliktsituationen überwiegt die restriktive Form. Gegenstrategie: Direkte Kanäle zu Schule, Arzt und anderen Institutionen aufbauen; Auskunftsrecht bei gemeinsamem Sorgerecht aktiv einfordern (§ 1627 BGB).
+→ *Siehe auch: Hub and Spoke, Alienation, Triangulation*
 
 **Grandiositätsgefühl**
 Das Gefühl, besonders, überlegen oder zu Besonderem berufen zu sein – über das normal gesunde Selbstbewusstsein hinaus. Bei narzisstischer Persönlichkeitsstörung oft gleichzeitig mit extrem verletzlicher Selbstachtung: Nach außen Überlegenheit, darunter intensive Empfindlichkeit für Kränkungen.
@@ -159,6 +194,14 @@ Eine Hirnstruktur, die zentral für Gedächtnis und Lernen ist – insbesondere 
 Abkürzung für Hypothalamus-Hypophysen-Nebennierenrinden-Achse – das zentrale Stressregelungssystem des Körpers. Wenn das Gehirn eine Bedrohung erkennt, schüttet der Hypothalamus ein Signal aus, das eine Kaskade auslöst und in der Produktion von Cortisol endet. Unter chronischem Stress ist diese Achse dauerhaft überaktiv.
 → *Siehe auch: Cortisol, Chronischer Stress, Toxischer Stress*
 
+**Hoovering**
+Das plötzliche Auftreten von kooperativem, freundlichem oder sogar warmem Verhalten nach einer Eskalationsphase – kein echter Wendepunkt, sondern Teil eines wiederkehrenden Zyklus. Benannt nach der Staubsaugermarke Hoover (sinngemäß: das Gegenüber wieder aufsaugen). Ziel: Schutzmaßnahmen senken und Hoffnung auf echte Veränderung wecken. Gegenstrategie: positive Phasen als Teil des Musters erkennen, eigene Strukturen (Dokumentation, schriftliche Kommunikation) konstant beibehalten.
+→ *Siehe auch: Intermittent Reinforcement, Smear Campaign*
+
+**Hub and Spoke**
+Ein Muster, bei dem ein Elternteil sich als unverzichtbaren Kommunikationsknotenpunkt positioniert: Schule, Arzt, Behörden und Großeltern sollen ausschließlich über ihn kommunizieren. Der andere Elternteil wird aus allen Kanälen ausgeschlossen und erscheint dadurch als desinteressiert oder abwesend – obwohl er nicht informiert wurde. Gegenstrategie: Direkte Kanäle zu allen relevanten Institutionen aktiv aufbauen und Aufnahme in Verteiler schriftlich einfordern.
+→ *Siehe auch: Gatekeeping, Flying Monkeys*
+
 **Hypervigilanz**
 Ein Zustand erhöhter Wachheit und Alarmbereitschaft, bei dem man die Umgebung ständig auf Gefahren scannt. Sinnvoll in echter Gefahr; erschöpfend und schädlich als Dauerzustand. Kinder in Hochkonfliktsituationen entwickeln Hypervigilanz oft als Anpassung: Sie lernen früh, die Stimmung der Eltern zu lesen, um Eskalationen vorherzusagen.
 → *Siehe auch: Amygdala, Chronischer Stress*
@@ -182,6 +225,10 @@ Die zentrale Entwicklungsaufgabe der Adoleszenz nach Erik Erikson: Jugendliche m
 **Impasse**
 Wörtlich: Sackgasse. In der Scheidungsforschung (Johnston & Campbell) bezeichnet ein Impasse eine Situation, in der der Konflikt trotz aller Interventionen nicht gelöst werden kann – weil die Konfliktdynamik von den beteiligten Persönlichkeitsstrukturen aufrechterhalten wird. Nicht alle Hochkonfliktsituationen sind Impasses; aber alle Impasses sind Hochkonfliktsituationen.
 → *Siehe auch: Hochkonflikt*
+
+**Intermittent Reinforcement (Intermittierende Verstärkung)**
+Ein Begriff aus der Verhaltenspsychologie (B. F. Skinner): Wenn auf ein Verhalten manchmal eine Belohnung folgt, manchmal nicht – unvorhersehbar –, wird dieses Verhalten hartnäckiger aufrechterhalten als bei konstanter Belohnung oder konstanter Bestrafung. Im Hochkonfliktkontext: Das unvorhersehbare Wechseln zwischen Eskalation und Kooperation erzeugt beim Gegenüber emotionale Abhängigkeit – die ständige Hoffnung auf die kooperative Version des anderen. Dasselbe psychologische Prinzip liegt Spielautomaten zugrunde.
+→ *Siehe auch: Hoovering, Emotional Flooding, Future Faking*
 
 **Impulskontrolle**
 Die Fähigkeit, spontane Handlungsimpulse zu regulieren – innehalten, bevor man reagiert. Der präfrontale Kortex ist maßgeblich dafür zuständig. Unter akutem Stress und bei bestimmten Persönlichkeitsstörungen ist Impulskontrolle eingeschränkt.
@@ -314,6 +361,14 @@ Die Fähigkeit, den eigenen emotionalen und physiologischen Zustand eigenständi
 Ein Bindungsmuster, das entsteht, wenn Bezugspersonen verlässlich, feinfühlig und emotional erreichbar sind. Kinder mit sicherer Bindung erkunden die Welt mutiger, erholen sich schneller von Stress und zeigen langfristig bessere soziale und emotionale Entwicklung. Biologisch: Sichere Bindung dämpft nachweislich das kindliche Stresssystem.
 → *Siehe auch: Bindung, Co-Regulation, Resilienz*
 
+**Silent Treatment / Stonewalling**
+Die vollständige Kommunikationsverweigerung als strategisches Druckmittel – nicht als Ausdruck von Überforderung, sondern gezielt eingesetzt, um den anderen zur Nachgiebigkeit oder Eskalation zu zwingen. Der Psychologe John Gottman identifizierte Stonewalling als eines der verlässlichsten Warnsignale für nachhaltige Beziehungsschäden. Im Hochkonfliktkontext: Schweigen als Verhandlungsmasse. Gegenstrategie: Fristen setzen, dokumentieren, selbst gemäß Vereinbarung entscheiden.
+→ *Siehe auch: Emotional Flooding, Hoovering*
+
+**Smear Campaign (Verleumdungskampagne)**
+Der gezielte, systematische Versuch, den Ruf des anderen Elternteils zu beschädigen – im Freundeskreis, in der Familie, bei Institutionen (Schule, Jugendamt, Arbeitgeber) oder in sozialen Netzwerken. Häufig mit einem Kern Wahrheit, der sorgfältig aus dem Kontext gerissen wurde. Ziel: soziale Isolation und Glaubwürdigkeitsverlust. Gegenstrategie: nicht öffentlich kontern, sachlich und verlässlich präsent bleiben, eigenes Verhalten als langfristiges Argument nutzen.
+→ *Siehe auch: Flying Monkeys, Hub and Spoke*
+
 **Somatisierung**
 Das Auftreten körperlicher Beschwerden – Bauchschmerzen, Kopfschmerzen, häufige Infekte, Schlafstörungen – ohne organisch nachweisbare Ursache, als Ausdruck psychischer Belastung. Bei Kindern in Hochkonfliktsituationen eines der häufigsten und am leichtesten übersehenen Symptome: Der Körper kommuniziert, was das Kind nicht in Worte fassen kann oder darf. Somatisierung ist keine Einbildung – sie ist eine echte körperliche Reaktion auf chronischen Stress.
 → *Siehe auch: Chronischer Stress, Toxischer Stress, HPA-Achse*
@@ -357,6 +412,10 @@ Intensive Angst davor, verlassen, alleingelassen oder zurückgewiesen zu werden.
 **Whataboutism**
 Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar ähnliches Verhalten des Gegenübers entgegengestellt wird. Ziel: das ursprüngliche Thema zu begraben und eine moralische Gleichwertigkeitsdiskussion zu erzwingen. Gegenstrategie: beim eigenen Thema bleiben, das Gegenthema separat anbieten.
 → *Siehe auch: Moving the Goalposts, DARVO, Falsche Gleichsetzung*
+
+**Weaponizing the Legal System (Systemischer Rechtsmissbrauch)**
+Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgeldern nicht als Mittel der Rechtsdurchsetzung, sondern als Zermürbungsstrategie. Das Ziel ist nicht das Recht selbst – sondern der Prozess: Zeit, Geld und emotionale Erschöpfung, die jeder Antrag und jede Anhörung kostet. Gegenstrategie: alle Verfahren chronologisch dokumentieren, sachlich und kurz antworten, das Muster gegenüber Gericht und Anwalt benennen.
+→ *Siehe auch: Document Flooding, Falsche Anschuldigungen*
 
 **WEB-Modell**
 Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – was sagt die Person?), **E**motions (Emotionen – welche Gefühle werden ausgelöst?), **B**ehavior (Verhalten – was tut die Person konkret?). Das Modell hilft, HCP-Muster zu erkennen, ohne auf diagnostische Labels angewiesen zu sein.

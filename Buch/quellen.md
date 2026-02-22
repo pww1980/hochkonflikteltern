@@ -204,6 +204,72 @@ Hoboken, NJ: Wiley.
 
 ---
 
+### Kindsbezogene Muster
+
+**Baker, A. J. L. (2007).**
+*Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.*
+New York: W. W. Norton.
+
+> Erste systematische Studie mit 40 erwachsenen Kindern, die berichten, als Kind von einem Elternteil gegen den anderen eingesetzt worden zu sein. Beschreibung der Langzeitfolgen von Entfremdungsprozessen.
+
+**Austin, W. G. (2008).**
+Relocation, research, and forensic evaluation: Part I: Effects of residential mobility on children of divorce.
+*Family Court Review, 46*(1), 136–149.
+
+> Analyse von Gatekeeping-Verhalten und dessen Auswirkungen auf Kontaktqualität; Unterscheidung zwischen restriktivem und förderndem Gatekeeping.
+
+**Pruett, M. K., Arthur, L. A. & Ebling, R. (2007).**
+The hand that rocks the cradle: Maternal gatekeeping after divorce.
+*Pace Law Review, 27*(4), 709–739.
+
+> Empirische Analyse von mütterlichem Gatekeeping-Verhalten; Einfluss auf Vater-Kind-Kontakt und kindliche Entwicklung.
+
+**Warshak, R. A. (2010).**
+*Divorce Poison: How to Protect Your Family from Bad-mouthing and Brainwashing.*
+New York: HarperCollins. (aktualisierte Ausgabe)
+
+> Praxisorientiertes Werk zu Entfremdungsprozessen; Strategien für betroffene Elternteile und Kinder.
+
+---
+
+### Psychologische Steuerungsmuster
+
+**Gottman, J. M. & Silver, N. (1999).**
+*The Seven Principles for Making Marriage Work.*
+New York: Crown Publishers.
+
+> Beschreibung der „Vier Apokalyptischen Reiter" in Paarkonflikten, darunter Stonewalling; physiologische Flutungsreaktion (Flooding) unter emotionalem Stress.
+
+**Skinner, B. F. (1938).**
+*The Behavior of Organisms: An Experimental Analysis.*
+New York: Appleton-Century-Crofts.
+
+> Grundlegendes Werk zur operanten Konditionierung; Nachweis, dass variable (intermittierende) Verstärkungspläne die hartnäckigsten Verhaltensänderungen erzeugen – Grundlage des Konzepts Intermittent Reinforcement.
+
+**Festinger, L. (1957).**
+*A Theory of Cognitive Dissonance.*
+Stanford: Stanford University Press.
+
+> Kognitive Dissonanz als Grundlage dafür, warum intermittierende positive Signale in einer negativen Gesamtdynamik übergewichtet werden; Relevanz für emotionale Abhängigkeit im Hochkonfliktkontext.
+
+---
+
+### Institutionelle und systemische Muster
+
+**Eddy, B. (2011).**
+*It's All Your Fault! 12 Tips for Managing People Who Blame Others for Everything.*
+Scottsdale: HCI Press.
+
+> Strategien im Umgang mit Schuldzuweisungsmustern; Kapitel zu systemischem Rechtsmissbrauch und Document Flooding im Familienrechtskontext.
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People.*
+Scottsdale: HCI Press.
+
+> Praxishandbuch zur schriftlichen Kommunikation in hochstrittigen Situationen; Anwendung auf Anträge, Schriftsätze und Flooding-Situationen.
+
+---
+
 ## Kapitel 2: Die Auswirkungen auf Kinder
 
 ### Entwicklungsphasen
@@ -285,6 +351,7 @@ New York: Guilford Press.
 
 | Autor(en) | Jahr | Titel (Kurzform) |
 |---|---|---|
+| Austin, W. G. | 2008 | Relocation, research, and forensic evaluation (Gatekeeping) |
 | Ainsworth, M. D. S. et al. | 1978 | Patterns of Attachment |
 | Amato, P. R. | 2001 | Children of divorce in the 1990s (Meta-Analyse) |
 | Amato, P. R. | 2010 | Research on divorce: Continuing trends |
@@ -293,13 +360,18 @@ New York: Guilford Press.
 | American Psychiatric Association | 2013 | DSM-5 |
 | De Bellis, M. D. et al. | 1999 | Developmental traumatology – Brain development |
 | De Bellis, M. D. et al. | 2002 | [Folgestudie, Angabe prüfen] |
+| Baker, A. J. L. | 2007 | Adult Children of Parental Alienation Syndrome |
+| Eddy, B. | 2010 | BIFF: Quick Responses to High-Conflict People |
+| Eddy, B. | 2011 | It's All Your Fault! |
 | Eddy, B. | 2018 | 5 Types of People Who Can Ruin Your Life |
 | Eddy, B. & Cartwright, K. | 2012 | New Ways for Families – Pilotstudie |
 | Eddy, B. & Kreger, R. | 2011 | Splitting |
 | Erikson, E. H. | 1968 | Identity: Youth and Crisis |
+| Festinger, L. | 1957 | A Theory of Cognitive Dissonance |
 | Freyd, J. J. | 1997 | Violations of power… (DARVO) |
 | Freyd, J. J. & Birrell, P. J. | 2013 | Blind to Betrayal |
 | Garmezy, N. | 1993 | Children in poverty: Resilience despite risk |
+| Gottman, J. M. & Silver, N. | 1999 | The Seven Principles for Making Marriage Work |
 | Gunnar, M. R. & Donzella, B. | 2002 | Social regulation of cortisol levels |
 | Heim, C. et al. | 2000 | Pituitary-adrenal responses to stress |
 | Hetherington, E. M. & Kelly, J. | 2002 | For Better or for Worse |
@@ -314,7 +386,9 @@ New York: Guilford Press.
 | Main, M., Kaplan, N. & Cassidy, J. | 1985 | Security in infancy, childhood, and adulthood |
 | Meaney, M. J. & Szyf, M. | 2005 | Environmental programming of stress responses |
 | Piaget, J. & Inhelder, B. | 1969 | The Psychology of the Child |
+| Pruett, M. K., Arthur, L. A. & Ebling, R. | 2007 | The hand that rocks the cradle: Maternal gatekeeping after divorce |
 | Shonkoff, J. P. & Garner, A. S. | 2012 | Toxic stress (Pediatrics) |
+| Skinner, B. F. | 1938 | The Behavior of Organisms (Intermittent Reinforcement) |
 | Siegel, D. J. | 1999 | The Developing Mind |
 | Siegel, D. J. & Hartzell, M. | 2003 | Parenting from the Inside Out |
 | Tottenham, N. | 2012 | Human amygdala development… |
@@ -324,6 +398,7 @@ New York: Guilford Press.
 | Wallerstein, J. S. | 1989 | Second Chances |
 | Wallerstein, J. S. et al. | 2000 | The Unexpected Legacy of Divorce |
 | Walper, S. | [prüfen] | Ko-Elternschaft und kindliche Entwicklung (DJI) |
+| Warshak, R. A. | 2010 | Divorce Poison (Alienation) |
 | Werner, E. E. & Smith, R. S. | 1992 | Overcoming the Odds |
 | World Health Organization | 2019 | ICD-11 |
 
