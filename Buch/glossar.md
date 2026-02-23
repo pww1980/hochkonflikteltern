@@ -455,6 +455,26 @@ Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgelder
 
 ---
 
+## Ergänzungen zu Kapitel 8
+
+**Co-Parenting**
+Modell der Elternschaft nach Trennung, bei dem beide Elternteile aktiv zusammenarbeiten – Absprachen treffen, gemeinsam entscheiden, die Beziehung des Kindes zum jeweils anderen Elternteil aktiv fördern. Setzt voraus, dass beide Elternteile zur Kooperation bereit und fähig sind. Im Hochkonflikt oft nicht realisierbar; erzwungene Co-Parenting-Versuche können das Konfliktgeschehen verstärken und das Kind zusätzlich belasten.
+→ *Siehe auch: Parallel Parenting, Loyalitätskonflikt, Kooperationsbereitschaft*
+
+**Elternplan (Parenting Plan)**
+Schriftliches Dokument, das nach einer Trennung die Betreuungszeiten, Entscheidungskompetenzen, Kommunikationsregeln und sonstigen Abläufe im Umgang mit dem Kind regelt. Im Parallel Parenting zentrales Steuerungsinstrument, das mündliche Absprachen ersetzt. Gute Elternpläne sind konkret, messbar und vollstreckbar – keine Absichtserklärungen, sondern Regelungen.
+→ *Siehe auch: Parallel Parenting, Umgangsregelung*
+
+**Parallel Parenting**
+Erziehungsmodell nach Trennung, das auf minimale direkte Elternkommunikation und eigenverantwortliche Entscheidungen im jeweiligen Betreuungszeitraum setzt. Entwickelt als Alternative zu Co-Parenting in Hochkonfliktsituationen, in denen direkte Kooperation das Kind schädigt statt schützt. Kernprinzipien: minimale Kommunikation, ausschließlich schriftlich, strukturierte Absprachen, Respekt der eigenen Zeit. Kein Dauerzustand, sondern ein Modell für eine Phase des Konflikts.
+→ *Siehe auch: Co-Parenting, Elternplan, Übergabe*
+
+**Übergabe**
+Der Moment, in dem das Kind von einem Elternteil zum anderen wechselt. Im Hochkonflikt eine besonders belastende Situation für das Kind, weil es Schnittstelle zweier Lebenswelten ist. Gut gestaltete Übergaben: fester Ort, feste Zeit, minimaler Elternkontakt, kurzer Abschied ohne emotionale Inszenierung. Schlecht gestaltete Übergaben: Gespräche über den Konflikt, Verspätungen, Aufträge für das Kind, Kommentare über den anderen Haushalt.
+→ *Siehe auch: Parallel Parenting, Begleitete Übergabe*
+
+---
+
 ## Ergänzungen zu Kapitel 7
 
 **Begutachtung (psychologisches Sachverständigengutachten)**

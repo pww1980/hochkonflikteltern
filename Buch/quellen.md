@@ -544,6 +544,25 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 
 ---
 
+## Kapitel 8 – Co-Parenting vs. Parallel Parenting
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Ahrons, C. R. | 1994 | *The Good Divorce* – HarperCollins |
+| Braver, S. L. & Griffin, W. A. | 2000 | Engaging Fathers in the Post-Divorce Family – *Marriage & Family Review* |
+| Eddy, B. | 2010 | *Co-Parenting with a Toxic Ex* – HCI Press |
+| Emery, R. E. | 1994 | *Renegotiating Family Relationships* – Guilford Press |
+| Emery, R. E. | 2016 | *Two Homes, One Childhood* – Avery |
+| Johnston, J. R. | 1994 | High-Conflict Divorce – *The Future of Children*, 4(1) |
+| Johnston, J. R. & Campbell, L. E. G. | 1988 | *Impasses of Divorce* – Free Press |
+| Maccoby, E. E. & Mnookin, R. H. | 1992 | *Dividing the Child* – Harvard University Press |
+| Pedro-Carroll, J. | 2010 | *Putting Children First* – Avery |
+| Pruett, M. K. & Barker, R. | 2009 | Joint Custody: A Judicious Choice for Families – *J Child Custody* |
+| Stahl, P. M. | 1999 | *Parenting After Divorce* – Impact Publishers |
+| Warshak, R. A. | 2003 | Payoffs and Pitfalls of Listening to Children – *Family Relations* |
+
+---
+
 ## Kapitel 7 – Gespräche, die zählen
 
 | Autor(en) | Jahr | Titel / Quelle |
