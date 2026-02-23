@@ -347,6 +347,59 @@ New York: Guilford Press.
 
 ---
 
+## Kapitel 6: Der Kommunikationsleitfaden
+
+> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People.*
+*(s. Kapitel 5)*
+
+> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
+
+**High Conflict Institute (laufend).**
+*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
+https://www.highconflictinstitute.com
+
+> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
+
+---
+
+## Kapitel 5: Das BIFF-Prinzip
+
+### BIFF und High Conflict Communication
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
+Scottsdale: HCI Press.
+*(s. o., Kapitel 3)*
+
+> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
+
+**Eddy, B. (2014).**
+*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
+Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
+
+> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
+
+---
+
+### Kommunikation und Eskalationsdynamik
+
+**Gottman, J. M. & Silver, N. (1999).**
+*The Seven Principles for Making Marriage Work.*
+*(s. o., Kapitel 3)*
+
+> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
+
+**Tannen, D. (1990).**
+*You Just Don't Understand: Women and Men in Conversation.*
+New York: William Morrow.
+
+> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
+
+---
+
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
 ### Deutsches Familienrecht und Institutionen
@@ -427,6 +480,7 @@ The psychological functioning of alienated children in custody disputing familie
 | De Bellis, M. D. et al. | 2002 | [Folgestudie, Angabe prüfen] |
 | Baker, A. J. L. | 2007 | Adult Children of Parental Alienation Syndrome |
 | Eddy, B. | 2010 | BIFF: Quick Responses to High-Conflict People |
+| Eddy, B. | 2014 | BIFF for Co-Parent Communication |
 | Eddy, B. | 2011 | It's All Your Fault! |
 | Eddy, B. | 2018 | 5 Types of People Who Can Ruin Your Life |
 | Eddy, B. & Cartwright, K. | 2012 | New Ways for Families – Pilotstudie |
@@ -462,6 +516,7 @@ The psychological functioning of alienated children in custody disputing familie
 | Siegel, D. J. | 1999 | The Developing Mind |
 | Siegel, D. J. & Hartzell, M. | 2003 | Parenting from the Inside Out |
 | Tottenham, N. | 2012 | Human amygdala development… |
+| Tannen, D. | 1990 | You Just Don't Understand (Kommunikationsmuster) |
 | Tronick, E. Z. | 1989 | Emotions and emotional communication in infants |
 | Völlm, B. A. | [prüfen] | Epigenetik und frühkindlicher Stress |
 | Wallerstein, J. S. & Kelly, J. B. | 1980 | Surviving the Breakup |
@@ -483,5 +538,45 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 - **Walper, S.:** Konkrete Einzelpublikationen (Auswahl aus DJI-Berichten und Fachaufsätzen)
 - **Völlm, B. A.:** Einschlägige Einzelpublikation zu Epigenetik
 - **Eddy & Kreger (2011):** Auflage und Verlagsdetails prüfen
+- **Eddy, B. (2014): BIFF for Co-Parent Communication:** Genaues Erscheinungsjahr und Auflage verifizieren
 - **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
 - **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren
+
+---
+
+## Kapitel 8 – Co-Parenting vs. Parallel Parenting
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Ahrons, C. R. | 1994 | *The Good Divorce* – HarperCollins |
+| Braver, S. L. & Griffin, W. A. | 2000 | Engaging Fathers in the Post-Divorce Family – *Marriage & Family Review* |
+| Eddy, B. | 2010 | *Co-Parenting with a Toxic Ex* – HCI Press |
+| Emery, R. E. | 1994 | *Renegotiating Family Relationships* – Guilford Press |
+| Emery, R. E. | 2016 | *Two Homes, One Childhood* – Avery |
+| Johnston, J. R. | 1994 | High-Conflict Divorce – *The Future of Children*, 4(1) |
+| Johnston, J. R. & Campbell, L. E. G. | 1988 | *Impasses of Divorce* – Free Press |
+| Maccoby, E. E. & Mnookin, R. H. | 1992 | *Dividing the Child* – Harvard University Press |
+| Pedro-Carroll, J. | 2010 | *Putting Children First* – Avery |
+| Pruett, M. K. & Barker, R. | 2009 | Joint Custody: A Judicious Choice for Families – *J Child Custody* |
+| Stahl, P. M. | 1999 | *Parenting After Divorce* – Impact Publishers |
+| Warshak, R. A. | 2003 | Payoffs and Pitfalls of Listening to Children – *Family Relations* |
+| Sandler, I. et al. | 2013 | Long-term effects of the Family Bereavement Program on multiple indicators of grief in parentally bereaved children and adolescents – *Journal of Consulting and Clinical Psychology* |
+| Pruett, M. K. & Johnston, J. R. | 2004 | Therapeutic Mediation with High-Conflict Parents – in: Folberg et al. (Hrsg.), *Divorce and Family Mediation* |
+
+---
+
+## Kapitel 7 – Gespräche, die zählen
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
+| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
+| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
+| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
+| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
+| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
+| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
+| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
+| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
+| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
+| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |

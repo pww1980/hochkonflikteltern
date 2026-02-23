@@ -6,6 +6,14 @@
 
 ---
 
+## Zahlen / Abkürzungen
+
+**48-Stunden-Regel**
+Die Empfehlung, nach dem Empfang einer provozierenden oder emotional aufgeladenen Nachricht mindestens 48 Stunden zu warten, bevor man antwortet. In dieser Zeit sinkt die emotionale Reaktivität, der sachliche Kern der Nachricht wird klarer erkennbar, und eine BIFF-konforme Antwort ist leichter zu formulieren. Die einzige Ausnahme: echte Notfälle, die das unmittelbare körperliche Wohl des Kindes betreffen. In diesen Fällen wird nur der Notfallkern kurz und sachlich beantwortet.
+→ *Siehe auch: BIFF-Prinzip, Emotionale Dysregulation*
+
+---
+
 ## A
 
 **Adoleszenz**
@@ -83,6 +91,10 @@ Eine von Marsha Linehan entwickelte Therapieform, ursprünglich für Borderline-
 **Deeskalation**
 Gezielte Maßnahmen, die einen Konflikt abschwächen – durch Ton, Timing, Inhalt oder Rückzug. Im Hochkonfliktkontext: oft das Einzige, was man selbst kontrollieren kann. Deeskalation bedeutet nicht, nachzugeben oder den anderen recht zu geben – es bedeutet, dem Konflikt keine Nahrung zu geben.
 → *Siehe auch: BIFF-Prinzip, Eskalation*
+
+**Dokumentationsordner (Kommunikation)**
+Strukturierte, chronologische Ablage aller schriftlichen Nachrichten mit dem anderen Elternteil – nach Datum, Kanal und ggf. Ereignisprotokoll. Dient als Beweissystem bei gerichtlichen oder behördlichen Verfahren und als eigener Orientierungsrahmen, wenn die Situationswahrnehmung unter Hochkonfliktdruck verzerrt wird. Kein Tagebuch – sachliche Ablage.
+→ *Siehe auch: Dokumentation, BIFF-Prinzip, Kanalreduzierung*
 
 **DARVO**
 Akronym für Deny – Attack – Reverse Victim and Offender (Leugnen – Angreifen – Täter und Opfer vertauschen). Ein dreistufiges Reaktionsmuster auf Konfrontation oder Kritik, beschrieben von der Psychologin Jennifer Freyd. Ziel: das ursprüngliche Sachthema durch Gegenangriff und Täter-Opfer-Umkehr vom Tisch zu bekommen. Gegenstrategie: konsequent beim Sachthema bleiben.
@@ -245,6 +257,10 @@ Ein Begriff für das Muster, auf Vorwürfe oder Angriffe mit **J**ustifizieren (
 ---
 
 ## K
+
+**Kanalreduzierung**
+Die bewusste Entscheidung, die Kommunikation mit dem anderen Elternteil auf einen einzigen, dokumentierten Kanal zu beschränken – typischerweise E-Mail oder eine Co-Parenting-App. Kanalreduzierung schützt vor unkontrollierbarer Eskalation (keine Überraschungsanrufe, kein Kontakt über das Kind), erzeugt einen lückenlosen Dokumentationsnachweis und senkt den Kommunikationsaufwand. Sie ist keine Verweigerung – sie ist eine Strukturentscheidung, die Verlässlichkeit schafft.
+→ *Siehe auch: BIFF-Prinzip, Dokumentation, Parallel Parenting*
 
 **Kindeswohl**
 Der zentrale, aber unbestimmte Rechtsbegriff im deutschen Familienrecht – Maßstab für alle gerichtlichen und behördlichen Entscheidungen, die Kinder betreffen (§ 1697a BGB). Kindeswohl umfasst körperliche, geistige und seelische Entwicklung sowie den Schutz vor Schaden. Da es kein festes Kriteriensystem gibt, hat der Begriff erheblichen Auslegungsspielraum – was in Hochkonfliktsituationen sowohl Schutz bieten als auch ausgenutzt werden kann. Gefährdung des Kindeswohls ermächtigt und verpflichtet das Jugendamt und das Familiengericht zum Eingreifen (§ 1666 BGB, § 8a SGB VIII).
@@ -413,6 +429,10 @@ Das Einbeziehen einer dritten Person – meist des Kindes – in einen Zweier-Ko
 
 ## V
 
+**Verstoßnachricht**
+Nachrichtenkategorie im Hochkonfliktkontext: Eine Nachricht, in der ein Verstoß gegen Vereinbarungen, Beschlüsse oder Sorgerechtsregelungen angekündigt oder durchgeführt wird – oder in der der Empfänger einen solchen Verstoß festgestellt hat. Reaktion: BIFF plus Dokumentation; bei Wiederholung oder Schwere: Anwalt einschalten.
+→ *Siehe auch: BIFF-Prinzip, Kommunikationsleitfaden, Dokumentation*
+
 **Verfahrensbeistand**
 Eine vom Familiengericht bestellte Person, die die Interessen und den Willen des Kindes im gerichtlichen Verfahren vertritt (§ 158 FamFG). Kein Anwalt im rechtlichen Sinne, aber formale Verfahrensbeteiligte mit eigenem Anhörungsrecht. Der Verfahrensbeistand soll sicherstellen, dass die Perspektive des Kindes im Verfahren nicht untergeht. In der Praxis schwankt die Qualität erheblich: Manche Verfahrensbeistände sind in Hochkonfliktsituationen erfahren und erkennen Manipulationsmuster; andere orientieren sich primär an dem, was das Kind verbal äußert – was in Entfremdungssituationen problematisch sein kann.
 → *Siehe auch: Sachverständiger, Kindeswohl, Alienation*
@@ -432,6 +452,46 @@ Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar
 **Weaponizing the Legal System (Systemischer Rechtsmissbrauch)**
 Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgeldern nicht als Mittel der Rechtsdurchsetzung, sondern als Zermürbungsstrategie. Das Ziel ist nicht das Recht selbst – sondern der Prozess: Zeit, Geld und emotionale Erschöpfung, die jeder Antrag und jede Anhörung kostet. Gegenstrategie: alle Verfahren chronologisch dokumentieren, sachlich und kurz antworten, das Muster gegenüber Gericht und Anwalt benennen.
 → *Siehe auch: Document Flooding, Falsche Anschuldigungen*
+
+---
+
+## Ergänzungen zu Kapitel 8
+
+**Co-Parenting**
+Modell der Elternschaft nach Trennung, bei dem beide Elternteile aktiv zusammenarbeiten – Absprachen treffen, gemeinsam entscheiden, die Beziehung des Kindes zum jeweils anderen Elternteil aktiv fördern. Setzt voraus, dass beide Elternteile zur Kooperation bereit und fähig sind. Im Hochkonflikt oft nicht realisierbar; erzwungene Co-Parenting-Versuche können das Konfliktgeschehen verstärken und das Kind zusätzlich belasten.
+→ *Siehe auch: Parallel Parenting, Loyalitätskonflikt, Kooperationsbereitschaft*
+
+**Elternplan (Parenting Plan)**
+Schriftliches Dokument, das nach einer Trennung die Betreuungszeiten, Entscheidungskompetenzen, Kommunikationsregeln und sonstigen Abläufe im Umgang mit dem Kind regelt. Im Parallel Parenting zentrales Steuerungsinstrument, das mündliche Absprachen ersetzt. Gute Elternpläne sind konkret, messbar und vollstreckbar – keine Absichtserklärungen, sondern Regelungen.
+→ *Siehe auch: Parallel Parenting, Umgangsregelung*
+
+**Parallel Parenting**
+Erziehungsmodell nach Trennung, das auf minimale direkte Elternkommunikation und eigenverantwortliche Entscheidungen im jeweiligen Betreuungszeitraum setzt. Entwickelt als Alternative zu Co-Parenting in Hochkonfliktsituationen, in denen direkte Kooperation das Kind schädigt statt schützt. Kernprinzipien: minimale Kommunikation, ausschließlich schriftlich, strukturierte Absprachen, Respekt der eigenen Zeit. Kein Dauerzustand, sondern ein Modell für eine Phase des Konflikts.
+→ *Siehe auch: Co-Parenting, Elternplan, Übergabe*
+
+**Übergabe**
+Der Moment, in dem das Kind von einem Elternteil zum anderen wechselt. Im Hochkonflikt eine besonders belastende Situation für das Kind, weil es Schnittstelle zweier Lebenswelten ist. Gut gestaltete Übergaben: fester Ort, feste Zeit, minimaler Elternkontakt, kurzer Abschied ohne emotionale Inszenierung. Schlecht gestaltete Übergaben: Gespräche über den Konflikt, Verspätungen, Aufträge für das Kind, Kommentare über den anderen Haushalt.
+→ *Siehe auch: Parallel Parenting, Begleitete Übergabe*
+
+---
+
+## Ergänzungen zu Kapitel 7
+
+**Begutachtung (psychologisches Sachverständigengutachten)**
+Ein vom Familiengericht in Auftrag gegebenes Gutachten, das eine psychologisch oder pädagogisch ausgebildete Sachverständige oder ein sachverständiger Gutachter erstellt. Ziel ist die Einschätzung des Kindeswohls, der Eltern-Kind-Beziehungen und der Erziehungsfähigkeit beider Elternteile. Das Gutachten hat erhebliches Gewicht auf die gerichtliche Entscheidung. Eltern werden einzeln und im Umgang mit dem Kind beobachtet; das Kind wird altersgerecht befragt.
+→ *Siehe auch: Kindeswohl, Sachverständiger, Verfahrensbeistand*
+
+**Erziehungsberatung**
+Kostenfreies, niedrigschwelliges Angebot von Beratungsstellen (Caritas, Diakonie, AWO, kommunale Träger) für Eltern und Familien. Kein therapeutisches Verfahren im klinischen Sinn, keine Entscheidungsinstanz. Im Hochkonfliktkontext besonders wirkungsvoll als Einzelberatung – als Reflexionsraum für das eigene Verhalten und die eigene Stabilität. Gesprächsinhalte unterliegen der Schweigepflicht und können nicht als Beweismittel verwendet werden.
+→ *Siehe auch: Jugendamt, Mediation*
+
+**Gesprächsprotokoll (eigenes)**
+Eine selbst erstellte schriftliche Zusammenfassung eines Gesprächs mit Jugendamt, Behörden oder anderen verfahrensrelevanten Institutionen. Wird direkt nach dem Gespräch erstellt und per E-Mail an die Gegenseite geschickt mit der Bitte um Bestätigung oder Korrektur. Schützt vor späteren Abweichungen in der Erinnerung und zeigt Ernsthaftigkeit. Kein juristisch verbindliches Dokument, aber eine verlässliche Grundlage für das eigene Gedächtnis und die Aktenführung.
+→ *Siehe auch: Dokumentation, Chronologisches Protokoll*
+
+**Mediation (familienrechtlich)**
+Strukturiertes Verfahren zur außergerichtlichen Einigung unter Begleitung einer neutralen dritten Person (Mediatorin/Mediator). Die Mediatorin entscheidet nichts – sie moderiert. Im Hochkonflikt oft begrenzt wirksam, da die Grundvoraussetzungen – beidseitige Lösungsbereitschaft, ausgeglichenes Machtgefälle – häufig fehlen. Einigungen aus Mediationsverfahren sind nur schriftlich, beurkundet und anwaltlich geprüft vollstreckbar.
+→ *Siehe auch: Parallel Parenting, Kooperationsbereitschaft*
 
 **WEB-Modell**
 Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – was sagt die Person?), **E**motions (Emotionen – welche Gefühle werden ausgelöst?), **B**ehavior (Verhalten – was tut die Person konkret?). Das Modell hilft, HCP-Muster zu erkennen, ohne auf diagnostische Labels angewiesen zu sein.

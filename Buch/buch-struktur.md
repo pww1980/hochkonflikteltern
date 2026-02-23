@@ -46,42 +46,44 @@
 
 ## Teil 2: Kommunizieren – Schriftlich, klar, sicher (~60 Seiten)
 
-### Kapitel 4: Das BIFF-Prinzip (~15 Seiten)
+### Kapitel 5: Das BIFF-Prinzip (~15 Seiten)
 
 - Brief, Informativ, Freundlich, Fest
 - Warum weniger mehr ist
 - Die Grundregeln schriftlicher Kommunikation
 
-### Kapitel 5: Der Kommunikationsleitfaden (~20 Seiten)
+### Kapitel 6: Der Kommunikationsleitfaden (~20 Seiten)
 
 - Entscheidungsbaum: Muss ich überhaupt antworten?
 - Szenarien: Angriffe, Informationsanfragen, Verstöße, Notfälle
 - Vorlagen für verschiedene Situationen
 
-### Kapitel 6: Meetings vorbereiten (~25 Seiten)
+### Kapitel 7: Gespräche, die zählen (~25 Seiten)
 
 - Jugendamt: Vorbereitung, Checklisten, emotionale Haltung
 - Mediation: Realistische Erwartungen
 - Erziehungsberatung: Was bringt sie wirklich?
-- Umgang mit Zeugen und Protokollen
+- Sachverständigengutachten: Vorbereitung und häufige Fehler
+- Gerichtsanhörungen: Verhalten und Auftreten
+- Protokolle und Zeugen
 
 ---
 
 ## Teil 3: Eltern sein – Modelle für die Praxis (~50 Seiten)
 
-### Kapitel 7: Co-Parenting vs. Parallel Parenting (~20 Seiten)
+### Kapitel 8: Co-Parenting vs. Parallel Parenting (~20 Seiten)
 
 - Warum Co-Parenting im Hochkonflikt scheitert
 - Parallel Parenting als kindgerechte Lösung
 - Forschungsbelege und Umsetzung
 
-### Kapitel 8: Strukturen schaffen (~15 Seiten)
+### Kapitel 9: Strukturen schaffen (~15 Seiten)
 
 - Übergaben minimieren und sichern
 - Kommunikationskanäle begrenzen
 - Dokumentation als Schutz
 
-### Kapitel 9: Das Kind schützen (~15 Seiten)
+### Kapitel 10: Das Kind schützen (~15 Seiten)
 
 - Keine Einbeziehung des Kindes
 - Was Kinder wirklich brauchen
@@ -91,21 +93,21 @@
 
 ## Teil 4: Standhaft bleiben – Selbstschutz & Strategie (~50 Seiten)
 
-### Kapitel 10: Selbstfürsorge als Grundlage (~20 Seiten)
+### Kapitel 11: Selbstfürsorge als Grundlage (~20 Seiten)
 
 - Kommunikationsgrenzen (Antwortfenster, 48-Stunden-Regel)
 - Emotionale Regulation (Atemtechniken, Grounding)
 - Digitale Hygiene und Datensicherheit
 - Unterstützungsnetzwerke (Therapie, Rechtsberatung, Gruppen)
 
-### Kapitel 11: Selbstreflexion (~15 Seiten)
+### Kapitel 12: Selbstreflexion (~15 Seiten)
 
 - Eigener Beitrag zur Eskalation?
 - Das Kind einbezogen?
 - Wahrnehmungsverzerrungen erkennen
 - Institutionen missbraucht?
 
-### Kapitel 12: Krisenzeichen erkennen (~15 Seiten)
+### Kapitel 13: Krisenzeichen erkennen (~15 Seiten)
 
 - Warnsignale bei sich selbst
 - Wann professionelle Hilfe nötig ist
@@ -115,14 +117,14 @@
 
 ## Teil 5: Langfristig denken – Der Weg über Jahre (~30 Seiten)
 
-### Kapitel 13: Die 4 Phasen (~20 Seiten)
+### Kapitel 14: Die 4 Phasen (~20 Seiten)
 
 - Phase 1: Akutkonflikt (0–12 Monate)
 - Phase 2: Chronifizierung (1–3 Jahre)
 - Phase 3: Stabilisierung (3–8 Jahre)
 - Phase 4: Volljährigkeit des Kindes (14+ Jahre)
 
-### Kapitel 14: Konsistenz als Strategie (~10 Seiten)
+### Kapitel 15: Konsistenz als Strategie (~10 Seiten)
 
 - Kurzfristige Niederlagen vs. langfristiger Schutz
 - Dokumentation über Jahre
