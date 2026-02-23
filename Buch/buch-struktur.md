@@ -58,12 +58,14 @@
 - Szenarien: Angriffe, Informationsanfragen, Verstöße, Notfälle
 - Vorlagen für verschiedene Situationen
 
-### Kapitel 7: Meetings vorbereiten (~25 Seiten)
+### Kapitel 7: Gespräche, die zählen (~25 Seiten)
 
 - Jugendamt: Vorbereitung, Checklisten, emotionale Haltung
 - Mediation: Realistische Erwartungen
 - Erziehungsberatung: Was bringt sie wirklich?
-- Umgang mit Zeugen und Protokollen
+- Sachverständigengutachten: Vorbereitung und häufige Fehler
+- Gerichtsanhörungen: Verhalten und Auftreten
+- Protokolle und Zeugen
 
 ---
 
