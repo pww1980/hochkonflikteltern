@@ -97,6 +97,13 @@ Das klingt kälter als es ist. Denn was Parallel Parenting schützt, ist das Kin
 
 **Parallel Parenting ist kein Versagen. Es ist eine Schutzmaßnahme.**
 
+> **Parallel Parenting gegenüber Gericht und Jugendamt richtig erklären**
+> Das Modell wird von Fachkräften, die es nicht kennen, leicht als Kontaktverweigerung oder mangelnde Kooperationsbereitschaft missverstanden. Erkläre es deshalb aktiv – mit dieser Formulierung:
+>
+> *„Ich habe die direkte Kommunikation auf kindbezogene Schriftlichkeit reduziert, um Eskalationen zu vermeiden, die mein Kind belasten. Für alle notwendigen Absprachen stehe ich jederzeit zur Verfügung."*
+>
+> Diese Formulierung demonstriert Bindungstoleranz und Kooperationsbereitschaft – die zwei Hauptkriterien des deutschen Familienrechts – auch dann, wenn man den direkten Kontakt bewusst minimiert hat.
+
 Wer in einer Hochkonfliktsituation auf Co-Parenting besteht, handelt nicht im Interesse des Kindes – sondern im Glauben an eine Normalität, die in dieser Situation nicht existiert. Parallel Parenting ist die ehrlichere, realistischere und kindgerechtere Antwort.
 
 ---
@@ -413,6 +420,8 @@ Diese Sätze sind einfach. Aber für ein Kind, das gelernt hat, Loyalität zu ma
 ## Teil VIII: Hinweis für Fachkräfte
 
 > **[INFOBOX: Hinweis für Fachkräfte]**
+
+> **Hinweis für Elternteile, die diesen Abschnitt lesen:** Wenn du mit Fachkräften über dein Betreuungsmodell sprichst – verwende keine Diagnosen, um das Verhalten des anderen Elternteils zu erklären. Beschreibe stattdessen konkrete Verhaltensmuster und nenn Beispiele. *„Der andere Elternteil ist ein Narzisst"* endet das Gespräch. *„Wir haben nach mehreren Eskalationen bei Übergaben auf schriftliche Kommunikation umgestellt"* öffnet es.
 
 Parallel Parenting ist **keine dauerhafte Kontaktverweigerung zwischen den Eltern** und kein Zeichen mangelnder Kooperationsbereitschaft.
 

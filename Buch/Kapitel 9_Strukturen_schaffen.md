@@ -199,6 +199,9 @@ Dokumentation im Hochkonflikt hat drei Funktionen:
 
 **Schutzfunktion.** Wenn Aussagen des anderen Elternteils – bei Gericht, beim Jugendamt, im Gutachten – nicht mit der Realität übereinstimmen, ist eine lückenlose, konsistente Dokumentation das wirksamste Gegengewicht. Kein Argument, kein Zeuge, kein Auftritt ersetzt jahrelange ruhige Aufzeichnungen.
 
+> **Wichtig: Wie du Dokumentation gegenüber Institutionen einsetzt**
+> Dokumentation ist nicht dasselbe wie Anklage. Wenn du Behörden oder Gericht Unterlagen präsentierst, gilt: **Fakten ohne Bewertung – und ohne Diagnosen.** Schreibe in deinen Protokollen und Schriftsätzen nie *„Er ist manipulativ"* oder *„Sie handelt narzisstisch"*. Schreibe: *„Am [Datum] passierte Folgendes: [...]"*. Das Muster ergibt sich aus der Häufung – du musst es nicht benennen. Und du wirkst dabei als der sachliche, kooperative Elternteil, der das System versteht.
+
 **Entlastungsfunktion.** Das Gehirn hört auf zu grübeln, wenn es weiß, dass etwas aufgeschrieben ist. Dokumentation ist psychische Hygiene: Sie erlaubt, loszulassen.
 
 **Klarheitsfunktion.** Wenn man nach einem Jahr zurückblättert, sieht man Muster, die im Alltag unsichtbar sind. Wiederholungen. Strategien. Entwicklungen – in beide Richtungen.

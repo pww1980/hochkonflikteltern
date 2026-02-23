@@ -1373,6 +1373,15 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 
 ---
 
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Hochkonflikt hat Muster.** Wer sie erkennt, verliert die Erschütterung, die sie produzieren sollen.
+> - **31 Muster – aber niemals alle gleichzeitig.** Erkenne die 5–10, die bei dir immer wiederkehren. Das reicht.
+> - **Keine Diagnosen stellen** – weder im Kopf noch laut, und niemals vor Behörden oder Gericht. Die Muster beschreiben Verhalten, keine Personen.
+> - **Die Grundregel fast aller Gegenstrategien:** Beim Sachthema bleiben. Nicht auf Angriffe eingehen. Dokumentieren.
+> - **Dokumentation ist der stärkste Hebel.** Viele Muster verlieren ihre Wirkung, sobald sie schriftlich greifbar sind.
+
+---
+
 *Ende Kapitel 3.*
 
 *Weiter: Kapitel 4 – Warum Jugendämter und Gerichte oft überfordert sind: Strukturelle Grenzen und wie du sie navigierst.*

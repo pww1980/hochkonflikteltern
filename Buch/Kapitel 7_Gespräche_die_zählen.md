@@ -16,6 +16,15 @@ Das Ziel ist nicht, zu „gewinnen". Das Ziel ist, gehört zu werden.
 
 ---
 
+> **⚠ Grundregel für alle Gespräche in diesem Kapitel**
+> Verwende in Gesprächen mit Jugendamt, Verfahrensbeistand, Mediator, Gutachter oder Gericht **niemals** diagnostische Begriffe wie *Narzisst*, *Borderline*, *toxisch* oder *Cluster B*.
+>
+> Diese Etiketten pathologisieren den Konflikt – und häufig dich selbst. Sie lassen dich verbissen und unglaubwürdig wirken. Und sie drängen die Fachkraft in eine Diagnosestellung, für die sie sich nicht zuständig fühlt – was dazu führt, dass sie dich abwimmelt statt zuhört.
+>
+> **Was stattdessen wirkt:** Beschreibe konkretes Verhalten. Nenn Datum und Kontext. Zeig Muster durch Wiederholung. *„Am 14. Februar schrieb er folgendes..."* ist gerichtsfest. *„Er ist ein Narzisst"* ist es nicht.
+
+---
+
 ## Teil I: Das Jugendamt
 
 ### Was das Jugendamt ist – und was nicht
@@ -96,6 +105,8 @@ Das bedeutet nicht, dass du Fehlverhalten verschweigst. Es bedeutet, dass du es 
 
 Statt: „Er lügt ständig und manipuliert die Kinder."
 Besser: „Ich mache mir Sorgen, weil mein Kind nach Besuchen beim Vater Aussagen macht, die nicht mit dem übereinstimmen, was ich beobachte. Ich würde gerne verstehen, was dort passiert."
+
+Diese Formulierung ist nicht nur freundlicher – sie ist strategisch überlegen. Sie zeigt, dass du das Kindeswohl im Blick hast, nicht den Kampf. Im deutschen Familienrecht entscheidet dieser Eindruck oft mehr als der Inhalt: Wer als der kooperativere, deeskalierende Elternteil wahrgenommen wird, hat strukturell die bessere Ausgangsposition.
 
 #### Fragen stellen
 
@@ -267,6 +278,14 @@ Gutachter beobachten und bewerten:
 - **Deine Selbstreflexion**: Kannst du eigene Anteile am Konflikt benennen? Kannst du den anderen Elternteil als Person mit legitimer Beziehung zum Kind anerkennen?
 - **Die Stabilität deines Alltags**: Wie sieht das Leben des Kindes bei dir aus? Gibt es Strukturen, Routinen, soziale Einbindung?
 - **Das Wohl des Kindes**: Was sagt das Kind? Was zeigt das Kind in der Beobachtungssituation? Wie stabil, wie belastet, wie gebunden wirkt es?
+
+**Der am meisten unterschätzte Maßstab: Bindungstoleranz**
+
+Gutachter bewerten nicht nur, wie du zu deinem Kind bist – sondern wie du zum anderen Elternteil *als Person in Beziehung zu deinem Kind* stehst. Kannst du die Beziehung deines Kindes zum anderen Elternteil anerkennen – selbst mitten im Konflikt? Kannst du einen Satz über ihn oder sie sagen, der das Kind nicht in Loyalitätsnot bringt?
+
+Ein einziger solcher Satz kann in einem Gutachten mehr ausrichten als eine Stunde sachlicher Darstellung. Zum Beispiel: *„Ich möchte, dass mein Kind eine gute Beziehung zu seinem Vater / seiner Mutter hat. Das ist mir wichtig."*
+
+Das muss nicht bedeuten, dass du das gerade so empfindest. Es muss bedeuten, dass du weißt, was das System von dir erwartet – und es ihm geben kannst.
 
 ---
 

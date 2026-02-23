@@ -546,4 +546,13 @@ Dieser Grundsatz ist unbequem. Aber er ist auch befreiend. Er bedeutet: Du bist 
 
 ---
 
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **10–15 % aller Trennungen mit Kindern entwickeln sich zum Hochkonflikt.** Was du erlebst, hat einen Namen – und eine Systematik.
+> - **Den anderen Elternteil wirst du nicht verändern.** Dein einziger Hebel ist dein eigenes Verhalten. Das ist frustrierend – und gleichzeitig befreiend.
+> - **HCP-Elternteile handeln aus tiefer Angst und Verletzung.** Das erklärt das Muster. Es entbindet dich aber nicht davon, klug zu reagieren.
+> - **Drei Werkzeuge tragen das gesamte Buch:** WEB (Muster erkennen), EAR (Eskalation stoppen), BIFF (schriftlich kommunizieren).
+> - **Ziel ist nicht, den Konflikt zu gewinnen.** Ziel ist, aus dem Muster herauszutreten – für dich und für dein Kind.
+
+---
+
 *Weiter: Kapitel 2 – Die Auswirkungen auf Kinder: Was die Forschung weiß, und was das für dich bedeutet.*

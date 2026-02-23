@@ -588,4 +588,13 @@ Diese Befunde sind keine Urteile über die Zukunft eines Kindes. Sie sind Karten
 
 ---
 
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Nicht die Trennung schadet Kindern am meisten – der anhaltende Elternkonflikt.** Das ist der wichtigste Befund der letzten fünfzig Jahre Scheidungsforschung.
+> - **Die Schäden sind real, aber nicht unumkehrbar.** Kein Befund ist ein Urteil über die Zukunft deines Kindes.
+> - **Deine Stabilität ist der stärkste Schutzfaktor.** Eine sichere, verlässliche Beziehung zu dir schützt dein Kind mehr als jeder Gerichtsbeschluss.
+> - **Anhaltender Elternstreit ist körperlicher Stress.** Kinder, die dauerhaft Konflikt miterleben, haben messbar erhöhte Cortisolspiegel. Das ist keine Metapher.
+> - **Narrative Kohärenz schützt generationsübergreifend.** Kinder, die ihre Geschichte verstehen können, geben Muster nicht blind weiter.
+
+---
+
 *Weiter: Kapitel 3 – Was Eltern tun können: Schutzmaßnahmen im Alltag.*
