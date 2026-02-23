@@ -36,7 +36,7 @@ Familienrichter sind keine Psychologen. Sie führen keine langen Anhörungen dur
 
 **Der Verfahrensbeistand**
 
-In Verfahren, die das Kind betreffen, kann das Gericht einen Verfahrensbeistand bestellen (§ 158 FamFG). Der Verfahrensbeistand ist kein Anwalt des Kindes im rechtlichen Sinne, aber seine Aufgabe ist es, die Interessen und den Willen des Kindes im Verfahren zu vertreten. In der Praxis ist seine Qualität stark von Person zu Person verschieden – und hängt davon ab, ob die jeweilige Fachkraft Hochkonfliktsituationen kennt und einzuordnen weiß.
+In Verfahren, die das Kind betreffen, kann das Gericht einen Verfahrensbeistand bestellen (§ 158 FamFG). Der Verfahrensbeistand ist kein Anwalt des Kindes im rechtlichen Sinne, aber seine Aufgabe ist es, die Interessen und den Willen des Kindes im Verfahren zu vertreten. Wichtig zu wissen: In Deutschland ist „Verfahrensbeistand" keine geschützte Berufsbezeichnung und es gibt keine standardisierte, staatliche Ausbildung dafür. In der Praxis ist die Qualität daher extrem von der jeweiligen Person abhängig – und davon, ob diese Fachkraft Hochkonfliktsituationen überhaupt kennt und einzuordnen weiß.
 
 **Der familienpsychologische Sachverständige**
 
@@ -178,9 +178,8 @@ HCP-Elternteile können das umgekehrt nutzen: Indem sie den anderen Elternteil s
 
 Viele hochkonflikthaft handelnde Elternteile sind äußerlich kompetent und sozial gewandt. Sie kommen pünktlich. Sie sprechen ruhig. Sie stellen ihre Sicht klar und nachvollziehbar dar. Sie zitieren Paragraphen.
 
-Die Seite, die in einer Hochkonfliktsituation emotional erschöpft, wütend oder verzweifelt wirkt – weil sie das tatsächlich ist – kann dagegen weniger glaubwürdig erscheinen. Der Auftritt, nicht der Inhalt, entscheidet oft über den ersten Eindruck.
-
-Das bedeutet nicht, dass du deine Erschöpfung verstecken musst. Es bedeutet, dass du dir bewusst sein solltest, wie du in institutionellen Kontexten wahrgenommen wirst – und dich so gut wie möglich vorbereiten kannst.
+> **ACHTUNG: Die Glaubwürdigkeitsfalle bei Behörden und Gericht**
+> Die Seite, die in einer Hochkonfliktsituation emotional erschöpft, wütend oder verzweifelt wirkt – weil sie das tatsächlich ist –, erscheint für ungeschulte Fachkräfte oft weniger glaubwürdig als der kühl und professionell auftretende HCP-Elternteil. Der Auftritt, nicht der Inhalt, entscheidet oft über den ersten Eindruck. Das bedeutet nicht, dass du deine Erschöpfung völlig verstecken musst. Es bedeutet aber, dass du dir knallhart bewusst sein solltest, wie du in institutionellen Kontexten wahrgenommen wirst – und dich mental entsprechend vorbereiten musst.
 
 #### Wenn Institutionen zur Bühne werden
 
@@ -245,7 +244,7 @@ Das bedeutet:
 - Auffälliges Verhalten des Kindes nach Übergaben im Verhaltensprotokoll festhalten – sachlich, ohne Interpretation.
 - Gerichtliche Beschlüsse und Vereinbarungen aufbewahren und bei Bedarf vorlegen.
 
-Dokumentation ist kein Misstrauen. Sie ist das Sprachrohr, das das System verstehen kann. Kapitel 8 widmet sich diesem Thema ausführlich.
+Dokumentation ist kein Misstrauen. Sie ist das Sprachrohr, das das System verstehen kann. Kapitel 9 widmet sich diesem Thema ausführlich.
 
 #### Das Hochkonflikt-Muster benennen – aber richtig
 
