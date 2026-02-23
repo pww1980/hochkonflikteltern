@@ -565,6 +565,22 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 
 ---
 
+## Kapitel 9 – Das Kind im Mittelpunkt halten
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Hetherington, E. M. & Kelly, J. | 2002 | *For Better or For Worse: Divorce Reconsidered* – Norton |
+| Johnston, J. R. | 1994 | High-conflict divorce – *The Future of Children, 4*(1), 165–182 |
+| Kelly, J. B. & Johnston, J. R. | 2001 | The alienated child: A reformulation of parental alienation syndrome – *Family Court Review, 39*(3), 249–266 |
+| Pedro-Carroll, J. | 2010 | *Putting Children First* – Avery |
+| Siegel, D. J. & Bryson, T. P. | 2011 | *The Whole-Brain Child* – Delacorte Press |
+| Wallerstein, J. S., Lewis, J. M. & Blakeslee, S. | 2000 | *The Unexpected Legacy of Divorce* – Hyperion |
+| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
+| Werner, E. E. & Smith, R. S. | 1992 | *Overcoming the Odds* – Cornell University Press |
+| Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) [Angabe prüfen] |
+
+---
+
 ## Kapitel 7 – Gespräche, die zählen
 
 | Autor(en) | Jahr | Titel / Quelle |

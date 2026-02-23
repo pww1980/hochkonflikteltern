@@ -455,6 +455,26 @@ Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgelder
 
 ---
 
+## Ergänzungen zu Kapitel 9
+
+**5-Jahres-Frage**
+Entscheidungsfilter für den Alltag im Hochkonflikt: Vor jeder Reaktion auf eine Provokation, eine Nachricht oder ein Verhalten des anderen Elternteils wird gefragt: „Wird das in fünf Jahren noch wichtig sein?" Wenn nein – Energie sparen, nicht eskalieren. Die Frage hilft, kurzfristige emotionale Impulse von langfristig relevanten Entscheidungen zu unterscheiden und schützt vor dem Verbrauch von Ressourcen, die das Kind braucht.
+→ *Siehe auch: 48-Stunden-Regel, Emotionale Dysregulation*
+
+**Altersgerechte Kommunikation**
+Die Anpassung von Informationen über Trennung, Konflikt und Elternsituation an das Entwicklungsalter und die kognitive Reife eines Kindes. Kleinkinder brauchen Routinen und Körpernähe; Vorschulkinder brauchen die Gewissheit, nicht schuld zu sein; Grundschulkinder brauchen Entlastung von Erwachsenenthemen; Jugendliche brauchen Respekt für ihre Wahrnehmung, ohne zum Verbündeten gemacht zu werden. Altersgerechte Kommunikation hat nicht das Ziel, das Kind zu informieren, sondern zu entlasten.
+→ *Siehe auch: Parentifizierung, Loyalitätskonflikt*
+
+**Physiologisches Seufzen**
+Atemtechnik zur raschen Aktivierung des parasympathischen Nervensystems: zweimal kurz einatmen (Nase), dann lang ausatmen (Mund). Senkt den Puls innerhalb von Sekunden. Wissenschaftlich untersucht u. a. von Huberman Lab (Stanford); im Hochkonfliktkontext besonders hilfreich direkt nach dem Lesen einer belastenden Nachricht, vor dem Antworten.
+→ *Siehe auch: Emotionale Dysregulation, 48-Stunden-Regel*
+
+**5-4-3-2-1-Grounding**
+Erdungstechnik aus der Traumatherapie: fünf Dinge sehen, vier hören, drei körperlich fühlen, zwei riechen, eines schmecken. Lenkt die Aufmerksamkeit vom Grübelzustand auf den gegenwärtigen Moment und aktiviert das sensorische System, das bei Stressreaktionen heruntergefahren wird. Wirksam bei Panikzuständen und Gedankenspiralen.
+→ *Siehe auch: Physiologisches Seufzen, Emotionale Dysregulation*
+
+---
+
 ## Ergänzungen zu Kapitel 8
 
 **Co-Parenting**
