@@ -106,7 +106,7 @@ Wenn nein: Es kann gestrichen werden.
 
 ### Friendly – Freundlichkeit als Werkzeug, nicht als Kapitulation
 
-Das dritte Prinzip ist das, das am meisten missverstandenes wird: **Bleibe freundlich.**
+Das dritte Prinzip ist das, das am meisten missverstanden wird: **Bleibe freundlich.**
 
 Freundlich bedeutet hier nicht warm, vertraut oder versöhnlich. Es bedeutet: neutral, respektvoll und nicht-provozierend.
 
@@ -255,7 +255,7 @@ Die folgenden Beispiele zeigen typische Situationen und den Unterschied zwischen
 > „Ich war nicht 20 Minuten zu spät, sondern maximal 8 Minuten, was du genau weißt. Außerdem bist du letzten Monat selbst nicht pünktlich gewesen und das habe ich nie so dramatisiert. Ich finde es bezeichnend, dass du sofort das Jugendamt erwähnst, als ob du nicht weißt, wie sehr das das Kind belastet. Das ist wirklich unverantwortlich und zeugt von deinen Prioritäten."
 
 *BIFF-Antwort:*
-> „Der nächste Übergabetermin ist [Datum] um [Uhrzeit] an [Ort]. Ich werde pünktlich sein."
+> „Der nächste Übergabetermin ist [Datum] um [Uhrzeit] an [Ort]."
 
 ---
 
@@ -310,7 +310,7 @@ Schriftliche Kommunikation gibt dir Zeit. Du kannst überlegen. Du kannst korrig
 
 #### Was das konkret bedeutet
 
-- Einigen auf **einen primären Kommunikationskanal**: E-Mail ist besser als WhatsApp (weil sie formeller ist und nicht sofortigen Antwortdruck erzeugt). Spezielle Co-Parenting-Apps (wie z. B. OurFamilyWizard oder Cozi) sind besser als E-Mail (weil sie unveränderlich dokumentieren).
+- Einigen auf **einen primären Kommunikationskanal**: E-Mail ist besser als WhatsApp (weil sie formeller ist und nicht sofortigen Antwortdruck erzeugt). Spezielle Co-Parenting-Apps (wie z. B. OurFamilyWizard oder FamiCord) oder zumindest neutrale Messenger-Alternativen wie Signal sind oft besser als klassische E-Mail oder WhatsApp (weil sie Kommunikation entzerren und teilweise unveränderlich dokumentieren).
 - **Kein spontanes Telefonieren** zu Konfliktthemen. Wenn der andere Elternteil anruft und ein Konfliktthema einleitet: „Ich bevorzuge es, das schriftlich zu klären. Ich schreibe dir heute Abend."
 - **Telefonische Gespräche schriftlich nachfassen**: „Wie wir heute telefonisch besprochen haben: [Inhalt]." Das schafft einen dokumentierten Konsens – und verhindert spätere Umdeutungen.
 - **Keine Kommunikation über das Kind als Boten.** Das Kind ist kein Postbote. Es ist kein Verhandlungsführer. Es ist kein Zeuge.
