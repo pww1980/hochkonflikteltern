@@ -541,3 +541,21 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 - **Eddy, B. (2014): BIFF for Co-Parent Communication:** Genaues Erscheinungsjahr und Auflage verifizieren
 - **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
 - **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren
+
+---
+
+## Kapitel 7 – Gespräche, die zählen
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
+| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
+| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
+| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
+| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
+| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
+| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
+| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
+| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
+| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
+| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |

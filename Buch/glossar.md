@@ -453,6 +453,26 @@ Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar
 Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgeldern nicht als Mittel der Rechtsdurchsetzung, sondern als Zermürbungsstrategie. Das Ziel ist nicht das Recht selbst – sondern der Prozess: Zeit, Geld und emotionale Erschöpfung, die jeder Antrag und jede Anhörung kostet. Gegenstrategie: alle Verfahren chronologisch dokumentieren, sachlich und kurz antworten, das Muster gegenüber Gericht und Anwalt benennen.
 → *Siehe auch: Document Flooding, Falsche Anschuldigungen*
 
+---
+
+## Ergänzungen zu Kapitel 7
+
+**Begutachtung (psychologisches Sachverständigengutachten)**
+Ein vom Familiengericht in Auftrag gegebenes Gutachten, das eine psychologisch oder pädagogisch ausgebildete Sachverständige oder ein sachverständiger Gutachter erstellt. Ziel ist die Einschätzung des Kindeswohls, der Eltern-Kind-Beziehungen und der Erziehungsfähigkeit beider Elternteile. Das Gutachten hat erhebliches Gewicht auf die gerichtliche Entscheidung. Eltern werden einzeln und im Umgang mit dem Kind beobachtet; das Kind wird altersgerecht befragt.
+→ *Siehe auch: Kindeswohl, Sachverständiger, Verfahrensbeistand*
+
+**Erziehungsberatung**
+Kostenfreies, niedrigschwelliges Angebot von Beratungsstellen (Caritas, Diakonie, AWO, kommunale Träger) für Eltern und Familien. Kein therapeutisches Verfahren im klinischen Sinn, keine Entscheidungsinstanz. Im Hochkonfliktkontext besonders wirkungsvoll als Einzelberatung – als Reflexionsraum für das eigene Verhalten und die eigene Stabilität. Gesprächsinhalte unterliegen der Schweigepflicht und können nicht als Beweismittel verwendet werden.
+→ *Siehe auch: Jugendamt, Mediation*
+
+**Gesprächsprotokoll (eigenes)**
+Eine selbst erstellte schriftliche Zusammenfassung eines Gesprächs mit Jugendamt, Behörden oder anderen verfahrensrelevanten Institutionen. Wird direkt nach dem Gespräch erstellt und per E-Mail an die Gegenseite geschickt mit der Bitte um Bestätigung oder Korrektur. Schützt vor späteren Abweichungen in der Erinnerung und zeigt Ernsthaftigkeit. Kein juristisch verbindliches Dokument, aber eine verlässliche Grundlage für das eigene Gedächtnis und die Aktenführung.
+→ *Siehe auch: Dokumentation, Chronologisches Protokoll*
+
+**Mediation (familienrechtlich)**
+Strukturiertes Verfahren zur außergerichtlichen Einigung unter Begleitung einer neutralen dritten Person (Mediatorin/Mediator). Die Mediatorin entscheidet nichts – sie moderiert. Im Hochkonflikt oft begrenzt wirksam, da die Grundvoraussetzungen – beidseitige Lösungsbereitschaft, ausgeglichenes Machtgefälle – häufig fehlen. Einigungen aus Mediationsverfahren sind nur schriftlich, beurkundet und anwaltlich geprüft vollstreckbar.
+→ *Siehe auch: Parallel Parenting, Kooperationsbereitschaft*
+
 **WEB-Modell**
 Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – was sagt die Person?), **E**motions (Emotionen – welche Gefühle werden ausgelöst?), **B**ehavior (Verhalten – was tut die Person konkret?). Das Modell hilft, HCP-Muster zu erkennen, ohne auf diagnostische Labels angewiesen zu sein.
 → *Siehe auch: HCP, High Conflict Institute*
