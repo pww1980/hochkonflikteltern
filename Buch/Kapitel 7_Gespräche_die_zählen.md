@@ -10,7 +10,7 @@ Diese Gespräche verlaufen anders als andere. Sie haben Folgen, die sich erst Mo
 
 Dieses Kapitel bereitet dich auf genau diese Gespräche vor.
 
-Es geht um das Jugendamt, die Mediation, die Erziehungsberatung, das Sachverständigengutachten und die Gerichtsanhörung. Es geht darum, wie du dich vorbereitest, was du sagen kannst und was du besser lässt. Und es geht darum, wie du danach mit dem umgehst, was gesagt wurde – und wie du es dokumentierst.
+Es geht um das Jugendamt, den Verfahrensbeistand, die Mediation, die Erziehungsberatung, das Sachverständigengutachten und die Gerichtsanhörung. Es geht darum, wie du dich vorbereitest, was du sagen kannst und was du besser lässt. Und es geht darum, wie du danach mit dem umgehst, was gesagt wurde – und wie du es dokumentierst.
 
 Das Ziel ist nicht, zu „gewinnen". Das Ziel ist, gehört zu werden.
 
@@ -152,7 +152,43 @@ Das schützt dich. Es verhindert, dass Erinnerungen auseinanderdriften. Und es z
 
 ---
 
-## Teil II: Mediation
+## Teil II: Der Verfahrensbeistand (Anwalt des Kindes)
+
+### Was der Verfahrensbeistand ist – und wie das Gespräch läuft
+
+Der Verfahrensbeistand ist im deutschen Familienrecht eine besondere Figur. Das Gericht kann ihn bestellen, wenn das Verfahren das Kind unmittelbar betrifft – vor allem in Sorge- und Umgangsverfahren (§ 158 FamFG). Seine Aufgabe ist klar: die Interessen und den Willen des Kindes im Verfahren vertreten. Nicht die Interessen eines Elternteils. Nicht die des Gerichts. Die des Kindes.
+
+Das klingt gut – und ist es oft. Aber für viele Elternteile fühlt sich der erste Kontakt zutiefst invasiv an: Der Verfahrensbeistand kommt nach Hause. Er spricht mit dem Kind in seiner eigenen Umgebung. Er schaut sich an, wie das Kind lebt, wie es auf Fragen reagiert, wie es mit dem jeweiligen Elternteil umgeht.
+
+Das ist kein Übergriff. Es ist Standard – und hat einen guten Grund: Kinder reden anders, wenn sie in ihrer vertrauten Umgebung sind. Der Verfahrensbeistand nutzt genau das. Wisse das, bevor er klingelt.
+
+---
+
+### Das Kind nicht vorbereiten – und nicht instruieren
+
+Es ist menschlich verständlich, dem Kind erklären zu wollen, wer da kommt und warum. Aber es gibt eine Grenze, die du nicht überschreiten darfst: das Kind instruieren.
+
+Kein „Sag ihm, dass..." – kein „Vergiss nicht zu erwähnen, dass..." – kein „Erzähl lieber nicht von...". Verfahrensbeistände sind darauf trainiert, einstudierte Antworten zu erkennen. Ein Kind, das bestimmte Sätze wiederholt, bei bestimmten Themen auffällig ausweicht oder eine aufgeräumte Version der Wirklichkeit präsentiert – das ist für den Beistand ein deutliches Signal. Es schadet dir erheblich.
+
+Was du erklären kannst: dass eine Person kommt, die mit dem Kind sprechen möchte, damit ihm in dem Verfahren gut geholfen werden kann. Das reicht. Der Rest gehört dem Kind.
+
+---
+
+### Das Elterngespräch mit dem Verfahrensbeistand
+
+Der Verfahrensbeistand spricht auch mit dir – meist in einem eigenen Gespräch, getrennt vom Kind. Und es gelten dieselben Grundregeln wie beim Jugendamtsgespräch: **Das Kind steht im Mittelpunkt – nicht dein Schmerz, nicht der Konflikt.**
+
+Konkret bedeutet das:
+- Sprich über das Kind: Was es braucht, was du beobachtest, wie es sich nach Übergaben verhält.
+- Beschreibe Verhalten, keine Persönlichkeiten. Nicht: „Der andere Elternteil ist manipulativ." Sondern: „Mein Kind zeigt nach den Wochenenden folgende Auffälligkeiten: ..."
+- Zeige Bindungstoleranz. Der Satz *„Mir ist wichtig, dass mein Kind eine gute Beziehung zu beiden Elternteilen hat"* hat Gewicht – weil der Verfahrensbeistand in seinem Bericht genau das bewerten wird.
+- Frage am Ende: *„Was sind die nächsten Schritte? Wann rechnen Sie mit Ihrem Bericht?"*
+
+Und das Wichtigste: Schreibe danach – noch am selben Tag – ein Gedächtnisprotokoll. Was wurde gefragt? Was hast du gesagt? Welchen Eindruck hattest du? Du brauchst das, wenn der spätere Bericht des Beistands von deiner Erinnerung abweicht.
+
+---
+
+## Teil III: Mediation
 
 ### Was Mediation verspricht – und was sie kann
 
@@ -209,7 +245,7 @@ Im Hochkonflikt gilt: Eine mündliche Einigung, die du für dich als wichtig erl
 
 ---
 
-## Teil III: Erziehungsberatung
+## Teil IV: Erziehungsberatung
 
 ### Was Erziehungsberatung ist
 
@@ -259,7 +295,7 @@ Die Antworten auf diese Fragen geben dir ein Gefühl dafür, ob die Person deine
 
 ---
 
-## Teil IV: Das Sachverständigengutachten
+## Teil V: Das Sachverständigengutachten
 
 ### Was ein Gutachten bedeutet
 
@@ -323,7 +359,7 @@ Was du konkret tun kannst:
 
 ---
 
-## Teil V: Die Gerichtsanhörung
+## Teil VI: Die Gerichtsanhörung
 
 ### Was in einer Gerichtsanhörung passiert
 
@@ -365,7 +401,7 @@ Das ist keine Selbstkritik. Es ist Lernen.
 
 ---
 
-## Teil VI: Protokolle und Zeugen
+## Teil VII: Protokolle und Zeugen
 
 ### Warum Dokumentation im Hochkonflikt entscheidend ist
 
@@ -375,29 +411,21 @@ Dokumentation bedeutet nicht, den anderen Elternteil zu überwachen oder Materia
 
 ---
 
-### Was du dokumentieren solltest
+### Das Gedächtnisprotokoll nach einem Termin
 
-**Regelmäßig:**
-- Übergaben (Datum, Uhrzeit, Verhalten, Zustand des Kindes)
-- Kommunikation (Screenshots, Ausdrucke von E-Mails und Nachrichten, geordnet nach Datum)
-- Aussagen des Kindes, die für das Verfahren relevant sein könnten (wörtlich, mit Datum und Kontext, möglichst zeitnah nach der Aussage festgehalten)
-- Arztbesuche, Schulkontakte, Beratungsgespräche (Datum, Inhalt, Name der Person)
+Nach jedem mündlichen Termin – ob Jugendamt, Verfahrensbeistand, Gutachter oder Erziehungsberatung – gilt eine einfache Regel: Noch am selben Tag hinsetzen und schreiben.
 
-**Nach besonderen Ereignissen:**
-- Vorfälle sofort notieren (Datum, Uhrzeit, was passiert ist, wer anwesend war)
-- Zeugen benennen, falls vorhanden
+Nicht morgen. Nicht wenn du Zeit hast. Heute. Denn Erinnerungen verschwimmen schnell – und im Hochkonflikt gibt es erfahrungsgemäß immer wieder Situationen, in denen Gesprächsinhalte später anders dargestellt werden als du sie erlebt hast.
 
----
+Ein gutes Gedächtnisprotokoll beantwortet:
+- **Wer war anwesend?** (Name der Fachkraft, Institution, Datum, Uhrzeit)
+- **Was wurde besprochen?** (Stichpunktartig die wichtigsten Themen – sachlich, keine Wertung)
+- **Was wurde zugesagt oder vereinbart?** (Wer macht was bis wann?)
+- **Was blieb offen oder unklar?**
 
-### Wie du Aussagen des Kindes dokumentierst – und was du lässt
+Das Protokoll ist kein literarisches Werk. Es sind fünf bis zehn Sätze, die die Realität dieses Termins festhalten – für dich, für deinen Anwalt und als Schutz, falls der spätere Bericht der Behörde von deiner Erinnerung abweicht.
 
-Wenn ein Kind etwas sagt, das relevant erscheint – etwas über den anderen Elternteil, über Erlebnisse dort, über etwas, das es belastet –, ist die erste Aufgabe nicht die Dokumentation. Die erste Aufgabe ist das Zuhören.
-
-Stelle keine Suggestivfragen. Frage nicht nach, was du hören möchtest. Unterbrich das Kind nicht. Lass es reden.
-
-Wenn das Kind fertig ist: Halte danach schriftlich fest, was es gesagt hat – möglichst wörtlich, mit Angabe des Datums und des Kontexts. Nicht bewertet. Nicht kommentiert.
-
-Was du lässt: Das Kind befragen, um Material zu sammeln. Das Kind bitten, Dinge zu wiederholen, damit du sie aufschreiben kannst. Das Kind darüber informieren, dass du das, was es gesagt hat, weitergegeben hast. All das schadet dem Kind – und schadet dir vor Gericht.
+Schicke das Protokoll anschließend per E-Mail an deine Anwältin oder deinen Anwalt – auch wenn kein akuter Handlungsbedarf besteht. Es landet in der Akte. Es ist dort, wenn du es brauchst.
 
 ---
 
@@ -429,7 +457,7 @@ Dokumentiere – aber mit einem klaren Rhythmus und einer klaren Grenze. Einmal 
 
 ## Schluss: Gespräche, die zählen – was sie wirklich bedeuten
 
-Alle Gespräche, die in diesem Kapitel beschrieben wurden – das Jugendamtsgespräch, die Mediationssitzung, die Erziehungsberatung, die Begutachtung, die Anhörung –, haben eines gemeinsam: Sie finden in einem Kontext statt, der viel auf dem Spiel hat, und sie werden geführt von einem Menschen, der oft am Rand seiner Kapazitäten ist.
+Alle Gespräche, die in diesem Kapitel beschrieben wurden – das Jugendamtsgespräch, das Gespräch mit dem Verfahrensbeistand, die Mediationssitzung, die Erziehungsberatung, die Begutachtung, die Anhörung –, haben eines gemeinsam: Sie finden in einem Kontext statt, der viel auf dem Spiel hat, und sie werden geführt von einem Menschen, der oft am Rand seiner Kapazitäten ist.
 
 Die wichtigste Vorbereitung auf diese Gespräche ist deshalb keine taktische. Es ist eine innere.
 
