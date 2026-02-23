@@ -187,7 +187,7 @@ Ein separates E-Mail-Konto, das ausschließlich für die Elternkommunikation gen
 - Alle Nachrichten des Konflikts sind an einem Ort archiviert.
 - Das Konto kann bei Bedarf vollständig exportiert und gesichert werden.
 
-Technisch: ein Gratis-E-Mail-Konto bei einem seriösen Anbieter genügt. ProtonMail bietet zusätzlich Ende-zu-Ende-Verschlüsselung für sensible Inhalte.
+Technisch: Ein Gratis-E-Mail-Konto bei einem seriösen Anbieter genügt. Anbieter wie ProtonMail oder Posteo bieten zusätzlich sehr hohen Datenschutz und sichern dein eigenes Postfach wie einen verschlüsselten Tresor ab (auch wenn Mails an den regulären Anbieter des Ex-Partners natürlich ganz normal lesbar ankommen).
 
 ---
 
@@ -198,6 +198,9 @@ Technisch: ein Gratis-E-Mail-Konto bei einem seriösen Anbieter genügt. ProtonM
 Dokumentation im Hochkonflikt hat drei Funktionen:
 
 **Schutzfunktion.** Wenn Aussagen des anderen Elternteils – bei Gericht, beim Jugendamt, im Gutachten – nicht mit der Realität übereinstimmen, ist eine lückenlose, konsistente Dokumentation das wirksamste Gegengewicht. Kein Argument, kein Zeuge, kein Auftritt ersetzt jahrelange ruhige Aufzeichnungen.
+
+> **Wichtig: Wie du Dokumentation gegenüber Institutionen einsetzt**
+> Dokumentation ist nicht dasselbe wie Anklage. Wenn du Behörden oder Gericht Unterlagen präsentierst, gilt: **Fakten ohne Bewertung – und ohne Diagnosen.** Schreibe in deinen Protokollen und Schriftsätzen nie *„Er ist manipulativ"* oder *„Sie handelt narzisstisch"*. Schreibe: *„Am [Datum] passierte Folgendes: [...]"*. Das Muster ergibt sich aus der Häufung – du musst es nicht benennen. Und du wirkst dabei als der sachliche, kooperative Elternteil, der das System versteht.
 
 **Entlastungsfunktion.** Das Gehirn hört auf zu grübeln, wenn es weiß, dass etwas aufgeschrieben ist. Dokumentation ist psychische Hygiene: Sie erlaubt, loszulassen.
 
@@ -317,6 +320,15 @@ Struktur ist nicht das Gegenteil von Lebendigkeit. Sie ist die Grundlage dafür.
 Und sie ist das, was das Kind braucht – nicht weil Regeln schön sind, sondern weil Verlässlichkeit Sicherheit ist. Weil ein Kind, das weiß, was passiert, ein Kind ist, das sich entspannen kann.
 
 Das ist der eigentliche Zweck dieser Strukturen: nicht Kontrolle. Raum.
+
+---
+
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Übergaben sichern:** Ort und Zeit sind fest. Der Ablauf ist extrem kurz. Kein Austausch zwischen den Eltern an der Tür.
+> - **Einen Kanal wählen:** Kommunikation findet auf *einem* definierten, schriftlichen Kanal (z. B. separates E-Mail-Konto) statt. WhatsApp und SMS werden für den Ex-Partner stummgeschaltet.
+> - **Aktives Lesen:** Du bestimmst, wann gelesen wird (z. B. einmal täglich für 15 Minuten), nicht das Ping-Geräusch deines Handys.
+> - **Fakten-Protokoll:** Dokumentiere relevante Vorfälle zeitnah, kurz und absolut wertfrei. Verzichte auf Diagnosen oder emotionale Interpretationen.
+> - **Keine Obsession:** Dokumentation ist ein Schutzwerkzeug, keine Lebensaufgabe. Wenn du beim Kind bist, sei beim Kind – nicht im Kopf bei deinem Protokoll.
 
 ---
 

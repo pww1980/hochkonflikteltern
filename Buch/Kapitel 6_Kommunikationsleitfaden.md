@@ -178,7 +178,7 @@ Das Prinzip bleibt dasselbe: Beantworte den sachlichen Kern. Ignoriere alles and
 
 Der häufigste Fehler: auf Angriffselemente einzugehen, obwohl sie keine sachliche Antwort erfordern. Wer auf den Vorwurf antwortet, beantwortet nicht die Frage – er produziert neuen Konfliktstoff.
 
-Faustregel für gemischte Nachrichten: Schreibe deine Antwort so, als wärst du auf eine sachliche Informationsnachricht antworten würde. Als hätten die Angriffsteile in der Nachricht nie existiert.
+Faustregel für gemischte Nachrichten: Schreibe deine Antwort so, als würdest du auf eine sachliche Informationsnachricht antworten. Als hätten die Angriffsteile in der Nachricht nie existiert.
 
 > **[GRAFIK-PLATZHALTER – Grafik K6-B]** *Übersichtstabelle der vier Nachrichtenkategorien: Erkennungsmerkmale, Ziel der Nachricht, empfohlene Reaktion – kompakt und auf einen Blick lesbar.*
 
@@ -330,9 +330,9 @@ Beantworte nur den einen sachlichen Punkt, der eine Antwort erfordert:
 
 **Vorlage S4: Wenn Nachrichten über das Kind als Boten kommen**
 
-Das Kind hat mündlich berichtet, dass [Inhalt]. Diese Form der Kommunikation ist nicht geeignet für Absprachen zwischen Erwachsenen. Bitte kommuniziere direkt mit mir per [E-Mail / Kanal].
+> Ich beziehe mich auf das Thema [Sachthema, z.B. Schulranzen]. [Hier folgt die kurze BIFF-Antwort zum Sachthema].
 
-*(Wenn möglich: Diesen Satz lieber weglassen und direkt das eigentliche Thema per BIFF ansprechen. Der Hinweis auf den Kanal kann auch separat und außerhalb des Konflikts gegeben werden.)*
+*(Erwähne nicht, dass das Kind der Bote war. Wer das Kind als Boten erwähnt, bestätigt, dass der Kanal funktioniert. Greife stattdessen einfach das sachliche Thema auf und überführe es in euren schriftlichen Erwachsenen-Kanal.)*
 
 ---
 
@@ -344,13 +344,11 @@ Das Kind hat mündlich berichtet, dass [Inhalt]. Diese Form der Kommunikation is
 
 **Vorlage S6: Reaktion auf eine cc-Nachricht an Dritte (Anwalt, Jugendamt, Schule)**
 
-Wenn der andere Elternteil eine E-Mail an Dritte sendet und dich in cc setzt:
+Wenn der andere Elternteil eine E-Mail an Dritte sendet (die falsche Behauptungen enthält) und dich in cc setzt:
 
-Keine Antwort an alle Empfänger. Wenn eine Antwort notwendig ist, antworte ausschließlich an den anderen Elternteil direkt:
+Fange keine Diskussion mit dem anderen Elternteil an. Richte deine kurze, sachliche Richtigstellung **direkt an den Dritten**, damit dessen Akte/Wissensstand korrekt ist (den anderen Elternteil kannst du im cc lassen).
 
-> Zur Information, die du an [Dritter] weitergegeben hast: [kurze sachliche Richtigstellung oder Ergänzung, falls wirklich notwendig].
-
-Im Regelfall: Keine Antwort. Wenn der Dritte (Jugendamt, Schule) konkret bei dir nachfragt, antworte dort direkt.
+> Sehr geehrte/r [Dritter], zur kurzen sachlichen Klarstellung für Ihre Unterlagen: [kurze BIFF-Richtigstellung, z.B. "Ich stimme dem Ausflug selbstverständlich zu"].
 
 ---
 

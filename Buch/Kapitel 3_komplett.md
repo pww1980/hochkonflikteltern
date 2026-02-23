@@ -238,7 +238,7 @@ Word Salat ist kein Versehen. Er ist – ob bewusst oder nicht – eine Technik:
 Erschöpfung und Fehler provozieren. Wer auf Word Salat antwortet, muss Entscheidungen treffen, worauf er antwortet – und jede Wahl kann als Fehler ausgelegt werden. Und: Die Länge und Intensität der Nachricht signalisiert Engagement – was bei Dritten (Richter, Jugendamt) als *Kümmern* wirken kann.
 
 **Gegenstrategie:**
-Nur auf konkrete, eindeutige Aussagen oder Forderungen antworten. Den Rest der Nachricht unkommentiert lassen – er muss nicht beantwortet werden. Wenn unklar ist, was gefordert wird: einmal kurz nachfragen. Wenn die Antwort darauf wieder Word Salat ist: nicht antworten.
+Nur auf konkrete, eindeutige Aussagen oder Forderungen antworten. Den Rest der Nachricht unkommentiert lassen – er muss nicht beantwortet werden. Versuche nicht, unklare Forderungen durch Nachfragen zu entschlüsseln, da dies oft nur die nächste unstrukturierte Nachricht provoziert.
 
 **Warum die Gegenstrategie funktioniert:**
 Word Salat braucht deine Mühe, alles zu verarbeiten. Wer selektiert – konkret hier, ignoriert dort –, entzieht dem Muster seine Wirkung. Die Nachricht muss nicht beantwortet werden, weil sie keine klare Frage enthält. Das ist keine Unhöflichkeit – es ist eine angemessene Reaktion auf einen unangemessenen Kommunikationsstil.
@@ -1329,7 +1329,7 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 
 ---
 
-#### Gesamtübersicht: Alle 30 Muster in Kapitel 3
+#### Gesamtübersicht: Alle 31 Muster in Kapitel 3
 
 | # | Muster | Kategorie | Kernmechanismus |
 |---|---|---|---|
@@ -1363,16 +1363,25 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 | 28 | Falsche Anschuldigungen | Institutionell | Behörden als Bühne für Vorwürfe |
 | 29 | Document Flooding | Institutionell | Papierflut als Erschöpfungsmittel |
 | 30 | Finanzielle Kriegsführung | Institutionell | Wirtschaftliche Mittel als Druckstrategie |
-| – | Mikromanagement-Angriffe | Institutionell | Kontrolle durch Alltagskritik |
+| 31 | Mikromanagement-Angriffe | Institutionell | Kontrolle durch Alltagskritik |
 
 ---
 
-> **Zur Einordnung:** Diese 30 Muster kommen selten alle gleichzeitig vor. Ein Hochkonflikt zeigt typischerweise ein Cluster aus fünf bis zehn Mustern, die sich gegenseitig verstärken. Kein Einzelereignis reicht, um ein Muster zu diagnostizieren – es braucht Systematik, Wiederholung und die Erkenntnis, dass du dich immer wieder in denselben Situationen findest, egal was du tust.
+> **Zur Einordnung:** Diese 31 Muster kommen selten alle gleichzeitig vor. Ein Hochkonflikt zeigt typischerweise ein Cluster aus fünf bis zehn Mustern, die sich gegenseitig verstärken. Kein Einzelereignis reicht, um ein Muster zu diagnostizieren – es braucht Systematik, Wiederholung und die Erkenntnis, dass du dich immer wieder in denselben Situationen findest, egal was du tust.
 
 > Die Kenntnis der Muster ist kein Werkzeug zur Verurteilung des anderen. Sie ist ein Werkzeug zur Orientierung. Wer benennen kann, was passiert, verliert die Erschütterung, die das Muster produzieren soll.
 
 ---
 
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Hochkonflikt hat Muster.** Wer sie erkennt, verliert die Erschütterung, die sie produzieren sollen.
+> - **31 Muster – aber niemals alle gleichzeitig.** Erkenne die 5–10, die bei dir immer wiederkehren. Das reicht.
+> - **Keine Diagnosen stellen** – weder im Kopf noch laut, und niemals vor Behörden oder Gericht. Die Muster beschreiben Verhalten, keine Personen.
+> - **Die Grundregel fast aller Gegenstrategien:** Beim Sachthema bleiben. Nicht auf Angriffe eingehen. Dokumentieren.
+> - **Dokumentation ist der stärkste Hebel.** Viele Muster verlieren ihre Wirkung, sobald sie schriftlich greifbar sind.
+
+---
+
 *Ende Kapitel 3.*
 
-*Weiter: Kapitel 4 – Kommunikation im Hochkonflikt: Das BIFF-System und seine Anwendung.*
+*Weiter: Kapitel 4 – Warum Jugendämter und Gerichte oft überfordert sind: Strukturelle Grenzen und wie du sie navigierst.*
