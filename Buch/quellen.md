@@ -560,6 +560,8 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 | Pruett, M. K. & Barker, R. | 2009 | Joint Custody: A Judicious Choice for Families – *J Child Custody* |
 | Stahl, P. M. | 1999 | *Parenting After Divorce* – Impact Publishers |
 | Warshak, R. A. | 2003 | Payoffs and Pitfalls of Listening to Children – *Family Relations* |
+| Sandler, I. et al. | 2013 | Long-term effects of the Family Bereavement Program on multiple indicators of grief in parentally bereaved children and adolescents – *Journal of Consulting and Clinical Psychology* |
+| Pruett, M. K. & Johnston, J. R. | 2004 | Therapeutic Mediation with High-Conflict Parents – in: Folberg et al. (Hrsg.), *Divorce and Family Mediation* |
 
 ---
 
