@@ -159,7 +159,7 @@ Diese Sätze klingen einfach. Sie sind nicht selbstverständlich. Für ein Kind,
 
 ### Die kurze Antwort
 
-Kinder in Hochkonfliktsituationen brauchen keine perfekten Eltern. Sie brauchen keine einigen Eltern. Sie brauchen keine Eltern, die nie streiten oder sich nie falsch verhalten.
+Kinder in Hochkonfliktsituationen brauchen keine perfekten Eltern. Sie brauchen keine Eltern, die sich immer einig sind. Sie brauchen keine Eltern, die nie streiten oder sich nie falsch verhalten.
 
 Sie brauchen einen Elternteil, der stabil genug ist, um präsent zu sein. Nicht perfekt – präsent.
 
@@ -217,7 +217,7 @@ Nicht fragen. Nicht anbieten. Nicht beobachten, ob das Kind den anderen vermisst
 Manchmal reicht der stabilste Elternteil nicht aus. Kinder, die lange in intensiven Hochkonfliktsituationen gelebt haben, tragen manchmal Belastungen, die professionelle Begleitung brauchen.
 
 Hinweise darauf:
-- Anhaltende Schlaf- oder Esssstörungen ohne körperliche Ursache
+- Anhaltende Schlaf- oder Essstörungen ohne körperliche Ursache
 - Sozialer Rückzug, der über Monate anhält
 - Plötzlicher Leistungsabfall in der Schule
 - Körperliche Beschwerden ohne Befund (Bauchschmerzen, Kopfschmerzen)
@@ -225,6 +225,42 @@ Hinweise darauf:
 - Aussagen, die auf ein hohes Maß an innerer Anspannung hinweisen
 
 Kinderpsychologische oder systemische Familienberatung ist keine Eskalation. Sie ist eine Ressource. Ein Kind, das lernt, über seine Gefühle zu sprechen – mit einer Fachperson, die nicht Partei ist –, bekommt etwas, das kein Elternteil, auch der liebevollste, allein geben kann: einen neutralen Raum.
+
+---
+
+### Drei typische Alltagsfallen – und wie du das Kind schützt
+
+Im Alltag des Hochkonflikts gibt es Situationen, auf die man selten vorbereitet ist. Drei davon kehren immer wieder – und alle drei berühren direkt das Wohlbefinden des Kindes.
+
+**Das Disneyland-Syndrom**
+
+Wenn der andere Elternteil alle Regeln abschafft, das Kind mit Ausflügen, Geschenken und unbegrenzter Medienzeit überschüttet, entsteht ein Ungleichgewicht, das sich für das Kind zunächst wie ein Geschenk anfühlt – und auf Dauer zum Problem wird. Der stabile Elternteil mit Hausaufgaben, Zähneputzen und festem Schlafrhythmus wirkt dagegen automatisch zum „Buhmann".
+
+Der Impuls, dagegenzuhalten und ebenfalls mehr Spaß, mehr Großzügigkeit, mehr Freiraum anzubieten, ist verständlich – und falsch. Kinder testen Grenzen. Aber sie brauchen die Struktur des eigenen Alltags, um sich langfristig sicher zu fühlen. Spaß bindet kurzfristig. Verlässlichkeit bindet ein Leben lang.
+
+Was hilft: nicht vergleichen, nicht konkurrieren, den eigenen Rahmen ruhig und ohne Entschuldigung aufrechterhalten. „Bei uns ist das so" – nicht als Kampfansage, sondern als Tatsache.
+
+---
+
+**Die digitale Hintertür**
+
+Ab etwa neun oder zehn Jahren haben viele Kinder ein eigenes Smartphone. Was als Sicherheitsnetz gedacht ist, wird im Hochkonflikt manchmal zur Hintertür: ständige Anrufe während der Zeit beim anderen Elternteil, Nachrichten, die das Kind unter Druck setzen, Kontrollanfragen, die suggerieren, dass etwas nicht stimmen könnte.
+
+Das Kind sitzt in beiden Fällen zwischen zwei Erwartungen – und hat keine Möglichkeit, das aufzulösen, solange das Gerät in der Tasche vibriert.
+
+Was hilft: klare, liebevolle Medienzeiten im eigenen Haushalt. Das Handy kann ab 19 Uhr weggelegt werden – nicht als Strafe, sondern als Strukturelement. Und das Kind bekommt eine explizite Erlaubnis: „Du darfst das Handy auch mal lautlos stellen, wenn du gerade spielst oder entspannst. Das ist völlig in Ordnung."
+
+Diese Erlaubnis ist keine Kleinigkeit. Sie entlastet das Kind davon, immer erreichbar sein zu müssen – und verschiebt die Verantwortung dorthin, wo sie hingehört: zu den Erwachsenen.
+
+---
+
+**Der neue Partner – der Loyalitäts-Stresstest**
+
+Kaum etwas löst im Hochkonflikt so viele Dynamiken aus wie das Auftauchen eines neuen Partners. Das Kind gerät oft in die stille Überzeugung, den anderen Elternteil zu „verraten", wenn es den neuen Partner mag. Die Folge: Ablehnung, die sich gegen den neuen Partner richtet – auch wenn das Kind ihn mochte, bevor die Konfliktdynamik das überlagert hat.
+
+Das ist kein persönliches Urteil über den neuen Partner. Es ist ein Loyalitätskonflikt, der sich den nächstgelegenen Anker sucht.
+
+Was hilft: keinen Druck. Das Kind muss den neuen Partner nicht sofort annehmen, nicht sofort mögen, nicht sofort „Familie" nennen. Raum und Zeit sind hier die einzige Währung. Und: Den neuen Partner strikt aus der Kommunikation mit dem anderen Elternteil und aus Übergaben heraushalten. Wer als neue Angriffsfläche sichtbar wird, wird zur Angriffsfläche. Wer nicht sichtbar ist, bietet keinen Anlass.
 
 ---
 
@@ -355,27 +391,27 @@ Wenn ein Kind dauerhaft und intensiv einen Elternteil ablehnt, ohne dass es daf�
 Kinder zeigen Belastung auf unterschiedliche Arten. Nicht jede Auffälligkeit ist ein Krisenzeichen. Nicht jede ruhige Phase ist Zeichen, dass alles in Ordnung ist. Was zählt, sind Veränderungen – Muster, die sich über Wochen oder Monate halten.
 
 > **[INFOBOX: Hinweise auf erhöhten Unterstützungsbedarf beim Kind]**
-
-Körperlich:
-- Wiederkehrende Bauchschmerzen, Kopfschmerzen ohne medizinische Ursache
-- Veränderte Schlafqualität (Einschlafen, Alpträume, Durchschlafen)
-- Verändertes Essverhalten
-
-Emotional und sozial:
-- Anhaltender Rückzug von Freunden und Aktivitäten
-- Intensive Trennungsangst beim Elternteil
-- Unerklärliche Wutausbrüche oder tief sitzende Traurigkeit
-- Aussagen wie „Ich bin an allem schuld" oder „Ich wünschte, ich wäre woanders"
-
-Kognitiv:
-- Deutlicher Leistungsabfall in der Schule über mehrere Monate
-- Konzentrationsschwierigkeiten, die neu auftreten
-
-Verhalten:
-- Verstärkte Regressionen (älter als das Verhalten, das das Kind zeigt)
-- Auffälliges Vermeiden bestimmter Themen oder Orte
-
-Bei mehreren dieser Zeichen über einen längeren Zeitraum: Kinderarzt einbeziehen, Erziehungsberatung kontaktieren, ggf. kinderpsychologische Begleitung anstoßen. Das ist kein Eingeständnis des Scheiterns. Es ist die Reaktion eines aufmerksamen Elternteils.
+>
+> **Körperlich:**
+> - Wiederkehrende Bauchschmerzen, Kopfschmerzen ohne medizinische Ursache
+> - Veränderte Schlafqualität (Einschlafen, Alpträume, Durchschlafen)
+> - Verändertes Essverhalten
+>
+> **Emotional und sozial:**
+> - Anhaltender Rückzug von Freunden und Aktivitäten
+> - Intensive Trennungsangst beim Elternteil
+> - Unerklärliche Wutausbrüche oder tief sitzende Traurigkeit
+> - Aussagen wie „Ich bin an allem schuld" oder „Ich wünschte, ich wäre woanders"
+>
+> **Kognitiv:**
+> - Deutlicher Leistungsabfall in der Schule über mehrere Monate
+> - Konzentrationsschwierigkeiten, die neu auftreten
+>
+> **Verhalten:**
+> - Verstärkte Regressionen (Rückfall in Verhaltensweisen früherer Entwicklungsphasen, z. B. plötzliches Einnässen oder Babysprache)
+> - Auffälliges Vermeiden bestimmter Themen oder Orte
+>
+> Bei mehreren dieser Zeichen über einen längeren Zeitraum: Kinderarzt einbeziehen, Erziehungsberatung kontaktieren, ggf. kinderpsychologische Begleitung anstoßen. Das ist kein Eingeständnis des Scheiterns. Es ist die Reaktion eines aufmerksamen Elternteils.
 
 ---
 
@@ -392,6 +428,15 @@ Was es braucht, hat nichts mit dem Konflikt zu tun. Es hat mit dir zu tun. Damit
 In diesen Momenten entscheidet sich nichts juristisch. Aber es entscheidet sich, wie dein Kind aufwächst. Nicht ob es Hochkonflikt erlebt hat – das hat es. Sondern ob es einen Ort hatte, an dem das keine Rolle spielte.
 
 Das ist der Blick, der zählt.
+
+---
+
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Der Konflikt schadet, nicht die Trennung:** Wenn du aufhörst, vor den Augen des Kindes zu kämpfen, hast du den wichtigsten Schutzfaktor bereits aktiviert.
+> - **Keine Erklärungen, sondern Sicherheit:** Ein Kind kann emotionale Dynamiken nicht kognitiv verstehen. Es braucht die körperlich spürbare Erfahrung, dass ein Zuhause konfliktfrei und verlässlich ist.
+> - **Gefühle beantworten, nicht Fragen:** Wenn das Kind fragt: „Warum streitet ihr immer?", antworte auf das zugrundeliegende Gefühl: „Es tut mir leid, dass dich das belastet. Du bist sicher und wir lieben dich beide."
+> - **Die Alltagsfallen meistern:** Konkurriere nicht mit dem „Disneyland-Elternteil", schütze die Medienzeit deines Kindes vor digitaler Übergriffigkeit und gib ihm bei neuen Partnern alle Zeit der Welt.
+> - **Die Erlaubnis zu lieben:** Befreie das Kind aktiv vom Loyalitätskonflikt. Sag ihm ausdrücklich, dass es den anderen Elternteil lieben darf.
 
 ---
 
