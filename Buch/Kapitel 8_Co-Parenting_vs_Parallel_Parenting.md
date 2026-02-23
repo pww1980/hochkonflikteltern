@@ -344,21 +344,21 @@ Kommunikationsverweigerung bei gemeinsamen Sorgerechtsfragen ist ein rechtlich r
 > *Zwei Spalten: „Was funktioniert im Parallel Parenting" (grüne Häkchen) und „Was schadet" (rote Kreuze). Kompakte, druckbare Übersicht.*
 
 **Was funktioniert:**
-- [ ] Schriftlich kommunizieren – nicht telefonieren
-- [ ] Nur kindbezogene Themen ansprechen
-- [ ] 48 Stunden warten, bevor provokante Nachrichten beantwortet werden
-- [ ] Informationen direkt bei Schule, Arzt, Verein einholen – nicht über das Kind
-- [ ] Übergaben ohne Gespräch, mit fester Routine
-- [ ] Unterschiedliche Regeln in beiden Haushalten akzeptieren
-- [ ] Elternplan als verbindliche Grundlage nutzen
+- ✅ Schriftlich kommunizieren – nicht telefonieren
+- ✅ Nur kindbezogene Themen ansprechen
+- ✅ 48 Stunden warten, bevor provokante Nachrichten beantwortet werden
+- ✅ Informationen direkt bei Schule, Arzt, Verein einholen – nicht über das Kind
+- ✅ Übergaben ohne Gespräch, mit fester Routine
+- ✅ Unterschiedliche Regeln in beiden Haushalten akzeptieren
+- ✅ Elternplan als verbindliche Grundlage nutzen
 
 **Was schadet:**
-- [ ] Das Kind als Boten einsetzen
-- [ ] Über den Konflikt reden, wenn das Kind in Hörweite ist
-- [ ] Auf jede Provokation reagieren
-- [ ] Den anderen Elternteil vor dem Kind kommentieren
-- [ ] Flexibilität einfordern, die nicht im Plan steht
-- [ ] Übergaben für spontane Gespräche nutzen
+- ❌ Das Kind als Boten einsetzen
+- ❌ Über den Konflikt reden, wenn das Kind in Hörweite ist
+- ❌ Auf jede Provokation reagieren
+- ❌ Den anderen Elternteil vor dem Kind kommentieren
+- ❌ Flexibilität einfordern, die nicht im Plan steht
+- ❌ Übergaben für spontane Gespräche nutzen
 
 ---
 
@@ -417,11 +417,11 @@ Diese Sätze sind einfach. Aber für ein Kind, das gelernt hat, Loyalität zu ma
 
 ---
 
-## Teil VIII: Hinweis für Fachkräfte
+## Teil VIII: Wie du Fachkräften Parallel Parenting erklärst
 
-> **[INFOBOX: Hinweis für Fachkräfte]**
+> **[INFOBOX: Wissenschaftliche Argumentationshilfe]**
 
-> **Hinweis für Elternteile, die diesen Abschnitt lesen:** Wenn du mit Fachkräften über dein Betreuungsmodell sprichst – verwende keine Diagnosen, um das Verhalten des anderen Elternteils zu erklären. Beschreibe stattdessen konkrete Verhaltensmuster und nenn Beispiele. *„Der andere Elternteil ist ein Narzisst"* endet das Gespräch. *„Wir haben nach mehreren Eskalationen bei Übergaben auf schriftliche Kommunikation umgestellt"* öffnet es.
+> Wenn du mit Fachkräften (Jugendamt, Verfahrensbeistand) über dein Betreuungsmodell sprichst, werden diese oft reflexartig »Co-Parenting« einfordern. Verwende in deiner Erklärung niemals Diagnosen (*„Mein Ex ist ein Narzisst"*), sondern nutze die harte Wissenschaft. Argumentiere, dass du *Parallel Parenting* als evidenzbasierte Deeskalationsstrategie nutzt, um das kindliche Nervensystem zu schützen. *„Wir haben nach mehreren Eskalationen bei Übergaben auf rein schriftliche Kommunikation umgestellt, um das Kind aus der Schusslinie zu nehmen"* ist ein Satz, den Fachkräfte respektieren.
 
 Parallel Parenting ist **keine dauerhafte Kontaktverweigerung zwischen den Eltern** und kein Zeichen mangelnder Kooperationsbereitschaft.
 
@@ -477,6 +477,15 @@ Was dein Kind braucht, ist ein Elternteil, der da ist. Nicht zwei Elternteile, d
 Das kannst du ihm geben. In deiner eigenen Zeit. In deinem eigenen Haushalt. Mit deiner eigenen Stabilität.
 
 Das reicht. Das ist viel.
+
+---
+
+> **Das Wichtigste in Kürze (TL;DR)**
+> - **Der Kooperations-Mythos:** Co-Parenting funktioniert nur, wenn *beide* das Kind über den Konflikt stellen. Ist dies nicht der Fall, schadet der Versuch dem Kind aktiv.
+> - **Parallel Parenting als Schutz:** Das Modell bedeutet minimale, schriftliche Kommunikation und getrennte, eigenverantwortliche Haushalte. Es ist kein Versagen, sondern professionelle Deeskalation.
+> - **Der Elternplan:** Ersetzt gefährliche Spontan-Kommunikation durch feste, detaillierte und verbindliche Regeln für alle Lebensbereiche (Betreuung, Ferien, Notfälle).
+> - **Informationen holen, nicht bringen:** Verlasse dich nicht auf den Ex-Partner als Informationsquelle. Registriere dich selbst bei Schule, Arzt und Verein (Holschuld).
+> - **Sichere Übergaben:** Halte Übergaben so kurz, sachlich und strukturiert wie möglich. Führe dabei niemals Konfliktgespräche.
 
 ---
 
