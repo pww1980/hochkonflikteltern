@@ -501,7 +501,7 @@ Wer zwei oder mehr dieser Zeichen bei sich erkennt: Das ist kein Zeichen persön
 > **Unterstützung:**
 > - Traumasensible Therapie (EMDR, Schematherapie) suchen
 > - Anwalt und Fachleute mit HCP-Erfahrung wählen
-> - Selbsthilfegruppen und eine Reality-Check-Person als Stütze
+> - Selbsthilfegruppen und eine Reality-Check-Person (jemand, der dir spiegelt, ob deine Wahrnehmung noch objektiv ist) als Stütze
 > - Jugendamt proaktiv, nicht erst in der Krise
 >
 > **Warnsignale:**
