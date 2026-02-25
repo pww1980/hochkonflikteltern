@@ -58,7 +58,7 @@ Eines der praktisch nützlichsten Werkzeuge aus Eddys Arbeit ist das **WEB-Model
 
 Das WEB-Modell wurde ursprünglich für Fachleute – Richter, Jugendamtsmitarbeiter, Mediatoren – entwickelt, um Hochkonfliktmuster schneller zu erkennen. Es ist aber auch für Betroffene nützlich: als Reflexionshilfe, wenn man versucht, das eigene Erleben zu sortieren, oder als Strukturierung, wenn man eine Situation gegenüber einer Fachperson beschreibt.
 
-> **[GRAFIK-PLATZHALTER – Grafik 11]** *Übersichtsgrafik: Das WEB-Modell – Words, Emotions, Behavior als Einschätzungsrahmen mit Beispielfragen je Kategorie*
+> *Abbildung 11: Übersichtsgrafik: Das WEB-Modell – Words, Emotions, Behavior als Einschätzungsrahmen mit Beispielfragen je Kategorie*
 
 ---
 

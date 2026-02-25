@@ -58,7 +58,7 @@ Chronisch erhöhte Cortisolspiegel beeinträchtigen nachweislich mehrere Gehirns
 
 Vereinfacht gesagt: Anhaltender Stress entwickelt das Alarmsystem auf Kosten des Denksystems.
 
-> **[GRAFIK-PLATZHALTER – Grafik 13]** *Schematische Darstellung Gehirnstruktur (Hippocampus, Amygdala, präfrontaler Kortex) mit Wirkpfeilen der Cortisolbelastung*
+> *Abbildung 13: Schematische Darstellung Gehirnstruktur (Hippocampus, Amygdala, präfrontaler Kortex) mit Wirkpfeilen der Cortisolbelastung*
 
 ---
 

@@ -39,7 +39,7 @@ Du erkennst dich in diesem Buch, wenn:
 
 Wenn du dir bei mehreren dieser Punkte gedacht hast „Ja, genau das ist es" – dann bist du hier richtig.
 
-> **[GRAFIK-PLATZHALTER – Grafik 1]** *Infografik: Visuelle Darstellung der Erkennungsmerkmale als Selbstcheck – „Erkennst du dich in diesen Punkten wieder?"*
+> *Abbildung 1: Infografik: Visuelle Darstellung der Erkennungsmerkmale als Selbstcheck – „Erkennst du dich in diesen Punkten wieder?"*
 
 ---
 
@@ -115,11 +115,13 @@ Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu
 
 Manche Hochkonfliktsituationen beinhalten Elemente, die sich wie psychische Gewalt anfühlen: Gaslighting, emotionale Erpressung, Drohungen mit dem Kind. Das ist real, und es soll hier nicht kleingeredet werden.
 
+Ein Konzept, das in diesem Zusammenhang ausdrücklich benannt werden muss, ist die **Koerzive Kontrolle** (englisch: *Coercive Control*): die systematische Unterdrückung einer Person durch Einschüchterung, Überwachung, Isolation und psychologische Manipulation – oft über lange Zeiträume, ohne eine einzige körperliche Berührung. Diese Form von Gewalt hinterlässt keine sichtbaren Verletzungen, aber sie ist genauso schwerwiegend. Die **Istanbul-Konvention** – das Übereinkommen des Europarats zur Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt, das Deutschland 2018 ratifiziert hat – benennt explizit psychische Gewalt, Nötigung und Nachstellung als eigenständige Gewaltformen. Der entscheidende Unterschied zwischen Hochkonflikt und Koerziver Kontrolle liegt in der Machtstruktur: Im Hochkonflikt eskalieren zwei Parteien mit wechselnder Ober- und Unterhand. Bei Koerziver Kontrolle liegt die Macht dauerhaft auf einer Seite – es gibt einen Kontrolleur und eine kontrollierte Person. Wer das Gefühl hat, dass die eigene Situation weniger einem Streit auf Augenhöhe ähnelt als einem System, aus dem es keinen Ausweg gibt, sollte sich an eine spezialisierte Fachberatungsstelle wenden.
+
 Gleichzeitig ist es wichtig, ehrlich zu bleiben: Manchmal erleben sich beide Elternteile als Opfer – und keiner ist es vollständig. Manchmal ist eine Situation belastend und hocheskaliert, ohne dass Gewalt im strafrechtlichen Sinne vorliegt.
 
 Dieses Buch ist für den letztgenannten Fall: Für Eltern, die in einem **anhaltenden, eskalierenden Elternkonflikt** gefangen sind, in dem beide Seiten leiden – und in dem das Kind der eigentliche Leidtragende ist.
 
-> **[GRAFIK-PLATZHALTER – Grafik 3]** *Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
+> *Abbildung 3: Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
 
 Wenn du nicht sicher bist, ob deine Situation unter „Hochkonflikt" oder „Gewalt" fällt: Lies zunächst dieses Kapitel zu Ende. Und sprich mit einer Fachperson – einem Anwalt, einer Beratungsstelle oder dem Jugendamt. Sie können helfen, die Situation einzuordnen.
 
@@ -156,7 +158,7 @@ Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten für den emotion
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
-> **[GRAFIK-PLATZHALTER – Grafik 2]** *Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
+> *Abbildung 2: Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
 
 ---
 
@@ -204,7 +206,7 @@ Ich las **Judith Wallerstein**, deren Langzeitstudie über Scheidungskinder bis 
 
 Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
 
-> **[GRAFIK-PLATZHALTER – Grafik 4]** *Zeitstrahl: Neun Jahre Erfahrung und Forschung – Phasen der Entstehung dieses Buches (eigene Erfahrung → Forschungsarbeit → Praxis → Buch) mit den wichtigsten zitierten Forscherinnen und Forschern*
+> *Abbildung 4: Zeitstrahl: Neun Jahre Erfahrung und Forschung – Phasen der Entstehung dieses Buches (eigene Erfahrung → Forschungsarbeit → Praxis → Buch) mit den wichtigsten zitierten Forscherinnen und Forschern*
 
 Ich lernte, was beim Jugendamt hilft – und was den Eindruck erweckt, man sei der schwierige Teil. Ich lernte, wie man Protokolle führt, die im Ernstfall relevant sind. Ich lernte, welche Art von E-Mail eine Eskalation provoziert – und wie man die gleiche Information ohne diese Wirkung übermittelt. Ich lernte, wann ein Gerichtstermin unvermeidlich ist – und wann er nur neue Munition liefert.
 
@@ -270,9 +272,9 @@ Das Buch ist in fünf Teile gegliedert, die aufeinander aufbauen – aber auch e
 
 **Teil 5 – Langfristig denken** nimmt den Blick zurück und gibt ihn wieder frei. Hochkonfliktsituationen verändern sich über Jahre. Was in der Akutphase gilt, gilt in der Stabilisierungsphase nicht mehr. Dieses Kapitel gibt Orientierung für die lange Strecke.
 
-> **[GRAFIK-PLATZHALTER – Grafik 5]** *Buchstruktur als visuelle Übersicht: Die fünf Teile als Landkarte oder Wegweiser – zur schnellen Orientierung und als Einladung, gezielt einzusteigen*
+> *Abbildung 5: Buchstruktur als visuelle Übersicht: Die fünf Teile als Landkarte oder Wegweiser – zur schnellen Orientierung und als Einladung, gezielt einzusteigen*
 
-> **[GRAFIK-PLATZHALTER – Grafik 6]** *Situationsbasierte Leseempfehlung: Kleine Entscheidungshilfe – welche Teile je nach aktueller Situation besonders hilfreich sind (z. B. „Ich stehe ganz am Anfang → Teil 1 + 2", „Ich bin seit Jahren mittendrin → Teil 4 + 5", „Gerichtstermin steht bevor → Teil 2 + 3")*
+> *Abbildung 6: Situationsbasierte Leseempfehlung: Kleine Entscheidungshilfe – welche Teile je nach aktueller Situation besonders hilfreich sind (z. B. „Ich stehe ganz am Anfang → Teil 1 + 2", „Ich bin seit Jahren mittendrin → Teil 4 + 5", „Gerichtstermin steht bevor → Teil 2 + 3")*
 
 ---
 
@@ -340,7 +342,7 @@ Für einen kleineren Teil gilt das nicht. Bei ihnen bleibt der Konflikt nicht nu
 
 Diese Gruppe macht nach übereinstimmenden Schätzungen **10–15 % aller Trennungen mit Kindern** aus.
 
-> **[GRAFIK-PLATZHALTER – Grafik 7]** *Verlaufsgrafik: Typischer Konfliktintensitätsverlauf nach Trennung – Vergleich "normale Trennung" (Intensität sinkt nach 1–2 Jahren) vs. "Hochkonflikt" (Intensität bleibt hoch oder steigt)*
+> *Abbildung 7: Verlaufsgrafik: Typischer Konfliktintensitätsverlauf nach Trennung – Vergleich "normale Trennung" (Intensität sinkt nach 1–2 Jahren) vs. "Hochkonflikt" (Intensität bleibt hoch oder steigt)*
 
 ---
 
@@ -386,7 +388,7 @@ Was sich auf der Oberfläche als Streit um Besuchszeiten, Schulgeld oder Urlaubs
 
 Das vielleicht schwerste Merkmal: Die Kinder sind nicht nur mitbetroffen – sie werden, bewusst oder unbewusst, in den Konflikt hineingezogen. Als Informationsquelle. Als Botschafter. Als Beweisstücke. Als emotionale Stütze. Manchmal als Instrument, den anderen Elternteil zu schädigen. Die Forschung zeigt, dass dieser Prozess – die sogenannte *Triangulation* – einer der stärksten Risikofaktoren für die langfristige psychische Gesundheit der Kinder ist.
 
-> **[GRAFIK-PLATZHALTER – Grafik 8]** *Übersichtsgrafik: Die vier Merkmale einer Hochkonflikttrennung im Vergleich zur normalen schwierigen Trennung*
+> *Abbildung 8: Übersichtsgrafik: Die vier Merkmale einer Hochkonflikttrennung im Vergleich zur normalen schwierigen Trennung*
 
 ---
 
@@ -518,7 +520,7 @@ Das ist keine Niederlage. Es ist Information.
 
 Und es bedeutet: Du musst nicht mehr und besser kommunizieren. Du musst **anders** kommunizieren – mit dem Wissen, was in dieser spezifischen Dynamik wirkt und was nicht.
 
-> **[GRAFIK-PLATZHALTER – Grafik 9]** *Gegenüberstellung: Instinktive Reaktionen vs. wirksame Reaktionen im Hochkonflikt – Warum das, was normal funktioniert, hier eskaliert (z. B. Erklären → liefert Munition / Schweigen → entzieht Nahrung)*
+> *Abbildung 9: Gegenüberstellung: Instinktive Reaktionen vs. wirksame Reaktionen im Hochkonflikt – Warum das, was normal funktioniert, hier eskaliert (z. B. Erklären → liefert Munition / Schweigen → entzieht Nahrung)*
 
 ---
 
@@ -658,7 +660,7 @@ Eine Untersuchung von **Johnston & Roseby** (1997) an einer klinischen Stichprob
 
 Das erklärt, warum die Strategien in diesem Buch so stark von dem abweichen, was in normalen Trennungssituationen empfohlen wird: Die Population, um die es geht, ist psychologisch anders strukturiert als der Durchschnitt.
 
-> **[GRAFIK-PLATZHALTER – Grafik 10]** *Übersichtsgrafik: Cluster-B-Persönlichkeitsstörungen im Vergleich – Kerndynamiken, typische Auslöser und Erscheinungsformen im Hochkonflikt (NPS / BPS / ASPS)*
+> *Abbildung 10: Übersichtsgrafik: Cluster-B-Persönlichkeitsstörungen im Vergleich – Kerndynamiken, typische Auslöser und Erscheinungsformen im Hochkonflikt (NPS / BPS / ASPS)*
 
 ---
 
@@ -762,7 +764,7 @@ Eines der praktisch nützlichsten Werkzeuge aus Eddys Arbeit ist das **WEB-Model
 
 Das WEB-Modell wurde ursprünglich für Fachleute – Richter, Jugendamtsmitarbeiter, Mediatoren – entwickelt, um Hochkonfliktmuster schneller zu erkennen. Es ist aber auch für Betroffene nützlich: als Reflexionshilfe, wenn man versucht, das eigene Erleben zu sortieren, oder als Strukturierung, wenn man eine Situation gegenüber einer Fachperson beschreibt.
 
-> **[GRAFIK-PLATZHALTER – Grafik 11]** *Übersichtsgrafik: Das WEB-Modell – Words, Emotions, Behavior als Einschätzungsrahmen mit Beispielfragen je Kategorie*
+> *Abbildung 11: Übersichtsgrafik: Das WEB-Modell – Words, Emotions, Behavior als Einschätzungsrahmen mit Beispielfragen je Kategorie*
 
 ---
 
@@ -990,7 +992,7 @@ Hetheringtons Studie ist methodisch stärker als Wallersteins – größere und 
 - **Hochkonflikt-Scheidungen** (Amatos Begriff: „high-conflict divorces") zeigen konsistent die schlechtesten Outcomes für Kinder.
 - Ein oft übersehener Befund: **Kinder aus hochkonflikthaften intakten Familien** schneiden schlechter ab als Kinder aus konfliktarmen Scheidungsfamilien. Das bedeutet: Es ist nicht die Trennung, die schadet – es ist der Konflikt. Dieser Befund hat erhebliche Konsequenzen für die Frage, ob Paare „um der Kinder willen" zusammenbleiben sollten.
 
-> **[GRAFIK-PLATZHALTER – Grafik 12]** *Übersichtsgrafik: Kindliche Outcomes im Vergleich – intakte Familie / konfliktarme Scheidung / Hochkonflikt-Scheidung nach Amato und Hetherington*
+> *Abbildung 12: Übersichtsgrafik: Kindliche Outcomes im Vergleich – intakte Familie / konfliktarme Scheidung / Hochkonflikt-Scheidung nach Amato und Hetherington*
 
 ---
 
@@ -1072,7 +1074,7 @@ Chronisch erhöhte Cortisolspiegel beeinträchtigen nachweislich mehrere Gehirns
 
 Vereinfacht gesagt: Anhaltender Stress entwickelt das Alarmsystem auf Kosten des Denksystems.
 
-> **[GRAFIK-PLATZHALTER – Grafik 13]** *Schematische Darstellung Gehirnstruktur (Hippocampus, Amygdala, präfrontaler Kortex) mit Wirkpfeilen der Cortisolbelastung*
+> *Abbildung 13: Schematische Darstellung Gehirnstruktur (Hippocampus, Amygdala, präfrontaler Kortex) mit Wirkpfeilen der Cortisolbelastung*
 
 ---
 
@@ -1176,7 +1178,7 @@ Die bekanntesten Entwicklungsmodelle – **Jean Piagets** Theorie der kognitiven
 
 Für den Hochkonfliktkontext haben **Judith Wallerstein**, **Joan Kelly** und **Janet Johnston** diese allgemeinen Entwicklungstheorien auf die spezifische Situation von Scheidungs- und Trennungskindern angewandt. Ihr Befund: Jede Altersstufe hat charakteristische Reaktionsmuster, charakteristische Risiken – und charakteristische Ressourcen.
 
-> **[GRAFIK-PLATZHALTER – Grafik 14]** *Übersicht der Altersstufen mit typischen Reaktionsmustern und Schutzmaßnahmen (Zeitleiste/Tabelle)*
+> *Abbildung 14: Übersicht der Altersstufen mit typischen Reaktionsmustern und Schutzmaßnahmen (Zeitleiste/Tabelle)*
 
 ---
 
@@ -2890,7 +2892,7 @@ Dieses Kapitel erklärt, warum das so ist. Und was das für dein eigenes Handeln
 
 ### Das Hilfssystem im Überblick
 
-> **[GRAFIK-PLATZHALTER – Grafik K4-A]** *Systemkarte: Alle 5 Institutionen (Jugendamt, Familiengericht, Verfahrensbeistand, Sachverständiger, Erziehungsberatung) mit Rolle, gesetzlicher Grundlage und Beziehung zueinander – als Organigramm oder Kreis-Diagramm. Gibt dem Leser vor dem Fließtext eine Übersicht.*
+> *Abbildung K4-A: Systemkarte: Alle 5 Institutionen (Jugendamt, Familiengericht, Verfahrensbeistand, Sachverständiger, Erziehungsberatung) mit Rolle, gesetzlicher Grundlage und Beziehung zueinander – als Organigramm oder Kreis-Diagramm. Gibt dem Leser vor dem Fließtext eine Übersicht.*
 
 Bevor wir die Grenzen besprechen, lohnt ein kurzer Blick darauf, welche Institutionen in deutschen Hochkonfliktsituationen überhaupt eine Rolle spielen – und welche Funktion jede hat.
 
@@ -2962,7 +2964,7 @@ In Hochkonfliktsituationen wird Neutralität zum Problem.
 
 #### Wenn Symmetrie keine Symmetrie ist
 
-> **[GRAFIK-PLATZHALTER – Grafik K4-B]** *Das Symmetrie-Paradox: Zwei-Spalten-Gegenüberstellung – links Normalfall (beide kooperieren → Neutralität funktioniert), rechts Hochkonfliktfall (eine Seite manipuliert → Neutralität begünstigt die manipulierende Seite).*
+> *Abbildung K4-B: Das Symmetrie-Paradox: Zwei-Spalten-Gegenüberstellung – links Normalfall (beide kooperieren → Neutralität funktioniert), rechts Hochkonfliktfall (eine Seite manipuliert → Neutralität begünstigt die manipulierende Seite).*
 
 Neutralität setzt implizit voraus, dass beide Seiten vergleichbar sind: zwei Menschen, die beide zu einem Konflikt beitragen, und bei denen ein Mittelweg möglich ist. Dieses symmetrische Modell passt auf die meisten Trennungen.
 
@@ -3008,7 +3010,7 @@ Das vielleicht grundlegendste Problem ist dies: Die meisten Fachkräfte im Syste
 
 #### Was in der Ausbildung fehlt
 
-> **[GRAFIK-PLATZHALTER – Grafik K4-C]** *Kompetenz-Lücken-Matrix: Zeilen = Institutionen (Jugendamt, Gericht, Sachverständige, Verfahrensbeistand), Spalten = relevante Wissensgebiete (Familienrecht, Persönlichkeitsstörungen, Hochkonflikt-Dynamik, Stressphysiologie Kinder, Manipulationserkennung) – als Heatmap oder Tabelle mit Ampelfarben.*
+> *Abbildung K4-C: Kompetenz-Lücken-Matrix: Zeilen = Institutionen (Jugendamt, Gericht, Sachverständige, Verfahrensbeistand), Spalten = relevante Wissensgebiete (Familienrecht, Persönlichkeitsstörungen, Hochkonflikt-Dynamik, Stressphysiologie Kinder, Manipulationserkennung) – als Heatmap oder Tabelle mit Ampelfarben.*
 
 Sozialarbeiter, die im Jugendamt arbeiten, haben eine Ausbildung in allgemeiner Sozialpädagogik. Sie kennen Kindeswohlgefährdung, Armut, häusliche Gewalt, Sucht und Vernachlässigung – die klassischen Risikofaktoren. Hochkonfliktdynamiken, HCP-Persönlichkeitsstrukturen und die Unterscheidung zwischen kooperationsunwilligem und manipulativem Verhalten kommen in der Standardausbildung kaum vor.
 
@@ -3046,7 +3048,7 @@ In Kapitel 3 (Teil E) wurden die Muster bereits beschrieben: Weaponizing the Leg
 
 #### Das Prinzip der Zurechenbarkeit
 
-> **[GRAFIK-PLATZHALTER – Grafik K4-D]** *Aufwand-Asymmetrie: „Beschwerde einreichen = 1 Stunde" vs. „Beschwerde beantworten = 1 Tag" – als Proportions- oder Balkendiagramm, multipliziert über Monate/Jahre. Macht die Erschöpfungsstrategie sinnlich erfahrbar.*
+> *Abbildung K4-D: Aufwand-Asymmetrie: „Beschwerde einreichen = 1 Stunde" vs. „Beschwerde beantworten = 1 Tag" – als Proportions- oder Balkendiagramm, multipliziert über Monate/Jahre. Macht die Erschöpfungsstrategie sinnlich erfahrbar.*
 
 Jede Meldung, jeder Antrag, jede Beschwerde beim Jugendamt, Gericht oder einer anderen Behörde löst eine Reaktion aus. Die Behörde muss reagieren, muss prüfen, muss dokumentieren. Das ist Rechtsstaat – und das ist richtig so.
 
@@ -3179,7 +3181,7 @@ Engagement, Geduld und klare, sachliche Kommunikation mit Institutionen – das 
 
 ### Zusammenfassung: Das Hilfssystem auf einen Blick
 
-> **[GRAFIK-PLATZHALTER – Grafik K4-E]** *Visuelle Matrix der Zusammenfassungstabelle: Institutionen × Kompetenzen mit Farbcodierung (grün = kann / rot = kann nicht) – als gestaltete Übersicht statt reiner Texttabelle.*
+> *Abbildung K4-E: Visuelle Matrix der Zusammenfassungstabelle: Institutionen × Kompetenzen mit Farbcodierung (grün = kann / rot = kann nicht) – als gestaltete Übersicht statt reiner Texttabelle.*
 
 | Institution | Kernaufgabe | Was es kann | Was es nicht kann |
 |---|---|---|---|
@@ -3264,7 +3266,7 @@ Nach 48 Stunden sieht fast jede Nachricht anders aus. Die emotionale Ladung nimm
 
 Die 48-Stunden-Regel hat eine Ausnahme: echte Notfälle, die das unmittelbare Wohl des Kindes betreffen. Alles andere kann warten.
 
-> **[GRAFIK-PLATZHALTER – Grafik K5-A]** *Visualisierung: Die 48-Stunden-Regel – emotionale Reaktionskurve nach dem Empfang einer provozierenden Nachricht (hoch → abfallend → sachlich). Zeigt, wie lange gewartet werden sollte, bevor eine Antwort verfasst wird.*
+> *Abbildung K5-A: Visualisierung: Die 48-Stunden-Regel – emotionale Reaktionskurve nach dem Empfang einer provozierenden Nachricht (hoch → abfallend → sachlich). Zeigt, wie lange gewartet werden sollte, bevor eine Antwort verfasst wird.*
 
 ---
 
@@ -3377,7 +3379,7 @@ Offene Fragen, Gegenanschuldigungen, Rückverweise auf alte Konflikte? Wenn ja: 
 **5. Könnte diese Nachricht vor Gericht oder beim Jugendamt vorgelegt werden – ohne dir zu schaden?**
 Wenn du dir bei dieser Frage unsicher bist: überarbeiten.
 
-> **[GRAFIK-PLATZHALTER – Grafik K5-B]** *Checkliste: Die 5 Fragen vor dem Abschicken – als visueller Entscheidungsbaum oder als kompakte Merkkarte (zum Ausdrucken / Abspeichern geeignet).*
+> *Abbildung K5-B: Checkliste: Die 5 Fragen vor dem Abschicken – als visueller Entscheidungsbaum oder als kompakte Merkkarte (zum Ausdrucken / Abspeichern geeignet).*
 
 ---
 
@@ -3495,7 +3497,7 @@ Keine Antwort. Diese Nachricht enthält keinen sachlichen Kern, der eine Antwort
 *BIFF-Antwort:*
 > „Das Wochenende ist laut Plan meines. Ich kann dieses Mal nicht tauschen. Der nächste reguläre Termin bei dir ist [Datum]."
 
-> **[GRAFIK-PLATZHALTER – Grafik K5-C]** *Vor/Nach-Vergleich: Zwei oder drei Beispiel-Nachrichten nebeneinander – links die typische Nicht-BIFF-Reaktion, rechts die BIFF-Version – als visuelle Tabelle oder Sprechblasendarstellung.*
+> *Abbildung K5-C: Vor/Nach-Vergleich: Zwei oder drei Beispiel-Nachrichten nebeneinander – links die typische Nicht-BIFF-Reaktion, rechts die BIFF-Version – als visuelle Tabelle oder Sprechblasendarstellung.*
 
 ---
 
@@ -3545,7 +3547,7 @@ Eine Antwort ist nicht notwendig, wenn:
 
 Schweigen ist keine Konflikteskalation. Es ist keine Provokation. Es ist die konsequente Umsetzung des Prinzips: **Ich antworte auf das, was eine Antwort braucht – und auf nichts anderes.**
 
-> **[GRAFIK-PLATZHALTER – Grafik K5-D]** *Entscheidungsbaum: Muss ich antworten? – Einfacher Flussdiagramm-Entscheid: Enthält die Nachricht eine kindrelevante sachliche Frage? → ja/nein → BIFF antworten / dokumentieren und ablegen.*
+> *Abbildung K5-D: Entscheidungsbaum: Muss ich antworten? – Einfacher Flussdiagramm-Entscheid: Enthält die Nachricht eine kindrelevante sachliche Frage? → ja/nein → BIFF antworten / dokumentieren und ablegen.*
 
 ---
 
@@ -3667,7 +3669,7 @@ Enthält die Antwort offene Fragen, die eine neue Antwort erzwingen? Kommentare,
 Wenn ja: überarbeiten.
 Wenn nein: abschicken.
 
-> **[GRAFIK-PLATZHALTER – Grafik K6-A]** *Entscheidungsbaum als visuelles Flussdiagramm: Die 6 Schritte als klarer, linearer Ablauf mit Ja/Nein-Verzweigungen. Optimiert für schnelle Orientierung in akuten Situationen. Geeignet zum Ausdrucken und Anheften.*
+> *Abbildung K6-A: Entscheidungsbaum als visuelles Flussdiagramm: Die 6 Schritte als klarer, linearer Ablauf mit Ja/Nein-Verzweigungen. Optimiert für schnelle Orientierung in akuten Situationen. Geeignet zum Ausdrucken und Anheften.*
 
 ---
 
@@ -3767,7 +3769,7 @@ Der häufigste Fehler: auf Angriffselemente einzugehen, obwohl sie keine sachlic
 
 Faustregel für gemischte Nachrichten: Schreibe deine Antwort so, als würdest du auf eine sachliche Informationsnachricht antworten. Als hätten die Angriffsteile in der Nachricht nie existiert.
 
-> **[GRAFIK-PLATZHALTER – Grafik K6-B]** *Übersichtstabelle der vier Nachrichtenkategorien: Erkennungsmerkmale, Ziel der Nachricht, empfohlene Reaktion – kompakt und auf einen Blick lesbar.*
+> *Abbildung K6-B: Übersichtstabelle der vier Nachrichtenkategorien: Erkennungsmerkmale, Ziel der Nachricht, empfohlene Reaktion – kompakt und auf einen Blick lesbar.*
 
 ---
 
@@ -3947,7 +3949,7 @@ Fange keine Diskussion mit dem anderen Elternteil an. Richte deine kurze, sachli
 
 ---
 
-> **[GRAFIK-PLATZHALTER – Grafik K6-C]** *Vorlagenkarte: Kompakte Übersicht aller Vorlagen mit Kurztitel und Verwendungssituation – als zweiseitige Referenzkarte zum Ausdrucken oder Abspeichern geeignet.*
+> *Abbildung K6-C: Vorlagenkarte: Kompakte Übersicht aller Vorlagen mit Kurztitel und Verwendungssituation – als zweiseitige Referenzkarte zum Ausdrucken oder Abspeichern geeignet.*
 
 ---
 

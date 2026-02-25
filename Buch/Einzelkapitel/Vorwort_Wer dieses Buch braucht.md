@@ -37,7 +37,7 @@ Du erkennst dich in diesem Buch, wenn:
 
 Wenn du dir bei mehreren dieser Punkte gedacht hast „Ja, genau das ist es" – dann bist du hier richtig.
 
-> **[GRAFIK-PLATZHALTER – Grafik 1]** *Infografik: Visuelle Darstellung der Erkennungsmerkmale als Selbstcheck – „Erkennst du dich in diesen Punkten wieder?"*
+> *Abbildung 1: Infografik: Visuelle Darstellung der Erkennungsmerkmale als Selbstcheck – „Erkennst du dich in diesen Punkten wieder?"*
 
 ---
 
@@ -113,11 +113,13 @@ Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu
 
 Manche Hochkonfliktsituationen beinhalten Elemente, die sich wie psychische Gewalt anfühlen: Gaslighting, emotionale Erpressung, Drohungen mit dem Kind. Das ist real, und es soll hier nicht kleingeredet werden.
 
+Ein Konzept, das in diesem Zusammenhang ausdrücklich benannt werden muss, ist die **Koerzive Kontrolle** (englisch: *Coercive Control*): die systematische Unterdrückung einer Person durch Einschüchterung, Überwachung, Isolation und psychologische Manipulation – oft über lange Zeiträume, ohne eine einzige körperliche Berührung. Diese Form von Gewalt hinterlässt keine sichtbaren Verletzungen, aber sie ist genauso schwerwiegend. Die **Istanbul-Konvention** – das Übereinkommen des Europarats zur Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt, das Deutschland 2018 ratifiziert hat – benennt explizit psychische Gewalt, Nötigung und Nachstellung als eigenständige Gewaltformen. Der entscheidende Unterschied zwischen Hochkonflikt und Koerziver Kontrolle liegt in der Machtstruktur: Im Hochkonflikt eskalieren zwei Parteien mit wechselnder Ober- und Unterhand. Bei Koerziver Kontrolle liegt die Macht dauerhaft auf einer Seite – es gibt einen Kontrolleur und eine kontrollierte Person. Wer das Gefühl hat, dass die eigene Situation weniger einem Streit auf Augenhöhe ähnelt als einem System, aus dem es keinen Ausweg gibt, sollte sich an eine spezialisierte Fachberatungsstelle wenden.
+
 Gleichzeitig ist es wichtig, ehrlich zu bleiben: Manchmal erleben sich beide Elternteile als Opfer – und keiner ist es vollständig. Manchmal ist eine Situation belastend und hocheskaliert, ohne dass Gewalt im strafrechtlichen Sinne vorliegt.
 
 Dieses Buch ist für den letztgenannten Fall: Für Eltern, die in einem **anhaltenden, eskalierenden Elternkonflikt** gefangen sind, in dem beide Seiten leiden – und in dem das Kind der eigentliche Leidtragende ist.
 
-> **[GRAFIK-PLATZHALTER – Grafik 3]** *Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
+> *Abbildung 3: Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
 
 Wenn du nicht sicher bist, ob deine Situation unter "Hochkonflikt" oder "Gewalt" fällt: Lies zunächst dieses Kapitel zu Ende. Und sprich mit einer Fachperson – einem Anwalt, einer Beratungsstelle oder dem Jugendamt. Sie können helfen, die Situation einzuordnen.
 
@@ -154,7 +156,7 @@ Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten für den emotion
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
-> **[GRAFIK-PLATZHALTER – Grafik 2]** *Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
+> *Abbildung 2: Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
 
 ---
 

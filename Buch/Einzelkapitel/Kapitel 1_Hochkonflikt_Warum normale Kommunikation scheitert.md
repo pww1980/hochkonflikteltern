@@ -108,7 +108,7 @@ Das ist keine Niederlage. Es ist Information.
 
 Und es bedeutet: Du musst nicht mehr und besser kommunizieren. Du musst **anders** kommunizieren – mit dem Wissen, was in dieser spezifischen Dynamik wirkt und was nicht.
 
-> **[GRAFIK-PLATZHALTER – Grafik 9]** *Gegenüberstellung: Instinktive Reaktionen vs. wirksame Reaktionen im Hochkonflikt – Warum das, was normal funktioniert, hier eskaliert (z. B. Erklären → liefert Munition / Schweigen → entzieht Nahrung)*
+> *Abbildung 9: Gegenüberstellung: Instinktive Reaktionen vs. wirksame Reaktionen im Hochkonflikt – Warum das, was normal funktioniert, hier eskaliert (z. B. Erklären → liefert Munition / Schweigen → entzieht Nahrung)*
 
 ---
 
