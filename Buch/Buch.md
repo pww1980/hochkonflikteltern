@@ -8791,59 +8791,6 @@ Scottsdale: HCI Press.
 
 ---
 
-## Kapitel 6: Der Kommunikationsleitfaden
-
-> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
-
-**Eddy, B. (2010).**
-*BIFF: Quick Responses to High-Conflict People.*
-*(s. Kapitel 5)*
-
-> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
-
-**High Conflict Institute (laufend).**
-*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
-https://www.highconflictinstitute.com
-
-> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
-
----
-
-## Kapitel 5: Das BIFF-Prinzip
-
-### BIFF und High Conflict Communication
-
-**Eddy, B. (2010).**
-*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
-Scottsdale: HCI Press.
-*(s. o., Kapitel 3)*
-
-> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
-
-**Eddy, B. (2014).**
-*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
-Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
-
-> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
-
----
-
-### Kommunikation und Eskalationsdynamik
-
-**Gottman, J. M. & Silver, N. (1999).**
-*The Seven Principles for Making Marriage Work.*
-*(s. o., Kapitel 3)*
-
-> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
-
-**Tannen, D. (1990).**
-*You Just Don't Understand: Women and Men in Conversation.*
-New York: William Morrow.
-
-> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
-
----
-
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
 ### Deutsches Familienrecht und Institutionen
@@ -8988,6 +8935,76 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 
 ---
 
+## Kapitel 5: Das BIFF-Prinzip
+
+### BIFF und High Conflict Communication
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
+Scottsdale: HCI Press.
+*(s. o., Kapitel 3)*
+
+> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
+
+**Eddy, B. (2014).**
+*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
+Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
+
+> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
+
+---
+
+### Kommunikation und Eskalationsdynamik
+
+**Gottman, J. M. & Silver, N. (1999).**
+*The Seven Principles for Making Marriage Work.*
+*(s. o., Kapitel 3)*
+
+> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
+
+**Tannen, D. (1990).**
+*You Just Don't Understand: Women and Men in Conversation.*
+New York: William Morrow.
+
+> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
+
+---
+
+## Kapitel 6: Der Kommunikationsleitfaden
+
+> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People.*
+*(s. Kapitel 5)*
+
+> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
+
+**High Conflict Institute (laufend).**
+*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
+https://www.highconflictinstitute.com
+
+> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
+
+---
+
+## Kapitel 7 – Gespräche, die zählen
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
+| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
+| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
+| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
+| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
+| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
+| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
+| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
+| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
+| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
+| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |
+---
+
 ## Kapitel 8 – Co-Parenting vs. Parallel Parenting
 
 | Autor(en) | Jahr | Titel / Quelle |
@@ -9024,19 +9041,3 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 | Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) [Angabe prüfen] |
 
 ---
-
-## Kapitel 7 – Gespräche, die zählen
-
-| Autor(en) | Jahr | Titel / Quelle |
-|-----------|------|----------------|
-| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
-| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
-| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
-| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
-| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
-| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
-| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
-| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
-| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
-| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
-| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |
