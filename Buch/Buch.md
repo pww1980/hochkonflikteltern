@@ -8057,6 +8057,10 @@ Die Unfähigkeit, die eigene emotionale Reaktion zu steuern – Gefühle kommen 
 **Elterliche Entfremdung**
 → *Siehe: Alienation*
 
+**EMDR (Eye Movement Desensitization and Reprocessing)**
+Ein traumatherapeutisches Verfahren, das durch bilaterale Stimulation – meistens geführte Augenbewegungen – dabei hilft, belastende Erinnerungen zu verarbeiten und zu integrieren. Besonders wirksam bei PTBS und bei anhaltenden körperlichen Stressreaktionen auf spezifische Auslöser wie Übergaben, Gerichtstermine oder bestimmte Kommunikationsmuster. Im Hochkonfliktkontext empfohlen, wenn Hyperarousal-Reaktionen wiederkehrend auftreten und das Alltagshandeln beeinträchtigen.
+→ *Siehe auch: PTBS, Hypervigilanz, Chronischer Stress, Schematherapie*
+
 **Emotional Flooding (Emotionale Überflutung)**
 Das Verschicken überwältigender Mengen an Nachrichten, Anrufen und Vorwürfen in kurzer Zeit – mit dem Ziel, das Nervensystem des Gegenübers zu überfordern und eine unüberlegte Reaktion zu provozieren. Der Psychologe John Gottman beschrieb Flooding als physiologisches Phänomen: Unter massivem emotionalem Input überhitzt das Stresssystem und rationales Denken wird schwieriger. Gegenstrategie: 24-Stunden-Regel, Nachrichten gesammelt statt einzeln lesen.
 → *Siehe auch: Intermittent Reinforcement, Document Flooding, Silent Treatment*
@@ -8173,8 +8177,8 @@ Die Fähigkeit, spontane Handlungsimpulse zu regulieren – innehalten, bevor ma
 
 ## J
 
-**JADE-Falle**
-Ein Begriff für das Muster, auf Vorwürfe oder Angriffe mit **J**ustifizieren (rechtfertigen), **A**rgumentieren, **D**efendieren (verteidigen) und **E**rklären zu reagieren. Im Hochkonfliktkontext ist JADE kontraproduktiv: Es liefert mehr Gesprächsstoff, signalisiert, dass der Angriff wirkt, und verlängert die Interaktion. Die Lösung: kürzer, sachlicher, weniger.
+**JADE-Falle (Justify, Argue, Defend, Explain)**
+Akronym für das Muster, auf Vorwürfe oder Angriffe mit **J**ustify (**J**ustifizieren / rechtfertigen), **A**rgue (**A**rgumentieren), **D**efend (**D**efendieren / verteidigen) und **E**xplain (**E**rklären) zu reagieren. Im Hochkonfliktkontext ist JADE kontraproduktiv: Es liefert mehr Gesprächsstoff, signalisiert, dass der Angriff wirkt, und verlängert die Interaktion. Die Lösung: kürzer, sachlicher, weniger.
 → *Siehe auch: BIFF-Prinzip, Eskalation*
 
 ---
@@ -8258,6 +8262,10 @@ Ein strukturiertes Trainingsprogramm des High Conflict Institute für Eltern in 
 
 ## P
 
+**PAS (Parental Alienation Syndrome – Entfremdungssyndrom)**
+Ein Begriff des amerikanischen Kinderpsychiaters Richard Gardner aus den 1980er Jahren, mit dem er ein klinisches Bild beschrieb, bei dem Kinder einen Elternteil ohne nachvollziehbaren Grund ablehnen – verursacht durch systematische Beeinflussung des anderen Elternteils. Der Begriff ist wissenschaftlich umstritten und wird weder im DSM-5 noch im ICD-11 geführt. In der aktuellen Fachdiskussion wird stattdessen von *Elterlicher Entfremdung* als beobachtbarem Prozess gesprochen, ohne eine Syndromdiagnose beim Kind. Wichtig: Die Ablehnung eines Elternteils kann auch eine legitime kindliche Reaktion auf tatsächlich erlebtes problematisches Verhalten sein – die Unterscheidung ist klinisch anspruchsvoll.
+→ *Siehe auch: Alienation (Elterliche Entfremdung), Loyalitätskonflikt, Triangulation, Gatekeeping*
+
 **Parentifizierung**
 Das Phänomen, bei dem ein Kind emotionale Aufgaben übernimmt, die eigentlich Erwachsenen zukommen: Trösten, Zuhören, Kümmern, Beschützen. Häufig in Hochkonfliktsituationen, wenn ein Elternteil das Kind als Vertrauensperson oder emotionalen Anker benutzt. Das Kind übernimmt Verantwortung, die es überfordert – auf Kosten seiner eigenen Entwicklung.
 → *Siehe auch: Loyalitätskonflikt, Triangulation*
@@ -8281,6 +8289,10 @@ Der vorderste Teil des Großhirns – Sitz von Vernunft, Impulskontrolle, Planun
 **Projektion**
 Ein psychischer Abwehrmechanismus: Eigene unerwünschte Gefühle, Absichten oder Eigenschaften werden nicht bei sich, sondern beim anderen wahrgenommen. Jemand, der selbst manipulativ handelt, erlebt den anderen als manipulativ. In Hochkonfliktsituationen häufig: Vorwürfe beschreiben oft das eigene Verhalten besser als das des anderen.
 
+**PTBS (Posttraumatische Belastungsstörung)**
+Eine psychische Erkrankung, die nach dem Erleben oder Beobachten traumatischer Ereignisse auftreten kann. Kennzeichen: Wiedererlebensphänomene (Flashbacks, Albträume), Vermeidungsverhalten, anhaltende Überreizung (Hyperarousal) und negative Veränderungen in Denken und Stimmung. Im Hochkonfliktkontext – insbesondere bei Beteiligung häuslicher Gewalt oder extremem Kontrollverhalten – können PTBS-Symptome auch bei betroffenen Elternteilen auftreten. Therapeutisch wirksam: EMDR, Schematherapie, traumafokussierte kognitive Verhaltenstherapie.
+→ *Siehe auch: EMDR, Hypervigilanz, Chronischer Stress, Dissoziation*
+
 ---
 
 ## R
@@ -8303,6 +8315,10 @@ Bedingungen, die die Wahrscheinlichkeit einer negativen (Risikofaktor) oder posi
 **Sachverständiger (familienpsychologischer)**
 Ein Psychologe oder Psychiater mit familienrechtlicher Zusatzqualifikation, der vom Familiengericht beauftragt wird, ein Gutachten zur Eltern-Kind-Bindung, zur Kindeswohlgefährdung oder zur Frage des geeigneten Umgangsmodells zu erstellen. Gutachten sind teuer (typisch: 5.000–15.000 Euro), zeitaufwändig (oft 6–18 Monate) und nicht bindend, aber in der Praxis stark einflussreich. Die Qualität schwankt erheblich; nicht alle Sachverständigen haben Erfahrung mit Hochkonfliktsituationen oder HCP-Persönlichkeitsstrukturen. Bundesweit bestehen seit wenigen Jahren erste Qualitätsstandards für Sachverständigentätigkeit im Familienrecht.
 → *Siehe auch: Kindeswohl, Verfahrensbeistand, HCP*
+
+**Schematherapie**
+Ein integratives psychotherapeutisches Verfahren, entwickelt von Jeffrey E. Young, das tief verwurzelte emotionale Grundüberzeugungen und Reaktionsmuster (sogenannte „Schemata") aus der Kindheit erkennt und langfristig verändert. Besonders geeignet bei Persönlichkeitsstörungen und chronischen Beziehungsproblemen. Im Hochkonfliktkontext hilfreich, um eigene Reaktionsmuster auf emotionale Überflutung, Schuldzuweisungen oder Triggersituationen (Übergaben, Schriftsätze) besser zu verstehen und Schritt für Schritt zu verändern.
+→ *Siehe auch: DBT, EMDR, Persönlichkeitsstörung, Selbstregulation*
 
 **Selbstregulation**
 Die Fähigkeit, den eigenen emotionalen und physiologischen Zustand eigenständig zu regulieren – sich beruhigen, konzentrieren, Impulse kontrollieren. Entwickelt sich im Laufe der Kindheit, aufbauend auf wiederholter Co-Regulation mit Bezugspersonen.
