@@ -877,8 +877,6 @@ Dieser Grundsatz ist unbequem. Aber er ist auch befreiend. Er bedeutet: Du bist 
 ---
 
 
-# Teil 1: Verstehen – Was ist Hochkonflikt?
-
 ## Kapitel 2: Die Auswirkungen auf Kinder
 
 ---
@@ -1481,8 +1479,6 @@ Diese Befunde sind keine Urteile über die Zukunft eines Kindes. Sie sind Karten
 
 ---
 
-
-# Teil 1: Verstehen – Was ist Hochkonflikt?
 
 ## Kapitel 3: Die Konfliktmuster erkennen
 
@@ -2873,8 +2869,6 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 
 ---
 
-
-# Teil 1: Verstehen – Was ist Hochkonflikt?
 
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
