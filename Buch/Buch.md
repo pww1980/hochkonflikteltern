@@ -284,7 +284,7 @@ Das Buch ist in fünf Teile gegliedert, die aufeinander aufbauen – aber auch e
 
 **Nutze die Checklisten und Vorlagen.** In Teil 2 und Teil 3 findest du konkrete Werkzeuge: Kommunikationsvorlagen, Entscheidungsbäume, Checklisten für Behördenkontakte. Sie sind nicht als starre Skripte gedacht, sondern als Gerüste, die du an deine Situation anpassen kannst.
 
-**Lies das Kapitel zur Selbstreflexion ehrlich.** Kapitel 11 ist das unbequemste Kapitel dieses Buches. Es fragt dich, wo du selbst zur Eskalation beigetragen hast – bewusst oder unbewusst. Das ist keine Anklage, sondern eine Einladung. Die einzige Person, deren Verhalten du langfristig verändern kannst, bist du selbst. Das ist keine Niederlage – das ist Handlungsmacht.
+**Lies das Kapitel zur Selbstreflexion ehrlich.** Kapitel 12 ist das unbequemste Kapitel dieses Buches. Es fragt dich, wo du selbst zur Eskalation beigetragen hast – bewusst oder unbewusst. Das ist keine Anklage, sondern eine Einladung. Die einzige Person, deren Verhalten du langfristig verändern kannst, bist du selbst. Das ist keine Niederlage – das ist Handlungsmacht.
 
 **Komm zurück.** Eine Hochkonfliktsituation ist kein Zustand, der sich einmal löst. Sie entwickelt sich. Was du heute liest, wird in einem Jahr anders klingen – weil du dich verändert hast, weil die Situation sich verändert hat. Dieses Buch ist kein einmaliger Ratgeber, sondern ein Begleiter für mehrere Phasen.
 
@@ -692,7 +692,7 @@ Das bedeutet zweierlei:
 
 **Zum einen:** Verhalten, das du beschreibst und das dir unverständlich erscheint, muss nicht auf eine klinische Diagnose hinweisen – es kann eine extreme Stressreaktion sein. Das ändert nichts an seiner Auswirkung. Aber es ändert die Prognose: Manche dieser Muster mildern sich mit der Zeit, wenn der Akutstress abnimmt.
 
-**Zum anderen:** Der ehrliche Blick auf Cluster-B-Merkmale schließt auch die Frage ein, ob und wo du selbst in Hochstress-Situationen in ähnliche Muster gerätst. Das Kapitel zur Selbstreflexion (Kapitel 11) wird darauf eingehen. Es ist kein angenehmes Kapitel. Aber es ist eines der wichtigsten.
+**Zum anderen:** Der ehrliche Blick auf Cluster-B-Merkmale schließt auch die Frage ein, ob und wo du selbst in Hochstress-Situationen in ähnliche Muster gerätst. Das Kapitel zur Selbstreflexion (Kapitel 12) wird darauf eingehen. Es ist kein angenehmes Kapitel. Aber es ist eines der wichtigsten.
 
 ---
 
@@ -797,7 +797,7 @@ BIFF steht für:
 
 Das BIFF-Prinzip klingt einfach. Es ist es nicht. Es widerspricht allem, was wir in normalen Kommunikationssituationen gelernt haben: Kontext geben, erklären, Verständnis zeigen. Im Hochkonflikt ist jeder dieser Impulse eine potenzielle Falle.
 
-Da das BIFF-Prinzip die Grundlage des gesamten Kommunikationsteils dieses Buches bildet, wird es in **Kapitel 4** ausführlich behandelt – mit konkreten Beispielen, häufigen Fehlern und Übungsszenarien. An dieser Stelle genügt das Prinzip als Orientierung.
+Da das BIFF-Prinzip die Grundlage des gesamten Kommunikationsteils dieses Buches bildet, wird es in **Kapitel 5** ausführlich behandelt – mit konkreten Beispielen, häufigen Fehlern und Übungsszenarien. An dieser Stelle genügt das Prinzip als Orientierung.
 
 ---
 
@@ -1474,7 +1474,7 @@ Diese Befunde sind keine Urteile über die Zukunft eines Kindes. Sie sind Karten
 
 ---
 
-*Weiter: Kapitel 3 – Was Eltern tun können: Schutzmaßnahmen im Alltag.*
+*Weiter: Kapitel 3 – Die Konfliktmuster erkennen.*
 
 
 ---
@@ -3988,7 +3988,7 @@ Was er kann: verhindern, dass du zu deiner eigenen Eskalation beiträgst. Und da
 
 ---
 
-*Ende Kapitel 6. Weiter: Kapitel 7 – Meetings vorbereiten: Jugendamt, Mediation, Erziehungsberatung.*
+*Ende Kapitel 6. Weiter: Kapitel 7 – Gespräche, die zählen: Jugendamt, Mediation, Erziehungsberatung und Gericht.*
 
 
 ---
