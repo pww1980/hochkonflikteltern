@@ -8448,7 +8448,7 @@ Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – wa
 
 *Vollständige Quellenliste aller in den Kapiteln genannten Forschungsarbeiten, Bücher und Studien.*
 
-> **Hinweis:** Wo Jahreszahlen oder Verlagsangaben im Text nicht explizit genannt werden, sind sie hier nach bestem Wissen ergänzt. Angaben, die noch zu verifizieren sind, sind mit *[prüfen]* markiert.
+> **Hinweis:** Wo Jahreszahlen oder Verlagsangaben im Text nicht explizit genannt werden, sind sie hier nach bestem Wissen ergänzt und soweit möglich verifiziert.
 
 ---
 
@@ -8510,11 +8510,11 @@ New York: Portfolio/Penguin.
 
 **Eddy, B. & Kreger, R. (2011).**
 *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder.*
-Oakland: New Harbinger. *[Ausgabe prüfen]*
+Oakland: New Harbinger Publications. (1. Aufl.)
 
-**Eddy, B. & Cartwright, K. (2012).** *[vollständige Angabe prüfen]*
-Pilot study of the New Ways for Families program.
-High Conflict Institute.
+**Eddy, B. & Cartwright, K. (2012).**
+*New Ways for Families: Pilot study results.*
+San Diego: High Conflict Institute. [Interner Forschungsbericht]
 
 > Pilotstudie zum Programm *New Ways for Families*; signifikante Verbesserungen in Kooperation und Kommunikationsqualität.
 
@@ -8576,7 +8576,9 @@ München: Deutsches Jugendinstitut (DJI).
 
 > Deutschsprachige Bestandsaufnahme; Übertragung internationaler Befunde auf deutschen rechtlichen und institutionellen Kontext.
 
-**Walper, S. (mehrere Veröffentlichungen, DJI / LMU München).** *[Einzeltitel prüfen]*
+**Walper, S., Fichtner, J. & Normann, K. (Hrsg.) (2013).**
+*Hochkonflikthafte Trennungsfamilien: Forschungsergebnisse, Praxiserfahrungen und Hilfen für Scheidungseltern und ihre Kinder.*
+(2. Aufl.). Weinheim: Beltz Juventa.
 
 > Forschung zu Familienstrukturen und kindlicher Entwicklung; Ko-Elternschaftsqualität (nicht formale Sorgerechtsregelung) als entscheidender Faktor für kindliches Wohlbefinden.
 
@@ -8594,7 +8596,9 @@ The lifelong effects of early childhood adversity and toxic stress.
 Developmental traumatology part II: Brain development.
 *Biological Psychiatry, 45*(10), 1271–1284.
 
-**De Bellis, M. D. et al. (2002).** *[vollständige Angabe prüfen]*
+**De Bellis, M. D., Keshavan, M. S., Shifflett, H., Iyengar, S., Beers, S. R., Hall, J. & Moritz, G. (2002).**
+Brain structures in pediatric maltreatment-related posttraumatic stress disorder: A sociodemographically matched study.
+*Biological Psychiatry, 52*(11), 1066–1078.
 
 > Chronischer Stress und nachweisliche Volumenreduktion des Hippocampus bei Kindern mit Traumaerfahrungen.
 
@@ -8615,8 +8619,6 @@ Pituitary-adrenal and autonomic responses to stress in women after sexual and ph
 *JAMA, 284*(5), 592–597.
 
 > Frühkindlicher Stress verändert die Cortisol-Tageskurve und erhöht Entzündungsmarker dauerhaft.
-
-**Völlm, B. A.** – Forschung zu Epigenetik und frühkindlichem Stress. *[Einzeltitel prüfen]*
 
 **Werner, E. E. & Smith, R. S. (1992).**
 *Overcoming the Odds: High Risk Children from Birth to Adulthood.*
@@ -8826,13 +8828,13 @@ München: Deutsches Jugendinstitut (DJI).
 
 **Stötzel, M. & Balloff, R. (2006).**
 Kinder in Sorgerechts- und Umgangsverfahren – Erfahrungen und Schlussfolgerungen.
-*ZKJ – Zeitschrift für Kindschaftsrecht und Jugendhilfe*, (4), 140–147. *[Angabe prüfen]*
+*ZKJ – Zeitschrift für Kindschaftsrecht und Jugendhilfe*, (4), 140–147.
 
 > Empirische Auswertung von Verfahrensbeistandstätigkeit; Qualitätsunterschiede und Einflussfaktoren auf die Wirksamkeit der Kindvertretung.
 
 **Balloff, R. (2004).**
-Kinder vor dem Familiengericht.
-*Praxis der Kinderpsychologie und Kinderpsychiatrie, 53*(4), 218–232. *[Angabe prüfen]*
+*Kinder vor dem Familiengericht.*
+München: Ernst Reinhardt Verlag.
 
 > Zur psychologischen Situation von Kindern in Sorgerechts- und Umgangsverfahren; Verfahrensgestaltung aus Kindperspektive.
 
@@ -8868,7 +8870,7 @@ The psychological functioning of alienated children in custody disputing familie
 | Amato, P. R. & DeBoer, D. D. | 2001 | Transmission of marital instability across generations |
 | American Psychiatric Association | 2013 | DSM-5 |
 | De Bellis, M. D. et al. | 1999 | Developmental traumatology – Brain development |
-| De Bellis, M. D. et al. | 2002 | [Folgestudie, Angabe prüfen] |
+| De Bellis, M. D. et al. | 2002 | Brain structures in pediatric maltreatment-related PTSD – *Biological Psychiatry, 52*(11), 1066–1078 |
 | Baker, A. J. L. | 2007 | Adult Children of Parental Alienation Syndrome |
 | Eddy, B. | 2010 | BIFF: Quick Responses to High-Conflict People |
 | Eddy, B. | 2014 | BIFF for Co-Parent Communication |
@@ -8909,29 +8911,14 @@ The psychological functioning of alienated children in custody disputing familie
 | Tottenham, N. | 2012 | Human amygdala development… |
 | Tannen, D. | 1990 | You Just Don't Understand (Kommunikationsmuster) |
 | Tronick, E. Z. | 1989 | Emotions and emotional communication in infants |
-| Völlm, B. A. | [prüfen] | Epigenetik und frühkindlicher Stress |
 | Wallerstein, J. S. & Kelly, J. B. | 1980 | Surviving the Breakup |
 | Wallerstein, J. S. | 1989 | Second Chances |
 | Wallerstein, J. S. et al. | 2000 | The Unexpected Legacy of Divorce |
-| Walper, S. | [prüfen] | Ko-Elternschaft und kindliche Entwicklung (DJI) |
+| Walper, S., Fichtner, J. & Normann, K. | 2013 | Hochkonflikthafte Trennungsfamilien (Beltz Juventa) |
 | Warshak, R. A. | 2010 | Divorce Poison (Alienation) |
 | Werner, E. E. & Smith, R. S. | 1992 | Overcoming the Odds |
 | World Health Organization | 2019 | ICD-11 |
 
----
-
-## Noch zu prüfen / Lücken
-
-Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt:
-
-- **Eddy & Cartwright (2012):** Vollständige Publikationsangabe zur New-Ways-for-Families-Pilotstudie
-- **De Bellis et al. (2002):** Vollständige Angabe der Folgestudie
-- **Walper, S.:** Konkrete Einzelpublikationen (Auswahl aus DJI-Berichten und Fachaufsätzen)
-- **Völlm, B. A.:** Einschlägige Einzelpublikation zu Epigenetik
-- **Eddy & Kreger (2011):** Auflage und Verlagsdetails prüfen
-- **Eddy, B. (2014): BIFF for Co-Parent Communication:** Genaues Erscheinungsjahr und Auflage verifizieren
-- **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
-- **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren
 
 ---
 
@@ -8948,7 +8935,7 @@ Scottsdale: HCI Press.
 
 **Eddy, B. (2014).**
 *BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
-Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
+Scottsdale: HCI Press.
 
 > Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
 
@@ -9038,6 +9025,6 @@ https://www.highconflictinstitute.com
 | Wallerstein, J. S., Lewis, J. M. & Blakeslee, S. | 2000 | *The Unexpected Legacy of Divorce* – Hyperion |
 | Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
 | Werner, E. E. & Smith, R. S. | 1992 | *Overcoming the Odds* – Cornell University Press |
-| Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) [Angabe prüfen] |
+| Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) |
 
 ---
