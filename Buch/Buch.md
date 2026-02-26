@@ -744,11 +744,11 @@ Was Eddy betont: Diese vier Merkmale **verstärken sich gegenseitig**. Wer in Sc
 
 Zwei weitere Schlüsselbegriffe des HCI-Frameworks:
 
-**Target of Blame (ToB):** HCPs benötigen einen zentralen Schuldigen – eine Person, auf die die gesamte negative Energie des Konflikts gerichtet wird. In Trennungssituationen ist das typischerweise der andere Elternteil. Die ToB-Dynamik ist nicht optional; sie ist strukturell. Ohne Ziel gibt es keine Erzählung, ohne Erzählung gibt es keine Verbündeten, ohne Verbündete gibt es keine Bestätigung. Der Target of Blame wird konsistent als vollständig falsch, unehrlich, gefährlich oder inkompetent dargestellt – unabhängig von der tatsächlichen Realität.
+**Target of Blame (Sündenbock, ToB):** HCPs benötigen einen zentralen Schuldigen – eine Person, auf die die gesamte negative Energie des Konflikts gerichtet wird. In Trennungssituationen ist das typischerweise der andere Elternteil. Die ToB-Dynamik ist nicht optional; sie ist strukturell. Ohne Ziel gibt es keine Erzählung, ohne Erzählung gibt es keine Verbündeten, ohne Verbündete gibt es keine Bestätigung. Der Sündenbock wird konsistent als vollständig falsch, unehrlich, gefährlich oder inkompetent dargestellt – unabhängig von der tatsächlichen Realität.
 
 Was das für Betroffene bedeutet: Es gibt nichts, was du tun könntest, um aufzuhören, das Ziel zu sein – solange du der Gegenpol in der Geschichte bist. Verhaltensänderungen, Entschuldigungen, Entgegenkommen: Nichts davon ändert die strukturelle Funktion, die du in der Dynamik der anderen Person erfüllst.
 
-**Negative Advocates:** HCPs rekrutieren – häufig unbewusst – Personen in ihrem Umfeld, die ihre Version der Geschichte übernehmen und verstärken. Das können Familienmitglieder sein, Freunde, neue Partnerinnen oder Partner, manchmal auch Fachleute (Anwälte, Therapeuten, Beratungsstellen), die nur eine Seite gehört haben. Eddy nennt sie „Negative Advocates", weil sie den Konflikt durch einseitige Unterstützung aktiv befeuern – ohne es zu merken.
+**Negative Advocates (negative Unterstützer):** HCPs rekrutieren – häufig unbewusst – Personen in ihrem Umfeld, die ihre Version der Geschichte übernehmen und verstärken. Das können Familienmitglieder sein, Freunde, neue Partnerinnen oder Partner, manchmal auch Fachleute (Anwälte, Therapeuten, Beratungsstellen), die nur eine Seite gehört haben. Eddy nennt sie „Negative Advocates", weil sie den Konflikt durch einseitige Unterstützung aktiv befeuern – ohne es zu merken.
 
 Das erklärt ein häufiges Muster in Hochkonfliktsituationen: Plötzlich scheinen viele Menschen in deinem Umfeld oder dem des anderen Elternteils eine dezidierte Meinung zu haben – basierend auf einer Version der Geschichte, die du nicht kennst und die du kaum korrigieren kannst.
 
@@ -852,7 +852,7 @@ Diese Einschränkungen bedeuten nicht, dass das Framework unbrauchbar ist – si
 Das HCI-Framework ist die praktische Brücke zwischen dem theoretischen Verständnis von Hochkonflikt (was er ist, warum er entsteht, welche Persönlichkeitsstrukturen beteiligt sind) und den konkreten Handlungsstrategien, die in den folgenden Teilen beschrieben werden.
 
 Es liefert:
-- Eine **Verhaltenssprache** (HCP, Target of Blame, Negative Advocates), die ohne Diagnose auskommt
+- Eine **Verhaltenssprache** (HCP, Sündenbock, negative Unterstützer), die ohne Diagnose auskommt
 - Ein **Einschätzungsmodell** (WEB), das Muster erkennbar macht
 - Eine **Akutstrategie** (EAR) für emotionale Eskalationsmomente
 - Ein **Kommunikationsprinzip** (BIFF), das den gesamten zweiten Teil des Buches trägt
@@ -1664,7 +1664,7 @@ Keine Begründung. Keine Entschuldigung. Du bist dreißig Sekunden beschäftigt.
 #### 5. Moving the Goalposts – Das Ziel, das sich immer verschiebt
 
 **Was es ist:**
-*Moving the Goalposts* (dt. sinngemäß: *Die Torpfosten verschieben*) bezeichnet ein Muster, bei dem Bedingungen oder Forderungen immer dann verändert werden, wenn die vorherige Forderung erfüllt wurde. Es gibt keinen Abschluss. Es gibt keine Einigung, die hält. Was gestern vereinbart war, ist heute überholt oder war *„so nicht gemeint"*.
+*Moving the Goalposts* (Ziele verschieben) bezeichnet ein Muster, bei dem Bedingungen oder Forderungen immer dann verändert werden, wenn die vorherige Forderung erfüllt wurde. Es gibt keinen Abschluss. Es gibt keine Einigung, die hält. Was gestern vereinbart war, ist heute überholt oder war *„so nicht gemeint"*.
 
 Das Muster unterscheidet sich von echten Nachverhandlungen durch seine Systematik: Jeder Fortschritt wird durch eine neue Forderung neutralisiert. Das Ziel ist nicht die Lösung – das Ziel ist der Prozess.
 
@@ -1682,7 +1682,7 @@ Kontrolle durch ewige Unabgeschlossenheit. Wer nie fertig ist, ist immer abhäng
 Alle Absprachen schriftlich fixieren. Bei Änderungswünschen auf das Originaldokument verweisen: *„Unsere Vereinbarung vom [Datum] lautet X. Eine Änderung erfordert eine neue schriftliche Absprache."* Keine mündlichen Nachverhandlungen. Bei Versuchen, abgeschlossene Themen wieder zu öffnen: *„Dieser Punkt ist geklärt."*
 
 **Warum die Gegenstrategie funktioniert:**
-Moving the Goalposts braucht deine Bereitschaft, wieder zu verhandeln. Wer das Schriftstück zeigt – die E-Mail, die Vereinbarung, den Gerichtsbeschluss –, macht die Verschiebung sichtbar. Du verhandelst nicht mehr, wenn es keinen Verhandlungsspielraum gibt. Das Schriftliche schließt diesen Spielraum.
+Das Verschieben der Ziele braucht deine Bereitschaft, wieder zu verhandeln. Wer das Schriftstück zeigt – die E-Mail, die Vereinbarung, den Gerichtsbeschluss –, macht die Verschiebung sichtbar. Du verhandelst nicht mehr, wenn es keinen Verhandlungsspielraum gibt. Das Schriftliche schließt diesen Spielraum.
 
 ---
 
@@ -1703,7 +1703,7 @@ Keine Diskussion über *„was gemeint war"*. Das Dokument ist die Referenz.
 #### 6. Word Salad – Kommunikation ohne lösbaren Inhalt
 
 **Was es ist:**
-*Word Salad* (dt. *Wortsalat*) bezeichnet Nachrichten oder Gespräche, die wirr, widersprüchlich, ausschweifend oder strukturlos sind – ohne klaren Kern, ohne konkrete Forderung, ohne beantwortbaren Inhalt. Die Sprache ist da; der Inhalt fehlt oder ist so verschlungen, dass er sich jeder sachlichen Antwort entzieht.
+*Word Salad* (Wortsalat) bezeichnet Nachrichten oder Gespräche, die wirr, widersprüchlich, ausschweifend oder strukturlos sind – ohne klaren Kern, ohne konkrete Forderung, ohne beantwortbaren Inhalt. Die Sprache ist da; der Inhalt fehlt oder ist so verschlungen, dass er sich jeder sachlichen Antwort entzieht.
 
 Word Salat ist kein Versehen. Er ist – ob bewusst oder nicht – eine Technik: Wer antwortet, findet keinen Halt. Wer nicht antwortet, gilt als unkooperativ.
 
@@ -1944,8 +1944,8 @@ Keine Empörung. Die Belege sprechen.
 | Gaslighting | Realitätssinn des anderen untergraben | Dokumentieren, externe Referenzen nutzen |
 | Projektion | Eigenes Verhalten dem anderen zuschreiben | Kurz quittieren, nicht diskutieren |
 | JADE-Falle | Erklärungen als Angriffsfläche | Keine Begründungen, kurze Antworten |
-| Moving the Goalposts | Forderungen verschieben sobald erfüllt | Schriftlich fixieren, auf Original verweisen |
-| Word Salad | Kommunikation ohne lösbaren Inhalt | Nur Konkretes beantworten, Rest ignorieren |
+| Ziele verschieben | Forderungen verschieben sobald erfüllt | Schriftlich fixieren, auf Original verweisen |
+| Wortsalat | Kommunikation ohne lösbaren Inhalt | Nur Konkretes beantworten, Rest ignorieren |
 | Themen-Eskalation | Sachthemen durch Gegenthemen überdecken | Beim Thema bleiben, Scope begrenzen |
 | Verantwortungsverschiebung | Eigene Schuld dem anderen anlastend | Nicht in Defensive, eigenes Handeln belegen |
 | Whataboutism | Ablenkung durch Gegenfinger-Vorwurf | Themen trennen, beim eigenen Punkt bleiben |
@@ -2817,8 +2817,8 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 | 2 | Gaslighting | Realitätsverzerrend | Realitätssinn des anderen untergraben |
 | 3 | Projektion | Realitätsverzerrend | Eigenes Verhalten dem anderen zuschreiben |
 | 4 | JADE-Falle | Realitätsverzerrend | Erklärungen als Angriffsfläche nutzen |
-| 5 | Moving the Goalposts | Realitätsverzerrend | Forderungen verschieben sobald erfüllt |
-| 6 | Word Salad | Realitätsverzerrend | Kommunikation ohne lösbaren Inhalt |
+| 5 | Ziele verschieben | Realitätsverzerrend | Forderungen verschieben sobald erfüllt |
+| 6 | Wortsalat | Realitätsverzerrend | Kommunikation ohne lösbaren Inhalt |
 | 7 | Themen-Eskalation | Realitätsverzerrend | Sachthemen durch Gegenthemen überdecken |
 | 8 | Verantwortungsverschiebung | Realitätsverzerrend | Eigene Schuld dem anderen anlastend |
 | 9 | Whataboutism | Realitätsverzerrend | Ablenkung durch Gegenvorwurf |
@@ -8087,7 +8087,7 @@ Personen aus dem sozialen Umfeld – Familienangehörige, Freunde, neue Partner 
 
 **Future Faking**
 Das Machen von Versprechen, die nicht eingehalten werden – oder von denen von Anfang an klar ist, dass sie nicht eingehalten werden können. Kurzfristig beruhigend, langfristig erschöpfend. Im Hochkonfliktkontext häufig betroffen: Kinder, denen Ausflüge, Besuche oder Veränderungen versprochen werden, die nie eintreten. Gegenstrategie: Nur auf schriftliche, konkrete Zusagen hin planen; Kinder erst informieren, wenn etwas sicher ist.
-→ *Siehe auch: Intermittent Reinforcement, Moving the Goalposts*
+→ *Siehe auch: Intermittent Reinforcement, Ziele verschieben*
 
 ---
 
@@ -8115,7 +8115,7 @@ Das Gefühl, besonders, überlegen oder zu Besonderem berufen zu sein – über 
 
 **HCP (High Conflict Personality)**
 Ein Begriff des High Conflict Institute für Menschen, deren Persönlichkeitsmuster dauerhaft zu Konflikten führt – durch Alles-oder-nichts-Denken, unkontrollierte Emotionen, extremes Verhalten und die Tendenz, andere für alle Probleme verantwortlich zu machen. Kein offizieller Diagnosebegriff, aber ein nützliches Beschreibungsmodell.
-→ *Siehe auch: High Conflict Institute, Target of Blame*
+→ *Siehe auch: High Conflict Institute, Sündenbock*
 
 **High Conflict Institute (HCI)**
 2008 von Bill Eddy und Megan Hunter in San Diego gegründetes Forschungs- und Trainingsinstitut. Spezialisiert auf hochstrittige Situationen in rechtlichen und familiären Kontexten. Entwickler des BIFF-Prinzips, der EAR-Methode, des WEB-Modells und des Programms *New Ways for Families*.
@@ -8214,7 +8214,7 @@ Die Situation eines Kindes, das das Gefühl hat, zwischen zwei Elternteilen wäh
 
 ## M
 
-**Moving the Goalposts (Zielpfosten verschieben)**
+**Moving the Goalposts (Ziele verschieben)**
 Muster, bei dem Forderungen geändert werden, sobald die ursprüngliche Forderung erfüllt wurde – ohne Anerkennung, dass die erste erfüllt wurde. Kennzeichen dafür, dass der Konflikt nicht gelöst, sondern aufrechterhalten werden will. Gegenstrategie: Vereinbarungen schriftlich fixieren und festhalten.
 → *Siehe auch: Whataboutism, JADE-Falle*
 
@@ -8246,7 +8246,7 @@ Eine intensive Verletzung des Selbstwertgefühls, ausgelöst durch (reale oder w
 Eine Persönlichkeitsstörung, gekennzeichnet durch Grandiosität, mangelnde Empathie, Überzeugung von der eigenen Einzigartigkeit und starkes Bedürfnis nach Bewunderung. Darunter liegt oft eine fragile Selbstachtung, die heftig auf Kränkungen reagiert. Trennung und Scheidung werden häufig als narzisstische Kränkung erlebt – mit entsprechend intensiven Reaktionen.
 → *Siehe auch: Empathiemangel, Grandiositätsgefühl, Kognitive Starrheit*
 
-**Negative Advocates**
+**Negative Advocates (negative Unterstützer)**
 Ein Begriff des High Conflict Institute für Personen im Umfeld eines HCP, die dessen Sichtweise bestätigen und verstärken – Freunde, Familienmitglieder, manchmal Anwälte. Sie meinen es oft gut, verschlimmern die Situation aber, indem sie Eskalation befeuern und die Realitätswahrnehmung des HCP nicht korrigieren.
 → *Siehe auch: HCP, High Conflict Institute*
 
@@ -8336,7 +8336,7 @@ Ein psychischer Abwehrmechanismus, bei dem Menschen und Situationen in absolut g
 
 ## T
 
-**Target of Blame (ToB)**
+**Target of Blame (Sündenbock, ToB)**
 Ein Begriff des High Conflict Institute für die Person, die von einer HCP-Persönlichkeit als Hauptverantwortlicher für alle Probleme identifiziert und dauerhaft beschuldigt wird. Im Trennungskontext: häufig der andere Elternteil. Die Funktion ist psychologisch: Ein äußerer Feind stabilisiert das Innenleben einer HCP-Persönlichkeit.
 → *Siehe auch: HCP, High Conflict Institute*
 
@@ -8370,7 +8370,7 @@ Intensive Angst davor, verlassen, alleingelassen oder zurückgewiesen zu werden.
 
 **Whataboutism**
 Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar ähnliches Verhalten des Gegenübers entgegengestellt wird. Ziel: das ursprüngliche Thema zu begraben und eine moralische Gleichwertigkeitsdiskussion zu erzwingen. Gegenstrategie: beim eigenen Thema bleiben, das Gegenthema separat anbieten.
-→ *Siehe auch: Moving the Goalposts, DARVO, Falsche Gleichsetzung*
+→ *Siehe auch: Ziele verschieben, DARVO, Falsche Gleichsetzung*
 
 **Weaponizing the Legal System (Systemischer Rechtsmissbrauch)**
 Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgeldern nicht als Mittel der Rechtsdurchsetzung, sondern als Zermürbungsstrategie. Das Ziel ist nicht das Recht selbst – sondern der Prozess: Zeit, Geld und emotionale Erschöpfung, die jeder Antrag und jede Anhörung kostet. Gegenstrategie: alle Verfahren chronologisch dokumentieren, sachlich und kurz antworten, das Muster gegenüber Gericht und Anwalt benennen.
