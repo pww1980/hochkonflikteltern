@@ -8632,6 +8632,81 @@ Children in poverty: Resilience despite risk.
 
 ---
 
+### Entwicklungsphasen
+
+**Piaget, J. & Inhelder, B. (1969).**
+*The Psychology of the Child.*
+New York: Basic Books.
+
+> Kognitive Entwicklungsphasen (präoperationale Phase, konkrete Operationen); Egozentrismus und magisches Denken als entwicklungsbedingte Merkmale des Vorschulalters.
+
+**Erikson, E. H. (1968).**
+*Identity: Youth and Crisis.*
+New York: W. W. Norton.
+
+> Psychosoziale Entwicklungsphasen; Kernaufgabe der Adoleszenz: Identität vs. Rollendiffusion.
+
+**Ainsworth, M. D. S., Blehar, M. C., Waters, E. & Wall, S. (1978).**
+*Patterns of Attachment: A Psychological Study of the Strange Situation.*
+Hillsdale, NJ: Erlbaum.
+
+> Klassifikation von Bindungsmustern (sicher, unsicher-vermeidend, unsicher-ambivalent); Grundlagenwerk der empirischen Bindungsforschung.
+
+**Tronick, E. Z. (1989).**
+Emotions and emotional communication in infants.
+*American Psychologist, 44*(2), 112–119.
+
+> Still-Face-Experiment; emotionale Kommunikation zwischen Säugling und Bezugsperson; Co-Regulation als biologisch verankerter Prozess.
+
+**Tottenham, N. (2012).**
+Human amygdala development in the absence of species-expected caregiving.
+*Developmental Psychobiology, 54*(6), 598–611.
+
+> Cortisol-Reaktivität bei Säuglingen in Abhängigkeit von Bezugspersonenstabilität; Amygdala-Entwicklung unter früher Stressbelastung.
+
+---
+
+### Langzeitfolgen
+
+**Amato, P. R. & Booth, A. (1997).**
+*A Generation at Risk: Growing Up in an Era of Family Upheaval.*
+Cambridge, MA: Harvard University Press.
+
+> Langzeitfolgen von Scheidung und elterlichem Konflikt; intergenerationale Transmission von Konfliktmustern und Partnerwahl.
+
+**Amato, P. R. & DeBoer, D. D. (2001).**
+The transmission of marital instability across generations: Relationship skills or commitment to marriage?
+*Journal of Marriage and Family, 63*(4), 1038–1051.
+
+> Erhöhte eigene Scheidungsrate bei Kindern aus Scheidungsfamilien; Mechanismen: Einstellungsübertragung und Kompetenzdefizite in Konfliktlösung.
+
+**Main, M. & Hesse, E. (1990).**
+Parents' unresolved traumatic experiences are related to infant disorganized attachment status.
+In M. T. Greenberg, D. Cicchetti & E. M. Cummings (Hrsg.), *Attachment in the Preschool Years* (S. 161–182).
+Chicago: University of Chicago Press.
+
+> Adult Attachment Interview (AAI); Zusammenhang zwischen unverarbeiteten Kindheitserfahrungen der Eltern und desorganisierter Bindung beim Kind.
+
+**Main, M., Kaplan, N. & Cassidy, J. (1985).**
+Security in infancy, childhood, and adulthood: A move to the level of representation.
+*Monographs of the Society for Research in Child Development, 50*(1–2), 66–104.
+
+> Einführung der vier Erwachsenen-Bindungsmuster (sicher-autonom, unsicher-distanziert, unsicher-verstrickt, desorganisiert); Grundlagenwerk zur Bindung im Erwachsenenalter.
+
+**Siegel, D. J. & Hartzell, M. (2003).**
+*Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive.*
+New York: Tarcher/Penguin.
+
+> Narrative Kohärenz als stärkster Prädiktor für sichere Bindungsweitergabe; Konzept der „earned security" (erworbenen Sicherheit).
+
+**Siegel, D. J. (1999).**
+*The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.*
+New York: Guilford Press.
+
+> Neurobiologische Grundlagen der Bindung; Integration von Lebenserfahrungen und deren Bedeutung für psychische Gesundheit und Elternschaft.
+
+---
+
 ## Kapitel 3: Die Konfliktmuster erkennen
 
 ### Realitätsverzerrende Muster
@@ -8713,83 +8788,6 @@ Scottsdale: HCI Press.
 Scottsdale: HCI Press.
 
 > Praxishandbuch zur schriftlichen Kommunikation in hochstrittigen Situationen; Anwendung auf Anträge, Schriftsätze und Flooding-Situationen.
-
----
-
-## Kapitel 2: Die Auswirkungen auf Kinder
-
-### Entwicklungsphasen
-
-**Piaget, J. & Inhelder, B. (1969).**
-*The Psychology of the Child.*
-New York: Basic Books.
-
-> Kognitive Entwicklungsphasen (präoperationale Phase, konkrete Operationen); Egozentrismus und magisches Denken als entwicklungsbedingte Merkmale des Vorschulalters.
-
-**Erikson, E. H. (1968).**
-*Identity: Youth and Crisis.*
-New York: W. W. Norton.
-
-> Psychosoziale Entwicklungsphasen; Kernaufgabe der Adoleszenz: Identität vs. Rollendiffusion.
-
-**Ainsworth, M. D. S., Blehar, M. C., Waters, E. & Wall, S. (1978).**
-*Patterns of Attachment: A Psychological Study of the Strange Situation.*
-Hillsdale, NJ: Erlbaum.
-
-> Klassifikation von Bindungsmustern (sicher, unsicher-vermeidend, unsicher-ambivalent); Grundlagenwerk der empirischen Bindungsforschung.
-
-**Tronick, E. Z. (1989).**
-Emotions and emotional communication in infants.
-*American Psychologist, 44*(2), 112–119.
-
-> Still-Face-Experiment; emotionale Kommunikation zwischen Säugling und Bezugsperson; Co-Regulation als biologisch verankerter Prozess.
-
-**Tottenham, N. (2012).**
-Human amygdala development in the absence of species-expected caregiving.
-*Developmental Psychobiology, 54*(6), 598–611.
-
-> Cortisol-Reaktivität bei Säuglingen in Abhängigkeit von Bezugspersonenstabilität; Amygdala-Entwicklung unter früher Stressbelastung.
-
----
-
-### Langzeitfolgen
-
-**Amato, P. R. & Booth, A. (1997).**
-*A Generation at Risk: Growing Up in an Era of Family Upheaval.*
-Cambridge, MA: Harvard University Press.
-
-> Langzeitfolgen von Scheidung und elterlichem Konflikt; intergenerationale Transmission von Konfliktmustern und Partnerwahl.
-
-**Amato, P. R. & DeBoer, D. D. (2001).**
-The transmission of marital instability across generations: Relationship skills or commitment to marriage?
-*Journal of Marriage and Family, 63*(4), 1038–1051.
-
-> Erhöhte eigene Scheidungsrate bei Kindern aus Scheidungsfamilien; Mechanismen: Einstellungsübertragung und Kompetenzdefizite in Konfliktlösung.
-
-**Main, M. & Hesse, E. (1990).**
-Parents' unresolved traumatic experiences are related to infant disorganized attachment status.
-In M. T. Greenberg, D. Cicchetti & E. M. Cummings (Hrsg.), *Attachment in the Preschool Years* (S. 161–182).
-Chicago: University of Chicago Press.
-
-> Adult Attachment Interview (AAI); Zusammenhang zwischen unverarbeiteten Kindheitserfahrungen der Eltern und desorganisierter Bindung beim Kind.
-
-**Main, M., Kaplan, N. & Cassidy, J. (1985).**
-Security in infancy, childhood, and adulthood: A move to the level of representation.
-*Monographs of the Society for Research in Child Development, 50*(1–2), 66–104.
-
-> Einführung der vier Erwachsenen-Bindungsmuster (sicher-autonom, unsicher-distanziert, unsicher-verstrickt, desorganisiert); Grundlagenwerk zur Bindung im Erwachsenenalter.
-
-**Siegel, D. J. & Hartzell, M. (2003).**
-*Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive.*
-New York: Tarcher/Penguin.
-
-> Narrative Kohärenz als stärkster Prädiktor für sichere Bindungsweitergabe; Konzept der „earned security" (erworbenen Sicherheit).
-
-**Siegel, D. J. (1999).**
-*The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.*
-New York: Guilford Press.
-
-> Neurobiologische Grundlagen der Bindung; Integration von Lebenserfahrungen und deren Bedeutung für psychische Gesundheit und Elternschaft.
 
 ---
 
