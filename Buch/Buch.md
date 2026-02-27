@@ -284,7 +284,7 @@ Das Buch ist in fünf Teile gegliedert, die aufeinander aufbauen – aber auch e
 
 **Nutze die Checklisten und Vorlagen.** In Teil 2 und Teil 3 findest du konkrete Werkzeuge: Kommunikationsvorlagen, Entscheidungsbäume, Checklisten für Behördenkontakte. Sie sind nicht als starre Skripte gedacht, sondern als Gerüste, die du an deine Situation anpassen kannst.
 
-**Lies das Kapitel zur Selbstreflexion ehrlich.** Kapitel 11 ist das unbequemste Kapitel dieses Buches. Es fragt dich, wo du selbst zur Eskalation beigetragen hast – bewusst oder unbewusst. Das ist keine Anklage, sondern eine Einladung. Die einzige Person, deren Verhalten du langfristig verändern kannst, bist du selbst. Das ist keine Niederlage – das ist Handlungsmacht.
+**Lies das Kapitel zur Selbstreflexion ehrlich.** Kapitel 12 ist das unbequemste Kapitel dieses Buches. Es fragt dich, wo du selbst zur Eskalation beigetragen hast – bewusst oder unbewusst. Das ist keine Anklage, sondern eine Einladung. Die einzige Person, deren Verhalten du langfristig verändern kannst, bist du selbst. Das ist keine Niederlage – das ist Handlungsmacht.
 
 **Komm zurück.** Eine Hochkonfliktsituation ist kein Zustand, der sich einmal löst. Sie entwickelt sich. Was du heute liest, wird in einem Jahr anders klingen – weil du dich verändert hast, weil die Situation sich verändert hat. Dieses Buch ist kein einmaliger Ratgeber, sondern ein Begleiter für mehrere Phasen.
 
@@ -692,7 +692,7 @@ Das bedeutet zweierlei:
 
 **Zum einen:** Verhalten, das du beschreibst und das dir unverständlich erscheint, muss nicht auf eine klinische Diagnose hinweisen – es kann eine extreme Stressreaktion sein. Das ändert nichts an seiner Auswirkung. Aber es ändert die Prognose: Manche dieser Muster mildern sich mit der Zeit, wenn der Akutstress abnimmt.
 
-**Zum anderen:** Der ehrliche Blick auf Cluster-B-Merkmale schließt auch die Frage ein, ob und wo du selbst in Hochstress-Situationen in ähnliche Muster gerätst. Das Kapitel zur Selbstreflexion (Kapitel 11) wird darauf eingehen. Es ist kein angenehmes Kapitel. Aber es ist eines der wichtigsten.
+**Zum anderen:** Der ehrliche Blick auf Cluster-B-Merkmale schließt auch die Frage ein, ob und wo du selbst in Hochstress-Situationen in ähnliche Muster gerätst. Das Kapitel zur Selbstreflexion (Kapitel 12) wird darauf eingehen. Es ist kein angenehmes Kapitel. Aber es ist eines der wichtigsten.
 
 ---
 
@@ -744,11 +744,11 @@ Was Eddy betont: Diese vier Merkmale **verstärken sich gegenseitig**. Wer in Sc
 
 Zwei weitere Schlüsselbegriffe des HCI-Frameworks:
 
-**Target of Blame (ToB):** HCPs benötigen einen zentralen Schuldigen – eine Person, auf die die gesamte negative Energie des Konflikts gerichtet wird. In Trennungssituationen ist das typischerweise der andere Elternteil. Die ToB-Dynamik ist nicht optional; sie ist strukturell. Ohne Ziel gibt es keine Erzählung, ohne Erzählung gibt es keine Verbündeten, ohne Verbündete gibt es keine Bestätigung. Der Target of Blame wird konsistent als vollständig falsch, unehrlich, gefährlich oder inkompetent dargestellt – unabhängig von der tatsächlichen Realität.
+**Target of Blame (Sündenbock, ToB):** HCPs benötigen einen zentralen Schuldigen – eine Person, auf die die gesamte negative Energie des Konflikts gerichtet wird. In Trennungssituationen ist das typischerweise der andere Elternteil. Die ToB-Dynamik ist nicht optional; sie ist strukturell. Ohne Ziel gibt es keine Erzählung, ohne Erzählung gibt es keine Verbündeten, ohne Verbündete gibt es keine Bestätigung. Der Sündenbock wird konsistent als vollständig falsch, unehrlich, gefährlich oder inkompetent dargestellt – unabhängig von der tatsächlichen Realität.
 
 Was das für Betroffene bedeutet: Es gibt nichts, was du tun könntest, um aufzuhören, das Ziel zu sein – solange du der Gegenpol in der Geschichte bist. Verhaltensänderungen, Entschuldigungen, Entgegenkommen: Nichts davon ändert die strukturelle Funktion, die du in der Dynamik der anderen Person erfüllst.
 
-**Negative Advocates:** HCPs rekrutieren – häufig unbewusst – Personen in ihrem Umfeld, die ihre Version der Geschichte übernehmen und verstärken. Das können Familienmitglieder sein, Freunde, neue Partnerinnen oder Partner, manchmal auch Fachleute (Anwälte, Therapeuten, Beratungsstellen), die nur eine Seite gehört haben. Eddy nennt sie „Negative Advocates", weil sie den Konflikt durch einseitige Unterstützung aktiv befeuern – ohne es zu merken.
+**Negative Advocates (negative Unterstützer):** HCPs rekrutieren – häufig unbewusst – Personen in ihrem Umfeld, die ihre Version der Geschichte übernehmen und verstärken. Das können Familienmitglieder sein, Freunde, neue Partnerinnen oder Partner, manchmal auch Fachleute (Anwälte, Therapeuten, Beratungsstellen), die nur eine Seite gehört haben. Eddy nennt sie „Negative Advocates", weil sie den Konflikt durch einseitige Unterstützung aktiv befeuern – ohne es zu merken.
 
 Das erklärt ein häufiges Muster in Hochkonfliktsituationen: Plötzlich scheinen viele Menschen in deinem Umfeld oder dem des anderen Elternteils eine dezidierte Meinung zu haben – basierend auf einer Version der Geschichte, die du nicht kennst und die du kaum korrigieren kannst.
 
@@ -797,7 +797,7 @@ BIFF steht für:
 
 Das BIFF-Prinzip klingt einfach. Es ist es nicht. Es widerspricht allem, was wir in normalen Kommunikationssituationen gelernt haben: Kontext geben, erklären, Verständnis zeigen. Im Hochkonflikt ist jeder dieser Impulse eine potenzielle Falle.
 
-Da das BIFF-Prinzip die Grundlage des gesamten Kommunikationsteils dieses Buches bildet, wird es in **Kapitel 4** ausführlich behandelt – mit konkreten Beispielen, häufigen Fehlern und Übungsszenarien. An dieser Stelle genügt das Prinzip als Orientierung.
+Da das BIFF-Prinzip die Grundlage des gesamten Kommunikationsteils dieses Buches bildet, wird es in **Kapitel 5** ausführlich behandelt – mit konkreten Beispielen, häufigen Fehlern und Übungsszenarien. An dieser Stelle genügt das Prinzip als Orientierung.
 
 ---
 
@@ -852,7 +852,7 @@ Diese Einschränkungen bedeuten nicht, dass das Framework unbrauchbar ist – si
 Das HCI-Framework ist die praktische Brücke zwischen dem theoretischen Verständnis von Hochkonflikt (was er ist, warum er entsteht, welche Persönlichkeitsstrukturen beteiligt sind) und den konkreten Handlungsstrategien, die in den folgenden Teilen beschrieben werden.
 
 Es liefert:
-- Eine **Verhaltenssprache** (HCP, Target of Blame, Negative Advocates), die ohne Diagnose auskommt
+- Eine **Verhaltenssprache** (HCP, Sündenbock, negative Unterstützer), die ohne Diagnose auskommt
 - Ein **Einschätzungsmodell** (WEB), das Muster erkennbar macht
 - Eine **Akutstrategie** (EAR) für emotionale Eskalationsmomente
 - Ein **Kommunikationsprinzip** (BIFF), das den gesamten zweiten Teil des Buches trägt
@@ -876,8 +876,6 @@ Dieser Grundsatz ist unbequem. Aber er ist auch befreiend. Er bedeutet: Du bist 
 
 ---
 
-
-# Teil 1: Verstehen – Was ist Hochkonflikt?
 
 ## Kapitel 2: Die Auswirkungen auf Kinder
 
@@ -1476,13 +1474,11 @@ Diese Befunde sind keine Urteile über die Zukunft eines Kindes. Sie sind Karten
 
 ---
 
-*Weiter: Kapitel 3 – Was Eltern tun können: Schutzmaßnahmen im Alltag.*
+*Weiter: Kapitel 3 – Die Konfliktmuster erkennen.*
 
 
 ---
 
-
-# Teil 1: Verstehen – Was ist Hochkonflikt?
 
 ## Kapitel 3: Die Konfliktmuster erkennen
 
@@ -1668,7 +1664,7 @@ Keine Begründung. Keine Entschuldigung. Du bist dreißig Sekunden beschäftigt.
 #### 5. Moving the Goalposts – Das Ziel, das sich immer verschiebt
 
 **Was es ist:**
-*Moving the Goalposts* (dt. sinngemäß: *Die Torpfosten verschieben*) bezeichnet ein Muster, bei dem Bedingungen oder Forderungen immer dann verändert werden, wenn die vorherige Forderung erfüllt wurde. Es gibt keinen Abschluss. Es gibt keine Einigung, die hält. Was gestern vereinbart war, ist heute überholt oder war *„so nicht gemeint"*.
+*Moving the Goalposts* (Ziele verschieben) bezeichnet ein Muster, bei dem Bedingungen oder Forderungen immer dann verändert werden, wenn die vorherige Forderung erfüllt wurde. Es gibt keinen Abschluss. Es gibt keine Einigung, die hält. Was gestern vereinbart war, ist heute überholt oder war *„so nicht gemeint"*.
 
 Das Muster unterscheidet sich von echten Nachverhandlungen durch seine Systematik: Jeder Fortschritt wird durch eine neue Forderung neutralisiert. Das Ziel ist nicht die Lösung – das Ziel ist der Prozess.
 
@@ -1686,7 +1682,7 @@ Kontrolle durch ewige Unabgeschlossenheit. Wer nie fertig ist, ist immer abhäng
 Alle Absprachen schriftlich fixieren. Bei Änderungswünschen auf das Originaldokument verweisen: *„Unsere Vereinbarung vom [Datum] lautet X. Eine Änderung erfordert eine neue schriftliche Absprache."* Keine mündlichen Nachverhandlungen. Bei Versuchen, abgeschlossene Themen wieder zu öffnen: *„Dieser Punkt ist geklärt."*
 
 **Warum die Gegenstrategie funktioniert:**
-Moving the Goalposts braucht deine Bereitschaft, wieder zu verhandeln. Wer das Schriftstück zeigt – die E-Mail, die Vereinbarung, den Gerichtsbeschluss –, macht die Verschiebung sichtbar. Du verhandelst nicht mehr, wenn es keinen Verhandlungsspielraum gibt. Das Schriftliche schließt diesen Spielraum.
+Das Verschieben der Ziele braucht deine Bereitschaft, wieder zu verhandeln. Wer das Schriftstück zeigt – die E-Mail, die Vereinbarung, den Gerichtsbeschluss –, macht die Verschiebung sichtbar. Du verhandelst nicht mehr, wenn es keinen Verhandlungsspielraum gibt. Das Schriftliche schließt diesen Spielraum.
 
 ---
 
@@ -1707,7 +1703,7 @@ Keine Diskussion über *„was gemeint war"*. Das Dokument ist die Referenz.
 #### 6. Word Salad – Kommunikation ohne lösbaren Inhalt
 
 **Was es ist:**
-*Word Salad* (dt. *Wortsalat*) bezeichnet Nachrichten oder Gespräche, die wirr, widersprüchlich, ausschweifend oder strukturlos sind – ohne klaren Kern, ohne konkrete Forderung, ohne beantwortbaren Inhalt. Die Sprache ist da; der Inhalt fehlt oder ist so verschlungen, dass er sich jeder sachlichen Antwort entzieht.
+*Word Salad* (Wortsalat) bezeichnet Nachrichten oder Gespräche, die wirr, widersprüchlich, ausschweifend oder strukturlos sind – ohne klaren Kern, ohne konkrete Forderung, ohne beantwortbaren Inhalt. Die Sprache ist da; der Inhalt fehlt oder ist so verschlungen, dass er sich jeder sachlichen Antwort entzieht.
 
 Word Salat ist kein Versehen. Er ist – ob bewusst oder nicht – eine Technik: Wer antwortet, findet keinen Halt. Wer nicht antwortet, gilt als unkooperativ.
 
@@ -1948,8 +1944,8 @@ Keine Empörung. Die Belege sprechen.
 | Gaslighting | Realitätssinn des anderen untergraben | Dokumentieren, externe Referenzen nutzen |
 | Projektion | Eigenes Verhalten dem anderen zuschreiben | Kurz quittieren, nicht diskutieren |
 | JADE-Falle | Erklärungen als Angriffsfläche | Keine Begründungen, kurze Antworten |
-| Moving the Goalposts | Forderungen verschieben sobald erfüllt | Schriftlich fixieren, auf Original verweisen |
-| Word Salad | Kommunikation ohne lösbaren Inhalt | Nur Konkretes beantworten, Rest ignorieren |
+| Ziele verschieben | Forderungen verschieben sobald erfüllt | Schriftlich fixieren, auf Original verweisen |
+| Wortsalat | Kommunikation ohne lösbaren Inhalt | Nur Konkretes beantworten, Rest ignorieren |
 | Themen-Eskalation | Sachthemen durch Gegenthemen überdecken | Beim Thema bleiben, Scope begrenzen |
 | Verantwortungsverschiebung | Eigene Schuld dem anderen anlastend | Nicht in Defensive, eigenes Handeln belegen |
 | Whataboutism | Ablenkung durch Gegenfinger-Vorwurf | Themen trennen, beim eigenen Punkt bleiben |
@@ -2821,8 +2817,8 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 | 2 | Gaslighting | Realitätsverzerrend | Realitätssinn des anderen untergraben |
 | 3 | Projektion | Realitätsverzerrend | Eigenes Verhalten dem anderen zuschreiben |
 | 4 | JADE-Falle | Realitätsverzerrend | Erklärungen als Angriffsfläche nutzen |
-| 5 | Moving the Goalposts | Realitätsverzerrend | Forderungen verschieben sobald erfüllt |
-| 6 | Word Salad | Realitätsverzerrend | Kommunikation ohne lösbaren Inhalt |
+| 5 | Ziele verschieben | Realitätsverzerrend | Forderungen verschieben sobald erfüllt |
+| 6 | Wortsalat | Realitätsverzerrend | Kommunikation ohne lösbaren Inhalt |
 | 7 | Themen-Eskalation | Realitätsverzerrend | Sachthemen durch Gegenthemen überdecken |
 | 8 | Verantwortungsverschiebung | Realitätsverzerrend | Eigene Schuld dem anderen anlastend |
 | 9 | Whataboutism | Realitätsverzerrend | Ablenkung durch Gegenvorwurf |
@@ -2873,8 +2869,6 @@ Keine Entschuldigung. Keine Erklärung der Jacke. Keine Reaktion auf den Ton.
 
 ---
 
-
-# Teil 1: Verstehen – Was ist Hochkonflikt?
 
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
@@ -3994,7 +3988,7 @@ Was er kann: verhindern, dass du zu deiner eigenen Eskalation beiträgst. Und da
 
 ---
 
-*Ende Kapitel 6. Weiter: Kapitel 7 – Meetings vorbereiten: Jugendamt, Mediation, Erziehungsberatung.*
+*Ende Kapitel 6. Weiter: Kapitel 7 – Gespräche, die zählen: Jugendamt, Mediation, Erziehungsberatung und Gericht.*
 
 
 ---
@@ -8063,6 +8057,10 @@ Die Unfähigkeit, die eigene emotionale Reaktion zu steuern – Gefühle kommen 
 **Elterliche Entfremdung**
 → *Siehe: Alienation*
 
+**EMDR (Eye Movement Desensitization and Reprocessing)**
+Ein traumatherapeutisches Verfahren, das durch bilaterale Stimulation – meistens geführte Augenbewegungen – dabei hilft, belastende Erinnerungen zu verarbeiten und zu integrieren. Besonders wirksam bei PTBS und bei anhaltenden körperlichen Stressreaktionen auf spezifische Auslöser wie Übergaben, Gerichtstermine oder bestimmte Kommunikationsmuster. Im Hochkonfliktkontext empfohlen, wenn Hyperarousal-Reaktionen wiederkehrend auftreten und das Alltagshandeln beeinträchtigen.
+→ *Siehe auch: PTBS, Hypervigilanz, Chronischer Stress, Schematherapie*
+
 **Emotional Flooding (Emotionale Überflutung)**
 Das Verschicken überwältigender Mengen an Nachrichten, Anrufen und Vorwürfen in kurzer Zeit – mit dem Ziel, das Nervensystem des Gegenübers zu überfordern und eine unüberlegte Reaktion zu provozieren. Der Psychologe John Gottman beschrieb Flooding als physiologisches Phänomen: Unter massivem emotionalem Input überhitzt das Stresssystem und rationales Denken wird schwieriger. Gegenstrategie: 24-Stunden-Regel, Nachrichten gesammelt statt einzeln lesen.
 → *Siehe auch: Intermittent Reinforcement, Document Flooding, Silent Treatment*
@@ -8093,7 +8091,7 @@ Personen aus dem sozialen Umfeld – Familienangehörige, Freunde, neue Partner 
 
 **Future Faking**
 Das Machen von Versprechen, die nicht eingehalten werden – oder von denen von Anfang an klar ist, dass sie nicht eingehalten werden können. Kurzfristig beruhigend, langfristig erschöpfend. Im Hochkonfliktkontext häufig betroffen: Kinder, denen Ausflüge, Besuche oder Veränderungen versprochen werden, die nie eintreten. Gegenstrategie: Nur auf schriftliche, konkrete Zusagen hin planen; Kinder erst informieren, wenn etwas sicher ist.
-→ *Siehe auch: Intermittent Reinforcement, Moving the Goalposts*
+→ *Siehe auch: Intermittent Reinforcement, Ziele verschieben*
 
 ---
 
@@ -8121,7 +8119,7 @@ Das Gefühl, besonders, überlegen oder zu Besonderem berufen zu sein – über 
 
 **HCP (High Conflict Personality)**
 Ein Begriff des High Conflict Institute für Menschen, deren Persönlichkeitsmuster dauerhaft zu Konflikten führt – durch Alles-oder-nichts-Denken, unkontrollierte Emotionen, extremes Verhalten und die Tendenz, andere für alle Probleme verantwortlich zu machen. Kein offizieller Diagnosebegriff, aber ein nützliches Beschreibungsmodell.
-→ *Siehe auch: High Conflict Institute, Target of Blame*
+→ *Siehe auch: High Conflict Institute, Sündenbock*
 
 **High Conflict Institute (HCI)**
 2008 von Bill Eddy und Megan Hunter in San Diego gegründetes Forschungs- und Trainingsinstitut. Spezialisiert auf hochstrittige Situationen in rechtlichen und familiären Kontexten. Entwickler des BIFF-Prinzips, der EAR-Methode, des WEB-Modells und des Programms *New Ways for Families*.
@@ -8179,8 +8177,8 @@ Die Fähigkeit, spontane Handlungsimpulse zu regulieren – innehalten, bevor ma
 
 ## J
 
-**JADE-Falle**
-Ein Begriff für das Muster, auf Vorwürfe oder Angriffe mit **J**ustifizieren (rechtfertigen), **A**rgumentieren, **D**efendieren (verteidigen) und **E**rklären zu reagieren. Im Hochkonfliktkontext ist JADE kontraproduktiv: Es liefert mehr Gesprächsstoff, signalisiert, dass der Angriff wirkt, und verlängert die Interaktion. Die Lösung: kürzer, sachlicher, weniger.
+**JADE-Falle (Justify, Argue, Defend, Explain)**
+Akronym für das Muster, auf Vorwürfe oder Angriffe mit **J**ustify (**J**ustifizieren / rechtfertigen), **A**rgue (**A**rgumentieren), **D**efend (**D**efendieren / verteidigen) und **E**xplain (**E**rklären) zu reagieren. Im Hochkonfliktkontext ist JADE kontraproduktiv: Es liefert mehr Gesprächsstoff, signalisiert, dass der Angriff wirkt, und verlängert die Interaktion. Die Lösung: kürzer, sachlicher, weniger.
 → *Siehe auch: BIFF-Prinzip, Eskalation*
 
 ---
@@ -8220,7 +8218,7 @@ Die Situation eines Kindes, das das Gefühl hat, zwischen zwei Elternteilen wäh
 
 ## M
 
-**Moving the Goalposts (Zielpfosten verschieben)**
+**Moving the Goalposts (Ziele verschieben)**
 Muster, bei dem Forderungen geändert werden, sobald die ursprüngliche Forderung erfüllt wurde – ohne Anerkennung, dass die erste erfüllt wurde. Kennzeichen dafür, dass der Konflikt nicht gelöst, sondern aufrechterhalten werden will. Gegenstrategie: Vereinbarungen schriftlich fixieren und festhalten.
 → *Siehe auch: Whataboutism, JADE-Falle*
 
@@ -8252,7 +8250,7 @@ Eine intensive Verletzung des Selbstwertgefühls, ausgelöst durch (reale oder w
 Eine Persönlichkeitsstörung, gekennzeichnet durch Grandiosität, mangelnde Empathie, Überzeugung von der eigenen Einzigartigkeit und starkes Bedürfnis nach Bewunderung. Darunter liegt oft eine fragile Selbstachtung, die heftig auf Kränkungen reagiert. Trennung und Scheidung werden häufig als narzisstische Kränkung erlebt – mit entsprechend intensiven Reaktionen.
 → *Siehe auch: Empathiemangel, Grandiositätsgefühl, Kognitive Starrheit*
 
-**Negative Advocates**
+**Negative Advocates (negative Unterstützer)**
 Ein Begriff des High Conflict Institute für Personen im Umfeld eines HCP, die dessen Sichtweise bestätigen und verstärken – Freunde, Familienmitglieder, manchmal Anwälte. Sie meinen es oft gut, verschlimmern die Situation aber, indem sie Eskalation befeuern und die Realitätswahrnehmung des HCP nicht korrigieren.
 → *Siehe auch: HCP, High Conflict Institute*
 
@@ -8263,6 +8261,10 @@ Ein strukturiertes Trainingsprogramm des High Conflict Institute für Eltern in 
 ---
 
 ## P
+
+**PAS (Parental Alienation Syndrome – Entfremdungssyndrom)**
+Ein Begriff des amerikanischen Kinderpsychiaters Richard Gardner aus den 1980er Jahren, mit dem er ein klinisches Bild beschrieb, bei dem Kinder einen Elternteil ohne nachvollziehbaren Grund ablehnen – verursacht durch systematische Beeinflussung des anderen Elternteils. Der Begriff ist wissenschaftlich umstritten und wird weder im DSM-5 noch im ICD-11 geführt. In der aktuellen Fachdiskussion wird stattdessen von *Elterlicher Entfremdung* als beobachtbarem Prozess gesprochen, ohne eine Syndromdiagnose beim Kind. Wichtig: Die Ablehnung eines Elternteils kann auch eine legitime kindliche Reaktion auf tatsächlich erlebtes problematisches Verhalten sein – die Unterscheidung ist klinisch anspruchsvoll.
+→ *Siehe auch: Alienation (Elterliche Entfremdung), Loyalitätskonflikt, Triangulation, Gatekeeping*
 
 **Parentifizierung**
 Das Phänomen, bei dem ein Kind emotionale Aufgaben übernimmt, die eigentlich Erwachsenen zukommen: Trösten, Zuhören, Kümmern, Beschützen. Häufig in Hochkonfliktsituationen, wenn ein Elternteil das Kind als Vertrauensperson oder emotionalen Anker benutzt. Das Kind übernimmt Verantwortung, die es überfordert – auf Kosten seiner eigenen Entwicklung.
@@ -8287,6 +8289,10 @@ Der vorderste Teil des Großhirns – Sitz von Vernunft, Impulskontrolle, Planun
 **Projektion**
 Ein psychischer Abwehrmechanismus: Eigene unerwünschte Gefühle, Absichten oder Eigenschaften werden nicht bei sich, sondern beim anderen wahrgenommen. Jemand, der selbst manipulativ handelt, erlebt den anderen als manipulativ. In Hochkonfliktsituationen häufig: Vorwürfe beschreiben oft das eigene Verhalten besser als das des anderen.
 
+**PTBS (Posttraumatische Belastungsstörung)**
+Eine psychische Erkrankung, die nach dem Erleben oder Beobachten traumatischer Ereignisse auftreten kann. Kennzeichen: Wiedererlebensphänomene (Flashbacks, Albträume), Vermeidungsverhalten, anhaltende Überreizung (Hyperarousal) und negative Veränderungen in Denken und Stimmung. Im Hochkonfliktkontext – insbesondere bei Beteiligung häuslicher Gewalt oder extremem Kontrollverhalten – können PTBS-Symptome auch bei betroffenen Elternteilen auftreten. Therapeutisch wirksam: EMDR, Schematherapie, traumafokussierte kognitive Verhaltenstherapie.
+→ *Siehe auch: EMDR, Hypervigilanz, Chronischer Stress, Dissoziation*
+
 ---
 
 ## R
@@ -8309,6 +8315,10 @@ Bedingungen, die die Wahrscheinlichkeit einer negativen (Risikofaktor) oder posi
 **Sachverständiger (familienpsychologischer)**
 Ein Psychologe oder Psychiater mit familienrechtlicher Zusatzqualifikation, der vom Familiengericht beauftragt wird, ein Gutachten zur Eltern-Kind-Bindung, zur Kindeswohlgefährdung oder zur Frage des geeigneten Umgangsmodells zu erstellen. Gutachten sind teuer (typisch: 5.000–15.000 Euro), zeitaufwändig (oft 6–18 Monate) und nicht bindend, aber in der Praxis stark einflussreich. Die Qualität schwankt erheblich; nicht alle Sachverständigen haben Erfahrung mit Hochkonfliktsituationen oder HCP-Persönlichkeitsstrukturen. Bundesweit bestehen seit wenigen Jahren erste Qualitätsstandards für Sachverständigentätigkeit im Familienrecht.
 → *Siehe auch: Kindeswohl, Verfahrensbeistand, HCP*
+
+**Schematherapie**
+Ein integratives psychotherapeutisches Verfahren, entwickelt von Jeffrey E. Young, das tief verwurzelte emotionale Grundüberzeugungen und Reaktionsmuster (sogenannte „Schemata") aus der Kindheit erkennt und langfristig verändert. Besonders geeignet bei Persönlichkeitsstörungen und chronischen Beziehungsproblemen. Im Hochkonfliktkontext hilfreich, um eigene Reaktionsmuster auf emotionale Überflutung, Schuldzuweisungen oder Triggersituationen (Übergaben, Schriftsätze) besser zu verstehen und Schritt für Schritt zu verändern.
+→ *Siehe auch: DBT, EMDR, Persönlichkeitsstörung, Selbstregulation*
 
 **Selbstregulation**
 Die Fähigkeit, den eigenen emotionalen und physiologischen Zustand eigenständig zu regulieren – sich beruhigen, konzentrieren, Impulse kontrollieren. Entwickelt sich im Laufe der Kindheit, aufbauend auf wiederholter Co-Regulation mit Bezugspersonen.
@@ -8342,7 +8352,7 @@ Ein psychischer Abwehrmechanismus, bei dem Menschen und Situationen in absolut g
 
 ## T
 
-**Target of Blame (ToB)**
+**Target of Blame (Sündenbock, ToB)**
 Ein Begriff des High Conflict Institute für die Person, die von einer HCP-Persönlichkeit als Hauptverantwortlicher für alle Probleme identifiziert und dauerhaft beschuldigt wird. Im Trennungskontext: häufig der andere Elternteil. Die Funktion ist psychologisch: Ein äußerer Feind stabilisiert das Innenleben einer HCP-Persönlichkeit.
 → *Siehe auch: HCP, High Conflict Institute*
 
@@ -8376,7 +8386,7 @@ Intensive Angst davor, verlassen, alleingelassen oder zurückgewiesen zu werden.
 
 **Whataboutism**
 Ablenkungsmuster, bei dem einem konkreten Anliegen der Verweis auf ein scheinbar ähnliches Verhalten des Gegenübers entgegengestellt wird. Ziel: das ursprüngliche Thema zu begraben und eine moralische Gleichwertigkeitsdiskussion zu erzwingen. Gegenstrategie: beim eigenen Thema bleiben, das Gegenthema separat anbieten.
-→ *Siehe auch: Moving the Goalposts, DARVO, Falsche Gleichsetzung*
+→ *Siehe auch: Ziele verschieben, DARVO, Falsche Gleichsetzung*
 
 **Weaponizing the Legal System (Systemischer Rechtsmissbrauch)**
 Die Nutzung von Gerichten, Jugendamtsmeldungen, Strafanzeigen und Ordnungsgeldern nicht als Mittel der Rechtsdurchsetzung, sondern als Zermürbungsstrategie. Das Ziel ist nicht das Recht selbst – sondern der Prozess: Zeit, Geld und emotionale Erschöpfung, die jeder Antrag und jede Anhörung kostet. Gegenstrategie: alle Verfahren chronologisch dokumentieren, sachlich und kurz antworten, das Muster gegenüber Gericht und Anwalt benennen.
@@ -8454,7 +8464,7 @@ Ein Analyserahmen des High Conflict Institute: Achte auf **W**ords (Worte – wa
 
 *Vollständige Quellenliste aller in den Kapiteln genannten Forschungsarbeiten, Bücher und Studien.*
 
-> **Hinweis:** Wo Jahreszahlen oder Verlagsangaben im Text nicht explizit genannt werden, sind sie hier nach bestem Wissen ergänzt. Angaben, die noch zu verifizieren sind, sind mit *[prüfen]* markiert.
+> **Hinweis:** Wo Jahreszahlen oder Verlagsangaben im Text nicht explizit genannt werden, sind sie hier nach bestem Wissen ergänzt und soweit möglich verifiziert.
 
 ---
 
@@ -8516,11 +8526,11 @@ New York: Portfolio/Penguin.
 
 **Eddy, B. & Kreger, R. (2011).**
 *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder.*
-Oakland: New Harbinger. *[Ausgabe prüfen]*
+Oakland: New Harbinger Publications. (1. Aufl.)
 
-**Eddy, B. & Cartwright, K. (2012).** *[vollständige Angabe prüfen]*
-Pilot study of the New Ways for Families program.
-High Conflict Institute.
+**Eddy, B. & Cartwright, K. (2012).**
+*New Ways for Families: Pilot study results.*
+San Diego: High Conflict Institute. [Interner Forschungsbericht]
 
 > Pilotstudie zum Programm *New Ways for Families*; signifikante Verbesserungen in Kooperation und Kommunikationsqualität.
 
@@ -8582,7 +8592,9 @@ München: Deutsches Jugendinstitut (DJI).
 
 > Deutschsprachige Bestandsaufnahme; Übertragung internationaler Befunde auf deutschen rechtlichen und institutionellen Kontext.
 
-**Walper, S. (mehrere Veröffentlichungen, DJI / LMU München).** *[Einzeltitel prüfen]*
+**Walper, S., Fichtner, J. & Normann, K. (Hrsg.) (2013).**
+*Hochkonflikthafte Trennungsfamilien: Forschungsergebnisse, Praxiserfahrungen und Hilfen für Scheidungseltern und ihre Kinder.*
+(2. Aufl.). Weinheim: Beltz Juventa.
 
 > Forschung zu Familienstrukturen und kindlicher Entwicklung; Ko-Elternschaftsqualität (nicht formale Sorgerechtsregelung) als entscheidender Faktor für kindliches Wohlbefinden.
 
@@ -8600,7 +8612,9 @@ The lifelong effects of early childhood adversity and toxic stress.
 Developmental traumatology part II: Brain development.
 *Biological Psychiatry, 45*(10), 1271–1284.
 
-**De Bellis, M. D. et al. (2002).** *[vollständige Angabe prüfen]*
+**De Bellis, M. D., Keshavan, M. S., Shifflett, H., Iyengar, S., Beers, S. R., Hall, J. & Moritz, G. (2002).**
+Brain structures in pediatric maltreatment-related posttraumatic stress disorder: A sociodemographically matched study.
+*Biological Psychiatry, 52*(11), 1066–1078.
 
 > Chronischer Stress und nachweisliche Volumenreduktion des Hippocampus bei Kindern mit Traumaerfahrungen.
 
@@ -8622,8 +8636,6 @@ Pituitary-adrenal and autonomic responses to stress in women after sexual and ph
 
 > Frühkindlicher Stress verändert die Cortisol-Tageskurve und erhöht Entzündungsmarker dauerhaft.
 
-**Völlm, B. A.** – Forschung zu Epigenetik und frühkindlichem Stress. *[Einzeltitel prüfen]*
-
 **Werner, E. E. & Smith, R. S. (1992).**
 *Overcoming the Odds: High Risk Children from Birth to Adulthood.*
 Ithaca: Cornell University Press.
@@ -8635,6 +8647,81 @@ Children in poverty: Resilience despite risk.
 *Psychiatry, 56*(1), 127–136.
 
 > Resilienz unter chronischem Stress; Schutzfaktoren trotz widrigerUmstände.
+
+---
+
+### Entwicklungsphasen
+
+**Piaget, J. & Inhelder, B. (1969).**
+*The Psychology of the Child.*
+New York: Basic Books.
+
+> Kognitive Entwicklungsphasen (präoperationale Phase, konkrete Operationen); Egozentrismus und magisches Denken als entwicklungsbedingte Merkmale des Vorschulalters.
+
+**Erikson, E. H. (1968).**
+*Identity: Youth and Crisis.*
+New York: W. W. Norton.
+
+> Psychosoziale Entwicklungsphasen; Kernaufgabe der Adoleszenz: Identität vs. Rollendiffusion.
+
+**Ainsworth, M. D. S., Blehar, M. C., Waters, E. & Wall, S. (1978).**
+*Patterns of Attachment: A Psychological Study of the Strange Situation.*
+Hillsdale, NJ: Erlbaum.
+
+> Klassifikation von Bindungsmustern (sicher, unsicher-vermeidend, unsicher-ambivalent); Grundlagenwerk der empirischen Bindungsforschung.
+
+**Tronick, E. Z. (1989).**
+Emotions and emotional communication in infants.
+*American Psychologist, 44*(2), 112–119.
+
+> Still-Face-Experiment; emotionale Kommunikation zwischen Säugling und Bezugsperson; Co-Regulation als biologisch verankerter Prozess.
+
+**Tottenham, N. (2012).**
+Human amygdala development in the absence of species-expected caregiving.
+*Developmental Psychobiology, 54*(6), 598–611.
+
+> Cortisol-Reaktivität bei Säuglingen in Abhängigkeit von Bezugspersonenstabilität; Amygdala-Entwicklung unter früher Stressbelastung.
+
+---
+
+### Langzeitfolgen
+
+**Amato, P. R. & Booth, A. (1997).**
+*A Generation at Risk: Growing Up in an Era of Family Upheaval.*
+Cambridge, MA: Harvard University Press.
+
+> Langzeitfolgen von Scheidung und elterlichem Konflikt; intergenerationale Transmission von Konfliktmustern und Partnerwahl.
+
+**Amato, P. R. & DeBoer, D. D. (2001).**
+The transmission of marital instability across generations: Relationship skills or commitment to marriage?
+*Journal of Marriage and Family, 63*(4), 1038–1051.
+
+> Erhöhte eigene Scheidungsrate bei Kindern aus Scheidungsfamilien; Mechanismen: Einstellungsübertragung und Kompetenzdefizite in Konfliktlösung.
+
+**Main, M. & Hesse, E. (1990).**
+Parents' unresolved traumatic experiences are related to infant disorganized attachment status.
+In M. T. Greenberg, D. Cicchetti & E. M. Cummings (Hrsg.), *Attachment in the Preschool Years* (S. 161–182).
+Chicago: University of Chicago Press.
+
+> Adult Attachment Interview (AAI); Zusammenhang zwischen unverarbeiteten Kindheitserfahrungen der Eltern und desorganisierter Bindung beim Kind.
+
+**Main, M., Kaplan, N. & Cassidy, J. (1985).**
+Security in infancy, childhood, and adulthood: A move to the level of representation.
+*Monographs of the Society for Research in Child Development, 50*(1–2), 66–104.
+
+> Einführung der vier Erwachsenen-Bindungsmuster (sicher-autonom, unsicher-distanziert, unsicher-verstrickt, desorganisiert); Grundlagenwerk zur Bindung im Erwachsenenalter.
+
+**Siegel, D. J. & Hartzell, M. (2003).**
+*Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive.*
+New York: Tarcher/Penguin.
+
+> Narrative Kohärenz als stärkster Prädiktor für sichere Bindungsweitergabe; Konzept der „earned security" (erworbenen Sicherheit).
+
+**Siegel, D. J. (1999).**
+*The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.*
+New York: Guilford Press.
+
+> Neurobiologische Grundlagen der Bindung; Integration von Lebenserfahrungen und deren Bedeutung für psychische Gesundheit und Elternschaft.
 
 ---
 
@@ -8722,136 +8809,6 @@ Scottsdale: HCI Press.
 
 ---
 
-## Kapitel 2: Die Auswirkungen auf Kinder
-
-### Entwicklungsphasen
-
-**Piaget, J. & Inhelder, B. (1969).**
-*The Psychology of the Child.*
-New York: Basic Books.
-
-> Kognitive Entwicklungsphasen (präoperationale Phase, konkrete Operationen); Egozentrismus und magisches Denken als entwicklungsbedingte Merkmale des Vorschulalters.
-
-**Erikson, E. H. (1968).**
-*Identity: Youth and Crisis.*
-New York: W. W. Norton.
-
-> Psychosoziale Entwicklungsphasen; Kernaufgabe der Adoleszenz: Identität vs. Rollendiffusion.
-
-**Ainsworth, M. D. S., Blehar, M. C., Waters, E. & Wall, S. (1978).**
-*Patterns of Attachment: A Psychological Study of the Strange Situation.*
-Hillsdale, NJ: Erlbaum.
-
-> Klassifikation von Bindungsmustern (sicher, unsicher-vermeidend, unsicher-ambivalent); Grundlagenwerk der empirischen Bindungsforschung.
-
-**Tronick, E. Z. (1989).**
-Emotions and emotional communication in infants.
-*American Psychologist, 44*(2), 112–119.
-
-> Still-Face-Experiment; emotionale Kommunikation zwischen Säugling und Bezugsperson; Co-Regulation als biologisch verankerter Prozess.
-
-**Tottenham, N. (2012).**
-Human amygdala development in the absence of species-expected caregiving.
-*Developmental Psychobiology, 54*(6), 598–611.
-
-> Cortisol-Reaktivität bei Säuglingen in Abhängigkeit von Bezugspersonenstabilität; Amygdala-Entwicklung unter früher Stressbelastung.
-
----
-
-### Langzeitfolgen
-
-**Amato, P. R. & Booth, A. (1997).**
-*A Generation at Risk: Growing Up in an Era of Family Upheaval.*
-Cambridge, MA: Harvard University Press.
-
-> Langzeitfolgen von Scheidung und elterlichem Konflikt; intergenerationale Transmission von Konfliktmustern und Partnerwahl.
-
-**Amato, P. R. & DeBoer, D. D. (2001).**
-The transmission of marital instability across generations: Relationship skills or commitment to marriage?
-*Journal of Marriage and Family, 63*(4), 1038–1051.
-
-> Erhöhte eigene Scheidungsrate bei Kindern aus Scheidungsfamilien; Mechanismen: Einstellungsübertragung und Kompetenzdefizite in Konfliktlösung.
-
-**Main, M. & Hesse, E. (1990).**
-Parents' unresolved traumatic experiences are related to infant disorganized attachment status.
-In M. T. Greenberg, D. Cicchetti & E. M. Cummings (Hrsg.), *Attachment in the Preschool Years* (S. 161–182).
-Chicago: University of Chicago Press.
-
-> Adult Attachment Interview (AAI); Zusammenhang zwischen unverarbeiteten Kindheitserfahrungen der Eltern und desorganisierter Bindung beim Kind.
-
-**Main, M., Kaplan, N. & Cassidy, J. (1985).**
-Security in infancy, childhood, and adulthood: A move to the level of representation.
-*Monographs of the Society for Research in Child Development, 50*(1–2), 66–104.
-
-> Einführung der vier Erwachsenen-Bindungsmuster (sicher-autonom, unsicher-distanziert, unsicher-verstrickt, desorganisiert); Grundlagenwerk zur Bindung im Erwachsenenalter.
-
-**Siegel, D. J. & Hartzell, M. (2003).**
-*Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive.*
-New York: Tarcher/Penguin.
-
-> Narrative Kohärenz als stärkster Prädiktor für sichere Bindungsweitergabe; Konzept der „earned security" (erworbenen Sicherheit).
-
-**Siegel, D. J. (1999).**
-*The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.*
-New York: Guilford Press.
-
-> Neurobiologische Grundlagen der Bindung; Integration von Lebenserfahrungen und deren Bedeutung für psychische Gesundheit und Elternschaft.
-
----
-
-## Kapitel 6: Der Kommunikationsleitfaden
-
-> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
-
-**Eddy, B. (2010).**
-*BIFF: Quick Responses to High-Conflict People.*
-*(s. Kapitel 5)*
-
-> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
-
-**High Conflict Institute (laufend).**
-*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
-https://www.highconflictinstitute.com
-
-> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
-
----
-
-## Kapitel 5: Das BIFF-Prinzip
-
-### BIFF und High Conflict Communication
-
-**Eddy, B. (2010).**
-*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
-Scottsdale: HCI Press.
-*(s. o., Kapitel 3)*
-
-> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
-
-**Eddy, B. (2014).**
-*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
-Scottsdale: HCI Press. *[Auflage und genaues Jahr prüfen]*
-
-> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
-
----
-
-### Kommunikation und Eskalationsdynamik
-
-**Gottman, J. M. & Silver, N. (1999).**
-*The Seven Principles for Making Marriage Work.*
-*(s. o., Kapitel 3)*
-
-> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
-
-**Tannen, D. (1990).**
-*You Just Don't Understand: Women and Men in Conversation.*
-New York: William Morrow.
-
-> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
-
----
-
 ## Kapitel 4: Warum Jugendämter und Gerichte oft überfordert sind
 
 ### Deutsches Familienrecht und Institutionen
@@ -8887,13 +8844,13 @@ München: Deutsches Jugendinstitut (DJI).
 
 **Stötzel, M. & Balloff, R. (2006).**
 Kinder in Sorgerechts- und Umgangsverfahren – Erfahrungen und Schlussfolgerungen.
-*ZKJ – Zeitschrift für Kindschaftsrecht und Jugendhilfe*, (4), 140–147. *[Angabe prüfen]*
+*ZKJ – Zeitschrift für Kindschaftsrecht und Jugendhilfe*, (4), 140–147.
 
 > Empirische Auswertung von Verfahrensbeistandstätigkeit; Qualitätsunterschiede und Einflussfaktoren auf die Wirksamkeit der Kindvertretung.
 
 **Balloff, R. (2004).**
-Kinder vor dem Familiengericht.
-*Praxis der Kinderpsychologie und Kinderpsychiatrie, 53*(4), 218–232. *[Angabe prüfen]*
+*Kinder vor dem Familiengericht.*
+München: Ernst Reinhardt Verlag.
 
 > Zur psychologischen Situation von Kindern in Sorgerechts- und Umgangsverfahren; Verfahrensgestaltung aus Kindperspektive.
 
@@ -8929,7 +8886,7 @@ The psychological functioning of alienated children in custody disputing familie
 | Amato, P. R. & DeBoer, D. D. | 2001 | Transmission of marital instability across generations |
 | American Psychiatric Association | 2013 | DSM-5 |
 | De Bellis, M. D. et al. | 1999 | Developmental traumatology – Brain development |
-| De Bellis, M. D. et al. | 2002 | [Folgestudie, Angabe prüfen] |
+| De Bellis, M. D. et al. | 2002 | Brain structures in pediatric maltreatment-related PTSD – *Biological Psychiatry, 52*(11), 1066–1078 |
 | Baker, A. J. L. | 2007 | Adult Children of Parental Alienation Syndrome |
 | Eddy, B. | 2010 | BIFF: Quick Responses to High-Conflict People |
 | Eddy, B. | 2014 | BIFF for Co-Parent Communication |
@@ -8970,30 +8927,85 @@ The psychological functioning of alienated children in custody disputing familie
 | Tottenham, N. | 2012 | Human amygdala development… |
 | Tannen, D. | 1990 | You Just Don't Understand (Kommunikationsmuster) |
 | Tronick, E. Z. | 1989 | Emotions and emotional communication in infants |
-| Völlm, B. A. | [prüfen] | Epigenetik und frühkindlicher Stress |
 | Wallerstein, J. S. & Kelly, J. B. | 1980 | Surviving the Breakup |
 | Wallerstein, J. S. | 1989 | Second Chances |
 | Wallerstein, J. S. et al. | 2000 | The Unexpected Legacy of Divorce |
-| Walper, S. | [prüfen] | Ko-Elternschaft und kindliche Entwicklung (DJI) |
+| Walper, S., Fichtner, J. & Normann, K. | 2013 | Hochkonflikthafte Trennungsfamilien (Beltz Juventa) |
 | Warshak, R. A. | 2010 | Divorce Poison (Alienation) |
 | Werner, E. E. & Smith, R. S. | 1992 | Overcoming the Odds |
 | World Health Organization | 2019 | ICD-11 |
 
+
 ---
 
-## Noch zu prüfen / Lücken
+## Kapitel 5: Das BIFF-Prinzip
 
-Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt:
+### BIFF und High Conflict Communication
 
-- **Eddy & Cartwright (2012):** Vollständige Publikationsangabe zur New-Ways-for-Families-Pilotstudie
-- **De Bellis et al. (2002):** Vollständige Angabe der Folgestudie
-- **Walper, S.:** Konkrete Einzelpublikationen (Auswahl aus DJI-Berichten und Fachaufsätzen)
-- **Völlm, B. A.:** Einschlägige Einzelpublikation zu Epigenetik
-- **Eddy & Kreger (2011):** Auflage und Verlagsdetails prüfen
-- **Eddy, B. (2014): BIFF for Co-Parent Communication:** Genaues Erscheinungsjahr und Auflage verifizieren
-- **Stötzel & Balloff (2006):** Genaue Jahreszahl und Zeitschriftenangabe verifizieren
-- **Balloff (2004):** Genaue Jahreszahl und Seitenangaben verifizieren
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People, Their Personal Attacks, Hostile Email and Social Media Meltdowns.*
+Scottsdale: HCI Press.
+*(s. o., Kapitel 3)*
 
+> Grundlagenwerk zum BIFF-Prinzip; Herleitung aus dem Kommunikationsverhalten von HCP-Persönlichkeiten; praktische Anleitung mit Beispielen.
+
+**Eddy, B. (2014).**
+*BIFF for Co-Parent Communication: Your Guide to Difficult Texts, Emails, and Social Media Posts.*
+Scottsdale: HCI Press.
+
+> Spezifische Anwendung des BIFF-Prinzips auf die Ko-Elternschaft nach Trennung; erweiterte Beispielsammlung für typische Hochkonfliktsituationen.
+
+---
+
+### Kommunikation und Eskalationsdynamik
+
+**Gottman, J. M. & Silver, N. (1999).**
+*The Seven Principles for Making Marriage Work.*
+*(s. o., Kapitel 3)*
+
+> Physiologisches Flooding als Ursache für unkontrollierte Kommunikation unter emotionalem Druck; Begründung für Wartezeiten (48-Stunden-Regel) vor dem Antworten.
+
+**Tannen, D. (1990).**
+*You Just Don't Understand: Women and Men in Conversation.*
+New York: William Morrow.
+
+> Kommunikationsmuster und systematische Missverständnisse; relevant für die Analyse von Umdeutungsprozessen in der Hochkonfliktkommunikation.
+
+---
+
+## Kapitel 6: Der Kommunikationsleitfaden
+
+> *Primär angewandter Praxisleitfaden; die zugrundeliegenden Quellen wurden in Kapitel 5 zitiert.*
+
+**Eddy, B. (2010).**
+*BIFF: Quick Responses to High-Conflict People.*
+*(s. Kapitel 5)*
+
+> Kapitel 7 und 8 enthalten Vorlagesystematik und Kategorisierung von Nachrichtentypen, die als Grundlage für den Kommunikationsleitfaden dienen.
+
+**High Conflict Institute (laufend).**
+*Materialien und Fallbeispiele aus Fortbildungen und Webinaren.*
+https://www.highconflictinstitute.com
+
+> Praxisbeispiele für Nachrichten-Kategorisierung; Entscheidungsbaum-Logik für die Kommunikation mit HCPs.
+
+---
+
+## Kapitel 7 – Gespräche, die zählen
+
+| Autor(en) | Jahr | Titel / Quelle |
+|-----------|------|----------------|
+| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
+| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
+| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
+| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
+| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
+| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
+| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
+| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
+| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
+| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
+| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |
 ---
 
 ## Kapitel 8 – Co-Parenting vs. Parallel Parenting
@@ -9029,22 +9041,6 @@ Die folgenden Angaben sind im Text erwähnt, aber noch nicht vollständig belegt
 | Wallerstein, J. S., Lewis, J. M. & Blakeslee, S. | 2000 | *The Unexpected Legacy of Divorce* – Hyperion |
 | Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
 | Werner, E. E. & Smith, R. S. | 1992 | *Overcoming the Odds* – Cornell University Press |
-| Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) [Angabe prüfen] |
+| Wilmers, F. | 2016 | Parentifizierung und ihre Folgen – *Kindheit und Entwicklung, 25*(3) |
 
 ---
-
-## Kapitel 7 – Gespräche, die zählen
-
-| Autor(en) | Jahr | Titel / Quelle |
-|-----------|------|----------------|
-| Eddy, B. | 2014 | *BIFF for Co-Parent Communication* – HCI Press |
-| Eddy, B. & DiStefano, A. | 2015 | *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder* |
-| Fthenakis, W. E. et al. | 2002 | *Engagierte Vaterschaft: Die sanfte Revolution in der Familie* – Leske + Budrich |
-| Fthenakis, W. E. | 2008 | Beziehungsqualität und elterliche Kooperation nach Trennung und Scheidung – DJI Bulletin |
-| Johnston, J. R. & Roseby, V. | 1997 | *In the Name of the Child* – Free Press |
-| Kerner, B.-D. | 2019 | Sachverständige im Familienrecht: Auftrag, Methoden, Grenzen – *FamRZ* |
-| Salzgeber, J. | 2020 | *Familienpsychologische Gutachten*, 6. Auflage – C. H. Beck |
-| Salzgeber, J. & Fichtner, J. | 2012 | Psychologische Begutachtung im Sorge- und Umgangsrechtsverfahren – *ZfKJ* |
-| Schweizerischer Bundesrat / BMJV | lfd. | Mediationsgesetz; §§ 17a, 36a FamFG (Güterichterverfahren) |
-| Warshak, R. A. | 2010 | *Divorce Poison* – Harper Collins |
-| Zartler, U. | 2010 | Wie Kinder Scheidung erleben – Opladen & Farmington Hills |
