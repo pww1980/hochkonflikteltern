@@ -22,7 +22,7 @@ Dieses Buch ist für dich geschrieben.
 
 ### Für wen dieses Buch gedacht ist
 
-Dieses Buch richtet sich an Elternteile, die nach einer Trennung oder Scheidung in einem **dauerhaften, hocheskalierten Konflikt** mit dem anderen Elternteil gefangen sind – und bei dem Kinder betroffen sind.
+Dieses Buch richtet sich an Elternteile, die nach einer Trennung oder Scheidung in einem **dauerhaften, hocheskalierten Konflikt** mit dem anderen Elternteil gefangen sind – und in dem Kinder zwischen die Fronten geraten.
 
 Du erkennst dich in diesem Buch, wenn:
 
@@ -158,7 +158,13 @@ Du wirst lernen:
 - Wie du dein Kind schützt, ohne es in den Konflikt hineinzuziehen.
 - Wie Hochkonfliktsituationen sich über die Zeit verändern – und was in welcher Phase hilft.
 
-Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten für den emotionalen Überlebenskampf. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
+Dieses Buch ist kein Heilversprechen. <!-- ÄNDERUNG 5 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
+
+Alternative A [Empfehlung]: Es ist ein Werkzeugkasten – konkret, erprobt, für den langen Weg.
+
+Alternative B: Es ist ein Begleiter durch den emotionalen Überlebenskampf.
+
+--> Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
@@ -216,7 +222,13 @@ Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
 
 Ich lernte, was beim Jugendamt hilft – und was den Eindruck erweckt, man sei der schwierige Teil. Ich lernte, wie man Protokolle führt, die im Ernstfall relevant sind. Ich lernte, welche Art von E-Mail eine Eskalation provoziert – und wie man die gleiche Information ohne diese Wirkung übermittelt. Ich lernte, wann ein Gerichtstermin unvermeidlich ist – und wann er nur neue Munition liefert.
 
-Manches davon habe ich auf die harte Tour gelernt.
+<!-- ÄNDERUNG 4 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
+
+Alternative A [Empfehlung]: Manches davon habe ich durch eigene Fehler gelernt.
+
+Alternative B: Manches davon habe ich auf die schmerzhafte Art gelernt.
+
+-->
 
 ---
 
@@ -246,19 +258,13 @@ Es macht einen Unterschied. Für dein Kind. Und für dich.
 
 ---
 
-### Ein Wort des Dankes
-
-Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrungen geteilt haben – in Beratungsgesprächen, in Online-Foren, in Selbsthilfegruppen. Ohne die Forscherinnen und Forscher, die die Situation von Kindern in Hochkonfliktsituationen sichtbar gemacht haben. Und ohne die Fachleute – Anwälte, Psychologen, Verfahrensbeistände, Jugendamtsmitarbeiter – die trotz schwieriger Rahmenbedingungen täglich versuchen, das Kindeswohl in den Mittelpunkt zu stellen.
-
----
-
 ## Wie man dieses Buch nutzt
 
 ---
 
 Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
 
-Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander Nutzen entfalten.
+Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander für sich allein stehen können.
 
 Trotzdem lohnt es sich, zumindest **Teil 1** einmal vollständig zu lesen – auch wenn du das Gefühl hast, die Situation schon gut zu kennen. Das Fundament aus Kapitel 1 bis 4 macht die praktischen Werkzeuge aus den späteren Teilen erst wirklich greifbar. Wer versteht, warum normale Kommunikation im Hochkonflikt scheitert, kann die Alternativen gezielter einsetzen.
 
@@ -311,6 +317,12 @@ Dieses Buch ersetzt außerdem keine persönliche rechtliche Beratung und keine T
 Wenn du in diesem Buch etwas findest, das dir hilft – gib es weiter. An Freunde, die gerade am Anfang einer solchen Situation stehen. An Fachleute, die mit betroffenen Eltern arbeiten. An alle, die nach einem deutschen Buch zu diesem Thema suchen und bisher wenig gefunden haben.
 
 Hochkonfliktsituationen gedeihen in der Stille. Je mehr Menschen verstehen, was hier passiert – und was hilft – desto besser für alle Kinder, die mittendrin aufwachsen.
+
+---
+
+### Ein Wort des Dankes
+
+Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrungen geteilt haben – in Beratungsgesprächen, in Online-Foren, in Selbsthilfegruppen. Ohne die Forscherinnen und Forscher, die die Situation von Kindern in Hochkonfliktsituationen sichtbar gemacht haben. Und ohne die Fachleute – Anwälte, Psychologen, Verfahrensbeistände, Jugendamtsmitarbeiter – die trotz schwieriger Rahmenbedingungen täglich versuchen, das Kindeswohl in den Mittelpunkt zu stellen.
 
 ---
 
