@@ -351,6 +351,8 @@ Das gilt aus mehreren Gründen:
 
 Was du stattdessen tun kannst: **Muster beschreiben, nicht diagnostizieren.** In Gesprächen mit dem Jugendamt, dem Gericht oder einem Verfahrensbeistand ist es weit wirksamer, konkretes Verhalten zu schildern – mit Datum, Kontext und Auswirkung auf das Kind – als einen psychiatrischen Begriff zu verwenden.
 
+Hochkonfliktives Verhalten entsteht häufig nicht aus kalkulierter Böswilligkeit, sondern aus tiefer Verletzung und Angst – nicht selten als Reaktion auf die Trennung selbst, die für manche Menschen eine existenzielle Bedrohung darstellt. Das ist keine Entschuldigung für das Verhalten. Aber es ist ein Erklärungsrahmen, der dabei hilft, die Dynamik nüchterner einzuschätzen und das eigene Handeln klüger daran auszurichten.
+
 ---
 
 #### Was subklinische Züge bedeuten
