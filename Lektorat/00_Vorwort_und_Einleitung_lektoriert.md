@@ -91,7 +91,7 @@ In diesen Situationen braucht es andere Schritte – und die braucht es **jetzt*
 > - Den **Kinderarzt oder die Kinderärztin** deines Kindes – Ärzte sind zur Meldung verpflichtet und können dokumentieren
 > - Die **Kinderschutz-Hotline: 0800 1110550**
 >
-> Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
+> Wenn du zögerst, weil du dir nicht sicher bist, ob dein Verdacht berechtigt ist: Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
 
 Wenn keine dieser Situationen auf dich zutrifft, lies weiter. Der nächste Abschnitt hilft dir, deine Situation noch genauer einzuordnen.
 
@@ -109,7 +109,7 @@ Der entscheidende Unterschied zwischen Hochkonflikt und Koerziver Kontrolle lieg
 
 Gleichzeitig bleibt eine unbequeme Wahrheit: Manchmal erleben sich beide Elternteile als Opfer – und keiner ist es vollständig. Manchmal ist eine Situation belastend und hocheskaliert, ohne dass Gewalt im strafrechtlichen Sinne vorliegt.
 
-Dieses Buch ist für diesen Fall geschrieben: für Eltern in einem **anhaltenden, eskalierenden Elternkonflikt**, in dem beide Seiten leiden – und in dem das Kind der eigentliche Leidtragende ist.
+Dieses Buch ist für diesen Fall geschrieben: für Eltern in einem **anhaltenden, eskalierenden Elternkonflikt**, in dem beide Seiten leiden – und in dem das Kind den höchsten Preis zahlt.
 
 > *Abbildung 3: Übersichtsgrafik: Hochkonflikt vs. Gewalt – Klare visuelle Abgrenzung der beiden Situationen mit den jeweiligen Handlungsempfehlungen (z. B. Entscheidungsbaum oder Zwei-Spalten-Darstellung)*
 
@@ -216,7 +216,7 @@ Ich merkte: Was ich in neun Jahren zusammengesucht, ausprobiert und verstanden h
 
 Das Buch, das ich gebraucht hätte, gab es auf Deutsch schlicht nicht.
 
-Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkeit, sondern mit dem Anspruch auf **Nützlichkeit** – für Menschen, die gerade mittendrin sind und nicht wissen, wohin sie schauen sollen.
+Dieses Buch versucht, diese Lücke zu füllen. Nicht mit dem Anspruch auf Vollständigkeit, sondern mit dem Anspruch auf **Nützlichkeit** – für Menschen, die gerade mittendrin sind und nicht wissen, wohin sie schauen sollen.
 
 ---
 
@@ -236,7 +236,7 @@ Es macht einen Unterschied. Für dein Kind. Und für dich.
 
 ---
 
-Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
+Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist auch so gedacht.
 
 Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander für sich allein stehen können.
 
