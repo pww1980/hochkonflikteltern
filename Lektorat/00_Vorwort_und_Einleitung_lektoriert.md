@@ -228,13 +228,7 @@ Zuerst war es ein Bekannter, der gerade am Anfang einer ähnlichen Situation sta
 
 Ich merkte: Was ich in neun Jahren zusammengesucht, ausprobiert und verstanden hatte, existierte nirgendwo gebündelt auf Deutsch. Es gab amerikanische Bücher, deren rechtliche und systemische Rahmenbedingungen nicht auf Deutschland passen. Es gab Ratgeber für kooperative Trennungen, die an der Realität von Hochkonfliktsituationen vorbeigingen. Es gab juristische Handbücher ohne emotionale Tiefe – und emotionale Ratgeber ohne praktische Konsequenz.
 
-<!-- ÄNDERUNG 5 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
-
-Alternative A [Empfehlung]: Das Buch, das ich gebraucht hätte, gab es auf Deutsch schlicht nicht.
-
-Alternative B: Was fehlte, war je länger, je offensichtlicher — und irgendwann nicht mehr zu ignorieren.
-
--->
+Das Buch, das ich gebraucht hätte, gab es auf Deutsch schlicht nicht.
 
 Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkeit, sondern mit dem Anspruch auf **Nützlichkeit** – für Menschen, die gerade mittendrin sind und nicht wissen, wohin sie schauen sollen.
 
@@ -262,13 +256,7 @@ Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrunge
 
 ---
 
-<!-- ÄNDERUNG 7 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
-
-Alternative A [Empfehlung]: Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
-
-Alternative B: Fang ruhig mittendrin an, wenn dort gerade deine Situation wartet.
-
--->
+Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
 
 Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander Nutzen entfalten.
 
