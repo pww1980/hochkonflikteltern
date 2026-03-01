@@ -158,13 +158,7 @@ Du wirst lernen:
 - Wie du dein Kind schützt, ohne es in den Konflikt hineinzuziehen.
 - Wie Hochkonfliktsituationen sich über die Zeit verändern – und was in welcher Phase hilft.
 
-Dieses Buch ist kein Heilversprechen. <!-- ÄNDERUNG 5 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
-
-Alternative A [Empfehlung]: Es ist ein Werkzeugkasten – konkret, erprobt, für den langen Weg.
-
-Alternative B: Es ist ein Begleiter durch den emotionalen Überlebenskampf.
-
---> Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
+Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten – konkret, erprobt, für den langen Weg. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
@@ -222,13 +216,7 @@ Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
 
 Ich lernte, was beim Jugendamt hilft – und was den Eindruck erweckt, man sei der schwierige Teil. Ich lernte, wie man Protokolle führt, die im Ernstfall relevant sind. Ich lernte, welche Art von E-Mail eine Eskalation provoziert – und wie man die gleiche Information ohne diese Wirkung übermittelt. Ich lernte, wann ein Gerichtstermin unvermeidlich ist – und wann er nur neue Munition liefert.
 
-<!-- ÄNDERUNG 4 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
-
-Alternative A [Empfehlung]: Manches davon habe ich durch eigene Fehler gelernt.
-
-Alternative B: Manches davon habe ich auf die schmerzhafte Art gelernt.
-
--->
+Manches davon habe ich durch eigene Fehler gelernt.
 
 ---
 
