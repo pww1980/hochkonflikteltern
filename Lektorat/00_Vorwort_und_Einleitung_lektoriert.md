@@ -22,7 +22,7 @@ Dieses Buch ist für dich geschrieben.
 
 ### Für wen dieses Buch gedacht ist
 
-Dieses Buch richtet sich an Elternteile, die nach einer Trennung oder Scheidung in einem **dauerhaften, hocheskalierten Konflikt** mit dem anderen Elternteil gefangen sind – und bei dem Kinder betroffen sind.
+Dieses Buch richtet sich an Elternteile, die nach einer Trennung oder Scheidung in einem **dauerhaften, hocheskalierten Konflikt** mit dem anderen Elternteil gefangen sind – und in dem Kinder zwischen die Fronten geraten.
 
 Du erkennst dich in diesem Buch, wenn:
 
@@ -45,15 +45,7 @@ Wenn du bei mehreren dieser Punkte gedacht hast: „Ja, genau das ist es" – da
 
 ### Wofür dieses Buch nicht ausreicht – und was dann zu tun ist
 
-Bevor wir weitergehen, muss ich eine Grenze ziehen. Klar und unmissverständlich. Denn es gibt Situationen, in denen ein Buch keine ausreichende Antwort ist – in denen du sofortigen, professionellen Schutz brauchst.
-
-#### Wenn körperliche oder psychische Gewalt im Spiel ist
-
-Hochkonflikttrennung und Gewalt werden im öffentlichen Diskurs manchmal in einem Atemzug genannt. Sie sind **nicht dasselbe**.
-
-Ein Hochkonflikt – wie ihn dieses Buch beschreibt – ist eine Situation, in der zwei Elternteile in einem eskalierenden Streit um Kontrolle, Deutungshoheit oder das Sorgerecht verstrickt sind. Das ist schmerzhaft. Es zermürbt. Und es schadet Kindern langfristig. Aber zwischen Hochkonflikt und **tatsächlicher Gewalt** liegt ein fundamentaler, rechtlich entscheidender Unterschied.
-
-Dieses Buch ist **nicht** das richtige Mittel, wenn:
+Bevor wir weitergehen, muss ich eine Grenze ziehen. Hochkonflikttrennung und Gewalt werden manchmal in einem Atemzug genannt – sie sind **nicht dasselbe**, und dieser Unterschied ist entscheidend. Dieses Buch ist **nicht** das richtige Mittel, wenn:
 
 - Du körperliche Übergriffe durch den anderen Elternteil erlebt hast oder erlebst.
 - Du emotional, psychisch oder sexuell misshandelt wirst oder wurdest.
@@ -63,51 +55,45 @@ Dieses Buch ist **nicht** das richtige Mittel, wenn:
 
 In diesen Situationen braucht es andere Schritte – und die braucht es **jetzt**.
 
----
+> **Sofortige Hilfe – Anlaufstellen in Deutschland**
+>
+> **Deine Sicherheit und die Sicherheit deines Kindes haben absolute Priorität.** Hochkonflikt-Strategien wie Kommunikationsgrenzen oder Parallel Parenting ersetzen keinen Schutzplan.
+>
+> - **Polizei: 110** – Bei akuter Gefahr sofort anrufen. Die Polizei kann einen Platzverweis und eine Schutzanordnung (Gewaltschutzgesetz) erwirken.
+> - **Hilfetelefon Gewalt gegen Frauen: 08000 116 016** – Kostenlos, 24/7, anonym, mehrsprachig. Auch für Männer als Hinweisgeber. (hilfetelefon.de)
+> - **Männerberatung / Männerhilfetelefon: 0800 123 99 00** – Für von Gewalt betroffene Männer. Kostenlos, bundesweit. (maennerhilfetelefon.de)
+> - **Frauenhäuser**: Dein lokales Frauenhaus ist über hilfetelefon.de zu finden. Kinder können mit aufgenommen werden.
+> - **Kinderschutz-Hotline: 0800 1110550** – Das Hilfetelefon Kinderschutz, rund um die Uhr erreichbar.
+> - **Nummer gegen Kummer (Kinder und Jugendliche): 116 111** – Kostenlos, wenn dein Kind selbst Hilfe sucht.
+>
+> **Rechtliche Möglichkeiten:**
+>
+> - Das **Gewaltschutzgesetz (GewSchG)** ermöglicht Näherungs- und Kontaktverbote – auch ohne Strafanzeige.
+> - Ein **Anwalt für Familienrecht** kann im Eilverfahren eine **einstweilige Verfügung** erwirken.
+> - Das **Jugendamt** ist verpflichtet, bei Kindeswohlgefährdung zu handeln. Du kannst dort Meldung erstatten – auch anonym.
+>
+> **Wenn du dir nicht sicher bist**, ob das, was du erlebst, als Gewalt gilt: Frag nach. Ein Anruf beim Hilfetelefon oder einer Beratungsstelle kostet nichts und verpflichtet zu nichts. Niemand wird dich verurteilen.
 
-#### Was du tun kannst, wenn Gewalt vorliegt
+> **Wenn dein Kind akut gefährdet sein könnte**
+>
+> Es gibt Hochkonfliktsituationen, in denen ein Elternteil das Kind emotional unter Druck setzt, manipuliert oder für eigene Zwecke instrumentalisiert – das ist schädlich, und dieses Buch wird darauf eingehen. Es gibt aber auch Situationen, in denen ein Kind **akut gefährdet** ist: durch körperliche Misshandlung, sexuellen Missbrauch, massive Vernachlässigung oder das Miterleben schwerer häuslicher Gewalt.
+>
+> Wenn du folgende Anzeichen siehst:
+>
+> - Körperliche Verletzungen, für die es keine plausible Erklärung gibt
+> - Sexualisiertes Verhalten, das nicht altersentsprechend ist
+> - Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben
+> - Äußerungen des Kindes, die auf Misshandlung hindeuten
+>
+> Dann wende dich an:
+>
+> - Das **Jugendamt** (auch außerhalb der Öffnungszeiten gibt es Bereitschaftsdienste)
+> - Den **Kinderarzt oder die Kinderärztin** deines Kindes – Ärzte sind zur Meldung verpflichtet und können dokumentieren
+> - Die **Kinderschutz-Hotline: 0800 1110550**
+>
+> Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
 
-**Deine Sicherheit und die Sicherheit deines Kindes haben absolute Priorität.** Hochkonflikt-Strategien wie Kommunikationsgrenzen oder Parallel Parenting ersetzen keinen Schutzplan.
-
-**Sofortige Anlaufstellen in Deutschland:**
-
-- **Polizei: 110** – Bei akuter Gefahr sofort anrufen. Die Polizei kann einen Platzverweis und eine Schutzanordnung (Gewaltschutzgesetz) erwirken.
-- **Hilfetelefon Gewalt gegen Frauen: 08000 116 016** – Kostenlos, 24/7, anonym, mehrsprachig. Auch für Männer als Hinweisgeber. (hilfetelefon.de)
-- **Männerberatung / Männerhilfetelefon: 0800 123 99 00** – Für von Gewalt betroffene Männer. Kostenlos, bundesweit. (maennerhilfetelefon.de)
-- **Frauenhäuser**: Dein lokales Frauenhaus ist über hilfetelefon.de zu finden. Kinder können mit aufgenommen werden.
-- **Kinderschutz-Hotline: 0800 1110550** – Das Hilfetelefon Kinderschutz, rund um die Uhr erreichbar.
-- **Nummer gegen Kummer (Kinder und Jugendliche): 116 111** – Kostenlos, wenn dein Kind selbst Hilfe sucht.
-
-**Rechtliche Möglichkeiten:**
-
-- Das **Gewaltschutzgesetz (GewSchG)** ermöglicht Näherungs- und Kontaktverbote – auch ohne Strafanzeige.
-- Ein **Anwalt für Familienrecht** kann im Eilverfahren eine **einstweilige Verfügung** erwirken.
-- Das **Jugendamt** ist verpflichtet, bei Kindeswohlgefährdung zu handeln. Du kannst dort Meldung erstatten – auch anonym.
-
-**Wenn du dir nicht sicher bist**, ob das, was du erlebst, als Gewalt gilt: Frag nach. Ein Anruf beim Hilfetelefon oder einer Beratungsstelle kostet nichts und verpflichtet zu nichts. Niemand wird dich verurteilen.
-
----
-
-#### Wenn du dir Sorgen um das Wohl deines Kindes machst
-
-Auch hier ist eine wichtige Unterscheidung nötig.
-
-Es gibt Hochkonfliktsituationen, in denen ein Elternteil das Kind emotional unter Druck setzt, manipuliert oder für eigene Zwecke instrumentalisiert – das ist schädlich, und dieses Buch wird darauf eingehen. Es gibt aber auch Situationen, in denen ein Kind **akut gefährdet** ist: durch körperliche Misshandlung, sexuellen Missbrauch, massive Vernachlässigung oder das Miterleben schwerer häuslicher Gewalt.
-
-Wenn du Anzeichen siehst, dass dein Kind **akut in Gefahr** ist:
-
-- Körperliche Verletzungen, für die es keine plausible Erklärung gibt
-- Sexualisiertes Verhalten, das nicht altersentsprechend ist
-- Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben (über das übliche Maß hinaus)
-- Äußerungen des Kindes, die auf Misshandlung hindeuten
-
-Dann wende dich an:
-
-- Das **Jugendamt** (auch außerhalb der Öffnungszeiten gibt es Bereitschaftsdienste)
-- Den **Kinderarzt oder die Kinderärztin** deines Kindes – Ärzte sind zur Meldung verpflichtet und können dokumentieren
-- Die **Kinderschutz-Hotline: 0800 1110550**
-
-Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
+Wenn keine dieser Situationen auf dich zutrifft, lies weiter. Der nächste Abschnitt hilft dir, deine Situation noch genauer einzuordnen.
 
 ---
 
@@ -158,7 +144,7 @@ Du wirst lernen:
 - Wie du dein Kind schützt, ohne es in den Konflikt hineinzuziehen.
 - Wie Hochkonfliktsituationen sich über die Zeit verändern – und was in welcher Phase hilft.
 
-Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten für den emotionalen Überlebenskampf. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
+Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten – konkret, erprobt, für den langen Weg. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
 Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
@@ -166,7 +152,7 @@ Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kinde
 
 ---
 
-### Eine letzte Bemerkung vor dem Anfang
+### Bevor wir beginnen
 
 Dieses Buch ist aus neun Jahren gelebter Erfahrung entstanden – und aus der Überzeugung, dass Kinder in Hochkonfliktsituationen einen Elternteil verdienen, der **stabil, verlässlich und emotional verfügbar** bleibt. Nicht perfekt. Nicht unerschütterlich. Aber präsent.
 
@@ -184,7 +170,7 @@ Dieses Buch hätte ich mir nicht ausgesucht zu schreiben.
 
 Niemand setzt sich hin und denkt: Ich werde mal ein Buch über Hochkonflikttrennung schreiben. Man landet dort. Schritt für Schritt, Gerichtstermin für Gerichtstermin, Nacht für Nacht.
 
-Der Anfang war wie bei vielen: Eine Trennung, die schmerzhaft war, aber machbar schien. Der Plan war ein guter: vernünftig bleiben, das Kind im Mittelpunkt, Kompromisse finden. Ich war überzeugt, dass zwei Menschen, die sich einmal geliebt haben, auch als Eltern miteinander auskommen können.
+Der Anfang war wie bei vielen: Eine Trennung, die schmerzhaft war, aber machbar schien. Der Plan war ein guter: vernünftig bleiben, die Kinder im Mittelpunkt, Kompromisse finden. Ich war überzeugt, dass zwei Menschen, die sich einmal geliebt haben, auch als Eltern miteinander auskommen können.
 
 Diese Überzeugung hielt etwa sechs Wochen.
 
@@ -206,6 +192,8 @@ Nicht weil es eine Lösung bot. Sondern weil es endlich einen Namen hatte, was i
 
 Von da an begann eine andere Art von Auseinandersetzung. Ich las.
 
+Auf Deutsch fand ich zunächst wenig, das zu dieser Situation passte. Keinen einzigen Ratgeber, der speziell für Eltern in Hochkonfliktsituationen geschrieben war. Die vorhandenen deutschen Bücher setzten eine Kooperationsbereitschaft voraus, die in meiner Situation schlicht nicht vorhanden war — oder sie blieben juristisch-trocken, ohne das zu berühren, was einen nachts wachhält. Also suchte ich weiter: in englischsprachiger Fachliteratur, in amerikanischen und britischen Ratgebern, in wissenschaftlichen Studien.
+
 Ich las **Judith Wallerstein**, deren Langzeitstudie über Scheidungskinder bis heute zu den einflussreichsten ihrer Art gehört. Ich las **Joan Kelly** und **Janet Johnston**, die das Konzept des Hochkonflikts in der Scheidungsforschung maßgeblich geprägt haben. Ich arbeitete mich durch **Bill Eddys** Schriften über High Conflict Personalities und das BIFF-Kommunikationsprinzip. Ich entdeckte die Forschung zur Stressphysiologie bei Kindern in Dauerkonflikt – was anhaltende Belastung mit einem kindlichen Nervensystem anrichtet, das keine Ruhepause kennt.
 
 Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
@@ -214,7 +202,7 @@ Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
 
 Ich lernte, was beim Jugendamt hilft – und was den Eindruck erweckt, man sei der schwierige Teil. Ich lernte, wie man Protokolle führt, die im Ernstfall relevant sind. Ich lernte, welche Art von E-Mail eine Eskalation provoziert – und wie man die gleiche Information ohne diese Wirkung übermittelt. Ich lernte, wann ein Gerichtstermin unvermeidlich ist – und wann er nur neue Munition liefert.
 
-Manches davon habe ich auf die harte Tour gelernt.
+Manches davon habe ich durch eigene Fehler gelernt.
 
 ---
 
@@ -226,7 +214,7 @@ Zuerst war es ein Bekannter, der gerade am Anfang einer ähnlichen Situation sta
 
 Ich merkte: Was ich in neun Jahren zusammengesucht, ausprobiert und verstanden hatte, existierte nirgendwo gebündelt auf Deutsch. Es gab amerikanische Bücher, deren rechtliche und systemische Rahmenbedingungen nicht auf Deutschland passen. Es gab Ratgeber für kooperative Trennungen, die an der Realität von Hochkonfliktsituationen vorbeigingen. Es gab juristische Handbücher ohne emotionale Tiefe – und emotionale Ratgeber ohne praktische Konsequenz.
 
-Die Lücke war real.
+Das Buch, das ich gebraucht hätte, gab es auf Deutsch schlicht nicht.
 
 Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkeit, sondern mit dem Anspruch auf **Nützlichkeit** – für Menschen, die gerade mittendrin sind und nicht wissen, wohin sie schauen sollen.
 
@@ -234,7 +222,7 @@ Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkei
 
 ### Was dieses Buch ist – und was es nicht ist
 
-Dieses Buch ist kein Erfahrungsbericht. Konkrete persönliche Ereignisse spielen keine Rolle; sie wären auch nicht verallgemeinerbar. Was zählt, sind die **Muster**, die immer wieder auftauchen – in der Forschung, in Beratungsprotokollen, in den Schilderungen von Hunderten von Eltern, mit denen ich im Laufe der Jahre gesprochen habe.
+Dieses Buch ist kein Erfahrungsbericht. Konkrete persönliche Ereignisse spielen keine Rolle; sie wären auch nicht verallgemeinerbar. Was zählt, sind die **Muster**, die immer wieder auftauchen – in der Forschung, in Beratungsprotokollen, in den Schilderungen von Eltern, mit denen ich im Laufe der Jahre gesprochen habe.
 
 Dieses Buch ist auch kein akademisches Werk. Die Forschung, auf die es sich stützt, ist real und wird im Anhang aufgeführt. Aber der Ton ist der eines Menschen, der das hier selbst durchlebt hat – und der weiß, dass man um 2 Uhr nachts, wenn man nicht schlafen kann und die nächste Anhörung übermorgen ist, keinen wissenschaftlichen Aufsatz lesen möchte.
 
@@ -244,19 +232,13 @@ Es macht einen Unterschied. Für dein Kind. Und für dich.
 
 ---
 
-### Ein Wort des Dankes
-
-Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrungen geteilt haben – in Beratungsgesprächen, in Online-Foren, in Selbsthilfegruppen. Ohne die Forscherinnen und Forscher, die die Situation von Kindern in Hochkonfliktsituationen sichtbar gemacht haben. Und ohne die Fachleute – Anwälte, Psychologen, Verfahrensbeistände, Jugendamtsmitarbeiter – die trotz schwieriger Rahmenbedingungen täglich versuchen, das Kindeswohl in den Mittelpunkt zu stellen.
-
----
-
 ## Wie man dieses Buch nutzt
 
 ---
 
-Bücher über schwierige Themen werden anders gelesen als andere Bücher.
+Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
 
-Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander Nutzen entfalten.
+Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander für sich allein stehen können.
 
 Trotzdem lohnt es sich, zumindest **Teil 1** einmal vollständig zu lesen – auch wenn du das Gefühl hast, die Situation schon gut zu kennen. Das Fundament aus Kapitel 1 bis 4 macht die praktischen Werkzeuge aus den späteren Teilen erst wirklich greifbar. Wer versteht, warum normale Kommunikation im Hochkonflikt scheitert, kann die Alternativen gezielter einsetzen.
 
@@ -309,6 +291,12 @@ Dieses Buch ersetzt außerdem keine persönliche rechtliche Beratung und keine T
 Wenn du in diesem Buch etwas findest, das dir hilft – gib es weiter. An Freunde, die gerade am Anfang einer solchen Situation stehen. An Fachleute, die mit betroffenen Eltern arbeiten. An alle, die nach einem deutschen Buch zu diesem Thema suchen und bisher wenig gefunden haben.
 
 Hochkonfliktsituationen gedeihen in der Stille. Je mehr Menschen verstehen, was hier passiert – und was hilft – desto besser für alle Kinder, die mittendrin aufwachsen.
+
+---
+
+### Ein Wort des Dankes
+
+Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrungen geteilt haben – in Beratungsgesprächen, in Online-Foren, in Selbsthilfegruppen. Ohne die Forscherinnen und Forscher, die die Situation von Kindern in Hochkonfliktsituationen sichtbar gemacht haben. Und ohne die Fachleute – Anwälte, Psychologen, Verfahrensbeistände, Jugendamtsmitarbeiter – die trotz schwieriger Rahmenbedingungen täglich versuchen, das Kindeswohl in den Mittelpunkt zu stellen.
 
 ---
 
