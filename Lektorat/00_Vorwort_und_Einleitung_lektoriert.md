@@ -98,7 +98,7 @@ Wenn du Anzeichen siehst, dass dein Kind **akut in Gefahr** ist:
 
 - Körperliche Verletzungen, für die es keine plausible Erklärung gibt
 - Sexualisiertes Verhalten, das nicht altersentsprechend ist
-- Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben (über das übliche Maß hinaus)
+- Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben
 - Äußerungen des Kindes, die auf Misshandlung hindeuten
 
 Dann wende dich an:
@@ -166,7 +166,7 @@ Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kinde
 
 ---
 
-### Eine letzte Bemerkung vor dem Anfang
+### Bevor wir beginnen
 
 Dieses Buch ist aus neun Jahren gelebter Erfahrung entstanden – und aus der Überzeugung, dass Kinder in Hochkonfliktsituationen einen Elternteil verdienen, der **stabil, verlässlich und emotional verfügbar** bleibt. Nicht perfekt. Nicht unerschütterlich. Aber präsent.
 
@@ -184,7 +184,7 @@ Dieses Buch hätte ich mir nicht ausgesucht zu schreiben.
 
 Niemand setzt sich hin und denkt: Ich werde mal ein Buch über Hochkonflikttrennung schreiben. Man landet dort. Schritt für Schritt, Gerichtstermin für Gerichtstermin, Nacht für Nacht.
 
-Der Anfang war wie bei vielen: Eine Trennung, die schmerzhaft war, aber machbar schien. Der Plan war ein guter: vernünftig bleiben, das Kind im Mittelpunkt, Kompromisse finden. Ich war überzeugt, dass zwei Menschen, die sich einmal geliebt haben, auch als Eltern miteinander auskommen können.
+Der Anfang war wie bei vielen: Eine Trennung, die schmerzhaft war, aber machbar schien. Der Plan war ein guter: vernünftig bleiben, die Kinder im Mittelpunkt, Kompromisse finden. Ich war überzeugt, dass zwei Menschen, die sich einmal geliebt haben, auch als Eltern miteinander auskommen können.
 
 Diese Überzeugung hielt etwa sechs Wochen.
 
@@ -206,6 +206,8 @@ Nicht weil es eine Lösung bot. Sondern weil es endlich einen Namen hatte, was i
 
 Von da an begann eine andere Art von Auseinandersetzung. Ich las.
 
+Auf Deutsch fand ich zunächst wenig, das zu dieser Situation passte. Keinen einzigen Ratgeber, der speziell für Eltern in Hochkonfliktsituationen geschrieben war. Die vorhandenen deutschen Bücher setzten eine Kooperationsbereitschaft voraus, die in meiner Situation schlicht nicht vorhanden war — oder sie blieben juristisch-trocken, ohne das zu berühren, was einen nachts wachhält. Also suchte ich weiter: in englischsprachiger Fachliteratur, in amerikanischen und britischen Ratgebern, in wissenschaftlichen Studien.
+
 Ich las **Judith Wallerstein**, deren Langzeitstudie über Scheidungskinder bis heute zu den einflussreichsten ihrer Art gehört. Ich las **Joan Kelly** und **Janet Johnston**, die das Konzept des Hochkonflikts in der Scheidungsforschung maßgeblich geprägt haben. Ich arbeitete mich durch **Bill Eddys** Schriften über High Conflict Personalities und das BIFF-Kommunikationsprinzip. Ich entdeckte die Forschung zur Stressphysiologie bei Kindern in Dauerkonflikt – was anhaltende Belastung mit einem kindlichen Nervensystem anrichtet, das keine Ruhepause kennt.
 
 Gleichzeitig sammelte ich Erfahrung. Neun Jahre davon.
@@ -226,7 +228,13 @@ Zuerst war es ein Bekannter, der gerade am Anfang einer ähnlichen Situation sta
 
 Ich merkte: Was ich in neun Jahren zusammengesucht, ausprobiert und verstanden hatte, existierte nirgendwo gebündelt auf Deutsch. Es gab amerikanische Bücher, deren rechtliche und systemische Rahmenbedingungen nicht auf Deutschland passen. Es gab Ratgeber für kooperative Trennungen, die an der Realität von Hochkonfliktsituationen vorbeigingen. Es gab juristische Handbücher ohne emotionale Tiefe – und emotionale Ratgeber ohne praktische Konsequenz.
 
-Die Lücke war real.
+<!-- ÄNDERUNG 5 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
+
+Alternative A [Empfehlung]: Das Buch, das ich gebraucht hätte, gab es auf Deutsch schlicht nicht.
+
+Alternative B: Was fehlte, war je länger, je offensichtlicher — und irgendwann nicht mehr zu ignorieren.
+
+-->
 
 Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkeit, sondern mit dem Anspruch auf **Nützlichkeit** – für Menschen, die gerade mittendrin sind und nicht wissen, wohin sie schauen sollen.
 
@@ -234,7 +242,7 @@ Dieses Buch versucht, sie zu füllen. Nicht mit dem Anspruch auf Vollständigkei
 
 ### Was dieses Buch ist – und was es nicht ist
 
-Dieses Buch ist kein Erfahrungsbericht. Konkrete persönliche Ereignisse spielen keine Rolle; sie wären auch nicht verallgemeinerbar. Was zählt, sind die **Muster**, die immer wieder auftauchen – in der Forschung, in Beratungsprotokollen, in den Schilderungen von Hunderten von Eltern, mit denen ich im Laufe der Jahre gesprochen habe.
+Dieses Buch ist kein Erfahrungsbericht. Konkrete persönliche Ereignisse spielen keine Rolle; sie wären auch nicht verallgemeinerbar. Was zählt, sind die **Muster**, die immer wieder auftauchen – in der Forschung, in Beratungsprotokollen, in den Schilderungen von Eltern, mit denen ich im Laufe der Jahre gesprochen habe.
 
 Dieses Buch ist auch kein akademisches Werk. Die Forschung, auf die es sich stützt, ist real und wird im Anhang aufgeführt. Aber der Ton ist der eines Menschen, der das hier selbst durchlebt hat – und der weiß, dass man um 2 Uhr nachts, wenn man nicht schlafen kann und die nächste Anhörung übermorgen ist, keinen wissenschaftlichen Aufsatz lesen möchte.
 
@@ -254,7 +262,13 @@ Dieses Buch wäre nicht entstanden ohne die vielen Menschen, die ihre Erfahrunge
 
 ---
 
-Bücher über schwierige Themen werden anders gelesen als andere Bücher.
+<!-- ÄNDERUNG 7 – zwei Alternativen, bitte eine wählen und die andere samt dieser Notiz löschen:
+
+Alternative A [Empfehlung]: Du wirst dieses Buch wahrscheinlich nicht von vorne nach hinten lesen – und das ist vollkommen in Ordnung.
+
+Alternative B: Fang ruhig mittendrin an, wenn dort gerade deine Situation wartet.
+
+-->
 
 Vielleicht springst du direkt zu einem bestimmten Kapitel, weil du gerade in einer konkreten Situation steckst – eine Anhörung steht bevor, eine E-Mail wartet auf Antwort, ein Gespräch mit dem Jugendamt ist für nächste Woche angesetzt. Das ist vollkommen in Ordnung. Dieses Buch ist so aufgebaut, dass einzelne Kapitel auch unabhängig voneinander Nutzen entfalten.
 
