@@ -146,7 +146,7 @@ Du wirst lernen:
 
 Dieses Buch ist kein Heilversprechen. Es ist ein Werkzeugkasten – konkret, erprobt, für den langen Weg. Manches wird sofort helfen. Anderes wird erst nach Monaten Sinn ergeben. Und vieles wird schwerer sein, als es sich liest.
 
-Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
+Aber du bist nicht allein. Schätzungsweise 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – was das konkret bedeutet, zeigt Kapitel 1. Das bedeutet in Deutschland: Hunderttausende Eltern und Kinder, die gerade das Gleiche durchleben wie du.
 
 > *Abbildung 2: Statistik-Visualisierung: 10–15 % aller Trennungen mit Kindern verlaufen als Hochkonflikt – Verhältnisdarstellung, die das Ausmaß greifbar macht und signalisiert: „Du bist nicht allein."*
 
