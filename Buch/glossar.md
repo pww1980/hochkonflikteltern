@@ -40,7 +40,7 @@ Eine Persönlichkeitsstörung, bei der Regeln und Rechte anderer dauerhaft missa
 
 ## B
 
-**BIFF-Prinzip**
+**BIFF-Prinzip** *(auch: BIFF-Methode)*
 Eine Kommunikationsstrategie des High Conflict Institute für den Umgang mit Hochkonfliktelternteilen. BIFF steht für: **B**rief (kurz), **I**nformative (sachlich), **F**riendly (freundlich im Ton), **F**irm (klar in der Aussage). Das Ziel ist nicht, den Konflikt zu lösen, sondern ihn nicht zu füttern.
 → *Siehe auch: JADE-Falle, High Conflict Institute*
 
@@ -51,6 +51,10 @@ Die Bindungstheorie (entwickelt von John Bowlby in den 1960er/70er Jahren) besch
 **Bindungsirritation**
 Störung des Bindungssystems, die entsteht, wenn eine Bezugsperson gleichzeitig Quelle von Sicherheit *und* Quelle von Bedrohung oder Konflikt ist. Das Kind kann das Dilemma nicht auflösen: Nähe suchen bei jemanden, der auch Angst macht, überfordert das Nervensystem.
 → *Siehe auch: Bindung, Loyalitätskonflikt*
+
+**Bindungstoleranz**
+Die Fähigkeit eines Elternteils, die Bindung des Kindes an den anderen Elternteil nicht nur zu dulden, sondern aktiv zu unterstützen und zu fördern – auch dann, wenn die eigene Beziehung zu diesem Menschen zerbrochen ist. Bindungstoleranz gilt in familienpsychologischen Gutachten als zentrales Kriterium der Erziehungsfähigkeit: Wer das Kind darin bestärkt, den anderen Elternteil zu lieben, beweist, dass das Kindeswohl über den eigenen Schmerz gestellt wird. Das Gegenteil – das aktive Untergraben der Eltern-Kind-Beziehung zum anderen Elternteil – ist eines der deutlichsten Warnsignale in Sorgerechtsverfahren.
+→ *Siehe auch: Elterliche Entfremdung, Loyalitätskonflikt, Erziehungsfähigkeit*
 
 **Bindungsstil (erwachsener)**
 Das im Erwachsenenalter vorherrschende Muster im Umgang mit Nähe, Vertrauen und Verlust in engen Beziehungen. Die Bindungsforschung (Main et al.) unterscheidet vier Typen: sicher-autonom (kohärente, balancierte Beziehung zur eigenen Geschichte), unsicher-distanziert (Abwertung von Nähe und Abhängigkeit), unsicher-verstrickt (andauernde emotionale Aktivierung durch Vergangenheit), desorganisiert (kein kohärentes Muster, oft bei unverarbeitetem Trauma). Bindungsstile sind keine unveränderlichen Eigenschaften – sie können durch korrigierende Erfahrungen verändert werden.
@@ -146,6 +150,10 @@ Eingeschränkte Fähigkeit, die Perspektive, Gefühle oder Bedürfnisse anderer 
 Die Wissenschaft davon, wie Umwelterfahrungen die Aktivität von Genen verändern – ohne die DNA-Sequenz selbst zu verändern. Bestimmte Gene können „an-" oder „abgeschaltet" werden, etwa durch anhaltenden Stress in der Kindheit. Wichtig: Epigenetische Veränderungen sind teilweise reversibel.
 → *Siehe auch: Chronischer Stress, HPA-Achse*
 
+**Erziehungsfähigkeit**
+Rechtlicher und psychologischer Begriff für die Gesamtheit der Kompetenzen eines Elternteils, dem Kind eine stabile, förderliche und bindungssichere Entwicklung zu ermöglichen. In familienpsychologischen Gutachten das zentrale Beurteilungskriterium: Gutachterinnen und Gutachter bewerten unter anderem die emotionale Verfügbarkeit, die Feinfühligkeit, die Kooperationsbereitschaft mit dem anderen Elternteil, die Bindungstoleranz und – besonders bedeutsam – die Reflexionsfähigkeit des Elternteils. Wer eigene Fehler sachlich benennen kann, ohne sich in die Opferrolle zu begeben oder den anderen ausschließlich verantwortlich zu machen, zeigt eine Schlüsselkompetenz für Erziehungsfähigkeit. Erziehungsunfähigkeit führt rechtlich zur Einschränkung oder zum Entzug von Sorge- und Umgangsrecht (§ 1666 BGB).
+→ *Siehe auch: Bindungstoleranz, Sachverständiger, Reflexionsfähigkeit, Kindeswohl*
+
 **Eskalation**
 Die Steigerung eines Konflikts in Intensität, Mittel oder Reichweite. Im Hochkonfliktkontext oft automatisch: Je mehr man sich verteidigt oder erklärt, desto mehr Gesprächsstoff entsteht. Eskalation kann durch beide Seiten beschleunigt werden – aber auch durch eine Seite verlangsamt.
 → *Siehe auch: Deeskalation, JADE-Falle*
@@ -189,6 +197,10 @@ Das Gefühl, besonders, überlegen oder zu Besonderem berufen zu sein – über 
 ---
 
 ## H
+
+**Hochkonflikt (hochstrittige Trennung)**
+Eine Trennungs- oder Scheidungssituation, in der der elterliche Konflikt nach der Trennung nicht abnimmt, sondern anhält oder eskaliert – trotz rechtlicher Regelungen, Mediation oder Beratung. Charakteristisch: intensive gegenseitige Feindseligkeit, chronisches Misstrauen, häufige gerichtliche Auseinandersetzungen und die Einbeziehung des Kindes in den Konflikt. Die Forschung (Johnston & Campbell, 1988; Kelly, 2003) geht davon aus, dass 10–15 % aller Trennungen mit Kindern als Hochkonflikt verlaufen. Hochkonflikt unterscheidet sich von normalen schwierigen Trennungen durch seine Dauerhaftigkeit, seine Institutionalisierung (Verfahren häufen sich) und die systematische Schädigung des Kindes durch anhaltende Loyalitätskonflikte und Spannungsexposition.
+→ *Siehe auch: HCP, Koerzive Kontrolle, Parallel Parenting, DARVO*
 
 **HCP (High Conflict Personality)**
 Ein Begriff des High Conflict Institute für Menschen, deren Persönlichkeitsmuster dauerhaft zu Konflikten führt – durch Alles-oder-nichts-Denken, unkontrollierte Emotionen, extremes Verhalten und die Tendenz, andere für alle Probleme verantwortlich zu machen. Kein offizieller Diagnosebegriff, aber ein nützliches Beschreibungsmodell.
@@ -269,6 +281,10 @@ Der zentrale, aber unbestimmte Rechtsbegriff im deutschen Familienrecht – Maß
 **Ko-Elternschaft / Koelternschaft**
 Die Zusammenarbeit getrennter Elternteile in allen Fragen, die das Kind betreffen. Ko-Elternschaft erfordert keine Freundschaft, keine gemeinsamen Mahlzeiten und keine emotionale Nähe – sie erfordert sachliche Kommunikation über Alltagsthemen des Kindes. Auch „paralleles Elternsein" (ohne direkte Koordination) gilt als Form der Ko-Elternschaft.
 
+**Koerzive Kontrolle** *(auch: Coercive Control)*
+Die systematische Unterdrückung einer Person durch ein Muster aus Einschüchterung, Überwachung, Isolation, Demütigung und psychologischer Manipulation – oft über lange Zeiträume und ohne körperliche Gewalt. Koerzive Kontrolle ist keine Eskalation auf Augenhöhe: Sie ist ein Kontrollsystem, in dem eine Person dauerhaft die Autonomie, die Sicherheit und das Selbstwertgefühl der anderen zerstört. Die **Istanbul-Konvention** (Europarat, ratifiziert von Deutschland 2018) benennt psychische Gewalt, Nötigung und Nachstellung ausdrücklich als eigenständige Gewaltformen. Der Unterschied zum Hochkonflikt: Im Hochkonflikt besteht eine (wenn auch toxische) Wechselseitigkeit; bei Koerziver Kontrolle ist die Machtasymmetrie strukturell und dauerhaft. Gaslighting, finanzielle Kontrolle und soziale Isolation sind typische Elemente. Wer koerziver Kontrolle ausgesetzt ist, braucht spezialisierte Unterstützung – nicht nur Hochkonfliktstrategie.
+→ *Siehe auch: Gaslighting, Hochkonflikt, Smear Campaign*
+
 **Kognitive Starrheit**
 Festhalten an einem einmal gebildeten Urteil, auch wenn neue Informationen es in Frage stellen. Bei narzisstischer Persönlichkeitsstörung häufig: Das Bild vom anderen bleibt unveränderlich negativ, unabhängig vom tatsächlichen Verhalten. Das Gegenteil ist kognitive Flexibilität.
 
@@ -338,6 +354,10 @@ Ein strukturiertes Trainingsprogramm des High Conflict Institute für Eltern in 
 **Parentifizierung**
 Das Phänomen, bei dem ein Kind emotionale Aufgaben übernimmt, die eigentlich Erwachsenen zukommen: Trösten, Zuhören, Kümmern, Beschützen. Häufig in Hochkonfliktsituationen, wenn ein Elternteil das Kind als Vertrauensperson oder emotionalen Anker benutzt. Das Kind übernimmt Verantwortung, die es überfordert – auf Kosten seiner eigenen Entwicklung.
 → *Siehe auch: Loyalitätskonflikt, Triangulation*
+
+**PAS – Parentales Entfremdungssyndrom** *(Parental Alienation Syndrome)*
+Ein von dem amerikanischen Psychiater Richard Gardner (1985) geprägter Begriff für ein Muster, bei dem ein Kind dazu gebracht wird, einen Elternteil grundlos abzulehnen – verursacht durch die systematische Beeinflussung durch den anderen Elternteil. **Wichtiger Hinweis zur wissenschaftlichen Kontroverse:** PAS als eigenständiges klinisches Syndrom ist wissenschaftlich nicht anerkannt und nicht in DSM-5 oder ICD-11 aufgenommen. Kritiker weisen darauf hin, dass der Begriff häufig missbraucht wird, um begründete Ablehnung eines Kindes (z. B. nach tatsächlichen Übergriffen) zu pathologisieren. In deutschen Familiengerichten wird das Konzept mit zunehmender Zurückhaltung behandelt. Anerkannt und rechtlich relevant ist hingegen das **Phänomen der elterlichen Entfremdung** als Verhaltensmuster – also das systematische Untergraben der Eltern-Kind-Beziehung zum anderen Elternteil (→ *Elterliche Entfremdung*), das nach § 1684 Abs. 2 BGB dem Wohlverhaltensgebot widerspricht.
+→ *Siehe auch: Elterliche Entfremdung, Loyalitätskonflikt, Bindungstoleranz*
 
 **Persönlichkeitsstörung**
 Ein dauerhaftes Muster des Erlebens und Verhaltens, das erheblich von kulturellen Erwartungen abweicht, unflexibel ist und zu Leidensdruck oder Beeinträchtigungen führt. Wichtig: Es geht nicht um gelegentlich schwieriges Verhalten, sondern um ein stabiles, durchgängiges Muster. Persönlichkeitsstörungen sind keine Charakterfehler – aber sie erklären, warum bestimmte Verhaltensweisen sich nicht durch Vernunft oder Appelle verändern.

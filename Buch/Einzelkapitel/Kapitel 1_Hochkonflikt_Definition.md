@@ -26,7 +26,7 @@ Für einen kleineren Teil gilt das nicht. Bei ihnen bleibt der Konflikt nicht nu
 
 Diese Gruppe macht nach übereinstimmenden Schätzungen **10–15 % aller Trennungen mit Kindern** aus.
 
-> **[GRAFIK-PLATZHALTER – Grafik 7]** *Verlaufsgrafik: Typischer Konfliktintensitätsverlauf nach Trennung – Vergleich "normale Trennung" (Intensität sinkt nach 1–2 Jahren) vs. "Hochkonflikt" (Intensität bleibt hoch oder steigt)*
+> *Abbildung 7: Verlaufsgrafik: Typischer Konfliktintensitätsverlauf nach Trennung – Vergleich "normale Trennung" (Intensität sinkt nach 1–2 Jahren) vs. "Hochkonflikt" (Intensität bleibt hoch oder steigt)*
 
 ---
 
@@ -72,7 +72,7 @@ Was sich auf der Oberfläche als Streit um Besuchszeiten, Schulgeld oder Urlaubs
 
 Das vielleicht schwerste Merkmal: Die Kinder sind nicht nur mitbetroffen – sie werden, bewusst oder unbewusst, in den Konflikt hineingezogen. Als Informationsquelle. Als Botschafter. Als Beweisstücke. Als emotionale Stütze. Manchmal als Instrument, den anderen Elternteil zu schädigen. Die Forschung zeigt, dass dieser Prozess – die sogenannte *Triangulation* – einer der stärksten Risikofaktoren für die langfristige psychische Gesundheit der Kinder ist.
 
-> **[GRAFIK-PLATZHALTER – Grafik 8]** *Übersichtsgrafik: Die vier Merkmale einer Hochkonflikttrennung im Vergleich zur normalen schwierigen Trennung*
+> *Abbildung 8: Übersichtsgrafik: Die vier Merkmale einer Hochkonflikttrennung im Vergleich zur normalen schwierigen Trennung*
 
 ---
 

@@ -113,7 +113,7 @@ Hetheringtons Studie ist methodisch stärker als Wallersteins – größere und 
 - **Hochkonflikt-Scheidungen** (Amatos Begriff: „high-conflict divorces") zeigen konsistent die schlechtesten Outcomes für Kinder.
 - Ein oft übersehener Befund: **Kinder aus hochkonflikthaften intakten Familien** schneiden schlechter ab als Kinder aus konfliktarmen Scheidungsfamilien. Das bedeutet: Es ist nicht die Trennung, die schadet – es ist der Konflikt. Dieser Befund hat erhebliche Konsequenzen für die Frage, ob Paare „um der Kinder willen" zusammenbleiben sollten.
 
-> **[GRAFIK-PLATZHALTER – Grafik 12]** *Übersichtsgrafik: Kindliche Outcomes im Vergleich – intakte Familie / konfliktarme Scheidung / Hochkonflikt-Scheidung nach Amato und Hetherington*
+> *Abbildung 12: Übersichtsgrafik: Kindliche Outcomes im Vergleich – intakte Familie / konfliktarme Scheidung / Hochkonflikt-Scheidung nach Amato und Hetherington*
 
 ---
 

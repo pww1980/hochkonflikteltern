@@ -26,9 +26,9 @@ Das Buch ist in fünf Teile gegliedert, die aufeinander aufbauen – aber auch e
 
 **Teil 5 – Langfristig denken** nimmt den Blick zurück und gibt ihn wieder frei. Hochkonfliktsituationen verändern sich über Jahre. Was in der Akutphase gilt, gilt in der Stabilisierungsphase nicht mehr. Dieses Kapitel gibt Orientierung für die lange Strecke.
 
-> **[GRAFIK-PLATZHALTER – Grafik 5]** *Buchstruktur als visuelle Übersicht: Die fünf Teile als Landkarte oder Wegweiser – zur schnellen Orientierung und als Einladung, gezielt einzusteigen*
+> *Abbildung 5: Buchstruktur als visuelle Übersicht: Die fünf Teile als Landkarte oder Wegweiser – zur schnellen Orientierung und als Einladung, gezielt einzusteigen*
 
-> **[GRAFIK-PLATZHALTER – Grafik 6]** *Situationsbasierte Leseempfehlung: Kleine Entscheidungshilfe – welche Teile je nach aktueller Situation besonders hilfreich sind (z. B. „Ich stehe ganz am Anfang → Teil 1 + 2", „Ich bin seit Jahren mittendrin → Teil 4 + 5", „Gerichtstermin steht bevor → Teil 2 + 3")*
+> *Abbildung 6: Situationsbasierte Leseempfehlung: Kleine Entscheidungshilfe – welche Teile je nach aktueller Situation besonders hilfreich sind (z. B. „Ich stehe ganz am Anfang → Teil 1 + 2", „Ich bin seit Jahren mittendrin → Teil 4 + 5", „Gerichtstermin steht bevor → Teil 2 + 3")*
 
 ---
 

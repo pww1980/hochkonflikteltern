@@ -44,9 +44,9 @@ Triangulation braucht die Lücke. Wenn kein direkter Kommunikationsweg besteht o
 
 **Beispiel – Das Muster:**
 
-Beim Abholen sagt Ben (8 Jahre) unaufgefordert: *„Mama hat gesagt, du sollst ihr bis Freitag schreiben, ob wir Weihnachten teilen oder nicht. Sonst ruft sie beim Anwalt an."*
+Beim Abholen sagt Ben (8 Jahre) unaufgefordert: *„Mama hat... sie hat gesagt... du sollst ihr schreiben. Wegen Weihnachten. Bis Freitag. Sonst – sonst ruft sie den Anwalt an oder so. Sie sagt, das ist wichtig."*
 
-Ben trägt eine Drohung – adressiert an dich, formuliert von seiner Mutter, transportiert durch ihn. Er weiß nicht, was ein Anwalt macht. Er weiß, dass etwas Schlimmes passiert, wenn du bis Freitag nicht schreibst. Er weiß, dass er das überbringen musste.
+Ben trägt eine Drohung – adressiert an dich, formuliert von seiner Mutter, transportiert durch ihn. Er weiß nicht, was ein Anwalt macht. Er weiß, dass etwas Schlimmes passiert, wenn du bis Freitag nicht schreibst. Er weiß, dass er das überbringen musste. Die Wörter gehören nicht ihm – er hat sie nur gelernt.
 
 **Beispiel – Die Gegenstrategie:**
 
@@ -89,13 +89,13 @@ Kinder sind außerordentlich empfindlich dafür, was von ihnen erwartet wird. We
 
 **Beispiel – Das Muster:**
 
-Lena (10 Jahre) kommt von einem Wochenende bei dir zurück. Beim Abendessen sagt sie: *„Papa hat geweint. Er hat gesagt, er weiß nicht, wie er die Wohnung halten soll. Ich hab ihm versprochen, dass ich öfter bei ihm bleibe."*
+Lena (10 Jahre) kommt von einem Wochenende bei dir zurück. Beim Abendessen sagt sie: *„Papa... Papa hat geweint. Richtig. Er hat gesagt, er weiß nicht mehr wie – mit der Wohnung und dem Geld und so. Ich hab gesagt, ich bleib öfter. Weil er so allein ist. Er sagt immer, ich bin das Einzige, was er noch hat."*
 
-Lena hat Papa ein Versprechen gegeben, das seine Situation verbessern soll. Sie hat die Verantwortung übernommen, ihn zu stützen. Sie hat ihre Freiheit beschränkt, um seine Not zu lindern.
+Lena hat Papa ein Versprechen gegeben, das seine Situation verbessern soll. Sie hat die Verantwortung übernommen, ihn zu stützen. Sie hat ihre Freiheit beschränkt, um seine Not zu lindern. Der letzte Satz ist nicht ihrer – er ist übernommen, eingraviert, aus vielen solcher Gespräche zusammengesetzt.
 
 **Beispiel – Die Gegenstrategie:**
 
-Du hörst zu, ohne Papas Verhalten zu kommentieren. Dann: *„Ich bin froh, dass du ihm zuhörst. Aber weißt du was? Für Pagas Wohnung und sein Geld ist Papa selbst zuständig – und ich helfe dir, das zu verstehen: Du musst das nicht regeln. Deine Aufgabe ist, Kind zu sein. Das ist genug."*
+Du hörst zu, ohne Papas Verhalten zu kommentieren. Dann: *„Ich bin froh, dass du ihm zuhörst. Aber weißt du was? Für Papas Wohnung und sein Geld ist Papa selbst zuständig – und ich helfe dir, das zu verstehen: Du musst das nicht regeln. Deine Aufgabe ist, Kind zu sein. Das ist genug."*
 
 Kein Angriff auf Papa. Klare Entlassung aus der Verantwortung.
 
@@ -130,7 +130,7 @@ Das Ziel der Entfremdung ist, dass du reagierst: eskalierst, kämpfst, das Kind 
 
 **Beispiel – Das Muster:**
 
-Jonas (12 Jahre) sagt beim Wechsel: *„Ich will eigentlich nicht kommen. Mama sagt, du machst immer alles kaputt."* – Er kann nicht erklären, was konkret *kaputt* gemacht wurde. Er kennt nur den Satz.
+Jonas (12 Jahre) sagt beim Wechsel: *„Ich will... ich will eigentlich nicht kommen. Mama sagt, du machst immer alles kaputt. Dass du nie wirklich da warst. Nie. So hat sie das gesagt."* – Er kann nicht erklären, was konkret *kaputt* gemacht wurde. Er kennt nur den Satz. Und den Satz davor. Und den davor. Er hat sie auswendig gelernt, ohne es zu merken.
 
 Beim Abendessen schweigt er. Er weicht Blickkontakt aus. Am nächsten Morgen ist er wieder entspannter. Am Sonntag, kurz vor der Rückkehr, wird er wieder angespannt.
 
@@ -210,9 +210,9 @@ Kinder benutzen nicht, wer sie nicht benutzt. Wenn du deutlich machst, dass du k
 
 **Beispiel – Das Muster:**
 
-Clara (9 Jahre) kommt von einem Wochenende zurück und fragt beim Abendessen: *„Papa hat gefragt, ob du jetzt mit jemandem zusammen bist."*
+Clara (9 Jahre) kommt von einem Wochenende zurück und fragt beim Abendessen: *„Papa hat gefragt... also, er hat gefragt, ob du jetzt – ob du eine neue Freundin hast oder so. Er hat schon ein paarmal gefragt."*
 
-Sie fragt es so, wie man fragt, wenn man eine Antwort erwartet – nicht aus eigenem Interesse, sondern im Auftrag.
+Sie fragt es so, wie man fragt, wenn man eine Antwort erwartet – nicht aus eigenem Interesse, sondern im Auftrag. Das „schon ein paarmal" ist das Verräterische.
 
 **Beispiel – Die Gegenstrategie:**
 
@@ -249,9 +249,9 @@ Das Kind wartet auf Erlaubnis. Die Erlaubnis, beide zu lieben, ohne schuldig zu 
 
 **Beispiel – Das Muster:**
 
-Mia (7 Jahre) kommt strahlend von einem Ausflug mit dir zurück. Beim Abendessen erzählt sie Papa davon. Papa wird still. Mia sagt, ein paar Tage später: *„Papa war so traurig, als ich von euch erzählt hab. Ich glaub, ich erzähl das nicht mehr."*
+Mia (7 Jahre) kommt strahlend von einem Ausflug mit dir zurück. Beim Abendessen erzählt sie Papa davon. Papa wird still. Mia sagt, ein paar Tage später: *„Papa... Papa hat gar nichts mehr gesagt. Beim Essen. Weil ich vom Zoo erzählt hab. Von uns. Und dann – ich weiß nicht. Er war so anders. Ich glaub ich erzähl das lieber nicht mehr. Das mit dem Zoo und so."*
 
-Sie hat gelernt: Freude über dich macht Papa traurig. Sie wählt, zu schweigen.
+Sie hat gelernt: Freude über dich macht Papa traurig. Sie wählt, zu schweigen. Mit sieben Jahren hat sie bereits ein Doppelleben.
 
 **Beispiel – Die Gegenstrategie:**
 

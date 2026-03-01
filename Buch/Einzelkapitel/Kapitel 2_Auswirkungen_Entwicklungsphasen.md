@@ -20,7 +20,7 @@ Die bekanntesten Entwicklungsmodelle – **Jean Piagets** Theorie der kognitiven
 
 Für den Hochkonfliktkontext haben **Judith Wallerstein**, **Joan Kelly** und **Janet Johnston** diese allgemeinen Entwicklungstheorien auf die spezifische Situation von Scheidungs- und Trennungskindern angewandt. Ihr Befund: Jede Altersstufe hat charakteristische Reaktionsmuster, charakteristische Risiken – und charakteristische Ressourcen.
 
-> **[GRAFIK-PLATZHALTER – Grafik 14]** *Übersicht der Altersstufen mit typischen Reaktionsmustern und Schutzmaßnahmen (Zeitleiste/Tabelle)*
+> *Abbildung 14: Übersicht der Altersstufen mit typischen Reaktionsmustern und Schutzmaßnahmen (Zeitleiste/Tabelle)*
 
 ---
 

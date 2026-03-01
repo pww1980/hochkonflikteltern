@@ -140,7 +140,7 @@ Eine Untersuchung von **Johnston & Roseby** (1997) an einer klinischen Stichprob
 
 Das erklärt, warum die Strategien in diesem Buch so stark von dem abweichen, was in normalen Trennungssituationen empfohlen wird: Die Population, um die es geht, ist psychologisch anders strukturiert als der Durchschnitt.
 
-> **[GRAFIK-PLATZHALTER – Grafik 10]** *Übersichtsgrafik: Cluster-B-Persönlichkeitsstörungen im Vergleich – Kerndynamiken, typische Auslöser und Erscheinungsformen im Hochkonflikt (NPS / BPS / ASPS)*
+> *Abbildung 10: Übersichtsgrafik: Cluster-B-Persönlichkeitsstörungen im Vergleich – Kerndynamiken, typische Auslöser und Erscheinungsformen im Hochkonflikt (NPS / BPS / ASPS)*
 
 ---
 
