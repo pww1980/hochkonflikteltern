@@ -45,15 +45,7 @@ Wenn du bei mehreren dieser Punkte gedacht hast: „Ja, genau das ist es" – da
 
 ### Wofür dieses Buch nicht ausreicht – und was dann zu tun ist
 
-Bevor wir weitergehen, muss ich eine Grenze ziehen. Klar und unmissverständlich. Denn es gibt Situationen, in denen ein Buch keine ausreichende Antwort ist – in denen du sofortigen, professionellen Schutz brauchst.
-
-#### Wenn körperliche oder psychische Gewalt im Spiel ist
-
-Hochkonflikttrennung und Gewalt werden im öffentlichen Diskurs manchmal in einem Atemzug genannt. Sie sind **nicht dasselbe**.
-
-Ein Hochkonflikt – wie ihn dieses Buch beschreibt – ist eine Situation, in der zwei Elternteile in einem eskalierenden Streit um Kontrolle, Deutungshoheit oder das Sorgerecht verstrickt sind. Das ist schmerzhaft. Es zermürbt. Und es schadet Kindern langfristig. Aber zwischen Hochkonflikt und **tatsächlicher Gewalt** liegt ein fundamentaler, rechtlich entscheidender Unterschied.
-
-Dieses Buch ist **nicht** das richtige Mittel, wenn:
+Bevor wir weitergehen, muss ich eine Grenze ziehen. Hochkonflikttrennung und Gewalt werden manchmal in einem Atemzug genannt – sie sind **nicht dasselbe**, und dieser Unterschied ist entscheidend. Dieses Buch ist **nicht** das richtige Mittel, wenn:
 
 - Du körperliche Übergriffe durch den anderen Elternteil erlebt hast oder erlebst.
 - Du emotional, psychisch oder sexuell misshandelt wirst oder wurdest.
@@ -63,51 +55,45 @@ Dieses Buch ist **nicht** das richtige Mittel, wenn:
 
 In diesen Situationen braucht es andere Schritte – und die braucht es **jetzt**.
 
----
+> **Sofortige Hilfe – Anlaufstellen in Deutschland**
+>
+> **Deine Sicherheit und die Sicherheit deines Kindes haben absolute Priorität.** Hochkonflikt-Strategien wie Kommunikationsgrenzen oder Parallel Parenting ersetzen keinen Schutzplan.
+>
+> - **Polizei: 110** – Bei akuter Gefahr sofort anrufen. Die Polizei kann einen Platzverweis und eine Schutzanordnung (Gewaltschutzgesetz) erwirken.
+> - **Hilfetelefon Gewalt gegen Frauen: 08000 116 016** – Kostenlos, 24/7, anonym, mehrsprachig. Auch für Männer als Hinweisgeber. (hilfetelefon.de)
+> - **Männerberatung / Männerhilfetelefon: 0800 123 99 00** – Für von Gewalt betroffene Männer. Kostenlos, bundesweit. (maennerhilfetelefon.de)
+> - **Frauenhäuser**: Dein lokales Frauenhaus ist über hilfetelefon.de zu finden. Kinder können mit aufgenommen werden.
+> - **Kinderschutz-Hotline: 0800 1110550** – Das Hilfetelefon Kinderschutz, rund um die Uhr erreichbar.
+> - **Nummer gegen Kummer (Kinder und Jugendliche): 116 111** – Kostenlos, wenn dein Kind selbst Hilfe sucht.
+>
+> **Rechtliche Möglichkeiten:**
+>
+> - Das **Gewaltschutzgesetz (GewSchG)** ermöglicht Näherungs- und Kontaktverbote – auch ohne Strafanzeige.
+> - Ein **Anwalt für Familienrecht** kann im Eilverfahren eine **einstweilige Verfügung** erwirken.
+> - Das **Jugendamt** ist verpflichtet, bei Kindeswohlgefährdung zu handeln. Du kannst dort Meldung erstatten – auch anonym.
+>
+> **Wenn du dir nicht sicher bist**, ob das, was du erlebst, als Gewalt gilt: Frag nach. Ein Anruf beim Hilfetelefon oder einer Beratungsstelle kostet nichts und verpflichtet zu nichts. Niemand wird dich verurteilen.
 
-#### Was du tun kannst, wenn Gewalt vorliegt
+> **Wenn dein Kind akut gefährdet sein könnte**
+>
+> Es gibt Hochkonfliktsituationen, in denen ein Elternteil das Kind emotional unter Druck setzt, manipuliert oder für eigene Zwecke instrumentalisiert – das ist schädlich, und dieses Buch wird darauf eingehen. Es gibt aber auch Situationen, in denen ein Kind **akut gefährdet** ist: durch körperliche Misshandlung, sexuellen Missbrauch, massive Vernachlässigung oder das Miterleben schwerer häuslicher Gewalt.
+>
+> Wenn du folgende Anzeichen siehst:
+>
+> - Körperliche Verletzungen, für die es keine plausible Erklärung gibt
+> - Sexualisiertes Verhalten, das nicht altersentsprechend ist
+> - Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben
+> - Äußerungen des Kindes, die auf Misshandlung hindeuten
+>
+> Dann wende dich an:
+>
+> - Das **Jugendamt** (auch außerhalb der Öffnungszeiten gibt es Bereitschaftsdienste)
+> - Den **Kinderarzt oder die Kinderärztin** deines Kindes – Ärzte sind zur Meldung verpflichtet und können dokumentieren
+> - Die **Kinderschutz-Hotline: 0800 1110550**
+>
+> Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
 
-**Deine Sicherheit und die Sicherheit deines Kindes haben absolute Priorität.** Hochkonflikt-Strategien wie Kommunikationsgrenzen oder Parallel Parenting ersetzen keinen Schutzplan.
-
-**Sofortige Anlaufstellen in Deutschland:**
-
-- **Polizei: 110** – Bei akuter Gefahr sofort anrufen. Die Polizei kann einen Platzverweis und eine Schutzanordnung (Gewaltschutzgesetz) erwirken.
-- **Hilfetelefon Gewalt gegen Frauen: 08000 116 016** – Kostenlos, 24/7, anonym, mehrsprachig. Auch für Männer als Hinweisgeber. (hilfetelefon.de)
-- **Männerberatung / Männerhilfetelefon: 0800 123 99 00** – Für von Gewalt betroffene Männer. Kostenlos, bundesweit. (maennerhilfetelefon.de)
-- **Frauenhäuser**: Dein lokales Frauenhaus ist über hilfetelefon.de zu finden. Kinder können mit aufgenommen werden.
-- **Kinderschutz-Hotline: 0800 1110550** – Das Hilfetelefon Kinderschutz, rund um die Uhr erreichbar.
-- **Nummer gegen Kummer (Kinder und Jugendliche): 116 111** – Kostenlos, wenn dein Kind selbst Hilfe sucht.
-
-**Rechtliche Möglichkeiten:**
-
-- Das **Gewaltschutzgesetz (GewSchG)** ermöglicht Näherungs- und Kontaktverbote – auch ohne Strafanzeige.
-- Ein **Anwalt für Familienrecht** kann im Eilverfahren eine **einstweilige Verfügung** erwirken.
-- Das **Jugendamt** ist verpflichtet, bei Kindeswohlgefährdung zu handeln. Du kannst dort Meldung erstatten – auch anonym.
-
-**Wenn du dir nicht sicher bist**, ob das, was du erlebst, als Gewalt gilt: Frag nach. Ein Anruf beim Hilfetelefon oder einer Beratungsstelle kostet nichts und verpflichtet zu nichts. Niemand wird dich verurteilen.
-
----
-
-#### Wenn du dir Sorgen um das Wohl deines Kindes machst
-
-Auch hier ist eine wichtige Unterscheidung nötig.
-
-Es gibt Hochkonfliktsituationen, in denen ein Elternteil das Kind emotional unter Druck setzt, manipuliert oder für eigene Zwecke instrumentalisiert – das ist schädlich, und dieses Buch wird darauf eingehen. Es gibt aber auch Situationen, in denen ein Kind **akut gefährdet** ist: durch körperliche Misshandlung, sexuellen Missbrauch, massive Vernachlässigung oder das Miterleben schwerer häuslicher Gewalt.
-
-Wenn du Anzeichen siehst, dass dein Kind **akut in Gefahr** ist:
-
-- Körperliche Verletzungen, für die es keine plausible Erklärung gibt
-- Sexualisiertes Verhalten, das nicht altersentsprechend ist
-- Starke Regression, Angst vor dem anderen Elternteil oder vor Übergaben
-- Äußerungen des Kindes, die auf Misshandlung hindeuten
-
-Dann wende dich an:
-
-- Das **Jugendamt** (auch außerhalb der Öffnungszeiten gibt es Bereitschaftsdienste)
-- Den **Kinderarzt oder die Kinderärztin** deines Kindes – Ärzte sind zur Meldung verpflichtet und können dokumentieren
-- Die **Kinderschutz-Hotline: 0800 1110550**
-
-Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
+Wenn keine dieser Situationen auf dich zutrifft, lies weiter. Der nächste Abschnitt hilft dir, deine Situation noch genauer einzuordnen.
 
 ---
 
