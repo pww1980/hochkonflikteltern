@@ -317,7 +317,7 @@ Engagement, Geduld und klare, sachliche Kommunikation mit Institutionen – das 
 
 ---
 
-*Ende Kapitel 4. Weiter: Teil 2 – Kommunizieren. Kapitel 5: Das BIFF-Prinzip – Brief, Informativ, Freundlich, Fest.*
+*Ende Kapitel 4. Teil 2 – Kommunizieren. Kapitel 5: Das BIFF-Prinzip.*
 
 
 ---
