@@ -233,3 +233,78 @@ Dieser Ordner ist kein Tagebuch. Er ist ein Beweissystem. Er dient nicht der emo
 - „Wie gehen Sie damit um, wenn ein Elternteil glaubt, dass das Kind instrumentalisiert wird?"
 
 ---
+
+## Kapitel 8: Co-Parenting vs. Parallel Parenting
+
+### Checkliste: Parallel Parenting im Alltag
+
+**Was funktioniert:**
+- ✅ Schriftlich kommunizieren – nicht telefonieren
+- ✅ Nur kindbezogene Themen ansprechen
+- ✅ 48 Stunden warten, bevor provokante Nachrichten beantwortet werden
+- ✅ Informationen direkt bei Schule, Arzt, Verein einholen – nicht über das Kind
+- ✅ Übergaben ohne Gespräch, mit fester Routine
+- ✅ Unterschiedliche Regeln in beiden Haushalten akzeptieren
+- ✅ Elternplan als verbindliche Grundlage nutzen
+
+**Was schadet:**
+- ❌ Das Kind als Boten einsetzen
+- ❌ Über den Konflikt reden, wenn das Kind in Hörweite ist
+- ❌ Auf jede Provokation reagieren
+- ❌ Den anderen Elternteil vor dem Kind kommentieren
+- ❌ Flexibilität einfordern, die nicht im Plan steht
+- ❌ Übergaben für spontane Gespräche nutzen
+
+---
+
+### Elternplan: Vollständige Strukturübersicht
+
+Ein guter Elternplan ist so detailliert, dass er für die häufigsten Alltagssituationen eine Antwort gibt – ohne dass die Eltern reden müssen. Und er ist so klar formuliert, dass er im Zweifelsfall einem Gericht oder dem Jugendamt als Orientierung dienen kann.
+
+**Betreuungszeiten**
+- Reguläre Wochenaufteilung (z.B. Wechselmodell, Residenzmodell, asymmetrisches Modell)
+- Übergabezeitpunkte: wann genau, wo genau
+- Wer bringt und holt
+- Was passiert bei Verspätungen: Wartezeit, Benachrichtigungspflicht, Konsequenz
+
+**Ferien und Feiertage**
+- Sommerferien: Aufteilung, Absprachefristen
+- Schulferien (Herbst, Winter, Frühling, Pfingsten): feste Regelung
+- Feiertage: Wechselmodell oder feste Zuordnung
+- Geburtstage des Kindes, der Eltern, der Großeltern
+- Silvester und Neujahr
+
+**Kommunikation mit dem Kind**
+- Wie oft darf das Kind den anderen Elternteil kontaktieren?
+- Zu welchen Zeiten?
+- Über welche Kanäle?
+- Was passiert, wenn ein Elternteil nicht erreichbar ist?
+
+**Schule und Bildung**
+- Wer bekommt Schulinformationen – und wie? (Schul-App, Elternportal: beide Elternteile tragen sich direkt ein, das Kind wird nicht als Bote gebraucht)
+- Wer entscheidet bei welchen Schulfragen (Schulwahl, Nachhilfe, Schulausflüge)?
+- Wie werden Schultermine koordiniert?
+
+**Gesundheit**
+- Wer informiert wen bei Arztbesuchen – und innerhalb welcher Frist?
+- Wer entscheidet bei Routinemaßnahmen?
+- Wer entscheidet bei größeren Eingriffen?
+- Wer begleitet das Kind zum Arzt? Können beide Elternteile auf digitale Patientenportale zugreifen?
+
+**Außerschulische Aktivitäten**
+- Welche Aktivitäten bestehen bereits?
+- Wer zahlt was?
+- Wer begleitet bei welchen Terminen?
+- Wie werden neue Aktivitäten entschieden?
+
+**Reisen**
+- Ab welcher Entfernung oder Dauer gilt eine Informationspflicht?
+- Welche Unterlagen werden wann ausgetauscht?
+- Wie wird Erreichbarkeit im Urlaub sichergestellt?
+
+**Notfälle**
+- Wie wird der andere Elternteil bei medizinischen Notfällen informiert?
+- Innerhalb welcher Frist?
+- Über welchen Kanal?
+
+---
