@@ -197,3 +197,39 @@ Alle schriftlichen Nachrichten zwischen dir und dem anderen Elternteil gehören 
 Dieser Ordner ist kein Tagebuch. Er ist ein Beweissystem. Er dient nicht der emotionalen Verarbeitung – dafür gibt es andere Orte.
 
 ---
+
+## Kapitel 7: Gespräche, die zählen
+
+### Checkliste: Jugendamtsgespräch
+
+**Vor dem Termin:**
+- [ ] Dokumentation auf aktuellem Stand (Chronologie, relevante Ereignisse)
+- [ ] Kernaussagen formuliert (3–5 Sätze: Was ist das Problem? Was braucht mein Kind?)
+- [ ] Relevante Unterlagen geordnet bereitgelegt (nicht als Papierstapel mitbringen)
+- [ ] Emotionale Regulierung geübt (Atmung, Körperhaltung, Fokus auf Kind)
+- [ ] Termin im Kalender mit Pufferzeit vorher und nachher
+
+**Im Gespräch:**
+- [ ] Konkret bleiben – keine Allgemeinaussagen
+- [ ] Kind in den Mittelpunkt stellen
+- [ ] Den anderen Elternteil beschreiben, nicht angreifen
+- [ ] Fragen stellen: Was passiert mit meiner Aussage? Wie geht es weiter?
+- [ ] Nachfragen, ob und wie protokolliert wird
+
+**Nach dem Gespräch:**
+- [ ] Protokoll anfordern oder selbst erstellen
+- [ ] Schriftliche Zusammenfassung per E-Mail an Jugendamt schicken
+- [ ] Erlebnis kurz aufschreiben (eigene Eindrücke, offene Fragen)
+- [ ] Anwalt oder Vertrauensperson informieren
+
+*Abbildung 34: Gedächtnisprotokoll-Vorlage*
+
+---
+
+### Einstiegsfragen: Erziehungsberatungsstellen
+
+- „Haben Sie Erfahrung mit Trennungssituationen mit hohem Konfliktniveau?"
+- „Kennen Sie das Konzept des Hochkonflikts in familienrechtlichen Verfahren?"
+- „Wie gehen Sie damit um, wenn ein Elternteil glaubt, dass das Kind instrumentalisiert wird?"
+
+---
