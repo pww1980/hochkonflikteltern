@@ -80,8 +80,7 @@ Manchmal reichen Struktur und guter Wille nicht aus. Wenn ein Elternteil Überga
 
 **Begleitstelle in Betracht ziehen.** In sehr belasteten Situationen gibt es Einrichtungen (z.B. Kinderschutzbund-Übergabestellen, Begleiteter Umgang), die Übergaben in einem sicheren Rahmen ermöglichen. Das ist keine Niederlage – es ist der Schutz des Kindes vor einem Moment, der es jedes Mal erschöpft.
 
-> **[GRAFIK: Eskalationsstufen Übergabe]**
-> *Treppe mit vier Stufen: 1. Strukturierte Übergabe (Standardfall) → 2. Übergabe mit Begleitung → 3. Übergabe an neutralem Ort → 4. Begleiteter Umgang / Begleitstelle. Jede Stufe mit dem Auslöser, der sie notwendig macht.*
+Eine Übersicht der vier Übergabe-Optionen und ihrer Eskalationslogik findet sich in Abbildung 38 (Kapitel 8). Die dort beschriebenen Stufen gelten hier unverändert: von der strukturierten Übergabe ohne Elternkontakt bis zur institutionellen Begleitstelle.
 
 ---
 
@@ -216,6 +215,8 @@ Kurze tägliche Notizen digital; wichtige Dokumente (Screenshots, Fotos von hand
 Ein guter Protokolleintrag enthält:
 
 Kein Kommentar. Kein „Ich fand das..." Keine Wertung. Nur Fakten.
+
+*Diese Vorlage ergänzt das Gedächtnisprotokoll aus Kapitel 7. Das Gedächtnisprotokoll dokumentiert mündliche Gespräche mit Fachkräften — diese Vorlage dokumentiert Alltagsvorfälle, Übergaben und Kommunikation.*
 
 > **[GRAFIK: Protokollvorlage – ausfüllbar]**
 > *Einfaches Formular im Buchformat: die obigen sechs Felder als druckbare Vorlage, eine Seite.*
