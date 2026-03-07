@@ -308,3 +308,50 @@ Ein guter Elternplan ist so detailliert, dass er für die häufigsten Alltagssit
 - Über welchen Kanal?
 
 ---
+
+## Kapitel 9: Strukturen schaffen
+
+### Checkliste: Übergaben
+
+**Vor der Übergabe:**
+- [ ] Rucksack des Kindes vollständig (Medikamente, Schulunterlagen, Lieblingstier)
+- [ ] Eigene emotionale Verfassung kurz prüfen – falls angespannt: Atemübung
+- [ ] Nichts ansprechen, was nicht direkt die Übergabe betrifft
+- [ ] Kind nicht befragen, was beim anderen Elternteil passiert oder erwartet wird
+
+**Bei der Übergabe:**
+- [ ] Pünktlich – nicht zu früh, nicht zu spät
+- [ ] Kein Gespräch mit dem anderen Elternteil, außer bei vorher definiertem Bedarf
+- [ ] Kurzer, ruhiger Abschied – keine emotionale Inszenierung
+- [ ] Kein Kommentar über die bevorstehende Zeit beim anderen Elternteil
+
+---
+
+### Dokumentation: Fünf Kategorien
+
+**Kategorie 1: Übergaben und Betreuungszeiten**
+- Datum, Uhrzeit, Ort der Übergabe
+- Pünktlichkeit (Abweichungen notieren)
+- Zustand des Kindes (Stimmung, Erschöpfung, Auffälligkeiten)
+- Besonderheiten (fehlende Gegenstände, Kommentare des anderen Elternteils)
+
+**Kategorie 2: Kommunikation**
+- Alle E-Mails und Nachrichten werden automatisch archiviert – nichts löschen
+- Bei mündlichen Aussagen (z.B. bei Übergaben): sofort danach kurze Notiz mit Datum, Wortlaut, Zeugen
+
+**Kategorie 3: Aussagen des Kindes**
+- Nur wörtlich, direkt nach der Aussage notieren
+- Datum, Kontext (wo, wann, was vorher passiert ist)
+- Keine Interpretation, keine Wertung
+- Das Kind danach nicht weiter befragen
+
+**Kategorie 4: Institutionelle Kontakte**
+- Jugendamtsgespräche, Beratungsgespräche, Anwaltsgespräche: Datum, Inhalt, Ergebnis, nächste Schritte
+- Gerichtsbeschlüsse, Schriftsätze: alle Originale digital und physisch sichern
+
+**Kategorie 5: Vorfälle**
+- Verstöße gegen Vereinbarungen, Eskalationen, Drohungen: sofort notieren
+- Datum, Uhrzeit, genaue Schilderung, Zeugen falls vorhanden
+- Keine emotionale Formulierung – wie ein Protokoll
+
+---
