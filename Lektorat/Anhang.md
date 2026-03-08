@@ -355,3 +355,32 @@ Ein guter Elternplan ist so detailliert, dass er für die häufigsten Alltagssit
 - Keine emotionale Formulierung – wie ein Protokoll
 
 ---
+
+## Kapitel 10: Das Kind schützen
+
+### Hinweiszeichen: Erhöhter Unterstützungsbedarf beim Kind
+
+> **[INFOBOX: Hinweise auf erhöhten Unterstützungsbedarf beim Kind]**
+>
+> **Körperlich:**
+> - Wiederkehrende Bauchschmerzen, Kopfschmerzen ohne medizinische Ursache
+> - Veränderte Schlafqualität (Einschlafen, Alpträume, Durchschlafen)
+> - Verändertes Essverhalten
+>
+> **Emotional und sozial:**
+> - Anhaltender Rückzug von Freunden und Aktivitäten
+> - Intensive Trennungsangst beim Elternteil
+> - Unerklärliche Wutausbrüche oder tief sitzende Traurigkeit
+> - Aussagen wie „Ich bin an allem schuld" oder „Ich wünschte, ich wäre woanders"
+>
+> **Kognitiv:**
+> - Deutlicher Leistungsabfall in der Schule über mehrere Monate
+> - Konzentrationsschwierigkeiten, die neu auftreten
+>
+> **Verhalten:**
+> - Verstärkte Regressionen (Rückfall in Verhaltensweisen früherer Entwicklungsphasen, z. B. plötzliches Einnässen oder Babysprache)
+> - Auffälliges Vermeiden bestimmter Themen oder Orte
+>
+> Bei mehreren dieser Zeichen über einen längeren Zeitraum: Kinderarzt einbeziehen, Erziehungsberatung kontaktieren, ggf. kinderpsychologische Begleitung anstoßen. Das ist kein Eingeständnis des Scheiterns. Es ist die Reaktion eines aufmerksamen Elternteils.
+
+---
