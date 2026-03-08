@@ -356,6 +356,24 @@ Ein guter Elternplan ist so detailliert, dass er für die häufigsten Alltagssit
 
 ---
 
+## Kapitel 12: Selbstreflexion
+
+### Glossar: Kognitive Verzerrungen im Hochkonflikt
+
+Neben der feindseligen Attribution gibt es weitere kognitive Muster, die unter dauerhaftem Stress auftreten und die eigene Wahrnehmung verzerren können:
+
+**Schwarz-Weiß-Denken:** Der andere Elternteil ist ausschließlich das Problem. Alles, was er tut, ist falsch oder böswillig. Es gibt keine grauen Bereiche. Dieser Modus schützt emotional – aber er verhindert realistische Einschätzung.
+
+**Katastrophisierung:** Jede neue Entwicklung wird als Worst-Case-Szenario interpretiert. Eine verpasste Nachricht bedeutet Verweigerung. Eine geänderte Übergabezeit bedeutet Machtspiel. Das Nervensystem bleibt permanent im Alarmzustand.
+
+**Emotionales Begründen:** Weil man sich so fühlt, muss es so sein. „Ich fühle mich ungerecht behandelt, also werde ich ungerecht behandelt." Gefühle sind real – aber sie sind keine zuverlässige Beschreibung der äußeren Realität.
+
+**Übergeneralisierung:** Ein Vorfall belegt ein generelles Muster. „Das macht er/sie immer." Auch wenn der Vorfall real ist: „immer" ist selten eine genaue Beschreibung.
+
+Diese Muster anzusprechen bedeutet nicht, das eigene Erleben zu entwerten. Es bedeutet, es zu schärfen – damit man in Situationen, die tatsächlich problematisch sind, glaubwürdig und präzise kommunizieren kann.
+
+---
+
 ## Kapitel 11: Selbstfürsorge als Grundlage
 
 ### Checkliste: Geräte und Accounts absichern
