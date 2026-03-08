@@ -356,6 +356,41 @@ Ein guter Elternplan ist so detailliert, dass er für die häufigsten Alltagssit
 
 ---
 
+## Kapitel 11: Selbstfürsorge als Grundlage
+
+### Checkliste: Geräte und Accounts absichern
+
+- [ ] Alle Geräte (Smartphone, Tablet, Laptop) mit Pin oder Passwort gesichert
+- [ ] Gesichtserkennung oder Fingerabdruck deaktiviert, wenn das Kind des anderen Elternteils möglicherweise genutzt werden könnte
+- [ ] Geteilte Kalender oder Familienfreigaben überprüft und ggf. beendet
+- [ ] Gemeinsame Cloud-Dienste (iCloud-Familienfreigabe, Google Family) getrennt
+- [ ] Apple-ID / Google-Konto mit neuem Passwort gesichert
+- [ ] Zugangsdaten zu Schulportalen, Arztportalen und Behörden-Accounts aktualisiert
+
+---
+
+### Anlaufstellen: Unterstützung finden
+
+> **[INFOBOX: Unterstützung finden]**
+
+**Für Eltern:**
+
+- **Bundeskonferenz für Erziehungsberatung (bke)** – Beratungsstellensuche, auch Online-Beratung: [www.bke.de](https://www.bke.de)
+- **DAJEB – Deutsche Arbeitsgemeinschaft für Jugend- und Eheberatung** – überregionale Suche nach Beratungsstellen: [www.dajeb.de](https://www.dajeb.de)
+- **Verband alleinerziehender Mütter und Väter (VAMV)** – Beratung, Selbsthilfe, rechtliche Orientierung: [www.vamv.de](https://www.vamv.de)
+- **Väteraufbruch für Kinder e.V.** – Selbsthilfe und rechtliche Orientierung für Väter: [www.vaeteraufbruch.de](https://www.vaeteraufbruch.de)
+
+**Für Kinder und Jugendliche:**
+
+- **Nummer gegen Kummer (Kinder- und Jugendtelefon):** 116 111 – kostenlos, Mo–Sa 14–20 Uhr
+- **Online-Beratung:** [www.youngavenue.de](https://www.youngavenue.de) | [www.bke-jugendberatung.de](https://www.bke-jugendberatung.de)
+
+**In Krisen:**
+
+- **Telefonseelsorge:** 0800 111 0 111 oder 0800 111 0 222 – kostenlos, 24/7, anonym
+
+---
+
 ## Kapitel 10: Das Kind schützen
 
 ### Hinweiszeichen: Erhöhter Unterstützungsbedarf beim Kind
