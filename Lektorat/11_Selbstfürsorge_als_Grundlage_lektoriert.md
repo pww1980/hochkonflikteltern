@@ -404,6 +404,8 @@ Das Jugendamt ist kein Feind. Es ist ein Teil des Systems – und ein Teil, mit 
 
 - **Telefonseelsorge:** 0800 111 0 111 oder 0800 111 0 222 – kostenlos, 24/7, anonym
 
+*Eine vollständige Übersicht aller Anlaufstellen — auch für Kinder und in akuten Krisen — findet sich in Kapitel 13 und im Anhang.*
+
 ---
 
 ## Teil VI: Warnsignale rechtzeitig erkennen
@@ -412,18 +414,10 @@ Das Jugendamt ist kein Feind. Es ist ein Teil des Systems – und ein Teil, mit 
 
 Burnout in einer Hochkonfliktsituation ist real. Er entwickelt sich schleichend, und genau deshalb wird er oft zu spät erkannt. Man passt sich an. Man normalisiert. Man funktioniert noch, mit immer größerem Aufwand, bis man es plötzlich nicht mehr tut.
 
-Die folgenden Warnsignale zeigen an, dass die eigene Belastungsgrenze erreicht oder überschritten ist:
+Die wichtigsten Warnsignale auf einen Blick — ausführlich erläutert in Kapitel 13.
 
-> **[INFOBOX: Warnsignale – Checkliste]**
->
-> - Anhaltende Schlafstörungen: Einschlafen oder Durchschlafen ist regelmäßig gestört
-> - Sozialer Rückzug: Kontakte werden gemieden oder fallen ohne bewusste Entscheidung weg
-> - Chronische körperliche Erschöpfung ohne erkennbare organische Ursache
-> - Gedanken kreisen dauerhaft nur um den Konflikt – kein Abschalten möglich
-> - Gefühl, keinen Ausweg zu sehen oder dass es nie besser wird
-> - Reizbarkeit dem Kind gegenüber, die nicht proportional zum Anlass ist
-> - Körperliche Symptome: Kopfschmerzen, Magenprobleme, Herzrasen ohne medizinischen Befund
-> - Gefühl der Taubheit oder Gleichgültigkeit – man fühlt kaum noch etwas
+> **[GRAFIK: Warnsignale – Übersicht]**
+> *Kompakte visuelle Übersicht der wichtigsten Warnsignale. Detaillierte Erläuterung aller Zeichen mit konkreten Handlungsschritten in Kapitel 13.*
 
 Wer zwei oder mehr dieser Zeichen bei sich erkennt: Das ist kein Zeichen persönlichen Versagens. Es ist das Signal eines Systems, das zu lange ohne ausreichende Unterstützung gelaufen ist.
 
