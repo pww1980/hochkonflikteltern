@@ -409,6 +409,110 @@ Diese Muster anzusprechen bedeutet nicht, das eigene Erleben zu entwerten. Es be
 
 ---
 
+## Kapitel 13: Krisenzeichen erkennen
+
+### Anlaufstellen: Für Eltern
+
+> **[INFOBOX: Anlaufstellen – Für Eltern]**
+
+**Bundeskonferenz für Erziehungsberatung (bke)**
+Größter bundesweiter Dachverband der Erziehungsberatungsstellen. Beratungsstellensuche nach Postleitzahl, auch Online-Beratung verfügbar.
+[www.bke.de](https://www.bke.de)
+
+**Deutsche Arbeitsgemeinschaft für Jugend- und Eheberatung (DAJEB)**
+Überregionaler Zusammenschluss von Beratungsstellen. Suche nach Fachkräften mit Schwerpunkt Trennung und Scheidung.
+[www.dajeb.de](https://www.dajeb.de)
+
+**Verband alleinerziehender Mütter und Väter (VAMV)**
+Beratung, Selbsthilfegruppen und rechtliche Orientierung speziell für alleinerziehende Eltern. Regional gut vernetzt, bundesweit präsent.
+[www.vamv.de](https://www.vamv.de)
+
+**Väteraufbruch für Kinder e.V.**
+Selbsthilfeorganisation und Beratungsangebot mit Schwerpunkt auf väterlichen Rechten in Trennungssituationen. Gruppen und Ansprechpartner in vielen Bundesländern.
+[www.vaeteraufbruch.de](https://www.vaeteraufbruch.de)
+
+**Interessenverband Unterhalt und Familienrecht (ISUV)**
+Beratung zu Unterhaltsrecht und Familienrecht. Besonders hilfreich bei Fragen zu Unterhaltsberechnungen und Ansprüchen.
+[www.isuv.de](https://www.isuv.de)
+
+---
+
+### Anlaufstellen: Für Kinder und Jugendliche
+
+> **[INFOBOX: Anlaufstellen – Für Kinder und Jugendliche]**
+
+**Nummer gegen Kummer – Kinder- und Jugendtelefon**
+Kostenlos, anonym, bundesweit.
+**116 111** – montags bis samstags, 14 bis 20 Uhr
+Online-Beratung: [www.nummergegenkummer.de](https://www.nummergegenkummer.de)
+
+**bke-Jugendberatung**
+Online-Beratung für Jugendliche ab 14 Jahren durch ausgebildete Fachkräfte.
+[www.bke-jugendberatung.de](https://www.bke-jugendberatung.de)
+
+**YoungAvenue**
+Online-Beratungsplattform für Jugendliche zu Themen wie Familie, Trennung, Konflikte.
+[www.youngavenue.de](https://www.youngavenue.de)
+
+**Schulberatung**
+Schulpsychologen und Beratungslehrer an staatlichen Schulen sind ein oft übersehener niedrigschwelliger Zugang für Kinder, die Unterstützung brauchen – ohne dass ein formeller Antrag nötig ist.
+
+---
+
+### Anlaufstellen: Rechtliche Beratung
+
+> **[INFOBOX: Anlaufstellen – Rechtliche Beratung]**
+
+**Rechtsanwaltskammer (RAK) – Anwaltssuche**
+Jede Landesrechtsanwaltskammer bietet eine Anwaltssuche mit Filtermöglichkeit nach Fachgebiet. Für Hochkonfliktsituationen nach dem Fachanwaltstitel „Familienrecht" suchen – und im Gespräch explizit nach Erfahrung mit hochkonflikthaften Trennungen fragen.
+[www.brak.de](https://www.brak.de/für-verbraucher/anwaltsuche/)
+
+**Verbraucherzentrale – Erstberatung Familienrecht**
+Viele Verbraucherzentralen bieten kostengünstige Erstberatungen durch Fachanwälte an.
+[www.verbraucherzentrale.de](https://www.verbraucherzentrale.de)
+
+**Beratungshilfe**
+Bei geringem Einkommen kann beim zuständigen Amtsgericht ein Beratungsschein (Beratungshilfe) beantragt werden. Damit ist anwaltliche Beratung für einen geringen Eigenanteil möglich.
+
+**Prozesskostenhilfe**
+Für Gerichtsverfahren kann bei Bedürftigkeit Prozesskostenhilfe (PKH) beim Familiengericht beantragt werden. Der Antrag kann durch den eigenen Anwalt gestellt werden.
+
+---
+
+### Anlaufstellen: Spezialisierte Beratung bei Hochkonflikt-Themen
+
+> **[INFOBOX: Spezialisierte Anlaufstellen]**
+
+**Institut für Familienmediation und Konfliktlösung**
+Anbieter von Familienmediation mit Spezialisierung auf Trennungskonflikte. Mediation im Hochkonflikt hat Grenzen – aber es gibt spezialisierte Mediatoren, die mit einer Seite arbeiten (Co-Mediation) oder als Shuttle-Mediatoren funktionieren, ohne dass beide Elternteile gleichzeitig anwesend sind.
+
+**Cochemer Modell / Interdisziplinäre Fachkräfte**
+Das „Cochemer Modell" ist ein kooperativer Ansatz verschiedener Fachkräfte (Gericht, Jugendamt, Beratung, Anwälte), der in einigen Regionen praktiziert wird. Informationen beim zuständigen Jugendamt erfragen.
+
+**Verfahrensbeistände**
+Ein Verfahrensbeistand (§ 158 FamFG) wird in familiengerichtlichen Verfahren vom Gericht bestellt, um die Interessen des Kindes zu vertreten. Er ist nicht identisch mit dem Anwalt der Eltern – er ist unabhängig. Bei der Auswahl durch das Gericht kann man Wünsche bezüglich der Qualifikation äußern.
+
+---
+
+### Anlaufstellen: Akute Krise – Sofortkontakte
+
+> **[INFOBOX: Akute Krise – Sofortkontakte]**
+
+**Telefonseelsorge**
+Kostenlos · anonym · 24 Stunden täglich · 365 Tage im Jahr
+**0800 111 0 111** (evangelisch)
+**0800 111 0 222** (katholisch)
+Beide Nummern sind offen für alle – unabhängig von Konfession oder Weltanschauung.
+Online-Beratung: [www.onlineberatung-telefonseelsorge.de](https://www.onlineberatung-telefonseelsorge.de)
+
+**Psychiatrische Notaufnahme**
+Bei akuter Selbstgefährdung oder vollständiger Handlungsunfähigkeit: nächste psychiatrische Notaufnahme aufsuchen oder Notruf **112** wählen. Keine Überweisung nötig, kein Termin nötig.
+
+**Krisentelefon der Deutschen Gesellschaft für Suizidprävention**
+[www.suizidprophylaxe.de/hilfsangebote](https://www.suizidprophylaxe.de/hilfsangebote) – Übersicht regionaler Krisentelefone nach Bundesland.
+
+---
+
 ## Kapitel 10: Das Kind schützen
 
 ### Hinweiszeichen: Erhöhter Unterstützungsbedarf beim Kind
