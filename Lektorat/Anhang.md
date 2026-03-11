@@ -513,6 +513,69 @@ Bei akuter Selbstgefährdung oder vollständiger Handlungsunfähigkeit: nächste
 
 ---
 
+## Kapitel 14: Die vier Phasen
+
+### Handlungsfokus: Phase 1 – Akutkonflikt
+
+**Sofort beginnen:**
+- Einen Anwalt mit Hochkonflikt-Erfahrung konsultieren – nicht irgendwann, sondern in den ersten Wochen
+- Dokumentation aufbauen: Datum, Uhrzeit, Ereignis, Reaktion, Zeugen – sachlich, ohne Wertung
+- Kommunikation schriftlich und auf einen Kanal beschränken (E-Mail bevorzugt)
+- Klare schriftliche Vereinbarungen anstreben: Umgangsregelung, vorläufige Sorgerechtsabsprachen
+
+**Konsequent unterlassen:**
+- Keine Aussagen, die vor Gericht erscheinen könnten, ohne vorherige Rücksprache mit dem Anwalt
+- Keine Reaktionen auf Provokationen, die primär Emotionen ausdrücken
+- Kein direkter Austausch über schwierige Themen – alles schriftlich
+- Keine Einbeziehung des Kindes in Informationen über den Konflikt
+
+**Für sich selbst:**
+- Eigene Unterstützung organisieren: Therapie, Beratungsstelle, Vertrauenspersonen
+- Schlaf und Grundbedürfnisse schützen, so gut es geht
+- Entscheidungen, die nicht sofort getroffen werden müssen, vertagen
+
+---
+
+### Handlungsfokus: Phase 2 – Chronifizierung
+
+**Strukturen festigen:**
+- Parallel Parenting konsequent und dauerhaft etablieren
+- Kommunikationskanal auf E-Mail beschränken, Antwortfenster halten
+- Gerichtsbeschlüsse vollständig dokumentiert aufbewahren und konsequent einhalten
+- Dokumentation systematisch weiterführen – nicht als Sammelstrategie, sondern als Schutz
+
+**Kind aktiv stärken:**
+- Therapeutische Begleitung des Kindes prüfen – nicht erst wenn Auffälligkeiten erkennbar sind
+- Regelmäßige, ehrliche Selbstchecks (Kapitel 12) zu Einbeziehung und Loyalitätsdruck
+- Stabile Routinen im eigenen Haushalt aufrechterhalten
+
+**Für sich selbst:**
+- Eigene Therapie oder Beratung fortführen
+- Soziales Leben und eigene Interessen aktiv pflegen
+- Die 5-Jahres-Frage vor jeder Reaktion stellen: Wird das in fünf Jahren noch wichtig sein?
+
+---
+
+### Handlungsfokus: Phase 3 – Stabilisierung
+
+**Grauzonen schließen:**
+- Regelungen, die noch vage sind, durch klare Absprachen oder Gerichtsbeschlüsse präzisieren
+- Keine Grauzonen entstehen lassen, die als Eskalationshebel genutzt werden können
+
+**Direktkontakt weiter reduzieren:**
+- Das Kind zunehmend als eigene Kommunikationsinstanz akzeptieren
+- Elternteil-zu-Elternteil-Austausch auf das strukturelle Minimum beschränken
+
+**Eigene Dokumentation gepflegt halten:**
+- Weiter systematisch, aber ohne die Intensität von Phase 1
+- Schwerpunkt: Verstöße gegen Gerichtsbeschlüsse, Auffälligkeiten beim Kind
+
+**Eigenes Leben konsolidieren:**
+- Phase 3 ist die erste Phase, in der echter Aufbau möglich wird: neue Beziehungen, berufliche Entwicklung, soziale Einbettung
+- Diese Entwicklung ist kein Verrat am Kind – sie ist Stabilisierung des Elternteils, von der das Kind direkt profitiert
+
+---
+
 ## Kapitel 10: Das Kind schützen
 
 ### Hinweiszeichen: Erhöhter Unterstützungsbedarf beim Kind
