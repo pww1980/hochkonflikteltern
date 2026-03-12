@@ -671,3 +671,41 @@ Dann wende dich an:
 Es ist besser, einen Verdacht zu melden, der sich nicht bestätigt, als einen zu verschweigen, der sich bestätigt hätte.
 
 ---
+
+## Kapitel 1: DSM-5 Diagnosekriterien
+
+### Narzisstische Persönlichkeitsstörung (NPS)
+
+**Diagnostische Kernmerkmale (DSM-5):**
+
+- Grandioses Selbstgefühl: übertriebene Vorstellungen von der eigenen Bedeutsamkeit, Talenten, Errungenschaften
+- Fantasien von grenzenlosem Erfolg, Macht, Brillanz, Schönheit oder idealer Liebe
+- Überzeugung, besonders und einzigartig zu sein, nur von anderen besonderen Menschen verstanden werden zu können
+- Verlangen nach übermäßiger Bewunderung
+- Anspruchsdenken: Erwartung bevorzugter Behandlung ohne entsprechende Gegenleistung
+- Ausbeutung zwischenmenschlicher Beziehungen
+- Mangel an Empathie: Unfähigkeit oder Unwilligkeit, Gefühle und Bedürfnisse anderer anzuerkennen
+- Neid auf andere oder Überzeugung, von anderen beneidet zu werden
+- Arrogantes, hochmütiges Verhalten
+
+Für die Diagnose müssen mindestens fünf dieser neun Kriterien erfüllt sein, und sie müssen über verschiedene Lebensbereiche hinweg stabil auftreten.
+
+---
+
+### Borderline-Persönlichkeitsstörung (BPS)
+
+**Diagnostische Kernmerkmale (DSM-5):**
+
+- Verzweifeltes Bemühen, tatsächliches oder vermutetes Verlassenwerden zu verhindern
+- Ein Muster instabiler, intensiver zwischenmenschlicher Beziehungen, das zwischen Idealisierung und Entwertung wechselt (**„Splitting"**)
+- Identitätsstörung: ausgeprägte Instabilität des Selbstbilds
+- Impulsivität in mindestens zwei potenziell selbstschädigenden Bereichen
+- Wiederkehrende Suizidgedanken, -drohungen oder -versuche, oder selbstverletzendes Verhalten
+- Affektive Instabilität: Stimmungsschwankungen von wenigen Stunden Dauer
+- Chronisches Gefühl der Leere
+- Unangemessene, intensive Wut oder Schwierigkeiten, Wut zu kontrollieren
+- Vorübergehende, stressabhängige paranoide Vorstellungen oder dissoziative Symptome
+
+Für die Diagnose müssen mindestens fünf dieser neun Kriterien erfüllt sein, und sie müssen über verschiedene Lebensbereiche hinweg stabil und situationsübergreifend auftreten.
+
+---
