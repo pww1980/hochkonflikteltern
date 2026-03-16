@@ -68,13 +68,7 @@
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
-    <url>
-        <loc>https://hochkonflikteltern.de/contact.php</loc>
-        <lastmod>2026-02-21</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.4</priority>
-    </url>
 
-    <!-- Impressum und Datenschutz sind noindex und werden hier nicht aufgeführt -->
+    <!-- Impressum, Datenschutz und Kontakt sind noindex und werden hier nicht aufgeführt -->
 
 </urlset>

@@ -6,6 +6,7 @@ $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
 $current_page = 'contact';
 $title        = 'Kontakt | Hochkonflikt Eltern';
 $description  = 'Schreiben Sie uns – Fragen, Feedback oder Anregungen zum Hochkonflikt-Eltern-Leitfaden sind herzlich willkommen.';
+$robots       = 'noindex, nofollow';
 ?>
 <!DOCTYPE html>
 <html lang="de">
